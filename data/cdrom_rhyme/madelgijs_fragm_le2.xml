@@ -1,0 +1,705 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.transcr 'INCLUDE'> <!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'>]><TEI.2><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Madelgijs</title>
+<author>Onbekend</author>
+</titleStmt>
+<editionStmt>
+<edition>R.W.TH. Duijvestein (ed.): Madelgijs. De Middelnederlandse fragmenten en de overeenkomstige Hoogduitse verzen. Brussel, 1989. (Verhandelingen van de Koninklijke Academie voor Wetenschappen, Letteren en Schone Kunsten van Belgi&#x00EB;. Klasse der Letteren 51, nr. 130), 133-140 en 160-168.</edition>
+</editionStmt>
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<listBibl id="inlMetadata">
+<bibl><interpGrp type="titleLevel1">
+<interp value="Madelgijs"/>
+</interpGrp><interpGrp type="medium">
+<interp value="book"/>
+</interpGrp><interpGrp type="authorLevel1">
+<interp value="Onbekend"/>
+</interpGrp>
+<interpGrp type="ipr">
+<interp value="online"/>
+</interpGrp><interpGrp type="corpusProvenance">
+<interp value="cdrom-mnl"/>
+</interpGrp>
+<interpGrp type="pubYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+</bibl>
+</listBibl>
+<bibl id="original-metadata-cdrom-version"><![CDATA[
+<TITEL>Madelgijs</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K76">Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 202 (fragm.)</BRON>
+<DATUM>1350-1400</DATUM>
+<OMVANG>574 verzen</OMVANG>
+<BRON.OPM>Twee dubbelbladen, die vroeger van verschillende katernen deel uitmaakten en thans in elkaar liggen, bifolium 1 + 2 als buitenste, bifolium 3 + 4 als binnenste dubbelblad, met elk resp. 280 en 294 verzen. Per bladzijde 2 kolommen en oorspronkelijk per kolom waarschijnlijk 40 regels. De bladen zijn met tekstverlies besnoeid (een kolom telt nog 35-37 regels). Te oordelen naar de inhoud was bifolium 1 + 2 het binnenste dubbelblad van een katern en heeft bifolium 3 + 4 tot een ander katern behoord.</BRON.OPM>
+<VERWIJZING>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 203 (fragm.)</VERWIJZING>
+<EDITIE>R.W.TH. Duijvestein (ed.): Madelgijs. De Middelnederlandse fragmenten en de overeenkomstige Hoogduitse verzen. Brussel, 1989. (Verhandelingen van de Koninklijke Academie voor Wetenschappen, Letteren en Schone Kunsten van Belgi&#x00EB;. Klasse der Letteren 51, nr. 130), 133-140 en 160-168.</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<BRONMNW>869.4 (andere editie)</BRONMNW>
+<BRONMNW>869.7 (andere editie)</BRONMNW>
+<BRONMNW>869.8 (andere editie)</BRONMNW>
+<EDITIE.OPM>Duijvestijn geeft, parallel aan de tekst van de fragmenten, ook de tekst van de Middelhoogduitse vertaling (Malagis in hs. Heidelberg, Universit&#x00E4;tsbibliothek, Pal. germ. 340).</EDITIE.OPM>
+<BRONNEN>Van de Madelgijs bestaan een oudere en een jongere, meer uitgebreide versie. De kortere versie is volledig overgeleverd in een bijna woordelijke vertaling in het Middelhoogduits. De langere versie is bekend uit een Nederlandse prozabewerking (Historie van Malegijs). Drie fragmenten vertegenwoordigen de lange versie: - <x nr=K80>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 203 (fragm.)</x>
+ - <x nr=K81>Leiden, Bibliotheek der Rijksuniversiteit, B.P.L. 2552,34 (fragm.)</x>
+ - <x nr=K82>Antwerpen, Stadsbibliotheek, 500.694 (fragm.)</x>
+ De overige fragmenten vertegenwoordigen de korte versie. Van in totaal 9 hss. zijn er fragmenten overgeleverd:  Hs. I: - <x nr=K80>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 203 (fragm.)</x>
+ - <x nr=K76>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 202 (fragm.)</x>
+ Hs. II: - <x nr=K70>Neurenberg, Bibliothek des Germanischen Nationalmuseums, 42584 (fragm.)</x>
+ - <x nr=K75>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 201 (fragm.)</x>
+ Hs. III: - <x nr=K82>Antwerpen, Stadsbibliotheek, 500.694 (fragm.)</x>
+ Hs. IV: - <x nr=K72>Rotterdam, Gemeentebibliotheek, 96 C 4 (fragm.)</x>
+ - <x nr=K77>D&#x00FC;sseldorf, Universit&#x00E4;tsbibliothek, Dauerleihgabe der Stadt D&#x00FC;sseldorf, K 2: F 45 (fragm.)</x>
+ Hs. V: - <x nr=K79>Gent, Bibliotheek der Rijksuniversiteit, 1618 (fragm.)</x>
+ Hs. VI: - <x nr=K71>Gent, Bibliotheek der Rijksuniversiteit, 1651 (fragm.)</x>
+ Hs. VII: - <x nr=K78>Londen, British Library, Add. 35251,k (fragm.)</x>
+ Hs. VIII: - <x nr=K74>Parijs, Biblioth&#x00E8;que Nationale, n&#x00E9;erl. 119 (fragm.)</x>
+ Hs. IX: - <x nr=K73>Berlijn, Staatsbibliothek Preussischer Kulturbesitz, Germ. fol. 923,47 (fragm.)</x>
+ Hs. X: - <x nr=K81>Leiden, Bibliotheek der Rijksuniversiteit, B.P.L. 2552,34 (fragm.)</x>
+</BRONNEN>
+<HSDRUK>Historie van Malegijs</HSDRUK>
+]]></bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body><l>Bifolium 1</l>
+<l><pb n="133"/><milestone unit="fol" n="1ra"/> Dat hi was in ene laghe</l>
+<l>Geuangen al onuorsien</l>
+<l>Daer hi uoer met ridders drien</l>
+<l>Jagen in I foreest</l>
+<l n="5">Wast in sconinx here verheest</l>
+<l>Ende als hi hadde geiaget</l>
+<l>Was hi geuaen ende geplaget</l>
+<l>Nv heuet die coninc gezworen</l>
+<l>Bi siere crone alte uoren</l>
+<l n="10">Dat hi hangen sal den degen</l>
+<l>Maer de princen sijnre iegen</l>
+<l>Roelant sire suster kijnt</l>
+<l>Heift den hertoge oyt gemint</l>
+<l>Maer wiste karel van parijs</l>
+<l n="15">Dat ghi here madelgijs</l>
+<l>Shertogen zone waerd</l>
+<l>De hertoge ware noch mee verzwaert</l>
+<l>Dies bem ic te uoren wijs</l>
+<l>Nv reden wi ons sprac madelgijs</l>
+<l n="20">God die van watre maecte wijn</l>
+<l>Moete in onse ilede sijn</l>
+<l>Amen sprac viuien</l>
+<l>Daer mocht men menigen halsberch zien</l>
+<l>Ende scilden reken vort</l>
+<l n="25">Want al tcommun vander port</l>
+<l>Wapendem ende was in roere</l>
+<l>Biden gebode der vrouwe van roesefloere</l>
+<l>Die men hiet oriande</l>
+<l>Soe sende bin haren lande</l>
+<l n="30">Om socoers verre ende naer</l>
+<l>Cortelike was vergadert daer</l>
+<l>Meer dan XX<hi rend='sup'>m</hi> man</l>
+<l><pb n="134"/>Die alle hadden halsberch an</l>
+<l>Madelgijs nam orlof die here</l>
+<l n="35">An orianden soe weende zere</l>
+<l><milestone unit="fol" n="1rb"/> [...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>Das sijn de here[n] vp[ge....]</l>
+<l>Meester yuerd ende balda[r..]</l>
+<l>Viuien ende madelgijs</l>
+<l>Reden voren ende dande[r ...]</l>
+<l n="40">Alstie gerne waren [d...]</l>
+<l>Ende haren vader scou[...]</l>
+<l>Die geuaen lach met[.....]</l>
+<l>Beyaerd constem niet bed[w.....]</l>
+<l>Hine ginc emmer vast[e ......]</l>
+<l n="45">So dat madelgijs die here</l>
+<l>Vijf milen voren was[.....]</l>
+<l>Bin enen dage uor re[...]</l>
+<l>Viuien quam met hae[........]</l>
+<l>Als hi best mochte [na..]</l>
+<l n="50">Vijf milen vor there d[a..]</l>
+<l>So was viuien de ridder[...]</l>
+<l>Baldarijs ende yuerd bleu[e...]</l>
+<l>Den here van roeceflo[..]</l>
+<l>Ende madelgijs voren voer</l>
+<l n="55">So verre dat hi heift vern[....]</l>
+<l>Dat hi bi moncleir e[......]</l>
+<l>There lach al omme de [s.....]</l>
+<l>Madelgijs beette sonder beide</l>
+<l>Als die van ridene wa[s....]</l>
+<l n="60">Ende hilt hem in sine[....]</l>
+<l>Dien dach aldurent[u..]</l>
+<l>Als het was nacht t[....]</l>
+<l>So quam viuien gereid[..]</l>
+<l>Met sporen met groter h[........]</l>
+<l n="65">Ende vant sinen broed[..]</l>
+<l><pb n="135"/>Hi bete neder dit es [........]</l>
+<l>Van den zwete droged[......]</l>
+<l>Madelgijs seide horstuut b[....]</l>
+<l>Jn deser nacht si mi [........]</l>
+<l n="70">Ende laet mi dine coe[........]</l>
+<l><milestone unit="fol" n="1va"/> [...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[........]t th[er]e es comen an</l>
+<l>[........]es sijt wijs</l>
+<l>[........e]en pongijs</l>
+<l>[........e]s so snel</l>
+<l n="75">[.........]len ontriden wel</l>
+<l>[.........] in de stede</l>
+<l>[.........v]iuien ende seide</l>
+<l>[........]h nv bem ic vroeder</l>
+<l>[.........] qualike getrout broeder</l>
+<l n="80">[........n]der miwilt riden</l>
+<l>[........]esciet ic sal beziden</l>
+<l>[.........] de bataelge</l>
+<l>[.........n]iet van den liue faelgen</l>
+<l>[.........a]lse ghi</l>
+<l>85[ [........]verwitet mi</l>
+<l>[.........y]aerd sine cracht</l>
+<l>[........]ijnt niet geacht</l>
+<l>[.........]sonder blijf</l>
+<l>[......... t]ont nemen tlijf</l>
+<l n="90">[......... a]nt met uwen brande</l>
+<l>[......... g]ebreke aerme ende hande</l>
+<l>[........]se uele als ghi</l>
+<l>[........] jane si di</l>
+<l>[........]ouder dan ic mach sijn</l>
+<l n="95">[........]mere I litelkijn</l>
+<l>[.......]eder dan ghi sijt</l>
+<l>[.......]ren in den strijt</l>
+<l>[.........m]ogen sien</l>
+<l>[.........s] beden eerst sal vlien</l>
+<l n="100">[........] madelgijs dat si</l>
+<l>[........]uoren nu uolget mi</l>
+<l>[........] de ic sal</l>
+<l><pb n="136"/>[........] he[m] god goet geual</l>
+<l>[.........e]stonden I grot wonder</l>
+<l n="105">[........] was lange onder</l>
+<l><milestone unit="fol" n="1vb"/> [...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>Of daer hondert orsse waren</l>
+<l>So sere donderde sijn loop</l>
+<l>Madelgijs slouch in den hoop</l>
+<l>Die daer daden die scilt wachte</l>
+<l n="110">Beyaerd beet voren ende slouch bachten</l>
+<l>Dat si van den passe vlien</l>
+<l>Met enen huwe quam viuien</l>
+<l>Al baer getruct sijn zwerd</l>
+<l>Hi slouch doot dat hi begherd</l>
+<l n="115">Bede paert ende man</l>
+<l>Madelgijs reet voren ende viuien an</l>
+<l>Dat al gont here in roere ward</l>
+<l>Si riepen alle I paert zwart</l>
+<l>Ende I viant diere vp sit</l>
+<l n="120">Die doet al gader dit</l>
+<l>Dat paert slacht den duuel wel</l>
+<l>So grot so starc ende so fel</l>
+<l>Quam noit geen in dit lant</l>
+<l>Sine ogen blaken als I brant</l>
+<l n="125">Het slaet bede ende bijt</l>
+<l>Siet hoe hi there dor rijt</l>
+<l>Dat wijs alle hebben lachter</l>
+<l>Doe sprac I ander die gonder achter</l>
+<l>Comt es noch uele felre</l>
+<l n="130">Doe sprac daer I ic wilden wi elre</l>
+<l>Waren eer si ons scenden</l>
+<l>Hem ne dorste niemen ghe enden</l>
+<l>Si uloen ende lieten hem hebben tfelt</l>
+<l>Deise niemare quam int getelt</l>
+<l n="135">Daer karel die coninc in lach</l>
+<l>Nv hort was madelgijs plach</l>
+<l>Hi sach gonder ene kerre</l>
+<l><pb n="137"/>Met wine geladen den vranken verre</l>
+<l>Beyaerde hi der in spien</l>
+<l n="140">Dee cam totem viuien</l>
+<l><milestone unit="fol" n="2ra"/> [...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>Of hem iemen volgede naer</l>
+<l>Dat bi bescud doen mochte</l>
+<l>Madelgijs die wijn brochte</l>
+<l>Jn die stat des waren si blide</l>
+<l n="145">De coninc was drouue of ander zide</l>
+<l><hi rend="bold">H</hi>j seide wat sal dit sijn</l>
+<l>Sal men dus onsen wijn</l>
+<l>Nemen vor onsen ogen</l>
+<l>Het es scande dat wijt gedogen</l>
+<l n="150">Dee sprac dunamel van bayuier</l>
+<l>Here coninc alle die sijn hier</l>
+<l>Diene haddent gene macht</l>
+<l>Te beweerne met hare cracht</l>
+<l>Haddi gesien dat zwarte paert</l>
+<l n="155">Here coninc ghi hat uervaert</l>
+<l>Alse wel geweist als die hier sijn</l>
+<l>Ende hat gelaten vwen wijn</l>
+<l>Ontuoeren nemmer vwen danc</l>
+<l>Die coninc seide so waric cranc</l>
+<l n="160">Soudic dat hebben ghesien</l>
+<l>Ende als hi tpaert in spien</l>
+<l>Mochtemenne zaen hebben onteert</l>
+<l>Ja here hat niemene beweert</l>
+<l>Maer daer was mede I felloen</l>
+<l n="165">Machtich zere in sijn doen</l>
+<l>Noit ne sachic genen so fel</l>
+<l>Tzwarte paert es so snel</l>
+<l>Dat het scrijt sonder wanc</l>
+<l>Tere scerde XX uoeten lanc</l>
+<l n="170">So doet het XXX of te mere</l>
+<l>Het es so lanc coninc here</l>
+<l>Datter up souden sitten bi sente ihan</l>
+<l>Vier ridders ende hare wapine an</l>
+<l>Sine ogen blaken als I brant</l>
+<l n="175">Sine gelike noit man vant</l>
+<l><pb n="138"/><milestone unit="fol" n="2rb"/> [...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>Doe sprac karel die rike here</l>
+<l>Mi dijnct hier es menich uervaer[t]</l>
+<l>Een paert nes waer I paert</l>
+<l>Na uwer tale dijnke mien</l>
+<l n="180">Souden wi up breken ende vlien</l>
+<l>Maer dit es al gader droom</l>
+<l>Roelant seide hordijt hoom</l>
+<l>Of ghi niet gelouet die zede</l>
+<l>Van den paerde entie waerhede</l>
+<l n="185">So weiten ombeiden strijts</l>
+<l>Ende eist dattu voren sijts</l>
+<l>Wi sullen v alle uolgen achter</l>
+<l>Maer alle scande ende allen lachter</l>
+<l>Moet hi hebben die eerst sal vlien</l>
+<l n="190">Here coninc dan sal men sien</l>
+<l>Vwe grote coenheide</l>
+<l>Vechti uoren wi uechten mede</l>
+<l>Maer bi gode coninc vri</l>
+<l>Vliedi voren so vlien wi</l>
+<l n="195">Dat segic v metter vaerd</l>
+<l>Sagedi tors tfelle paert</l>
+<l>Vwe tale ware al niet</l>
+<l>Vliedi voren wine uechter niet</l>
+<l><hi rend="bold">D</hi>oe sprac karel die coninc stout</l>
+<l n="200">Mi dijnct hier nes mi niem[en....]</l>
+<l>Si vloen alle wist si waer</l>
+<l>Jc hebbe hier gelegen menich i[a..]</l>
+<l>Soudic nv trecken achter waerd</l>
+<l>Dor enen ridder dor een paert</l>
+<l n="205">Dat ware mi al te zwaer</l>
+<l>Roelant sprac al deise iaer</l>
+<l>Die ghi hier hebt gelegen</l>
+<l>Jegen den graue den coenen deigen</l>
+<l>Wat hebdire gewonnen an</l>
+<l n="210">De graue es emmer I goet man</l>
+<l><milestone unit="fol" n="2va"/> [...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><pb n="139"/>[...............]</l>
+<l>[...............]</l>
+<l>Bi den vader die mi gewan</l>
+<l>Coninc ic sout litel clagen</l>
+<l>Al haddijs lachter omme dagen</l>
+<l>Ende hets zonde diet wille merken</l>
+<l n="215">Dat wi v onrecht helpen sterken</l>
+<l><hi rend="bold">D</hi>oe wart karel gram sere</l>
+<l>Ende zwoer bi gode onsen here</l>
+<l>Hine trake nemmermee achter waert</l>
+<l>Hine soude den ridder ende sijn paert</l>
+<l n="220">Bescouwen int striden</l>
+<l>Ende selue iegen hem riden</l>
+<l>Roelant seide hets mi lief</l>
+<l>Maer coninc comter v of grief</l>
+<l>Dat comt bi v seluen wale</l>
+<l n="225">Nv keric te moncleir in de zale</l>
+<l>Toten here madelgise</l>
+<l>Ende tote viuiene goet van prise</l>
+<l>Die eerlike waren ontfaen</l>
+<l>Ende alstie graue hadde verstaan</l>
+<l n="230">Dat het waren sire suster kijnder</l>
+<l>Was bliscap ende feeste ginder</l>
+<l>Bede van dranke ende van ate</l>
+<l>Maer de graue was utermaten</l>
+<l>Drouue om de suster sine</l>
+<l n="235">Dat soe van den coninc yuorine</l>
+<l>Geleit was in s0 zwaer dogen</l>
+<l>Hine dorst niet leggen vor ogen</l>
+<l>Van sire suster sonder sparen</l>
+<l>Om dat si hem souden ontuaren</l>
+<l n="240">Maer hi maecten beden cont</l>
+<l>Dattie hertoge bueve van eggermont</l>
+<l>Haer leder vader was geuaen</l>
+<l>Madelgijs seide hi sal ontgaen</l>
+<l>Nemmer moets karel hebben danc</l>
+<l n="245">Want ickene up I tijt so dwanc</l>
+<l><milestone unit="fol" n="2vb"/> [...............]</l>
+<l>[...............]</l>
+<l><pb n="140"/>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>Ay of karel wiste dat ghi waert hier</l>
+<l>Torloge ware ons na leden</l>
+<l>Menich iaer hebwi gestreden</l>
+<l>Ende al was het dor dit doen</l>
+<l n="250">Hine hadde up mi ander ocusoen</l>
+<l>Dan dat yuerd daer was mede</l>
+<l>Madelgijs sprac ende seide</l>
+<l>Here hoom nv sijt te ghemake</l>
+<l>Van deiser orloge bem ic zake</l>
+<l n="255">Ende ic salt karle doen ontgelden</l>
+<l>Datti hier achter velden</l>
+<l>Heift gelegen so menich iaer</l>
+<l>Met dijngen die hem so naer</l>
+<l>Sullen gaen hi wert gescent</l>
+<l n="260">Ende torloge wert ghe ent</l>
+<l>Bede met vroescepen ende met crachten</l>
+<l>Nv doet ons ten tinne wachten</l>
+<l>Onse here alst naect der stede</l>
+<l>Yuerd mijn oom comter mede</l>
+<l n="265">Ende van roecefloer baldarijs</l>
+<l>Jc hope an gode wi sullen prijs</l>
+<l>Beiagen in corter tijt</l>
+<l>Wille ons die coninc leuren strijt</l>
+<l>Jc maker in sulken scart</l>
+<l n="270">Jc ende mijn ors beyart</l>
+<l>Dat wi haer ouermoet sullen stelpen</l>
+<l>Viuien mijn broeder sal mi helpen</l>
+<l>Want hi cant wel utermaten</l>
+<l>Viuien sprac of ict sal laten</l>
+<l n="275">So moete mi god onteren</l>
+<l>Doe was ten tinne versien dat here</l>
+<l>Comende wel gebatelgiert</l>
+<l>Madelgijs niet ne viert</l>
+<l>Hi wapendem ende sat ter vaerd</l>
+<l n="280">Vp dat rike ors beyart</l>
+<l>Bifolium 2</l>
+<l><pb n="160"/><milestone unit="fol" n="1ra"/> [S]pyet [se]ide a[l b]emic smal</l>
+<l><hi rend="bold">I</hi>c sal v sciere matteren</l>
+<l>Bider hulpe gods ons heren</l>
+<l>Ende v geuen sulke smeten</l>
+<l n="5">Ghi sult v seluen al uergeiten</l>
+<l>Ende vrient ende maech</l>
+<l>Cresseus die grot was ende niet traech</l>
+<l>Ginc te spyette waerd</l>
+<l>Ende spyet trac achter waerd</l>
+<l n="10">Ende liep nv hier ende nv daer</l>
+<l>Wat mamet gheue v I quaet iaer</l>
+<l>Sprac cresseus onsalich wicht</l>
+<l>Dat ghi sijt aldus licht</l>
+<l><hi rend="bold">A</hi>ls ic di wane slaen</l>
+<l n="15">Bestu mi wel sciere ontgaen</l>
+<l>Ende ontlopen ende onthubbelt</l>
+<l>Eer ghi mi nochtan ondrubbelt</l>
+<l>Sal het v costen tlijf</l>
+<l>Ja v uul keytijf</l>
+<l n="20">Sprac spyet de degen snel</l>
+<l>Cresseus de ruese fel</l>
+<l>Liep na spyette hier ende daer</l>
+<l>Maer spyet hadde clenen vaer</l>
+<l>Dat hine achter halen soude</l>
+<l n="25">Tachterst uel cresseus ter moude</l>
+<l>So onsochte ouer enen steen</l>
+<l><pb n="161"/>Datti brac sijn rechter been</l>
+<l><hi rend="bold">D</hi>oe hi dus ter erde lach</l>
+<l>Riep hi lude o wy o wach</l>
+<l n="30">Nu hebic mijn been te broken</l>
+<l>Nemmermeer werdic gewroken</l>
+<l>Dat heift mi gedaen dit wicht</l>
+<l>Mi wondert zere wie dat dus licht</l>
+<l>Heift gemaect up sinen spronc</l>
+<l n="35">Het es recht I duuels ionc</l>
+<l><hi rend="bold">D</hi>oe liep spyet vor hem staan</l>
+<l>[En]de [seide ruese ghi hebt vulgae]n</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="1rb"/> [S]pyet lie[p.......]</l>
+<l>Ende stac[........]</l>
+<l n="40">Ende seide[........]</l>
+<l>Wat ic g[i........]</l>
+<l>Mogestu[..........]</l>
+<l>So suldi[.........]</l>
+<l>Doe slouc[.........]</l>
+<l n="45">Van grote[.........]</l>
+<l>Ende trac[..........]</l>
+<l><hi rend="bold">D</hi>oe sei[d ........]</l>
+<l>Ghi s[.........]</l>
+<l>Helpe qu[..........]</l>
+<l n="50">Dat ghi[..........]</l>
+<l>Mite tog[..........]</l>
+<l>Dies mo[e..........]</l>
+<l>Datti geh[.........]</l>
+<l>Swijch s[p..........]</l>
+<l n="55">Wat mac[...........]</l>
+<l>De ruese [..........]</l>
+<l>Als ic hier[.........]</l>
+<l>Newas[n..........]</l>
+<l>Noch so gr[..........]</l>
+<l n="60">Noch so ey[d........]</l>
+<l>Ende ic be[m........]</l>
+<l>Spyet spr[..........]</l>
+<l>Vwe eyde[l..........]</l>
+<l>Dat ghi[...........]</l>
+<l n="65">Die van[...........]</l>
+<l><pb n="162"/>Dus es vwe[.........]</l>
+<l>Ende sijt re[........]</l>
+<l>Jc sal in[..........]</l>
+<l>V lijf neme[n ........]</l>
+<l n="70">Spyet kee[..........]</l>
+<l>Ende sprac d[.........]</l>
+<l>God here b[.........]</l>
+<l><hi rend="bold">D</hi>aer de z[.........]</l>
+<l>[Die al ..........]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="1va"/> [...............]er</l>
+<l>[...............]</l>
+<l>[...............]ht</l>
+<l>[..............e]t</l>
+<l>[..............n]get</l>
+<l n="80">[..............j]n</l>
+<l>[...............]</l>
+<l>[..............f]</l>
+<l>[...............]wijf</l>
+<l>[..............e]t</l>
+<l n="85">[..............e]n doet</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]llen</l>
+<l n="90">[..............d]er</l>
+<l>[..............d]er</l>
+<l>[...............]</l>
+<l>[..............t]</l>
+<l n="95">[...............]</l>
+<l>[...............] neder</l>
+<l>[..............e]der</l>
+<l>[..............h]t</l>
+<l>[..............]vercracht</l>
+<l n="100">[..............e]t</l>
+<l>[..............b]loet</l>
+<l>[...............]</l>
+<l>[..............e]n wi</l>
+<l>[..............h]te gescien</l>
+<l n="105">[..............]ode vorsien</l>
+<l>[..............a]n</l>
+<l>[..............e] felle man</l>
+<l><pb n="163"/>[...............]en</l>
+<l>[..............n]</l>
+<l n="110">[...............]ve weder</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="1vb"/> [D]en eydelen rid[der fortuneus]</l>
+<l>Ende nv moetic steruen mede</l>
+<l>Doe sprac spyet ende seide</l>
+<l>Wildi noch her sarrasijn</l>
+<l n="115">Loochenen mamet ende apolijn</l>
+<l>So mogedi behouden tleuen</l>
+<l>Of ic sal v den doot slach gheuen</l>
+<l><hi rend="bold">D</hi>ie ruese seide dan sal niet sijn</l>
+<l>Dat ic mamette ende apolijn</l>
+<l n="120">Nemmermeer sal begeuen</l>
+<l>Spyet heift zaen uerheuen</l>
+<l>Sine colue ende slouch</l>
+<l>Den ruese ende deidem ongeuouch</l>
+<l>Dat hem thoft in sticken brac</l>
+<l n="125">Ende nemmermeer word ne sprac</l>
+<l><hi rend="bold">D</hi>it sagen die vanden castele wel</l>
+<l>Si seiden sie dat wicht fel</l>
+<l>Heift cresseuse nv doot</l>
+<l>Hets so clene ende hi es so groot</l>
+<l n="130">Ende daer toe sijn engien</l>
+<l>Men macht ooc niet gesien</l>
+<l>Alst wille dits anscijn</l>
+<l>Waren daer buten alle die hier sijn</l>
+<l>Het soutse sciere hebben doot</l>
+<l n="135">Sluut de porte het es noot</l>
+<l>Mj ware leet quaemt hier binnen</l>
+<l>Wi souder litel an mogen winnen</l>
+<l>Spyet warp inden stroom</l>
+<l>Den ruese ende het was sijn hoom</l>
+<l n="140"><hi rend="bold">D</hi>us heifti doot hoom ende vader</l>
+<l>Bin deser tijt quamen te gader</l>
+<l><pb n="164"/>Madelgijs ende aymijn</l>
+<l>Die seiden spyet degen fijn</l>
+<l>Hoe hebdi geuare[n] nu</l>
+<l n="145">Spyet sprac ic segt v</l>
+<l><hi rend="bold">I</hi>c hebbe hier enen ruese doot</l>
+<l>Die [starc was en]de [....]</l>
+<l><milestone unit="fol" n="2ra"/> [D........ heifti geseten]</l>
+<l>Ende spyet ende aymijn</l>
+<l n="150">Ay god hoe sagen die Sarrasijn</l>
+<l>Vp spyette daer hi sat</l>
+<l>Ende spyet maecte grot rabat</l>
+<l><hi rend="bold">A</hi>ls I verwoet man in reuele</l>
+<l>Hi slouch te sticken die platele</l>
+<l n="155">Ende warp de spise dies geloft</l>
+<l>Omtrent der sarrasine hoft</l>
+<l>Si louger omme ende haddens spel</l>
+<l>Spyette bequamt ooc wel</l>
+<l>Dat hi siere handen hadde gebruuc</l>
+<l n="160">Als si aldus haren buuc</l>
+<l>Hadden geuult ende gedaen</l>
+<l>Cam de drussate uor hem staan</l>
+<l>Ende versach onder hare slauine</l>
+<l>Halsberch zwaert ende wapine</l>
+<l n="165"><hi rend="bold">D</hi>oe riep hi lude de tyrant</l>
+<l>Dit sijn verraders ende truwant</l>
+<l>Die hier sitten in dit abijt</l>
+<l>Nv weitense vaen het es tijt</l>
+<l>Ende in den couden karker leggen</l>
+<l n="170">Als aymijn dit horde segghen</l>
+<l><pb n="165"/>So riep hi oom nv willic spreken</l>
+<l>Trect vte v zwaert laet ons wreken</l>
+<l>Eer wi geuaen sijn int net</l>
+<l>Witte god hets best sprac spyet</l>
+<l n="175">Spyet scoot vp al te hant</l>
+<l>Den drussate den tyrant</l>
+<l>Stac hi met enen kniue doot</l>
+<l>Ende madelgijs die scoot</l>
+<l>Gereet ute sine slauijn</l>
+<l n="180">Ende also deide aymijn</l>
+<l>Si traken hare swaerde baer</l>
+<l>De castelein hadde vaer</l>
+<l><hi rend="bold">H</hi>i riep ten wapinen met luder kele</l>
+<l>[...............ute]n [spele]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="2rb"/> [Dit wicht .... als atremen]t</l>
+<l>Het es van naturen fel</l>
+<l>Dit was twicht ende niemen el</l>
+<l><hi rend="bold">D</hi>je fortineuse verslouch</l>
+<l>Ende cresseuse dit ongeuouch</l>
+<l n="190">Moet nv al gewroken sijn</l>
+<l>Haest v eidele sarrasijn</l>
+<l>of wi bliuen alle doot</l>
+<l>Ende spyet die uoren scoot</l>
+<l>Hi deide I deel datti begerde</l>
+<l n="195">Hi slouch den castelein metten zwerde</l>
+<l>Teen been of datti vel</l>
+<l>Ende aymijn maectem snel</l>
+<l>Den castelein heifti geclooft</l>
+<l>Metten swaerde sijn dat hoft</l>
+<l n="200"><hi rend="bold">D</hi>jes seidem spyet groten prijs</l>
+<l>Ay god hoe sere uacht madelgijs</l>
+<l>Harenthare in de zele</l>
+<l>Daer waren sarrasine so uele</l>
+<l>Dat wonder ware te vertelne</l>
+<l n="205">Si begonsten hem te verselne</l>
+<l>Bi groten scaren weder ende vort</l>
+<l>Noit man deide so grote mort</l>
+<l>Als aymijn die iongelijnc</l>
+<l><pb n="166"/>Het ginc al dure ende ontfijnc</l>
+<l n="210">Die bittre doot datti gerochte</l>
+<l>Jnt ende was madelgijs onsochte</l>
+<l>Gestoken met ere piken fel</l>
+<l>Datti neder ter erden vel</l>
+<l><hi rend="bold">D</hi>oe riep de degen fijn</l>
+<l n="215">Monioye monyoie aymijn</l>
+<l>Ende spyet ic bliue doot</l>
+<l>Ghine helpt mi uter noot</l>
+<l>Stont v dus up dese tijt</l>
+<l>Jc holpe v sonder respijt</l>
+<l n="220">Hadics macht also ghi doet</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="2va"/> [Spyet hem niet geuaen mocht]e</l>
+<l>Als aymijn keerde was hi onsochte</l>
+<l>Geslegen met enen zwerde</l>
+<l>Datti in onmacht uel ter erde</l>
+<l n="225"><hi rend="bold">H</hi>i was geuaen ende madelgijs</l>
+<l>Doe stac spyet de degen wijs</l>
+<l>Tfijngerlijn an sine hant</l>
+<l>Ende ontsloop de wigant</l>
+<l>Hi liep halen de colue sijn</l>
+<l n="230">Help mamet riepen de sarrasijn</l>
+<l>Waer es ons dit wicht ontgaen</l>
+<l>Dat ons scade heift gedaen</l>
+<l>Dat wijs nemmermeer genesen</l>
+<l>Spyet quam bin desen</l>
+<l n="235">Daer madelgijs ende aymijn</l>
+<l>Alle bede geuangen sijn</l>
+<l><pb n="167"/><hi rend="bold">H</hi>i begonste metter colue slaen</l>
+<l>Die in sinen wege staen</l>
+<l>Harenthare in sijn gemoet</l>
+<l n="240">Die hedine riepen met ter spoet</l>
+<l>Vlien wi niet wi sijn verdomt</l>
+<l>Twicht metter colue comt</l>
+<l>Dat ons allen sal onteren</l>
+<l>Sine mochten die II heren</l>
+<l n="245">Niet onthouden de sarrasine</l>
+<l>Madelgise ende aymine</l>
+<l>Ende lietse liggen al gebonden</l>
+<l>Spyet slouch gone honden</l>
+<l>Dat si vloen al gemene</l>
+<l n="250">Alsi de zale hadden allene</l>
+<l><hi rend="bold">D</hi>oe alreerst haddi moete</l>
+<l>Tontbijndene handen ende voete</l>
+<l>Van madelgise ende van aymine</l>
+<l>Die daer lagen in groter pine</l>
+<l n="255">Ende alsi ontbonden waren</l>
+<l>Sprac aymijn sonder sparen</l>
+<l>[Nu hebt danc spyet van dese]n</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="2vb"/> Als ghi [daet up] dese wi[le]</l>
+<l>Her aymijn nv houdi ghile</l>
+<l n="260">Als ghi laecht gebonden vast</l>
+<l>Onder menigen fellen gast</l>
+<l><hi rend="bold">D</hi>oe was v ander sijns te moede</l>
+<l>Her madelgijs met vwer roede</l>
+<l>Slouchdi mi in minen hals</l>
+<l n="265">Dat hebben die sarrasine vals</l>
+<l>Met haren liue al becocht</l>
+<l>Sonder de gone die sijn gerocht</l>
+<l>Jn den tor ende ontlopen</l>
+<l>Madelgijs sprac si sullent becopen</l>
+<l n="270">Eer si ons sullen ontsprijngen</l>
+<l>Jc salse leren uoren sijngen</l>
+<l>Dat si tleuen sullen laten</l>
+<l>Jane hebwi ene nacht te baten</l>
+<l><hi rend="bold">L</hi>aet ons gaen eiten ende drijnken</l>
+<l n="275">Binder tijt sulsi hem bedijnken</l>
+<l>Dat si hem sullen gheuen</l>
+<l><pb n="168"/>Of het cost hem allen tleuen</l>
+<l>Die daer in den tor wesen</l>
+<l>Ende spyet liep met teisen</l>
+<l n="280">Souken spise ende wijn</l>
+<l>Ende brochtse daer madelgijs ende aymijn</l>
+<l>Waren si ghijngen eiten</l>
+<l>Alsi aldus sijn geseiten</l>
+<l>Onder hem drien ende si aten</l>
+<l n="285">Riepen de hedine utermaten</l>
+<l>Neider waert ende seiden</l>
+<l>Ay quade glotte onder v beden</l>
+<l>Hebdi ons menigen man verslagen</l>
+<l>Qualike mogen wi uerdragen</l>
+<l n="290">Dat ghi nv eit onse spise</l>
+<l>Spyet seide uor madelgise</l>
+<l>Ende sprac fel mastijn</l>
+<l>Oft v deert comets toe sijn</l>
+<l>[En]de [laet staan vwe]n [.....]</l>
+</body>
+</text>
+</TEI.2>

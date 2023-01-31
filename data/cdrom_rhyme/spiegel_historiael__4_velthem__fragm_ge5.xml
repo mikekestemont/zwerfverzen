@@ -1,0 +1,651 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.transcr 'INCLUDE'> <!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'>]><TEI.2><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Spiegel historiael (vierde partie [aandeel Velthem])</title>
+<author>Lodewijk van Velthem</author>
+</titleStmt>
+<editionStmt>
+<edition>M. de Vries en E. Verwijs (eds.): Jacob van Maerlant's Spiegel historiael, met de fragmenten der later toegevoegde gedeelten, bewerkt door Philip Utenbroeke en Lodewijc van Velthem. 3 delen. Leiden, 1863. Deel 3, 406-416.</edition>
+</editionStmt>
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<listBibl id="inlMetadata">
+<bibl><interpGrp type="titleLevel1">
+<interp value="Spiegel historiael (vierde partie [aandeel Velthem])"/>
+</interpGrp><interpGrp type="medium">
+<interp value="book"/>
+</interpGrp><interpGrp type="authorLevel1">
+<interp value="Lodewijk van Velthem"/>
+</interpGrp>
+<interpGrp type="ipr">
+<interp value="online"/>
+</interpGrp><interpGrp type="corpusProvenance">
+<interp value="cdrom-mnl"/>
+</interpGrp>
+<interpGrp type="pubYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1410"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1410"/></interpGrp>
+</bibl>
+</listBibl>
+<bibl id="original-metadata-cdrom-version"><![CDATA[
+<TITEL>Spiegel historiael (vierde partie [aandeel Velthem])</TITEL>
+<TITEL>Spiegel historiael</TITEL>
+<author>Lodewijk van Velthem</author>
+<AARD>Rijm</AARD>
+<BRON nr="D174">Gent, Bibliotheek der Rijksuniversiteit, 2541,9 (fragm.)</BRON>
+<DATUM>1390-1410</DATUM>
+<OMVANG>571 verzen</OMVANG>
+<BRON.OPM>E&#x00E9;n blad, 4 kolommen per bladzijde, 75 regels per kolom; het blad draagt een foli&#x00EB;ring: lxij. Het fragment bevat een aantal kapittels uit de Vierde Partie (aandeel Velthem), boek 7 van de Spiegel historiael: kap. 32 (laatste 40 vs.) - kap. 43 (1-39). Van het handschrift waar dit fragment deel van uitmaakte, bleven 32 fragmenten bewaard; de oorspronkelijke codex bevatte waarschijnlijk alle partie&#x00EB;n van de Spiegel historiael (zie verder J.A.A.M. Biemans: Onsen Speghele Ystoriale in Vlaemsche. Codicologisch onderzoek naar de overlevering van de "Spiegel historiael" van Jacob van Maerlant, Philip Utenbroeke en Lodewijk van Velthem, met een beschrijving van de handschriften en fragmenten. Deel 2: Catalogus, registers, bibliografie, platen. Leuven 1997, 355-359).</BRON.OPM>
+<VERWIJZING>Gent, Bibliotheek der Rijksuniversiteit, 2541,7 (fragm.), Brugge, Stadsarchief, Oud archief, reeks 538,7 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,8 (fragm.), Brussel, Koninklijke Bibliotheek, IV 827,1 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,10 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,11 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,13 (fragm.), en Gent, Bibliotheek der Rijksuniversiteit, 2541,14 (fragm.).</VERWIJZING>
+<EDITIE>M. de Vries en E. Verwijs (eds.): Jacob van Maerlant's Spiegel historiael, met de fragmenten der later toegevoegde gedeelten, bewerkt door Philip Utenbroeke en Lodewijc van Velthem. 3 delen. Leiden, 1863. Deel 3, 406-416.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1188.III.5</BRONMNW>
+<BRONNEN>Van de Vierde Partie van de Spiegel historiael werd Boek 1 tot Boek 3, kap. 34 bewerkt door Jacob van Maerlant; men zie daarvoor 's-Gravenhage, Koninklijke Bibliotheek, Bruikleen Koninklijke Akademie van Wetenschappen, XX. Het resterende gedeelte van de Vierde Partie is van de hand van Lodewijk van Velthem. Zijn aandeel in deze Partie is echter uitsluitend gefragmenteerd overgeleverd in enkele verzamelcodices en in een aantal handschriftfragmenten; we vermelden hier Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1020, III en IV (fragm.), Berlijn, Geheimes Staatsarchiv Preussischer Kulturbesitz, XX. HA StA. K&#x00F6;nigsberg, 33,20 (fragm.), Mainz, Bisch&#x00F6;fliches Priesterseminar, z.s. (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 1641 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 1374, Wroclaw, Biblioteka Uniwersytecka, IV F 88e-II (fragm.), Wenen, &#x00D6;sterreichische Nationalbibliothek, 13708, Gent, Bibliotheek der Rijksuniversiteit, 2541,9 (fragm.), Brussel, Koninklijke Bibliotheek, IV 827,1 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,10 (fragm.) en Gent, Bibliotheek der Rijksuniversiteit, 2541,11 (fragm.).</BRONNEN>
+]]></bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body><div type="chapter"><head type="chapter comment">[.XXXII.]</head>
+<l>[....................]</l>
+<l><pb n="3,406"/> Nylus oec die riviere,</l>
+<l>Die om sente Jans misse pleget sciere</l>
+<l>Te vloeyen verre ende wide,</l>
+<l>En vloeyde niet in dien tide;</l>
+<l n="5">Ende daer om en mocht men niet</l>
+<l>Van droecheden, wats gesciet, ........</l>
+<l>Ende hier om wort die soudaen</l>
+<l>In sorghen sere bevaen,</l>
+<l>Want hi den dieren tijt dochte.</l>
+<l n="10">Hier om hi den paeys sochte,</l>
+<l>Ende onboot mit sinen broeder zaen,</l>
+<l>Coenradine, den kerstinen, sonder waen,</l>
+<l>Dat hi hem Damiate wilde geven,</l>
+<l>Mochti entie sine behouden tleven,</l>
+<l n="15">Ende tcruce mede ende al die man,</l>
+<l>Die Saladijn hier voren wan</l>
+<l>Te Jherusalem in die goede stede;</l>
+<l>"Ende waer die gevangen leggen mede,</l>
+<l>Die sal ic u leveren nu ter stont;</l>
+<l n="20">Ende Jherusalem, ic doet u cont,</l>
+<l>Sal ic weder maken doen,</l>
+<l>Dat tebraken mine baroen;</l>
+<l>Ende al tlant willic u laten te dele,</l>
+<l>Sonder allene II castele,</l>
+<l n="25">Die sal ic te chense houden van u,</l>
+<l>Also lange als die vrede duret nu."</l>
+<l>Maer dese II so starc waren</l>
+<l>Ende stonden so wel te punte, twaren,</l>
+<l><pb n="3,407"/> Dat hi daer mede wel soude dwingen</l>
+<l n="30">Die lande alle sonderlingen</l>
+<l>Tot Jherusalem der stede, besiet;</l>
+<l>Ende hier of en wisten donse niet.</l>
+<l>Dit gebod behagede onsen lieden,</l>
+<l>Ende hier op si hem oec berieden;</l>
+<l n="35">Patriarke, bisscopen, legaten,</l>
+<l>Hertogen, Duutsce prelaten,</l>
+<l>Fransoyse, Ytaliene ende Tempeliers,</l>
+<l>Riddren ghemene, Hospitaliers,</l>
+<l>Rieden alle in deser maniere,</l>
+<l n="40">Dat men Damiate opname sciere.</l>
+</div>
+<div type="chapter"><head type="chapter">Hoe Damiaten gewonnen was. XXXIII.</head>
+<l>                Daer na die soudaen heymelike dede</l>
+<l>Ene grote menichte van voetgangers gerede</l>
+<l>Bi enen hoeke in die stat,</l>
+<l>Daer CC ende XL kerstine na dat</l>
+<l n="5">Bi slaeptide in waren comen</l>
+<l>Des Sondachs nachts, heb ic vernomen,</l>
+<l>Ende dese worden aldus saen</l>
+<l>Alle gedoot ofte gevaen.</l>
+<l>                Op die None van Novembris,</l>
+<l n="10">Dat na Alre Heiligen misse es,</l>
+<l>So wort Damiaten gegeven op,</l>
+<l>Sonder slach ende clop,</l>
+<l>Sonder striden, sonder minieren,</l>
+<l>Sonder assaut enigertieren</l>
+<l n="15">Ende sonder enige scade groot.</l>
+<l>Dese ende dese victorie bloot</l>
+<l>Mach men Gode wel andragen.</l>
+<l>Ende Nylus oec na dien dagen</l>
+<l>Ghinc vloeyen soetelijc ende sere,</l>
+<l n="20">Ende vele meer dan si dede ere,</l>
+<l>So dat al die grachten aldaer</l>
+<l>Worden in tlant vervult, vorwaer.</l>
+<l>Die soudaen wort sere confuus nu</l>
+<l>Om dese dinc, dat segic u,</l>
+<l n="25">Dat Nylus wies aldus hoge,</l>
+<l>Ende te voren stont so droge,</l>
+<l>Ende verbernde sine castele, sonder waen,</l>
+<l>Ende is wech gevloen saen.</l>
+<l>Die kerstine ghingen in die stat,</l>
+<l n="30">Ende vonden alse corren liggende na dat</l>
+<l>Die liede doot op der straten,</l>
+<l>Van honger groot utermaten</l>
+<l>Ende van plagen die daer was.</l>
+<l>Si vonden oec genoech na das</l>
+<l n="35">Silver, gout, sindael ende side,</l>
+<l>Laken, menich dier gesmide,</l>
+<l>Scone cledre, alrehande dinge,</l>
+<l>Die men mochte gepensen sonderlinge,</l>
+<l>Dies vant men daer vol planteyt.</l>
+<l n="40">Wat helpter vele toe geseit?</l>
+<l>Damiaten, dat hier voren</l>
+<l>Den kerstinen dede groten toren,</l>
+<l>Ende in allen riken was vernant</l>
+<l>Boven allen steden die men vant,</l>
+<l n="45">Ende behoederse was van der zee,</l>
+<l>Ende roverse der kerstine ende gevee</l>
+<l>Altoos hier voer hadde gewesen,</l>
+<l><pb n="3,408"/> Hoe bistu dus ofcomen van desen</l>
+<l>Sonder slach ende sonder stoot?</l>
+<l n="50">En can niet dat wonder groot</l>
+<l>Ghescriven no geseggen van di,</l>
+<l>Sonder dat ons Heren mogentheit si.</l>
+</div>
+<div type="chapter"><head type="chapter">Hoe vast Damiaten was, ende hoe si haer ghewin deilden. XXXIIII.</head>
+<l>                Binnen dien tiden dat men daer lach,</l>
+<l>Tot op dien selven dach</l>
+<l>Dat die stat was opgegeven,</l>
+<l>So wasser daer wel doot bleven</l>
+<l n="5">XXX<hi rend='sup'>M</hi> bi getale,</l>
+<l>Die God versloech altemale;</l>
+<l>Ende hier of hadden donse noot</l>
+<l>Van den stanke, die was groot</l>
+<l>In husen, op bedden, in allen steden.</l>
+<l n="10">Wijf, manne, kinder mede,</l>
+<l>Vant men leggende so versmort.</l>
+<l>Hier of worden donse verdoort,</l>
+<l>So dat die dode daer ter stat</l>
+<l>Die levende doden oec na dat.</l>
+<l n="15">Daer wasser oec gevaen daer naer</l>
+<l>XXIIII<hi rend='sup'>M</hi> vorwaer;</l>
+<l>Som storven dese herde sciere,</l>
+<l>Ende som worden si vercocht diere;</l>
+<l>Som worden si kerstijn met</l>
+<l n="20">Ende ghingen of hare wet.</l>
+<l>                Dese stat hadde III starke mure</l>
+<l>Omgaende jegen hare gebure,</l>
+<l>Ende emmer deen starker vele</l>
+<l>Dan dander ende hogher van enen dele.</l>
+<l n="25">Die middelste muer hadde daer</l>
+<l>So groot ende so starc an scine,</l>
+<l>Dat men mit ne gere pine,</l>
+<l>Al liet men enen gewerden al,</l>
+<l n="30">Hine hadde niet dat geval,</l>
+<l>Dat hise yewer conde gevellen nu.</l>
+<l>Dus was die stat, dat segic u,</l>
+<l>Bewaert [ende] gevest wale.</l>
+<l>                Doe geboot men na dese tale</l>
+<l n="35">Bi den banne van enen legate</l>
+<l>Van Rome, ende alle verwate,</l>
+<l>Dat men te hope brochte thant</l>
+<l>Dat men in die stat vant,</l>
+<l>Ende ment deelde al gemene.</l>
+<l n="40">Dit was daer gedaen na tghene.</l>
+<l>Ende daer na maecte men van den castele</l>
+<l>Onser Vrouwen kerke te dele,</l>
+<l>Die scone was, ende wietse daer</l>
+<l>Misse in te doene daer naer.</l>
+<l n="45">Hier in waren IIII outare,</l>
+<l>Ghemaect scone daer nare:</l>
+<l>Dene in dere onser Vrouwen,</l>
+<l>Dier wi dienen souden mit trouwen;</l>
+<l>Dander in sinte Peter ende Paulus,</l>
+<l n="50">Ende hem te dienen daer aldus;</l>
+<l>Die derde in shelichs cruus ere,</l>
+<l>Daer te singen vorwaert mere;</l>
+<l>Den vierden maecten si gereet</l>
+<l>In sinte Bertolmeus ere, godweet.</l>
+<l n="55">Seylscutte, bliden, magnele,</l>
+<l>Namen si daer te haren dele.</l>
+<l>Den Duutscen enten Vresen mede</l>
+<l>Was bevolen dese stede</l>
+<l>Te houden ente bewaren die stat,</l>
+<l n="60">Ende dander voeren vort na dat.</l>
+</div>
+<div type="chapter"><head type="chapter">Hoe Tanays gewonnen wart. XXXV.</head>
+<l>                Niet minder mirakel, maer also groet</l>
+<l>Als hier voren gescreven stoet,</l>
+<l><pb n="3,409"/> Daer Damiaten mede was gewonnen,</l>
+<l>So is hier voer Thanays begonnen;</l>
+<l n="5">Want en hat onse Here gedaen,</l>
+<l>En mocht niet onder zijn gedaen;</l>
+<l>Want die heydene seilden in die zee</l>
+<l>In scepelkine, min no mee,</l>
+<l>Totter rivieren die Thamas hiet,</l>
+<l n="10">Om dat si souden maken verdriet,</l>
+<l>Dat die kerstine souden horen,</l>
+<l>Dat sise hier mede souden verdoren,</l>
+<l>Ende hem volgen souden daer,</l>
+<l>Ende dan van achter comen naer.</l>
+<l n="15">Maer dit was al om niet,</l>
+<l>Sine achten der ghere niet;</l>
+<l>Ende doe dit die ghene saghen,</l>
+<l>Die daer in die stat laghen,</l>
+<l>Sloten si die porte ende ghingen vlien.</l>
+<l n="20">Hier an mach men die waerheit sien,</l>
+<l>Dat die kerstine min no mere</l>
+<l>Hadden ten leedsman dan onsen Here.</l>
+<l>In orcondscepe, die dit sagen,</l>
+<l>Dat men nie en conde gewagen</l>
+<l n="25">Van starkeren casteel, dan dit was.</l>
+<l>VII toren haddi om das</l>
+<l>Ende II grote fosseyde,</l>
+<l>Mit vasten muren op alle beide.</l>
+<l>Ene lake gaet oec daer omme,</l>
+<l n="30">Beide recht ende cromme;</l>
+<l>Te winter macher niement liden,</l>
+<l>Ente zomer in ghenen tiden,</l>
+<l>En si aventuerlijc zere</l>
+<l>Ende oec kenne wel den kere.</l>
+<l n="35">Vissche zijn daer in die lake</l>
+<l>Ongetallike, van goeder smake,</l>
+<l>Daer jaerlix of hadde die soudaen</l>
+<l>IIII<hi rend='sup'>M</hi> marc, sonder waen.</l>
+<l>Voegel sijn daer in een dele.</l>
+<l n="40">Die stat hoort tesen castele</l>
+<l>Es mere dan Damiate es</l>
+<l>Ende noch also starc, sijt seker des,</l>
+<l>Ende van Damiaten oec wale</l>
+<l>Ene dachvaert, in ware tale,</l>
+<l n="45">Ter zee, recht in die vaert</l>
+<l>Ten lande van promessione waert.</l>
+<l>Grote scade dese twe steden</l>
+<l>Onsen lieden dicke deden,</l>
+<l>Ende nu waren in der kerstine hant,</l>
+<l n="50">Sonder slach ende sonder brant,</l>
+<l>Ende sonder mineren, ongepijnt,</l>
+<l>Dat recht Gods mirakel schijnt.</l>
+</div>
+<div type="chapter"><head type="chapter">Van enen boec dat in Damiate ghevonden was. XXXVI.</head>
+<l>                Eer Damiate gewonnen waert,</l>
+<l>So wart daer een boec geopenbart,</l>
+<l>Dat in Arabix gescreven was.</l>
+<l>Die name daer of, sijt seker das,</l>
+<l n="5">Diet maecte, en was geen kerstijn,</l>
+<l>No Jode, no heyden, no Zarrasijn:</l>
+<l><pb n="3,410"/> Dies lochendi al openbare,</l>
+<l>Dat hi gheen van desen ware.</l>
+<l>                Int boec stont dit gescreven al,</l>
+<l n="10">Dat ic hier nu seggen sal.</l>
+<l>                Daer stont in, dat een mit ogen zwert</l>
+<l>Ende blosende wangen, van leden hert,</l>
+<l>Mit ere gheluwer banieren,</l>
+<l>Jherusalem soude asselgieren</l>
+<l n="15">Ende der kerstine vele vaen,</l>
+<l>Ende coningen ende princen verslaen;</l>
+<l>Ende Tyberiadus ende Ascalone</l>
+<l>Soude struweren oec die gone,</l>
+<l>Ende dat cruce ons Heren mede</l>
+<l n="20">Voeren soude ongherede;</l>
+<l>Ende dit soude gescien ter stonden</l>
+<l>Om der kerstine vule sonden;</l>
+<l>Ende daer na soudi te Tieren comen,</l>
+<l>Maer dat soude hem werden benomen,</l>
+<l n="25">Dat hi dat niet gestruweren en conde.</l>
+<l>Ende in der vraeyer orconde</l>
+<l>So heeft Salijn dit al gedaen.</l>
+<l>Voort so dede die boec verstaen,</l>
+<l>Dat die kerstine daer na niet lanc</l>
+<l n="30">Al dier steden ommeganc</l>
+<l>Winnen souden, ende Damieten</l>
+<l>Ende Thanas wart hem beheten;</l>
+<l>Ende hi voerseide oec, in ware dinc,</l>
+<l>Van enen kersten coninc,</l>
+<l n="35">Die van Nubien soude wesen,</l>
+<l>Ende soude Mich die stat na desen</l>
+<l>Destruweren, ende Mamets bene</l>
+<l>Spaersen ende destruweren na tgene;</l>
+<l>Ende vele dingen, die som gesciet</l>
+<l n="40">Nu sijn, ende som oec niet,</l>
+<l>Dat vant men daer in al gescreven,</l>
+<l>Maer niet en wist men van wient was bleven.</l>
+<l>Men heeft vernomen hier voren wel,</l>
+<l>Dat liede seiden mit monde wel</l>
+<l n="45">Ende prophiteerden dat soude gescien,</l>
+<l>Nochtan en hadden si niet van dien</l>
+<l>Int herte van ghere weldaet:</l>
+<l>Als van Balam ghescreven staet,</l>
+<l>Die valsche ende onwettich was;</l>
+<l n="50">Doch propheteerdi, als ict las.</l>
+</div>
+<div type="chapter"><head type="chapter">Hoe Chorodijn al sijn lant onboot. XXXVII.</head>
+<l>                In desen tiden quam Chorodijn</l>
+<l>(Dat was een heyden Sarrasijn)</l>
+<l>Tot Palestine ende struwerde aldaer</l>
+<l>Cesarien den casteel, vorwaer;</l>
+<l n="5">Maer die onse ontvloen daer uut</l>
+<l>Ter zee waert sonder enich geluut,</l>
+<l>Want si daer hadden goeden uutganc.</l>
+<l>Ende doe voer men daer na niet lanc</l>
+<l>Tot Fili Dei, den starken casteel;</l>
+<l n="10">Maer die hads daer sijn deel,</l>
+<l>Want die Tempeliers haddent zo</l>
+<l>Bewaert, dat hi hem niet een stro</l>
+<l>En conde gederen nu ter wile.</l>
+<l>Die Tempeliers daden nu, sonder ghile,</l>
+<l n="15">Assaut op die dieve, twaren,</l>
+<l>Die Sarrasine, [die] te Akers waren.</l>
+<l>Vromelike sloegen sise doot,</l>
+<l>Ende some vingen sise inder noot.</l>
+<l>Ende hier om onboot Choradijn,</l>
+<l n="20">Van daer die zonne opgaet, die hulpe zijn,</l>
+<l>Alle die Zarrasine, godweet,</l>
+<l>Dat si tAkers quamen gereet,</l>
+<l>Ende dat ofdaden in den gront;</l>
+<l><pb n="3,411"/> Maer so vele kerstine nu ter stont</l>
+<l n="25">Vant hi in den lande daer,</l>
+<l>Dat dit bliven moeste vorwaer;</l>
+<l>Ende om den dienst oec mede,</l>
+<l>Die hare princen te meniger stede</l>
+<l>Hadden, ende oec om dat</l>
+<l n="30">Dat hare liede te meniger stat</l>
+<l>Lagen verslegen in hopen groot,</l>
+<l>Ende Calippus, haer paus, geboot</l>
+<l>Dat mense ter erden doen soude:</l>
+<l>Dit waren die saken entie scoude.</l>
+</div>
+<div type="chapter"><head type="chapter">Hoe donse letteren senden te Georgianen, ende hare wesen. XXXVIII.</head>
+<l>                Dese niemare is verre geronnen,</l>
+<l>Dat Damiaten is gewonnen</l>
+<l>Ende Thanays, die vaste stat.</l>
+<l>Letteren sende men saen na dat</l>
+<l n="5">In Georgianen ten kerstinen luden,</l>
+<l>Die daer den castele hueden.</l>
+<l>Dit tornde den Georgianen zere:</l>
+<l>"Sal dus onwerdich volc onsen here</l>
+<l>Ende onse lant daer onderdoen,</l>
+<l n="10">Die van verren sijn ontvloen</l>
+<l>Ende over zee dus comen hare?"</l>
+<l>Dat hadde hem herde onmare.</l>
+<l>                Georgiane sijn lieden, godweet,</l>
+<l>Die Gods dienst hebben leet.</l>
+<l n="15">Bi Grieken comet an dene side,</l>
+<l>Ende an Persen an dander side.</l>
+<l>Lanc eist so dat coemt</l>
+<l>Anden berch, die men Caspi noemt.</l>
+<l>Het sijn onbesceiden liede,</l>
+<l n="20">Ende striden gherne in allen tide.</l>
+<l>Die clerken van den lande daer</l>
+<l>Hebben ront gescoren haer haer,</l>
+<l>Entie leke gevierkant mede.</l>
+<l>Hare wive riden mede gerede</l>
+<l n="25">In allen striden, weet vorwaer.</l>
+<l>Man ende wijf in tlant daer,</l>
+<l>Als si te stride sullen gaen,</l>
+<l>Ende eer si dan den strijt bestaen,</l>
+<l>So hebben si ene cawoorde gereet,</l>
+<l n="30">Entie al vol wijns gereet,</l>
+<l>Dien drinken si al uut tier stat,</l>
+<l><pb n="3,412"/> Ende stoutelike gaen si na dat</l>
+<l>In den strijt, al onvervaert:</l>
+<l>Dit is der Georgianen aert.</l>
+<l n="35">Al binnen vrede, hebben sijs stade,</l>
+<l>Slaen si enen ende doen scade;</l>
+<l>Ja sgraven zone van Tripel mede</l>
+<l>Sloeghen si oec, binnen vrede,</l>
+<l>In onser Vrouwen kerke doot,</l>
+<l n="40">Daer si tribuut of gaven groot.</l>
+<l>                In dit selve jaer hier te voren</l>
+<l>Starf die soudaen uutvercoren</l>
+<l>Van Yconien; men seit oec das,</l>
+<l>Dat hi heymelic kersten was,</l>
+<l n="45">Ende hi so lief hadde die kerstine,</l>
+<l>Dat hi dickent die Sarrasine</l>
+<l>Jegenstreet doer der kerstijn wille.</l>
+<l>Hi liet oec die gevangene stille</l>
+<l>Ute, ende halpse henen zaen;</l>
+<l n="50">Entiere bliven wilden, sonder waen,</l>
+<l>Hi heltse daer int lant also.</l>
+<l>Neven sire siden wildi oec toe</l>
+<l>Kerstine hebben in allen tiden,</l>
+<l>........</l>
+<l n="55">So beval hi hem sinen lichame;</l>
+<l>Want van hem bet bequame,</l>
+<l>Dant van den Zarrasinen dede.</l>
+<l>Dese hadde in hoeden mede</l>
+<l>Saladijns zone, Miralinen,</l>
+<l n="60">Jeghen den zone Saphinen;</l>
+<l>Nochtan Calephas van Baldas,</l>
+<l>Die der heyden paus was,</l>
+<l>Hadde Saphdijns kinder onderstaen,</l>
+<l>Ende wildem tlant doen hebben saen.</l>
+</div>
+<div type="chapter"><head type="chapter">Hoe Japhat was gevelt, ende ander dinc. XXXIX.</head>
+<l>                Doe men screef ons Heren jaer</l>
+<l>M CC XX vorwaer,</l>
+<l>So struweerde Choradijn ongelet</l>
+<l>Den sterken casteel te Japhet.</l>
+<l n="5">                Int jaer recht dat sculdich was</l>
+<l>Die coninc van Jherusalem, sendi vor das</l>
+<l><pb n="3,413"/> Tot Damiaten groot goet in scine,</l>
+<l>Van terwe, van smoute ende van wine,</l>
+<l>Van perden ende van goeden baken,</l>
+<l n="10">Om donse mede doen te maken.</l>
+<l>Ende dit dedi, omdat hi daer mede</l>
+<l>Hem onsculdighen wilde gerede.</l>
+<l>                In die seste vaert van die Melane,</l>
+<l>Entie erdsche bisscop van Fornane,</l>
+<l n="15">Entie bisscop van Ceregensen der stede.</l>
+<l>Her Vrederic sende sinen bode oec mede,</l>
+<l>Die daer letteren sende saen</l>
+<l>Mit goude gebulleert, sonder waen,</l>
+<l>Daer sine coemste in was gescreven</l>
+<l n="20">Mit vele sijnre genoten beneven.</l>
+<l>Entie bisscop van Brandijs,</l>
+<l>Ende van Ytalyen menich ridder wijs,</l>
+<l>Die legate mit hem brachte,</l>
+<l>Die waren van groter machte.</l>
+<l n="25">Nu dese erdsce bisscop, daer ic of sprac,</l>
+<l>Van Meylane oec mede trac</l>
+<l>Ende sijn geselscap, ende sijn comen</l>
+<l>Over zee, daer si hebben vernomen</l>
+<l>Den soudaen, die sine castele</l>
+<l n="30">Waecte vaste na enen dele</l>
+<l>Op die yle van Damyaten,</l>
+<l>Ene dachvaert van daer, hem tonbaten.</l>
+<l>Maer dese bisscop hadde ridders met,</l>
+<l>Ende hebben hem daer jegen geset</l>
+<l n="35">Ende belet van sinen doene.</l>
+<l>Matheus, die grave coene,</l>
+<l>Quam mit VI galeyden, vorwaer,</l>
+<l>Daer hem in die zee die II daer naer</l>
+<l>Gheroeft waren; ende den soudaen</l>
+<l n="40">Daer na gelevert, sonder waen,</l>
+<l>All die kerstine die hi nu</l>
+<l>In sine mogentheit hadde, segic u,</l>
+<l>Voort nu leverde den paynen,</l>
+<l>Om te quellen ende doen pinen.</l>
+</div>
+<div type="chapter"><head type="chapter"><pb n="3,414"/> <hi rend="italic">Hoe die Tarteren Georgeanen wonnen</hi>. XL.</head>
+<l>                In tselve jaer die Tartren quamen</l>
+<l>In Georgianen altesamen</l>
+<l>Ende bego ........ zaen.</l>
+<l>Sulc hoge man, sonder waen,</l>
+<l n="5">Die van Georgeanen was,</l>
+<l>Nam wijf ende kint ende vlo na das</l>
+<l>Ten berge van Caspien waert,</l>
+<l>Om daer te zine in sijn rewaert.</l>
+<l>In sijn dorp sijn III heren comen</l>
+<l n="10">Van den Tarters, hebic vernomen,</l>
+<l>Ende roveden sgheens goet altemale,</l>
+<l>Ende ghevreescheden daer na sonder hale,</l>
+<l>Waer hi henen gevloen was,</l>
+<l>Ende volchden hem biden spore na das,</l>
+<l n="15">Ende vonden op den berch daer naer</l>
+<l>Man ende wijf ende kint, dats waer,</l>
+<l>Ende vingense ende deletse vort an.</l>
+<l>Den enen viel te dele den man,</l>
+<l>Den andren den zone, den derden twijf,</l>
+<l n="20">Mit goude, mit silver, sonder blijf.</l>
+<l>Doe sprac die gene die hadde den zone:</l>
+<l>"Sal ic houden desen te lone,</l>
+<l>Die ghescepen is als een hont,</l>
+<l>Over mijn deel nu ter stont?</l>
+<l n="25">Dat en gesciet heden van mi!"</l>
+<l>Doe worden si te rade daer bi,</l>
+<l>Dat si den man enten zone mede</l>
+<l>Doot sloegen daer gerede,</l>
+<l>Ende deelden tgoet onder hem aldaer.</l>
+<l n="30">Doe dat wijf sach, vorwaer,</l>
+<l>Dat [haer] man ende haer zone doot was,</l>
+<l>Ghinc si in een clooster na das</l>
+<l>Ende leedde haer lijf na nonnen leven.</l>
+<l>Daer na vinden wi bescreven,</l>
+<l n="35">Dattie Tartren van M enen</l>
+<l>Tlijf namen doe altenen,</l>
+<l>Tenen teyken van haren zeghe.</l>
+<l>Eer si wilden sceiden weghe,</l>
+<l>So moeste die stat van Georgeane</l>
+<l n="40">Hem VII gheven, na minen wane,</l>
+<l>Daer si die hoofde op setten zo</l>
+<l>Te VII steden. Daer na do</l>
+<l>Wort hongher so groot onder die liede,</l>
+<l>Dat nie sint so groot honger gesciede.</l>
+</div>
+<div type="chapter"><head type="chapter">Der Georgianen ghelove ende haer sacramenten. XLI.</head>
+<l>                Tlant van Georgiane</l>
+<l>Hoorde van ouden tiden daer ane</l>
+<l>Den patriarke, al over waer,</l>
+<l>Van Antiochen, verre ende naer,</l>
+<l n="5">Ende Armenien ende Capadocien</l>
+<l>Ende oec mede al Turkien.</l>
+<l>Nu was in Turkien werringe groot,</l>
+<l>Dat die Georgianen doer den noot</l>
+<l>TAntiochen niet conden comen,</l>
+<l n="10">Ende hebben heymelike boden genomen,</l>
+<l>Die al ter zee te Constantinobel quamen,</l>
+<l>Ende van daer tAntiochen tsamen,</l>
+<l>Daer si den patriarke vonden,</l>
+<l>Dien si baden op die stonden,</l>
+<l n="15">Dat si hem enen chacob doe senden,</l>
+<l><pb n="3,415"/> Dats te seggen, als wijt kenden,</l>
+<l>Enen getrouwen bisscop gerede,</l>
+<l>Ende dien daer sette in die stede.</l>
+<l>Doe sende die patriarke aldaer</l>
+<l n="20">Een ampulle mit kerseme daer naer,</l>
+<l>Ende die verniewede mit olien saen</l>
+<l>Die bisscop, als hise hadde ontfaen;</l>
+<l>Ende te VII jaren voort alrene</l>
+<l>Soudmen dat vernuwen gemene;</l>
+<l n="25">Ende dan soudmen die bisscoppen vergadren daer,</l>
+<l>Aldaer ment verniewet, vorwaer.</l>
+<l>Dit heefti gedaen; daer na nu</l>
+<l>Sende hier mede, dat segic u,</l>
+<l>Die patriarke letteren gescreven,</l>
+<l n="30">Dat hi macht hevet gegeven</l>
+<l>Enen bisscop, dien si coren gemene,</l>
+<l>Dat hi maken mochte na tghene,</l>
+<l>Ende hare cathaliche confirmeren daer:</l>
+<l>Ende dit is gesciet also daer naer.</l>
+<l n="35">                Het sijn in Georgien wale</l>
+<l>XVIII bisscoppen bi getale;</l>
+<l>Maer die dat crisma maect aldaer,</l>
+<l>Vercoopt den andren tsacrament, dats waer;</l>
+<l>Entie niet kint mach dragen dan,</l>
+<l n="40">Sceet hi om ghelt van haren man;</l>
+<l>Ende abten ende monicken mede</l>
+<l>Sijn daer voercopers ende woekers gerede,</l>
+<l>Ende die tasseren oec vort bet,</l>
+<l>Spelen jeghen die nonnen met,</l>
+<l n="45">Ende es hem georlovet echt,</l>
+<l>Dat sijt doen mogen over recht.</l>
+</div>
+<div type="chapter"><head type="chapter">Hoe die Tarteren Armenien wonnen. XLII.</head>
+<l>                Na Georgiam die Tartren zaen</l>
+<l>Sijn in Armenien daer na gegaen</l>
+<l>Ende destruwerdent, clene ende groot.</l>
+<l>Daer is in een edel stat, sonder genoot,</l>
+<l n="5">Die Any geheten is aldaer,</l>
+<l>Daer M kerken in staen, vorwaer,</l>
+<l>Ende C<hi rend='sup'>M</hi> familien nu</l>
+<l>In woenen, dat segic u.</l>
+<l>Dese stat wonnen in XII daghen</l>
+<l n="10">Die Tarters, sonder enich verdraghen.</l>
+<l>Bi Any staet die berch Ararach,</l>
+<l>Daer Noes erke op lach,</l>
+<l>Ende an den voet des berges na dat</l>
+<l>Maecte Noe doe die eerste stat,</l>
+<l n="15">Entie stat hiet Ladmine.</l>
+<l>Ende daer om loopt oec mee</l>
+<l>Die flume Arachs, diet Moniou</l>
+<l>Ghelopen coemt, dat segic u.</l>
+<l>Dese berch is so hoge,</l>
+<l n="20">Datter gheen vogel boven en vloge,</l>
+<l>Noch nie en vernam men man,</l>
+<l>Die daer boven geclimmen can,</l>
+<l>Sonder een monic, die also</l>
+<l><pb n="3,416"/> So grote devocie hadde daer toe,</l>
+<l n="25">Om Noes arke te besien aldaer.</l>
+<l>Dicke pijndi hem, vorwaer,</l>
+<l>Daer op te clemmen, dat die man</l>
+<l>Moede was van clemmen, ende dan</l>
+<l>Rusti hem ende sliep also,</l>
+<l n="30">Ende als hi ontwiec, vant hi hem doe</l>
+<l>Neder gevoert, en weet wat doet,</l>
+<l>Onder an des berges voet.</l>
+<l>Doe maenden zijn abt saen</l>
+<l>Bi sire regel, dat hi soude gaen</l>
+<l n="35">Enewaerf op den berch, godweet,</l>
+<l>Also verre als hi mochte gereet,</l>
+<l>Ende daer na en pijnde hem niet mere</l>
+<l>Op den berch te clemmen mere.</l>
+<l>Doe ghinc die ghene daer en wege,</l>
+<l n="40">Ende God gaf hem so den zeghe,</l>
+<l>Dat hi opt alreoverste clam,</l>
+<l>Ende vander arke een bort nam</l>
+<l>Ende brocht neder; ende daer na</l>
+<l>Maecti enen clooster, als ict versta,</l>
+<l n="45">Anden voet des berges, vorwaer.</l>
+<l>Ende dat bort is noch aldaer:</l>
+<l>Daer hout ment over een heilichdoem</l>
+<l>Waerdelike, ende hebbens roem.</l>
+</div>
+<div type="chapter"><head type="chapter">Hoe die van Armenien houden hare wet ende hare vasten. XLIII.</head>
+<l>                Die Armenien in hare wet</l>
+<l>Eten in Paeschavonde eyer met,</l>
+<l>Ende te vespertide, godweet,</l>
+<l>Eten si dan case gereet:</l>
+<l n="5">Si seggen dat doe onse Here opstont.</l>
+<l>Ende van Paeschen, dat si u cont,</l>
+<l>Al tot Sinxen toe, vorwaer,</l>
+<l>Eten si sVridages vleysch daer naer.</l>
+<l>Sine weten van den Kersdage niet;</l>
+<l n="10">Noch quatuortemper, wats gesciet,</l>
+<l>No vigelie no heilige dage met</l>
+<l>Hebben si en ghene geset.</l>
+<l>In die vasten singen si misse en gene,</l>
+<l>Sonder Saterdages ende Sondages allene;</l>
+<l n="15">Want alsi singen, seggen si,</l>
+<l>Dat si haer vasten breken daer bi;</l>
+<l>Ende daer om singen si sVridages niet,</l>
+<l>Om dat si haer vasten willen breken niet.</l>
+<l>Des daghes als si vleysch eten,</l>
+<l n="20">En willen si der misse niet vergeten,</l>
+<l>Om dat si niet en vasten dan.</l>
+<l>Vele vastine bringen si an:</l>
+<l>III weken voer Vastelavont</l>
+<l>Beghinnen si ene vasten ter stont,</l>
+<l n="25">Ende dat heten die vasten Sergius;</l>
+<l>Ende die beghinnen si Maendages aldus,</l>
+<l>Ende vasten tot Saterdages gereet,</l>
+<l>Ende dan eten si vleysch, godweet,</l>
+<l>Die twe dage, Saterdach ende Sondach.</l>
+<l n="30">In dander weke daer na gelach,</l>
+<l>SWoensdages, sVridages met,</l>
+<l>No visch no smout daer niement et,</l>
+<l>No wijn en drincken si oec niet daer,</l>
+<l>No al die vasten daer naer.</l>
+<l n="35">Ende die daer visch of smout of wijn</l>
+<l>Ate, het soude hem dunken sijn</l>
+<l>Mere misdaet dan die ghene,</l>
+<l>Die te hoers huse ghinge gemene.</l>
+<l>Entie weke van vastine .....</l>
+</div>
+</body>
+</text>
+</TEI.2>

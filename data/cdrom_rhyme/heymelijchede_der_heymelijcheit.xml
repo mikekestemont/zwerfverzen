@@ -1,0 +1,2214 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.transcr 'INCLUDE'> <!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'>]><TEI.2><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Heymelijchede der heymelijcheit</title>
+<author>Jacob van Maerlant</author>
+</titleStmt>
+<editionStmt>
+<edition>Afschrift W. Kuiper</edition>
+</editionStmt>
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<listBibl id="inlMetadata">
+<bibl><interpGrp type="titleLevel1">
+<interp value="Heymelijchede der heymelijcheit"/>
+</interpGrp><interpGrp type="medium">
+<interp value="book"/>
+</interpGrp><interpGrp type="authorLevel1">
+<interp value="Jacob van Maerlant"/>
+</interpGrp>
+<interpGrp type="ipr">
+<interp value="online"/>
+</interpGrp><interpGrp type="corpusProvenance">
+<interp value="cdrom-mnl"/>
+</interpGrp>
+<interpGrp type="pubYear_from"><interp value="1374"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1374"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1374"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1374"/></interpGrp>
+</bibl>
+</listBibl>
+<bibl id="original-metadata-cdrom-version"><![CDATA[
+<TITEL>Heymelijchede der heymelijcheit</TITEL>
+<TITEL>Heimelijcheit der heimelijcheden</TITEL>
+<TITEL>Heimelicheit der heimelicheden</TITEL>
+<author>Jacob van Maerlant</author>
+<AARD>Rijm</AARD>
+<BRON nr="K158">'s-Gravenhage, Koninklijke Bibliotheek, 76 E 5</BRON>
+<DATUM>1374</DATUM>
+<OMVANG>2156 verzen</OMVANG>
+<BRON.OPM>Het handschrift bevat in totaal 3+80+2 bladen; per bladzijde zijn er twee kolommen van 37 regels. Het moet ca. 1374 geschreven zijn, want de paastafel voorin het handschrift begint in dat jaar. De codex bevat naast de Heymelijchede der heymelijcheit (fol. 61va-76ra) nog de volgende werken: de Dietsche doctrinale (fol. 1r-47rb), de Beatrijs (fol. 47va-54va), een aantal catechetische teksten waarin gedeelten of excerpten uit Der leken spieghel van Jan van Boendale en een drietal teksten van Jan van Ruusbroec: Vanden kerstenen ghelove, het Rijcke der ghelieven en Vanden gheesteliken tabernakel (fol. 54v-57r), Vanden aflaten van Rome (fol. 57v-61r).</BRON.OPM>
+<EDITIE>Afschrift W. Kuiper</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<BRONMNW>581 (andere editie)</BRONMNW>
+<BRONMNW>582 (andere editie)</BRONMNW>
+<BRONMNW>583 (ander handschrift)</BRONMNW>
+<EDITIE.OPM>Een elektronische versie van de tekst werd ons ter beschikking gesteld door W. Kuiper. Net als in de versie Kuiper zijn de opgeloste afkortingen gecursiveerd; afwijkend is dat de beginletters van de verzen als kapitalen zijn weergegeven.</EDITIE.OPM>
+<BRONNEN>'s-Gravenhage, Koninklijke Bibliotheek, 76 E 5</BRONNEN>
+]]></bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body><l><milestone unit="fol" n="61va"/> <hi rend="bold">D</hi>ie gheuen mach gheue alle weghe</l>
+<l>Elken radic dat hijs pleghe</l>
+<l>Wa<hi rend="italic">n</hi>t datmen gheeft dats datme<hi rend="italic">n</hi> vint</l>
+<l>En<hi rend="italic">de</hi> datme<hi rend="italic">n</hi> houd w<hi rend="italic">er</hi>t niet een twint</l>
+<l n="5">Noit mi gheuen en v<hi rend="italic">er</hi>noyde</l>
+<l>Van h<hi rend="italic">et</hi> vte minen sinne vloeyde</l>
+<l>En<hi rend="italic">de</hi> noch helpet mi alsic gheue</l>
+<l>Nv ontfaet dit lieue neue</l>
+<l>Van mi iacoppe van merlant</l>
+<l n="10">Van dat ic in latine vant</l>
+<l>Hoe aristotiles en<hi rend="italic">de</hi> geen ander</l>
+<l>Sinen iongre alexander</l>
+<l>Leerde die werelt berechten</l>
+<l>En<hi rend="italic">de</hi> jeghen die sonden vechten</l>
+<l n="15">Want h<hi rend="italic">et</hi> hoeghen heren betaemt</l>
+<l>En<hi rend="italic">de</hi> elken mensche die he<hi rend="italic">m</hi> scaemt</l>
+<l>Dat hi weet hoe lant bedriuen</l>
+<l>En<hi rend="italic">de</hi> selue in sire eeren bliuen</l>
+<l>Vindire yet in dat te prisene es</l>
+<l n="20">Dat visierde aristotiles</l>
+<l>Vindire oec yet onnuts inne</l>
+<l>Dat tyhet mine<hi rend="italic">n</hi> domme<hi rend="italic">n</hi> sinne</l>
+<l>Dit boec es in latijn gheseit</l>
+<l>Heymelijchede der heymelijcheit</l>
+<l n="25">Gode biddic ten beghinne</l>
+<l>Dat hi mi helpe daer inne</l>
+<l>En<hi rend="italic">de</hi> siere moed<hi rend="italic">er</hi> der reynre maeght</l>
+<l>Diet al met haerre bede draeght</l>
+<l><hi rend="bold">L</hi>ands h<hi rend="italic">er</hi>en sijn va<hi rend="italic">n</hi> viere maniere<hi rend="italic">n</hi> </l>
+<l n="30">Ende die willic v visieren</l>
+<l>Selc es milde vtermaten</l>
+<l>Hem ende sinen ondersaten</l>
+<l><milestone unit="fol" n="61vb"/> En<hi rend="italic">de</hi> selc es in so suaer een strec</l>
+<l>Dat hi he<hi rend="italic">m</hi> en<hi rend="italic">de</hi> den sinen es vrec</l>
+<l n="35">En<hi rend="italic">de</hi> sulc heere he<hi rend="italic">m</hi> so nauwe beset</l>
+<l>En<hi rend="italic">de</hi> es den sinen te milder bet</l>
+<l>En<hi rend="italic">de</hi> sulc es hem seluen goet</l>
+<l>Die sinen volcke al onrecht doet</l>
+<l><hi rend="bold">N</hi>v segghen dus die van ytale</l>
+<l n="40">Hen es ghene mesprise tale</l>
+<l>Dat h<hi rend="italic">er</hi>e he<hi rend="italic">m</hi> seluen nauwe beset</l>
+<l>Doet hi sinen volke te bet</l>
+<l>Die van ynden segghen dit</l>
+<l>Dat anden lants h<hi rend="italic">er</hi>e niet en messit</l>
+<l n="45">Dat hi vrec es vtermaten</l>
+<l>Hem ende sinen ondersaten</l>
+<l>Nv weder segghen alte male</l>
+<l>Die perssiene dese tale</l>
+<l>En<hi rend="italic">de</hi> segghe<hi rend="italic">n</hi> lants h<hi rend="italic">er</hi>e en doech niet</l>
+<l n="50">Die hem seluen en<hi rend="italic">de</hi> sijn ghediet</l>
+<l>Mildelike niet en berecht</l>
+<l>Aristotiles seght echt</l>
+<l>Dat het es die swaerste slach</l>
+<l>Die lants here hebben mach</l>
+<l n="55">Die hem seluen an te wel</l>
+<l>Ende den sinen es vrec en<hi rend="italic">de</hi> fel</l>
+<l>Want sine macht die moet te gaen</l>
+<l>Nv moete<hi rend="italic">n</hi> wi v hier doen v<hi rend="italic">er</hi>staen</l>
+<l>W<hi rend="italic">aer</hi> die duegheden en<hi rend="italic">de</hi> die vrecken</l>
+<l n="60">Deene vander andere trecken</l>
+<l>En<hi rend="italic">de</hi> toeghen wat milthede si</l>
+<l>En<hi rend="italic">de</hi> wat vrecheit oec daer bi</l>
+<l>En<hi rend="italic">de</hi> watter scanden an gheleght</l>
+<l>Alsmen d<hi rend="italic">er</hi> miltheit niet en pleght</l>
+<l n="65">Ende hoe lichte dat ghesciet</l>
+<l>Alsme<hi rend="italic">n</hi> der miltheit niet en pliet</l>
+<l>Wa<hi rend="italic">n</hi>t lichtelijc heeft elc gheleert</l>
+<l>Dat hi sine herte keert</l>
+<l>An dullen cost ende ombesceeden</l>
+<l n="70">En<hi rend="italic">de</hi> lichtelike machmen leeden</l>
+<l><milestone unit="fol" n="62ra"/> Toter vrecheden den sin</l>
+<l>M<hi rend="italic">aer</hi> miltheit pleghe<hi rend="italic">n</hi> daers cracht in</l>
+<l><hi rend="bold">W</hi>ille dan een prince milde wese<hi rend="italic">n</hi> </l>
+<l>Sette sinen sin in desen</l>
+<l n="75">Dat hi merke wat hi v<hi rend="italic">er</hi>moghe</l>
+<l>En<hi rend="italic">de</hi> dien tijt d<hi rend="italic">aer</hi> tgheuen op doghe</l>
+<l>Ende merke die persone</l>
+<l>Wies hi werdich es van lone</l>
+<l>Ghef heere goet na dine macht</l>
+<l n="80">Ende e<hi rend="italic">m</hi>mer metter mate<hi rend="italic">n</hi> bewacht</l>
+<l>Ende ghef dijn goet sulken man</l>
+<l>Dies werdich si mede dan</l>
+<l>Diet and<hi rend="italic">er</hi>en gheuet mesdoet te ware<hi rend="italic">n</hi> </l>
+<l>En<hi rend="italic">de</hi> laet der miltheit regle varen</l>
+<l n="85">Die and<hi rend="italic">er</hi>s dan sijn goet vte ghiet</l>
+<l>Den boesen diermen vele siet</l>
+<l>Des en werdt hem gheen prijs</l>
+<l>Want hets verloren in alre wijs</l>
+<l>Wat somen anden onwerde<hi rend="italic">n</hi> leght</l>
+<l n="90">En<hi rend="italic">de</hi> die bouen maten pleght</l>
+<l>Vte te gietene sijn goet</l>
+<l>Die moet saen met g<hi rend="italic">ro</hi>ter spoet</l>
+<l>Vallen alse die onvroede</l>
+<l>In die hauene der armoede</l>
+<l n="95">Dus ghelijct hi wie soes pleghe</l>
+<l>Die sinen viant gheuet zeghe</l>
+<l><hi rend="bold">D</hi>ie dan gheeft wel sijn goet</l>
+<l>Alst tijt es en<hi rend="italic">de</hi> het noet doet</l>
+<l>Daert bestaedt es metter eere</l>
+<l n="100">Sekerlike dats een lants heere</l>
+<l>Die hem seluen ende den sinen</l>
+<l>Milde es ende dat doet hi scinen</l>
+<l>Sine macht sal menechfouden</l>
+<l>En<hi rend="italic">de</hi> sine ghebode salmen houden</l>
+<l n="105">Dese es milde ende ghemate</l>
+<l>Hem ende sinen ondersate</l>
+<l>Mare die siere liede goet</l>
+<l><milestone unit="fol" n="62rb"/> En<hi rend="italic">de</hi> dan tsine onwiselike verdoet</l>
+<l>En<hi rend="italic">de</hi> onwerden lieden gheeft</l>
+<l n="110">En<hi rend="italic">de</hi> sulke<hi rend="italic">n</hi> dies gheene noet en heeft</l>
+<l>Die vrec heeten tsiere scande</l>
+<l>Die es v<hi rend="italic">er</hi>deruere vanden lande</l>
+<l>Dul milde want hi n<hi rend="italic">iet</hi> ne vorsiet</l>
+<l>Sijns lants orbore en<hi rend="italic">de</hi> sijn v<hi rend="italic">er</hi>driet</l>
+<l n="115">Vrecheit es oec een name</l>
+<l>De<hi rend="italic">n</hi> lants heeren seere onbequame</l>
+<l>Lants h<hi rend="italic">er</hi>e dan dul milde of vrec</l>
+<l>Valt inder scanden strec</l>
+<l>Soe moet die lants heere dan</l>
+<l n="120">Kiesen enen goeden man</l>
+<l>Dien hi ghetrouwe kint en<hi rend="italic">de</hi> vroet</l>
+<l>En<hi rend="italic">de</hi> hem beuelen dat hi behoet</l>
+<l>Den orbore van sinen lande</l>
+<l>En<hi rend="italic">de</hi> settent al in sine hande</l>
+<l n="125">Sine rente ende sijn affal</l>
+<l>Ende des lants orbore al</l>
+<l>Ne gheen lants h<hi rend="italic">er</hi>e en sal mede</l>
+<l>Hoegher sine moghentede</l>
+<l>Met ne ghenen cost v<hi rend="italic">er</hi>laden</l>
+<l n="130">Dan he<hi rend="italic">m</hi> sijn lant mach staen i<hi rend="italic">n</hi> stade<hi rend="italic">n</hi> </l>
+<l>Want wie dat doet hi moet te hant</l>
+<l>V<hi rend="italic">er</hi>deruen selue en<hi rend="italic">de</hi> al sijn lant</l>
+<l>Vrecheit en<hi rend="italic">de</hi> dullike verteeren</l>
+<l>Moet hi beede van he<hi rend="italic">m</hi> v<hi rend="italic">er</hi>weeren</l>
+<l n="135">Soe mach hi die miltheit beiaghe<hi rend="italic">n</hi> </l>
+<l>En<hi rend="italic">de</hi> daer mede in sinen daghen</l>
+<l>Sijn lant stetten in sulken state</l>
+<l>Dat langhe blijft in hoefscher mate</l>
+<l>En<hi rend="italic">de</hi> dit ne mach els gheuallen n<hi rend="italic">iet</hi> </l>
+<l n="140">Dan hem een lants heere vorsiet</l>
+<l>Dat hi af trecke sine hande</l>
+<l>Vander liede goet vanden lande</l>
+<l>Dat hise niet soe seere bescatte</l>
+<l>Wa<hi rend="italic">n</hi>t sine vloeken o<hi rend="italic">m</hi>me datte</l>
+<l n="145"><milestone unit="fol" n="62va"/> <hi rend="bold">H</hi>ier o<hi rend="italic">m</hi>me ghewaghet des</l>
+<l>Die g<hi rend="italic">ro</hi>te wise ermogenes</l>
+<l>Dat dat die hoegste edelheit si</l>
+<l>Entie gherechtechste oec d<hi rend="italic">aer</hi> bi</l>
+<l>En<hi rend="italic">de</hi> daer toe een hoech teekin mede</l>
+<l n="150">In princen herte in prince stede</l>
+<l>Van dueghden van hoeghen moede</l>
+<l>Dats dat he<hi rend="italic">m</hi> een lants here hoede</l>
+<l>Dat hi sine ondersaten</l>
+<l>Niet ne bescatte buten maten</l>
+<l n="155">Dat was die redene entie dinc</l>
+<l>D<hi rend="italic">aer</hi> der syten rike o<hi rend="italic">m</hi>me teghinc</l>
+<l>En trouwe<hi rend="italic">n</hi> dat die heren dreuen</l>
+<l>Meer costs dan rente mochte gheue<hi rend="italic">n</hi> </l>
+<l>En<hi rend="italic">de</hi> alse die rente<hi rend="italic">n</hi> waren verdaen</l>
+<l n="160">Staken de here<hi rend="italic">n</hi> hare handen saen</l>
+<l>Ander ondersaten goet</l>
+<l>Doe worden si in sulken moet</l>
+<l>Dat siere o<hi rend="italic">m</hi>me riepen wrake</l>
+<l>An gode o<hi rend="italic">m</hi>me sulke sake</l>
+<l n="165">Die de heeren heeft gheplaeght</l>
+<l>Ende volc op hem gheiaeght</l>
+<l>Diese op sloughen so naer dat</l>
+<l>Datmen haren name v<hi rend="italic">er</hi>gat</l>
+<l>Hier o<hi rend="italic">m</hi>me radic elken heere</l>
+<l n="170">Dat hi te do<hi rend="italic">m</hi>pelike n<hi rend="italic">iet</hi> en v<hi rend="italic">er</hi>teere</l>
+<l>En<hi rend="italic">de</hi> hi sulke miltheit verkiese</l>
+<l>Dat hi sijn gheuen niet en v<hi rend="italic">er</hi>liese</l>
+<l>Wille hi van gheuene make<hi rend="italic">n</hi> vrie<hi rend="italic">n</hi>t</l>
+<l>Gheue die<hi rend="italic">n</hi> ghetrouwelike heeft gedie<hi rend="italic">n</hi>t</l>
+<l n="175">Gheerne vergheue<hi rend="italic">n</hi> moet hi leeren</l>
+<l>Ende eeren die werdech sijn eeren</l>
+<l>Ende onnoeselen beraden</l>
+<l>Eenuoudeghen lieden staen i<hi rend="italic">n</hi> staden</l>
+<l>En<hi rend="italic">de</hi> antworden alsmense groedt</l>
+<l n="180">En<hi rend="italic">de</hi> e<hi rend="italic">m</hi>mer hebbe<hi rend="italic">n</hi> die tonghe behoedt</l>
+<l><hi rend="bold">A</hi>lexander merc hier inne</l>
+<l><milestone unit="fol" n="62vb"/> Die clare v<hi rend="italic">er</hi>stannesse van sinne</l>
+<l>Die es hoeft ende leert al</l>
+<l>Hoemen lant berechten sal</l>
+<l n="185">Soe es van dueghden dat behout</l>
+<l>En<hi rend="italic">de</hi> soe uisiert wanen die scout</l>
+<l>En<hi rend="italic">de</hi> waer mesdaet neemt beghin</l>
+<l>En<hi rend="italic">de</hi> wanen v<hi rend="italic">er</hi>lies comt en<hi rend="italic">de</hi> ghewin</l>
+<l>Soe leert vorsien watme<hi rend="italic">n</hi> sal kiese<hi rend="italic">n</hi> </l>
+<l n="190">Watmen sal scuwe<hi rend="italic">n</hi> ende v<hi rend="italic">er</hi>liesen</l>
+<l>En<hi rend="italic">de</hi> van v<hi rend="italic">er</hi>stannessen eist tbeghin</l>
+<l>Dat een begheit in sinen sin</l>
+<l>Dat hi van goeder namen si</l>
+<l>Wie so dat houdt gheloeuets mi</l>
+<l n="195">Onghequetst en<hi rend="italic">de</hi> metter dueght</l>
+<l>Hi werdt inder herte<hi rend="italic">n</hi> v<hi rend="italic">er</hi>hueght</l>
+<l>En<hi rend="italic">de</hi> diese souct met loesen sinne</l>
+<l>Hi wert al ontsedt daer inne</l>
+<l>Men sal niet willen zekerlike</l>
+<l n="200">Coninc sijn om tgrote rike</l>
+<l>Mere men sal begheren die ere</l>
+<l>Om dien hoeghen name mere</l>
+<l>Dus staet van goed<hi rend="italic">er</hi> name de mi<hi rend="italic">n</hi>ne</l>
+<l>Van alre dueght ten beghinne</l>
+<l n="205">Entie machmen beiaghen mede</l>
+<l>Met sinne inder mogenthede</l>
+<l>Begheert yemen om and<hi rend="italic">er</hi> dinc</l>
+<l>Heere te sine of coninc</l>
+<l>Hem en comter af eere no bate</l>
+<l n="210">Mare in dinde en<hi rend="italic">de</hi> inder hate</l>
+<l>Der liede moet hi sijn verloren</l>
+<l>Vanden nide werdt gheboren</l>
+<l>Lieghe<hi rend="italic">n</hi> drieghe<hi rend="italic">n</hi> dats tallen stonde<hi rend="italic">n</hi> </l>
+<l>Materie van allen sonden</l>
+<l n="215">Va<hi rend="italic">n</hi> lieghene en<hi rend="italic">de</hi> drieghene sijt ghewesse</l>
+<l>So wast ende comt verranesse</l>
+<l>Va<hi rend="italic">n</hi> v<hi rend="italic">er</hi>ranesse wert hate ghespelt</l>
+<l>Van hate onrecht ghewelt</l>
+<l><milestone unit="fol" n="63ra"/> Van onrechte rijst tallen stonden</l>
+<l n="220">Verhartheit in dorpere sonden</l>
+<l>V<hi rend="italic">er</hi>hartheit maect gra<hi rend="italic">m</hi>men moet</l>
+<l>Van gramschepe<hi rend="italic">n</hi> dies sijn wi vroet</l>
+<l>Soe comt ouerhoricheit mede</l>
+<l>Hier af wast datmen den vrede</l>
+<l n="225">Entie vrienscap al ontseght</l>
+<l>Dit es datmen te noemene pleght</l>
+<l>Viantscap onder die heren</l>
+<l>Van viantscap willic v leren</l>
+<l>So wast orloghe ende gheuecht</l>
+<l n="230">Ende orloghe destruweert echt</l>
+<l>En<hi rend="italic">de</hi> uelt steden en<hi rend="italic">de</hi> vaste muren</l>
+<l>Ieghen dat recht der naturen</l>
+<l>En<hi rend="italic">de</hi> wat so ieghen nature strijt</l>
+<l>Onteert steden ende lande wijt</l>
+<l n="235"><hi rend="bold">S</hi>ie da<hi rend="italic">n</hi> lands h<hi rend="italic">er</hi>e dat di bequame</l>
+<l>Si te hebbene goeden name</l>
+<l>Want redene m<hi rend="italic">et</hi> goed<hi rend="italic">er</hi> begherten</l>
+<l>Van goed<hi rend="italic">er</hi> name va<hi rend="italic">n</hi> ghetrouwer h<hi rend="italic">er</hi>te<hi rend="italic">n</hi> </l>
+<l>Heeft die waerheit vercoren</l>
+<l n="240">Ende waerheit es alse wijt horen</l>
+<l>Materie ende wortele mede</l>
+<l>Van alre dueghdachtichede</l>
+<l>Ende es ieghen die loeghene echt</l>
+<l>Van wareit werdt gheboren recht</l>
+<l n="245">Van rechte comt confidentia</l>
+<l>Gaen wire metter dietsche na</l>
+<l>Soe es die dueght die hare ghetroest</l>
+<l>Dat god elken rechten v<hi rend="italic">er</hi>loest</l>
+<l>Van troeste werdt miltheit ghebore<hi rend="italic">n</hi> </l>
+<l n="250">Miltheit mint heymelicheit v<hi rend="italic">er</hi>coren</l>
+<l>Van heymelickeit vrienscap gaet</l>
+<l>En<hi rend="italic">de</hi> vrienscap wint den raet</l>
+<l>Raet gheuet hulpe talre noet</l>
+<l>Die werelt ware bleuen doet</l>
+<l n="255">Ne ware<hi rend="italic">n</hi> die duegheden die wi nome<hi rend="italic">n</hi> </l>
+<l><milestone unit="fol" n="63rb"/> Deene niet vanden and<hi rend="italic">er</hi>en comen</l>
+<l>Want hier mede sijn gheset</l>
+<l>Recht en<hi rend="italic">de</hi> redene ende wet</l>
+<l>Ende dese redene doet bi naturen</l>
+<l n="260">Die menscheit te gad<hi rend="italic">er</hi> gheduren</l>
+<l>Hier o<hi rend="italic">m</hi>me moeten wi mede lijen</l>
+<l>Dat begheerte van heerscapijen</l>
+<l>Om den lof van goeder name</l>
+<l>Es louelijc seere ende bequame</l>
+<l n="265"><hi rend="bold">A</hi>lexander lieue nv sie</l>
+<l>Datmen niet en sie an die</l>
+<l>Ghenouchten van dien lichame</l>
+<l>Die beestelijc sijn en<hi rend="italic">de</hi> ombequame</l>
+<l>En<hi rend="italic">de</hi> verderuelic der eeren</l>
+<l n="270">Die he<hi rend="italic">m</hi> an tfleeschs wille keeren</l>
+<l>Sine v<hi rend="italic">er</hi>stannesse en<hi rend="italic">de</hi> sinen sin</l>
+<l>Van siere zielen v<hi rend="italic">er</hi>derft daer in</l>
+<l>Weelde heuet in haren ghewinne</l>
+<l>Bedect vreeselike minne</l>
+<l n="275">Des vleesch mi<hi rend="italic">n</hi>ne bringht voren</l>
+<l>D<hi rend="italic">aer</hi> ghierecheit af werdt gheboren</l>
+<l>Minne van goede bringt ghereit</l>
+<l>Vore hare die onscamelheit</l>
+<l>Onscamelheit doet verwanen</l>
+<l n="280">Vort wareit laet hare ontspane<hi rend="italic">n</hi> </l>
+<l>En<hi rend="italic">de</hi> comt an donghetrouwechede</l>
+<l>Onghetrouwe uolghet diefte mede</l>
+<l>Diefte lachter ende scande</l>
+<l>Ende karker ende bande</l>
+<l n="285">Dus werdt d<hi rend="italic">er</hi> ghenouchten ende</l>
+<l>Lijfs verlies ende zielen scende</l>
+<l>&#x00B6; Nv betaemt dan telker vren</l>
+<l>En<hi rend="italic">de</hi> ghesciet onrecht der naturen</l>
+<l>Lants he<hi rend="italic">er</hi>en dien dueghet es bequame</l>
+<l n="290">Dat die mare van siere name</l>
+<l>In groter eerliker wijsheden</l>
+<l>Vermaert werde in uele steden</l>
+<l><milestone unit="fol" n="63va"/> En<hi rend="italic">de</hi> hi onder sine edele man</l>
+<l>Wiselike daghedinghen can</l>
+<l n="295">Hier af comt he<hi rend="italic">m</hi> prijs en<hi rend="italic">de</hi> eere</l>
+<l>Ende werter bi ontsien oec seere</l>
+<l>Als sine sien in talen vroet</l>
+<l>En<hi rend="italic">de</hi> hi sine dinghe<hi rend="italic">n</hi> wiselike doet</l>
+<l><hi rend="bold">B</hi>i cleene<hi rend="italic">n</hi> dinghe<hi rend="italic">n</hi> machme<hi rend="italic">n</hi> lere<hi rend="italic">n</hi> </l>
+<l n="300">An dese mechteghe lants here<hi rend="italic">n</hi> </l>
+<l>Weder si wijs sijn ofte niet</l>
+<l>Want wat lants heere<hi rend="italic">n</hi> die des pliet</l>
+<l>Dat hi sijn lant wel beset</l>
+<l>In bedwanghe der gods wet</l>
+<l n="305">Die sal met eeren regneeren</l>
+<l>M<hi rend="italic">aer</hi> die plucken wille ende sceeren</l>
+<l>Sijn volc en<hi rend="italic">de</hi> werpen buten rechte</l>
+<l>Hi laet die steenstrate slechte</l>
+<l>Die met waerden es beset</l>
+<l n="310">En<hi rend="italic">de</hi> ontseghet sijns selues wet</l>
+<l>Entie sire wet niet en rouct</l>
+<l>Die werdt onwert en<hi rend="italic">de</hi> v<hi rend="italic">er</hi>ulouct</l>
+<l>So betaemt dan wel den heere</l>
+<l>Dat hi hem ant rechte keere</l>
+<l n="315">Met gheueinsder herten niet</l>
+<l>Mare alse trouwe en<hi rend="italic">de</hi> recht ghebiet</l>
+<l>Dat alt volc moghe verstaen</l>
+<l>Dat hi gode es onderdaen</l>
+<l>Dan doen die liede haren heere</l>
+<l n="320">Onderdanecheit ende eere</l>
+<l>En<hi rend="italic">de</hi> god die verheftene mede</l>
+<l>Omme sine onderdanichede</l>
+<l>Toeght hi hem buten goet</l>
+<l>En<hi rend="italic">de</hi> ypocrijt es inden moet</l>
+<l n="325">Dats een onghedurech ganc</l>
+<l>Tfolc vernemet eer iet lanc</l>
+<l>Soe werdt hi van gode begheue<hi rend="italic">n</hi> </l>
+<l>Tfolc vermalendijt sijn leuen</l>
+<l>Me<hi rend="italic">n</hi> seghet elkes sins van he<hi rend="italic">m</hi> quaet</l>
+<l n="330"><milestone unit="fol" n="63vb"/> Sine moghenteit te gaet</l>
+<l>Hi v<hi rend="italic">er</hi>liest der werelt eere</l>
+<l>Wat sal derre tale meere</l>
+<l>Scat no precieuse steene</l>
+<l>Ne moghen he<hi rend="italic">m</hi> helpe<hi rend="italic">n</hi> g<hi rend="italic">ro</hi>t no cleene</l>
+<l n="335">Dat he<hi rend="italic">m</hi> e<hi rend="italic">m</hi>mermeer toe quame</l>
+<l>Eere ofte goede name</l>
+<l><hi rend="bold">H</hi>ier toe so betaemt den heere</l>
+<l>Dat hi gherne die wise eere</l>
+<l>Ende liede van goeden leuene</l>
+<l n="340">En<hi rend="italic">de</hi> houde die wise he<hi rend="italic">m</hi> beneuene</l>
+<l>En<hi rend="italic">de</hi> hefse in hoeghen steden</l>
+<l>Met hem spreke van wijsheden</l>
+<l>Met hem vraghe en<hi rend="italic">de</hi> doe toeghen</l>
+<l>Van suaren poenten en<hi rend="italic">de</hi> van hoeghe<hi rend="italic">n</hi> </l>
+<l n="345">Houeschelike hi vraghen moet</l>
+<l>In antwordene wijs en<hi rend="italic">de</hi> vroet</l>
+<l>Die wijste en<hi rend="italic">de</hi> vand<hi rend="italic">er</hi> hoegster gebort</l>
+<l>Meest eeren en<hi rend="italic">de</hi> trecken vort</l>
+<l>Oec moet hem die coninc vorsien</l>
+<l n="350">Wat weselic es wat mach ghescien</l>
+<l>En<hi rend="italic">de</hi> hem daer ieghen besetten</l>
+<l>Want mesfalle te min letten</l>
+<l>Esmer ieghen in die wachte</l>
+<l>Hi moet sijn goedertiere en<hi rend="italic">de</hi> sachte</l>
+<l n="355">En<hi rend="italic">de</hi> co<hi rend="italic">n</hi>nen sinen moet bedwinghe<hi rend="italic">n</hi> </l>
+<l>Ofte hi viele in gra<hi rend="italic">m</hi>men dinghen</l>
+<l>Dat hi gheene haestechede en dade</l>
+<l>En ware bi goeden vor rade</l>
+<l>Vint hi besculdecht sinen moet</l>
+<l n="360">Betert selue so es hi vroet</l>
+<l>Wa<hi rend="italic">n</hi>t die hoegste vroescap es echt</l>
+<l>Dat een he<hi rend="italic">er</hi>e hem seluen berecht</l>
+<l><hi rend="bold">A</hi>lse een heere heuet v<hi rend="italic">er</hi>staen</l>
+<l>Dat een dinc nuttelijc es ghedae<hi rend="italic">n</hi> </l>
+<l n="365">Sette he<hi rend="italic">m</hi> met rade te doene dat</l>
+<l>Si niet te haestech no te lat</l>
+<l><milestone unit="fol" n="64ra"/> Betamelijc eist der heerlijcheden</l>
+<l>Datme<hi rend="italic">n</hi> wel ghecleedt si mede</l>
+<l>En<hi rend="italic">de</hi> ghepareert wel ende scone</l>
+<l n="370">Soe welke<hi rend="italic">n</hi> tijt dat hi hem v<hi rend="italic">er</hi>tone</l>
+<l>En<hi rend="italic">de</hi> dat sine parure si rike</l>
+<l>Alden lieden onghelike</l>
+<l>Dat die w<hi rend="italic">aer</hi>decheit hebbe hare eere</l>
+<l>Entie hoecheit vanden heere</l>
+<l n="375">Bliue daer bi onghescaet</l>
+<l>Entie heere sire bi vermaert</l>
+<l>Manlic luut ende scoene wort</l>
+<l>Trect oec heeren name vort</l>
+<l>Den heeren betaemt oec zekerleke</l>
+<l n="380">Dat hi te uele niet en spreke</l>
+<l>Het en dade tijt ende stonde</l>
+<l>Datmens ombeeren niet en conde</l>
+<l>Hets beter dat der lieder oren</l>
+<l>Nauwe merken ende horen</l>
+<l n="385">En<hi rend="italic">de</hi> dorstich sijn om sheeren tale</l>
+<l>Dan si uersaet waren altemale</l>
+<l><hi rend="bold">W</hi>elken tijt soet so v<hi rend="italic">er</hi>re coemt</l>
+<l>Datme<hi rend="italic">n</hi> lants he<hi rend="italic">er</hi>en he<hi rend="italic">er</hi>en noemt</l>
+<l>Sone voughet hem niet wel</l>
+<l n="390">Dat hi heymelicheit oft spel</l>
+<l>Te vele houdt met sulken p<hi rend="italic">er</hi>sone<hi rend="italic">n</hi> </l>
+<l>Dieme<hi rend="italic">n</hi> vor heere<hi rend="italic">n</hi> n<hi rend="italic">iet</hi> en mach tonen</l>
+<l>Bedi h<hi rend="italic">et</hi> maect den he<hi rend="italic">er</hi>e versmaet</l>
+<l>Alse hi te uele o<hi rend="italic">m</hi>me gaet</l>
+<l n="395">Met onwerden ende met kinden</l>
+<l>Dies so pleghemen in ynden</l>
+<l>Eene vtermaten scoene zede</l>
+<l>Welken tijt so in die moghenthede</l>
+<l>Een niewe coninc es gheset</l>
+<l n="400">Soe hebben si ghemaect een wet</l>
+<l>Dat die coninc eens binden iare</l>
+<l>He<hi rend="italic">m</hi> vertoeghet al openbare</l>
+<l>Vor die ghemeente teere tijt</l>
+<l><milestone unit="fol" n="64rb"/> In sijn coninclijc abijt</l>
+<l n="405">En<hi rend="italic">de</hi> met eeren ghewapent wel</l>
+<l>Op een ors groet en<hi rend="italic">de</hi> snel</l>
+<l>Tscoenste datmen gheuisiere</l>
+<l>V<hi rend="italic">er</hi>dect met wapine<hi rend="italic">n</hi> scoene en<hi rend="italic">de</hi> dieren</l>
+<l>Tghemeente staet van v<hi rend="italic">er</hi>re dan</l>
+<l n="410">En<hi rend="italic">de</hi> bi hem sine edele man</l>
+<l>Te handelne men dan d<hi rend="italic">aer</hi> pleghet</l>
+<l>Dinghe<hi rend="italic">n</hi> d<hi rend="italic">aer</hi> hoeghe dinc an leghet</l>
+<l>Wette ende dinghen v<hi rend="italic">er</hi>claren</l>
+<l>Die te voren bedect waren</l>
+<l n="415">Daer handelt men openbare echt</l>
+<l>Hoemen die ghemeente berecht</l>
+<l>D<hi rend="italic">aer</hi> loent die coninc en<hi rend="italic">de</hi> gheeft</l>
+<l>Hem die wel ghedient heeft</l>
+<l>Entie dan sijn gheuaen</l>
+<l n="420">Met cleenre scout laetmense gaen</l>
+<l>Entie met cheinse sijn verladen</l>
+<l>V<hi rend="italic">er</hi>licht men van haerre scaden</l>
+<l>En<hi rend="italic">de</hi> alse dit dan es ghedaen</l>
+<l>Doet me<hi rend="italic">n</hi> den co<hi rend="italic">ninc</hi> sitten gaen</l>
+<l n="425">So staet een op d<hi rend="italic">er</hi> meest<hi rend="italic">er</hi> he<hi rend="italic">er</hi>en</l>
+<l>Die naest de<hi rend="italic">n</hi> co<hi rend="italic">ninc</hi> meest heeft eere<hi rend="italic">n</hi> </l>
+<l>Ende prijst den coninc dan</l>
+<l>Hoe hi es een gheraect man</l>
+<l>En<hi rend="italic">de</hi> dankets gode van hemelrike</l>
+<l n="430">Dat hi dat yndsce conincrike</l>
+<l>V<hi rend="italic">er</hi>ciert heeft in sulker wisen</l>
+<l>Met so edelen en<hi rend="italic">de</hi> met so wisen</l>
+<l>Ende hi die ghemeente mede</l>
+<l>Met sulker onderhorichede</l>
+<l n="435">Den coninc maect onderdaen</l>
+<l>En<hi rend="italic">de</hi> als dat prisen es ghedaen</l>
+<l>En<hi rend="italic">de</hi> men gode heeft ghelouet</l>
+<l>Die alre weldaden es houet</l>
+<l>Dan danct men d<hi rend="italic">er</hi> ghemeenten al</l>
+<l n="440">Dat si so lieuelike sonder ghescal</l>
+<l><milestone unit="fol" n="64va"/> Diene<hi rend="italic">n</hi> haren gherechten heere</l>
+<l>En<hi rend="italic">de</hi> men troestse vorwaert meere</l>
+<l>Te stane in onderhorichede</l>
+<l>En<hi rend="italic">de</hi> dat si oec in hare ghebede</l>
+<l n="445">Dicke vermanen haers heeren</l>
+<l>Alse dat es ghedaen met eeren</l>
+<l>Alle die ghemeente poeghen</l>
+<l>Hoe si des heeren lof v<hi rend="italic">er</hi>hoeghen</l>
+<l>En<hi rend="italic">de</hi> doen vor hem hare ghebede</l>
+<l n="450">In elke poert in elke stede</l>
+<l>Bidt men o<hi rend="italic">m</hi>me sijn langhe leuen</l>
+<l>Sijn raet wert oec v<hi rend="italic">er</hi>heuen</l>
+<l>In groten loue in groten prise</l>
+<l>Vort so leeren alle die wise</l>
+<l n="455">Vand<hi rend="italic">er</hi> wieghen op hare kindre</l>
+<l>Dat si alle meere ende mindre</l>
+<l>Haren co<hi rend="italic">ninc</hi> eeren en<hi rend="italic">de</hi> minnen</l>
+<l>Dus spreect me<hi rend="italic">n</hi> buten en<hi rend="italic">de</hi> binnen</l>
+<l>Vand<hi rend="italic">er</hi> dueght vande<hi rend="italic">n</hi> lants heere</l>
+<l n="460">Dus leeft hi in groter eere</l>
+<l>Nv pleghet die co<hi rend="italic">ninc</hi> danne mede</l>
+<l>Dat hi die ouerhorichede</l>
+<l>Vande<hi rend="italic">n</hi> quaden lieden wreect</l>
+<l>En<hi rend="italic">de</hi> hise ontlijft en<hi rend="italic">de</hi> sticken breect</l>
+<l n="465">En<hi rend="italic">de</hi> verlicht dan mede daer</l>
+<l>Tributen daer si sijn te swaer</l>
+<l>En<hi rend="italic">de</hi> verlicht vanden coeman</l>
+<l>Sine tolne mede dan</l>
+<l>Ende doesse gheleeden wel</l>
+<l n="470">Dits die zake ende niet el</l>
+<l>Twi so groet volc es in ynden</l>
+<l>Om dat he<hi rend="italic">m</hi> elc d<hi rend="italic">aer</hi> mach bewinden</l>
+<l>Siere neeringhen en<hi rend="italic">de</hi> in vreden</l>
+<l>Coema<hi rend="italic">n</hi>ne draghen tallen steden</l>
+<l n="475">Die eere vanden groten heeren</l>
+<l>Bi he<hi rend="italic">m</hi> eist dat die renten meeren</l>
+<l>Ende biden rade vanden lande</l>
+<l><milestone unit="fol" n="64vb"/> Ontsien den heere sine viande</l>
+<l><hi rend="bold">E</hi>lc lants heere hoedem dies</l>
+<l n="480">Dat hi omden erdsche<hi rend="italic">n</hi> kies</l>
+<l>Niene v<hi rend="italic">er</hi>liese die grote eere</l>
+<l>Die gheduren sal emmermeere</l>
+<l>Scuwe dan wreetheit vande<hi rend="italic">n</hi> dieren</l>
+<l>Dats dat hi in gheere manieren</l>
+<l n="485">Te haestech en si noch te fel</l>
+<l>Hoerse houeschelike ende wel</l>
+<l>En<hi rend="italic">de</hi> si ghenadech ende sochte</l>
+<l>Die hi met wapene<hi rend="italic">n</hi> ond<hi rend="italic">er</hi> brochte</l>
+<l>Scuwe gulsicheit en<hi rend="italic">de</hi> o<hi rend="italic">n</hi>mate</l>
+<l n="490">Beede in dranke ende in ate</l>
+<l>Sijt in slape sijt in spele</l>
+<l>En<hi rend="italic">de</hi> met vrouwen te sine uele</l>
+<l>Want dit es der zwinen zede</l>
+<l>Gheloeft heeren der warede</l>
+<l n="495">Te uele met vrouwen spreken</l>
+<l>Doet den lichame te breken</l>
+<l>En<hi rend="italic">de</hi> cort des menschen leuen</l>
+<l>En<hi rend="italic">de</hi> doet duegheden begheuen</l>
+<l>Wet en<hi rend="italic">de</hi> recht scuwen en<hi rend="italic">de</hi> haten</l>
+<l n="500">En<hi rend="italic">de</hi> wiuelike eenen heere ghelate<hi rend="italic">n</hi> </l>
+<l>En<hi rend="italic">de</hi> maect eenen dorpere doet</l>
+<l>Het betaemt wel heeren groet</l>
+<l>Dat si hebben heymeliken vrient</l>
+<l>Alst gheualt datmen he<hi rend="italic">m</hi> dient</l>
+<l n="505">Vor hem met vedelen in deduut</l>
+<l>Want der musike soete luut</l>
+<l>Doet dicke<hi rend="italic">n</hi> sorghen vergheten</l>
+<l>En<hi rend="italic">de</hi> die ziele wilmen oec weten</l>
+<l>Heuet ghenouchte groet d<hi rend="italic">aer</hi> inne</l>
+<l n="510">En<hi rend="italic">de</hi> daer rusten in die sinne</l>
+<l>Entie lichame comt te rusten</l>
+<l>Eest dat di sulke dinghe lusten</l>
+<l>Ne pleghes langre i<hi rend="italic">n</hi> gheere maniere</l>
+<l>Dan drie daghe ofte viere</l>
+<l n="515"><milestone unit="fol" n="65ra"/> Ende dit doe in heymelijcheden</l>
+<l>En<hi rend="italic">de</hi> alstu best in sulker steden</l>
+<l>So wachti van ouer dranke</l>
+<l>Die metti sitten anden banke</l>
+<l>Laet dien drinken vtermaten</l>
+<l n="520">Dan soudstu dijn spreken laten</l>
+<l>Alse ofte die wijn dijns meest<hi rend="italic">er</hi> ware</l>
+<l>D<hi rend="italic">aer</hi> soudstu hoeren openbare</l>
+<l>Ontdecken vele verhoelne dinghe</l>
+<l>Want d<hi rend="italic">er</hi> dronkenscap es ghehinghe</l>
+<l n="525">D<hi rend="italic">aer</hi> nes heymelijcheit ne gheene</l>
+<l>Omtrent di hout oec ghemeene</l>
+<l>Sond<hi rend="italic">er</hi>linghe wel van trouwen</l>
+<l>Die dorriden ende dorscouwen</l>
+<l>Hoet in dinen lande staet</l>
+<l n="530">En<hi rend="italic">de</hi> du bi hem weets hoet gaet</l>
+<l><hi rend="bold">A</hi>lse du best onder dine baroene</l>
+<l>Eere meest die sij<hi rend="italic">n</hi> va<hi rend="italic">n</hi>de<hi rend="italic">n</hi> hoegste<hi rend="italic">n</hi> doene</l>
+<l>Naer dat si werdech moghe<hi rend="italic">n</hi> wesen</l>
+<l>Noet den ghenen ende nv desen</l>
+<l n="535">Ghef hem cleedre en<hi rend="italic">de</hi> paruren</l>
+<l>Naer dat hi wert es enter nature<hi rend="italic">n</hi> </l>
+<l>Sie dat niemen bi di en si</l>
+<l>Hine kenne dine miltheit vri</l>
+<l>Sie dat ieghenlijc man ontghelt</l>
+<l n="540">Wie dat cracht doet ofte ghewelt</l>
+<l>En<hi rend="italic">de</hi> elkerlijc na sine weerde</l>
+<l>Ouerdadeghe dulle houerde</l>
+<l>Salmen an eenen maten man</l>
+<l>Al anders berechten dan</l>
+<l n="545">Dan an eenen groten heere</l>
+<l>En<hi rend="italic">de</hi> so berechten dat elc leere</l>
+<l>Tomberne sulker ouerdaet</l>
+<l>Bedi eist dat bescreuen staet</l>
+<l>In des wijs esculapius leere</l>
+<l n="550">Dat het recht es dat men eere</l>
+<l>Den lands he<hi rend="italic">er</hi>e die hem te waren</l>
+<l><milestone unit="fol" n="65rb"/> Heere can maken als die aren</l>
+<l>Die dwingt die voglen g<hi rend="italic">ro</hi>t v<hi rend="italic">er</hi>meten</l>
+<l>En<hi rend="italic">de</hi> laet die cranke met he<hi rend="italic">m</hi> eten</l>
+<l n="555">Wie so dan in heeren houe</l>
+<l>Eeneghe dinc doet buten loue</l>
+<l>Men sal proeuen op sinen moet</l>
+<l>Eist dat hijt in spele doet</l>
+<l>So laetment te lichter liden</l>
+<l n="560">Doet hijt oec op beniden</l>
+<l>Of in des lants heeren onwerde</l>
+<l>Men doe dien te hant ten swerde</l>
+<l>In viere dinghen machme<hi rend="italic">n</hi> leeren</l>
+<l>Wie men tellen mach vor heeren</l>
+<l n="565">Dierst es datmen merken moet</l>
+<l>Oft hi es van leuene goet</l>
+<l>Dander es datmen bekinne</l>
+<l>Oft hi heuet der liede minne</l>
+<l>Int derde so merken wi</l>
+<l n="570">Oft hi besceeden milde si</l>
+<l>Ende dat vierde es indien</l>
+<l>Oft hi eerlic es ontsien</l>
+<l><hi rend="bold">E</hi>lc lants he<hi rend="italic">er</hi>e keere hem d<hi rend="italic">aer</hi> toe</l>
+<l>Dat hi sine dinc so doe</l>
+<l n="575">Dat hi sijns volcs herte ghewinne</l>
+<l>Sette daer toe sine sinne</l>
+<l>Dat hi donrecht aue doe</l>
+<l>Sone sal dat volc weten hoe</l>
+<l>Dat si quaet spreken vanden heere</l>
+<l n="580">En<hi rend="italic">de</hi> eist datmen dat spreken ontkeere</l>
+<l>Dats sond<hi rend="italic">er</hi> vreese oft anxt een twint</l>
+<l>Die lants heere en werdt ghemint</l>
+<l>Want breectmen die tale quaet</l>
+<l>Men beneemt die boese daet</l>
+<l n="585">Dies eist eene grote wijshede</l>
+<l>Dat dine hoeghe eerlijchede</l>
+<l>So werden si inder lieder sinne</l>
+<l>Dat si clemme<hi rend="italic">n</hi> bouen de minne</l>
+<l><milestone unit="fol" n="65va"/> <hi rend="bold">M</hi>en leest dat in sijn conincrike</l>
+<l n="590">Die co<hi rend="italic">ninc</hi> es dies reghens ghelike</l>
+<l>Dat een ghifte van gode scoene</l>
+<l>Eene benedictie vanden troene</l>
+<l>Der eerden lijf en<hi rend="italic">de</hi> daer toe mede</l>
+<l>Helpe alder menschelijchede</l>
+<l n="595">Want van reghene coemt g<hi rend="italic">ro</hi>t goet</l>
+<l>En<hi rend="italic">de</hi> in reghene es menech onspoet</l>
+<l>D<hi rend="italic">aer</hi> es in donre ende wederlecht</l>
+<l>Entie riuieren wasser bi echt</l>
+<l>Ende loepen ouer en<hi rend="italic">de</hi> tonstaden</l>
+<l n="600">Dus coemt van reghene dicke scade<hi rend="italic">n</hi> </l>
+<l>Nocht en laetment d<hi rend="italic">aer</hi> bi niet</l>
+<l>Men loefter gode in alst ghesciet</l>
+<l>O<hi rend="italic">m</hi>me tfordeel en<hi rend="italic">de</hi> o<hi rend="italic">m</hi>me die noet</l>
+<l>Al coemt<hi rend="italic">er</hi> somwile scade af groet</l>
+<l n="605">Dies ghelike eist vanden winden</l>
+<l>Die god ter werelt wilde zinden</l>
+<l>Vte sinen ouervloeyden scatte</l>
+<l>Meneghe scade comt o<hi rend="italic">m</hi>me datte</l>
+<l>Alse van storme ende van vloede</l>
+<l n="610">Nochtanne comets vele te goede</l>
+<l>Want me<hi rend="italic">n</hi>ne mochts omberen niet</l>
+<l>Dit selue gheualt en<hi rend="italic">de</hi> ghesciet</l>
+<l>Dicken vandes zomers hitte</l>
+<l>Grote scade ende grote smitte</l>
+<l n="615">En<hi rend="italic">de</hi> so doet vandes winters coude</l>
+<l>V<hi rend="italic">er</hi>noy en<hi rend="italic">de</hi> scade menechfoude</l>
+<l>Nochtanne machme<hi rend="italic">n</hi>s n<hi rend="italic">iet</hi> ombeeren</l>
+<l>Sal hare die meinscheit gheneere<hi rend="italic">n</hi> </l>
+<l>Ende die ander creaturen</l>
+<l n="620">Dus so dunct der scrifturen</l>
+<l>Machme<hi rend="italic">n</hi> van lants heere<hi rend="italic">n</hi> spreke<hi rend="italic">n</hi> </l>
+<l>Al eist dat si yet af breken</l>
+<l>Haren ond<hi rend="italic">er</hi>saten meer dan recht</l>
+<l>Me<hi rend="italic">n</hi>ne machre ombere<hi rend="italic">n</hi> nv no echt</l>
+<l n="625">Want die werelt ware buten eere</l>
+<l><milestone unit="fol" n="65vb"/> En<hi rend="italic">de</hi> sond<hi rend="italic">er</hi> wet waer si sonder heere</l>
+<l><hi rend="bold">L</hi>ants heere merke alse die vroede</l>
+<l>Omme siere liede armoede</l>
+<l>Entie v<hi rend="italic">er</hi>cranct sijn en<hi rend="italic">de</hi> veroudt</l>
+<l n="630">En<hi rend="italic">de</hi> sie datmense op houdt</l>
+<l>En<hi rend="italic">de</hi> daer toe kiese eenen man</l>
+<l>Diet gheerne doet en<hi rend="italic">de</hi> wel doen can</l>
+<l>Dat hi den ghenen sta in staden</l>
+<l>Die arme sijn ende verladen</l>
+<l n="635">Hier bi w<hi rend="italic">er</hi>t die lants he<hi rend="italic">er</hi>e ghemint</l>
+<l>En<hi rend="italic">de</hi> verre in duegheden bekint</l>
+<l>Entie liede werdens vro</l>
+<l>Ende men doet gode lieue also</l>
+<l>Heeren sijn sculdech te vorsiene</l>
+<l n="640">Alse diere tiden pleghe<hi rend="italic">n</hi> te ghesciene</l>
+<l>Dat si van coerne sijn bewist</l>
+<l>In borghen in solres en<hi rend="italic">de</hi> in kist</l>
+<l>Heeren sullen sijn inder hoede</l>
+<l>Te sturtene van menschen bloede</l>
+<l n="645">Want hets eene dorpre mesdaet</l>
+<l>Al eenlike het gode bestaet</l>
+<l>Dat hi steruen doe den man</l>
+<l>Wa<hi rend="italic">n</hi>t hi es die tlijf gheuen can</l>
+<l>En<hi rend="italic">de</hi> diet al bi redenen doet</l>
+<l n="650">Dat es ende was ende wesen moet</l>
+<l>Elc hoedem vorden swaren slach</l>
+<l>Alse v<hi rend="italic">er</hi>re alse recht ghedraghe<hi rend="italic">n</hi> mach</l>
+<l>&#x00B6; Want hermogines die segt</l>
+<l>Dat vor gode te claghene plegt</l>
+<l n="655">Al die macht van hemelrike</l>
+<l>Alse ee<hi rend="italic">n</hi> man v<hi rend="italic">er</hi>slaet sine ghelike</l>
+<l>So langhe gheduert oec die claghe</l>
+<l>Dat god gheldet slach met slaghe</l>
+<l><hi rend="bold">H</hi>eeren sullen horen ieesten</l>
+<l n="660">Vanden wijsten ente<hi rend="italic">n</hi> meesten</l>
+<l>Want dat hier voren es vorleden</l>
+<l>D<hi rend="italic">aer</hi> moghe<hi rend="italic">n</hi> si in horen wijsheden</l>
+<l><milestone unit="fol" n="66ra"/> Ende in vorledenen dinghe<hi rend="italic">n</hi> leere<hi rend="italic">n</hi> </l>
+<l>Hoe men nv die dinc sal keeren</l>
+<l n="665">Noch versmaden noch verhaten</l>
+<l>En sulsi ne<hi rend="italic">m</hi>mermeer den maten</l>
+<l>Want menech werdt in sijn leuen</l>
+<l>Van cleenre dinc op gheheuen</l>
+<l>Ende dan so mach hi beraden</l>
+<l n="670">Lichtelike uele scaden</l>
+<l>Heeren sullen altoes niet breken</l>
+<l>Dat si belouen ende spreken</l>
+<l>Die trouwe breken sijn keytiue</l>
+<l>Si slachten den ghemeenen wiue</l>
+<l n="675">Me<hi rend="italic">n</hi> sal ghetrouwelike in alle<hi rend="italic">n</hi> houe<hi rend="italic">n</hi> </l>
+<l>Houden datmen sal ghelouen</l>
+<l>Wa<hi rend="italic">n</hi>t quade honde volght ontrouwe<hi rend="italic">n</hi> </l>
+<l>Ende al machmen somwile scouwe<hi rend="italic">n</hi> </l>
+<l>Somech vordeel int bedrieghen</l>
+<l n="680">Nochtan [-i]merct wel dat dit lieghe<hi rend="italic">n</hi> </l>
+<l>Alte quade inde coemt</l>
+<l>En<hi rend="italic">de</hi> wie soes volght es v<hi rend="italic">er</hi>doemt</l>
+<l>Van trouwe<hi rend="italic">n</hi> comt alse wijt v<hi rend="italic">er</hi>name<hi rend="italic">n</hi> </l>
+<l>Dat die lieden wonen te samen</l>
+<l n="685">Trouwe heeft ghemaect die steden</l>
+<l>Trouwe houdt de ghemeente i<hi rend="italic">n</hi> vrede<hi rend="italic">n</hi> </l>
+<l>Trouwe maect die heere<hi rend="italic">n</hi> waert</l>
+<l>Trouwe houdt vesten onueruaert</l>
+<l>Drijft die trouwe wt erderike</l>
+<l n="690">So es dat volc alse beesten ghelike</l>
+<l>Lants heere hout dan dine trouwe</l>
+<l>En<hi rend="italic">de</hi> dijn belouen dat bescouwe</l>
+<l>En<hi rend="italic">de</hi> al ware dijn belouen zwaer</l>
+<l>Houdt e<hi rend="italic">m</hi>mer vaste al gaedt di naer</l>
+<l n="695"><hi rend="bold">E</hi>rmegines die grote heere</l>
+<l>Doet ons v<hi rend="italic">er</hi>staen dat e<hi rend="italic">m</hi>mermeere</l>
+<l>Twee gheeste sijn bi onser zide</l>
+<l>Die ons wachten tallen tide</l>
+<l>Die goede gaet ter rechtre hant</l>
+<l n="700"><milestone unit="fol" n="66rb"/> Ter luchtre gaet die viant</l>
+<l>Dese bringhen vorden sceppre al</l>
+<l>Al onse ghewerke groet en<hi rend="italic">de</hi> smal</l>
+<l>Die dies ghelouen en<hi rend="italic">de</hi> merken</l>
+<l>Si scuwen alle quade ghewerken</l>
+<l n="705">Lants he<hi rend="italic">er</hi>en sullen van he<hi rend="italic">m</hi> weeren</l>
+<l>Bi costumen dicken sweeren</l>
+<l>Henne doe noet vtermaten</l>
+<l>Si sullen dat zweeren haten</l>
+<l>Zweeren en betaemt n<hi rend="italic">iet</hi> heeren</l>
+<l n="710">Maer lieden van cranker eeren</l>
+<l>Wat uellede in ouden viten</l>
+<l>Dat staerke rike vanden siten</l>
+<l>Hare coninghe<hi rend="italic">n</hi> plaghe<hi rend="italic">n</hi> ghereede</l>
+<l>Dorperlike valsche eede</l>
+<l n="715">Omme te bedrieghene mede</l>
+<l>Waest borch casteel lant oft stede</l>
+<l>Ende braken recht ende wet</l>
+<l>Die inden lande waren gheset</l>
+<l>O<hi rend="italic">m</hi>me der ghemeenten onsalichede</l>
+<l n="720">Des en wilde die godlichede</l>
+<l>Altoes langher niet ghedoeghen</l>
+<l>En<hi rend="italic">de</hi> v<hi rend="italic">er</hi>stacse van sinen oeghen</l>
+<l>Alse di een dinc es ontganghen</l>
+<l>Die du niet en moghes ghelanghe<hi rend="italic">n</hi> </l>
+<l n="725">Laet di niet te seere rouwen</l>
+<l>Wa<hi rend="italic">n</hi>t h<hi rend="italic">et</hi> betaemt de<hi rend="italic">n</hi> cranke<hi rend="italic">n</hi> v<hi rend="italic">ro</hi>uwen</l>
+<l>Wes ghestadech ende vrome</l>
+<l>En<hi rend="italic">de</hi> houesch so hoe dat come</l>
+<l>Wes dueghedachtech in allen rade</l>
+<l n="730">Ende hout dine macht ghestade</l>
+<l>Inde stede van dire moghenthede</l>
+<l>Maec scole en<hi rend="italic">de</hi> doe leeren mede</l>
+<l>Die kindere van dinen lande</l>
+<l>Sijn si arem wlle he<hi rend="italic">m</hi> die hande</l>
+<l n="735">Doe hem houesscheit ende eere</l>
+<l>Dat elc ghewillichlike leere</l>
+<l><milestone unit="fol" n="66va"/> Hier bi soutstu die clerke wecken</l>
+<l>Dat si dine eere voert trecken</l>
+<l>En<hi rend="italic">de</hi> si breeden dinen name</l>
+<l n="740">In ieesten in worden bequame</l>
+<l>Clergie eert een conincrike</l>
+<l>En<hi rend="italic">de</hi> heere<hi rend="italic">n</hi> hof seere edellike</l>
+<l>Wie verhief wilen so scoene</l>
+<l>In die werelt die griecsche croene</l>
+<l n="745">D<hi rend="italic">aer</hi> na rome nv vrankerike</l>
+<l>Clergie doedt al sekerlike</l>
+<l>Wa<hi rend="italic">n</hi>t ridderscap w<hi rend="italic">er</hi>t niet v<hi rend="italic">er</hi>heuen</l>
+<l>Clergie en moest<hi rend="italic">er</hi> raet toe gheuen</l>
+<l><hi rend="bold">A</hi>lexander hoet di dies</l>
+<l n="750">Dat di gheen wijf make ries</l>
+<l>Set dine ziele niet in hare hant</l>
+<l>En<hi rend="italic">de</hi> oft emmer so si bewant</l>
+<l>Dattu di boeghe<hi rend="italic">n</hi> moets ten v<hi rend="italic">ro</hi>uwe<hi rend="italic">n</hi> </l>
+<l>So soeke eene di du moghes bet<hi rend="italic">ro</hi>uwe<hi rend="italic">n</hi> </l>
+<l n="755">Want alse eene vrouwe doet</l>
+<l>Met di dat hare dunct goet</l>
+<l>So bestu al hare beuolen</l>
+<l>Dijn lijf es hare wat holpt v<hi rend="italic">er</hi>holen</l>
+<l>Wes van venine in groter hoede</l>
+<l n="760">Hout di an fisicine an vroede</l>
+<l>En<hi rend="italic">de</hi> hout di n<hi rend="italic">iet</hi> an eenen alleene</l>
+<l>Want wers moghe<hi rend="italic">n</hi> int ghemeene</l>
+<l>Vele eenen heere begheuen</l>
+<l>Dan een alleene bestu bedreuen</l>
+<l n="765">Te nemene eene medicine</l>
+<l>Doese vor di come<hi rend="italic">n</hi> en<hi rend="italic">de</hi> vor di dine</l>
+<l>En<hi rend="italic">de</hi> bi ghemeenen gansen rade</l>
+<l>Nem medicine vroe en<hi rend="italic">de</hi> spade</l>
+<l><hi rend="bold">A</hi>lexander ghedinkets di</l>
+<l n="770">Dat die coninghen van endi</l>
+<l>Di senden menech diere prosent</l>
+<l>En<hi rend="italic">de</hi> hoemen di heeft ghesent</l>
+<l>Mettien iuweelen eene iueght</l>
+<l><milestone unit="fol" n="66vb"/> D<hi rend="italic">aer</hi> du welnaer bi waers onthueght</l>
+<l n="775">Want si was oec op ghehouden</l>
+<l>Van kintschen daghe<hi rend="italic">n</hi> totier ouden</l>
+<l>Met venine tote opten dach</l>
+<l>Ne ware dat ict an hare versach</l>
+<l>Du waers onteert van dine<hi rend="italic">n</hi> liue</l>
+<l n="780">In die begheerte van dien wiue</l>
+<l>Dien hare ghenaecte of die<hi rend="italic">n</hi> si beet</l>
+<l>Die staerf alte hant ghereet</l>
+<l>Mocht di eenechsins ghescien</l>
+<l>Ic woude du hads eenen astromien</l>
+<l n="785">Ende du en daeds vroe no spade</l>
+<l>Het en ware bi sinen rade</l>
+<l>Want god ne maecte noyt dinc</l>
+<l>Die hi met redenen n<hi rend="italic">iet</hi> en beuinc</l>
+<l>Ende hier vant die wise platoen</l>
+<l n="790">In sterren der naturen doen</l>
+<l>Entie nature vanden sterren</l>
+<l>En laet di niet also verwerren</l>
+<l>Dattu volghes den ghenen naer</l>
+<l>Die segghe<hi rend="italic">n</hi> conste van sterre<hi rend="italic">n</hi> es w<hi rend="italic">aer</hi> </l>
+<l n="795">Ende diere can niemen ghenaken</l>
+<l>Sine weten wat si maken</l>
+<l>Want ghene dinc es he<hi rend="italic">m</hi> te zwaer</l>
+<l>Die van sinne es reene en<hi rend="italic">de</hi> claer</l>
+<l>Andre domme te sprekene plien</l>
+<l n="800">God heuet vorseit en<hi rend="italic">de</hi> vorsien</l>
+<l>Van ane beghinne hoet al sal come<hi rend="italic">n</hi> </l>
+<l>En<hi rend="italic">de</hi> hier o<hi rend="italic">m</hi>me en maegt n<hi rend="italic">iet</hi> vrome<hi rend="italic">n</hi> </l>
+<l>Al vorweetmen die dinc al</l>
+<l>Hoe dat si gheuallen sal</l>
+<l n="805">Want sijn vorsegghe<hi rend="italic">n</hi> moet wlcome<hi rend="italic">n</hi> </l>
+<l>Wat mach dan conste va<hi rend="italic">n</hi> sterre<hi rend="italic">n</hi> vrome<hi rend="italic">n</hi> </l>
+<l><hi rend="bold">H</hi>ier op es dus dantworde mijn</l>
+<l>Al eist dat zomeghe dinghe sijn</l>
+<l>Die e<hi rend="italic">m</hi>mer voert moeten ghescien</l>
+<l n="810">Entie men niet en mach ontulien</l>
+<l><milestone unit="fol" n="67ra"/> Eist datmense te voren weet</l>
+<l>Met mind<hi rend="italic">er</hi>e smerte<hi rend="italic">n</hi> ontfaet me<hi rend="italic">n</hi> leet</l>
+<l>En<hi rend="italic">de</hi> lichteliker machme<hi rend="italic">n</hi>t som vlien</l>
+<l>Dan oft niet en ware vorsien</l>
+<l n="815">En<hi rend="italic">de</hi> maecter doch ieghen iet weere<hi rend="italic">n</hi> </l>
+<l>Dits eenrande scuwen sond<hi rend="italic">er</hi> deere<hi rend="italic">n</hi> </l>
+<l>Sieter hier een exempel ieghen</l>
+<l>Ic weet wel h<hi rend="italic">et</hi> sal g<hi rend="italic">ro</hi>t wint<hi rend="italic">er</hi> pleghe<hi rend="italic">n</hi> </l>
+<l>Ic gadere berninghe ende hout</l>
+<l n="820">Ende make pelsen ieghent cout</l>
+<l>En<hi rend="italic">de</hi> spise mijn huus d<hi rend="italic">aer</hi> ieghen</l>
+<l>So maghic bet des winters pleghe<hi rend="italic">n</hi> </l>
+<l>Want sin ende vorsienichede</l>
+<l>Gaf god der menschelijchede</l>
+<l n="825">Dat hem elc daer bi verhoet</l>
+<l>Vor dinc die gheuallen moet</l>
+<l>En<hi rend="italic">de</hi> oec alsmen die plaghe vorweet</l>
+<l>So salmen bidden seere en<hi rend="italic">de</hi> ghereet</l>
+<l>Den ouersten oemoedelike</l>
+<l n="830">Dat hi hem deele ontfaermelike</l>
+<l>Sine hantghewerke en<hi rend="italic">de</hi> dor sine eere</l>
+<l>Die plaghe ten besten keere</l>
+<l>Want god en sette in sine gewerke</l>
+<l>Noyt soe cranke dinc no so sterke</l>
+<l n="835">Die siere macht dede ghewelt</l>
+<l>Wilde hi hine ghinc .i. and<hi rend="italic">er</hi>en telt</l>
+<l>Men mach den ouersten de<hi rend="italic">n</hi> hoeghe<hi rend="italic">n</hi> </l>
+<l>Met beden ende m<hi rend="italic">et</hi> weldade<hi rend="italic">n</hi> boeghe<hi rend="italic">n</hi> </l>
+<l><hi rend="bold">N</hi>v laten wi dese saken dan</l>
+<l n="840">Vorsienecheit prijst elc vroet ma<hi rend="italic">n</hi> </l>
+<l>En<hi rend="italic">de</hi> v<hi rend="italic">er</hi>staet wel ghi lants heeren</l>
+<l>Dat aristotiles hier wille leeren</l>
+<l>Hoe die mensche talre stont</l>
+<l>Sinen lichame sal houden ghesont</l>
+<l n="845">Datme<hi rend="italic">n</hi> gheens meest<hi rend="italic">er</hi>s hebbe noet</l>
+<l>Want hets wijsheit noch also g<hi rend="italic">ro</hi>t</l>
+<l>Te leuene sonder euels pine</l>
+<l><milestone unit="fol" n="67rb"/> Dan eenegherande medicine</l>
+<l>Ghesonde es grote nuttelijchede</l>
+<l n="850">Die werelt te berechten mede</l>
+<l>Men sal weten ende verstaen</l>
+<l>Dat ne gheene weghe en gaen</l>
+<l>D<hi rend="italic">aer</hi> men bi in eeneghen daghen</l>
+<l>Eere ofte vordeel mach beiaghen</l>
+<l n="855">Henne si datme<hi rend="italic">n</hi> den wech ghewinne</l>
+<l>Van claren verstandelen sinne</l>
+<l>En<hi rend="italic">de</hi> niemen es die den wech vonde</l>
+<l>Hine hadde des lichame<hi rend="italic">n</hi> ghesonde</l>
+<l>Ende ghesonde ennes gheen</l>
+<l n="860">Hen si dat draghen ouer een</l>
+<l>Die complexien daer men mede</l>
+<l>V<hi rend="italic">er</hi>sament es in die menschelijchede</l>
+<l>En<hi rend="italic">de</hi> co<hi rend="italic">m</hi>plexie es el ne gheene dinghe</l>
+<l>Dan gheuoeghe temperinghe</l>
+<l n="865">Vander vuchteit des lichamen</l>
+<l>Ende god diet al hoet te samen</l>
+<l>Heuet beset met redenen al</l>
+<l>Hoeme<hi rend="italic">n</hi> die vuchtetheit tempren sal</l>
+<l>Ende hoemen bliuen sal ghesont</l>
+<l n="870">Ende heuet dit ghemaect cont</l>
+<l>Sinen wisen vte vercoren</l>
+<l>Van dien begonstent eerst horen</l>
+<l>Die van ynden ende die persiene</l>
+<l>Die grieken entie latiene</l>
+<l n="875">In welken boecken men ne vint</l>
+<l>Van onwarheden niet een twint</l>
+<l><hi rend="bold">N</hi>v quamen die wise te samen</l>
+<l>D<hi rend="italic">aer</hi> si haren raet doe namen</l>
+<l>Ende vonden in hare<hi rend="italic">n</hi> parlemente<hi rend="italic">n</hi> </l>
+<l n="880">Dat vanden viere elementen</l>
+<l>Die ouer een niet draghe<hi rend="italic">n</hi> co<hi rend="italic">n</hi>nen</l>
+<l>Smenschen lichame es beghonnen</l>
+<l>Dats vier lucht water en<hi rend="italic">de</hi> aerde</l>
+<l>In deser wijsheit he<hi rend="italic">m</hi> verbaerde</l>
+<l n="885"><milestone unit="fol" n="67va"/> Die redene dat in gheere wise</l>
+<l>Die lichame sond<hi rend="italic">er</hi> dranc en<hi rend="italic">de</hi> spise</l>
+<l>Vande<hi rend="italic">n</hi> mensche en mach ghestaen</l>
+<l>En<hi rend="italic">de</hi> wille hi dies te vele ontfaen</l>
+<l>Of te lettel hine caens ontgaen</l>
+<l n="890">Hine moet in die ziecheit slaen</l>
+<l>En<hi rend="italic">de</hi> wildi dies nutten te maten</l>
+<l>Hem quamer af uele baten</l>
+<l>Cracht lichteit en<hi rend="italic">de</hi> scoenhede</l>
+<l>En<hi rend="italic">de</hi> menegherande salichede</l>
+<l n="895">Oec seiden die wise vte eenen monde</l>
+<l>Wie so mate niet houden en conde</l>
+<l>In vullen ende in ydelen lichame</l>
+<l>In slape in wakene hoe dat quame</l>
+<l>In temperinghen vanden liue</l>
+<l n="900">Sijt inde verdecheit ofte int stiue</l>
+<l>In rustene oft in arbeide</l>
+<l>In latene bloet in houdene beide</l>
+<l>Diene mach altoes niet ontgaen</l>
+<l>Hine moet sware ziecheit ontfaen</l>
+<l n="905">Entie bi maten leuen can</l>
+<l>Die mach sijn een ghesont man</l>
+<l>En<hi rend="italic">de</hi> leuen sine vulle daghe</l>
+<l>Sond<hi rend="italic">er</hi> eeneghes euels plaghe</l>
+<l>Ende oec seiden die wise mede</l>
+<l n="910">Dat alle die gheuoughelijchede</l>
+<l>Die me<hi rend="italic">n</hi> ter werelt vindt e<hi rend="italic">m</hi>merme<hi rend="italic">er</hi>re</l>
+<l>Eist weelde goet ghenouchte oft eere</l>
+<l>Dat dat vonden heeft nature</l>
+<l>Dat die menscheit d<hi rend="italic">aer</hi> bi ghedure</l>
+<l n="915">Wie so leuen dan begheert</l>
+<l>Beiaghe dan en<hi rend="italic">de</hi> hebbe weert</l>
+<l>Sulke dinc die daer toe doeghe</l>
+<l>D<hi rend="italic">aer</hi> dlijf bi gheduren moeghe</l>
+<l>Ende late sinen wille varen</l>
+<l n="920">Hine sal sijn vleesch niet v<hi rend="italic">er</hi>swaren</l>
+<l>Met ouerdrancke met ouerate</l>
+<l><milestone unit="fol" n="67vb"/> Men vindt dat van ypocrate</l>
+<l>Dat hi besedt hadde sijn eten</l>
+<l>Met vasten nauwe dyeten</l>
+<l n="925">En<hi rend="italic">de</hi> hi so langhe cleene at en<hi rend="italic">de</hi> dranc</l>
+<l>Dat hi w<hi rend="italic">ar</hi>t van liue cranc</l>
+<l>Doe sp<hi rend="italic">ra</hi>c sijn iongre meest<hi rend="italic">er</hi> heere</l>
+<l>Wilstu eten wel ende seere</l>
+<l>Dune hads ghene noet dan das</l>
+<l n="930">Doe antworde ypocras</l>
+<l>Lieue ic wille eten bedi</l>
+<l>O<hi rend="italic">m</hi>me dat ic wille leuen d<hi rend="italic">aer</hi> bi</l>
+<l>Niet leuen in sulker wise</l>
+<l>Alse o<hi rend="italic">m</hi>me die mi<hi rend="italic">n</hi>ne vand<hi rend="italic">er</hi> spise</l>
+<l n="935">Die spise es ghemaect bidi</l>
+<l>Dat vleesch gheuoedt si daer bi</l>
+<l>Entie lichame nes min no meere</l>
+<l>Niet ghemaect o<hi rend="italic">m</hi>me der spisen eere</l>
+<l>Men heuet vele wiser ghesien</l>
+<l n="940">Die hem plaghe<hi rend="italic">n</hi> der spisen ontien</l>
+<l>Entie bi dyeten ghinghen</l>
+<l>Ghetempert wel van hare<hi rend="italic">n</hi> dinghe<hi rend="italic">n</hi> </l>
+<l>Die waren van liue ghesont</l>
+<l>Wel arbeidende talre stont</l>
+<l n="945">Langhe leuende smakende wel</l>
+<l>En<hi rend="italic">de</hi> van liue dapper ende snel</l>
+<l>En<hi rend="italic">de</hi> dits openbaer te siene</l>
+<l>An die magre arabiene</l>
+<l>Die snellike met cleenre pinen</l>
+<l n="950">Doerloepen g<hi rend="italic">ro</hi>te breede woestinen</l>
+<l>So nes ghene medicine so goet</l>
+<l>Dan datmen ouerdaet af doet</l>
+<l><hi rend="bold">D</hi>ie houden wille sine ghesonde</l>
+<l>Twee dinghe merke talre stonde</l>
+<l n="955">Deen es datmen in elker wise</l>
+<l>Nutte sulken dranc en<hi rend="italic">de</hi> spise</l>
+<l>Die ghetidech es int iaer</l>
+<l>En<hi rend="italic">de</hi> naer dien dat hi selue zwaer</l>
+<l><milestone unit="fol" n="68ra"/> Ofte ionc van daghen si</l>
+<l n="960">Ende daer sine nature bi</l>
+<l>Ghehouden es en<hi rend="italic">de</hi> op gheuoedt</l>
+<l>&#x00B6; Dander dat hi houden moet</l>
+<l>Dats dat hi sinen lichame mede</l>
+<l>Moet vander onuertuldechede</l>
+<l>D<hi rend="italic">aer</hi> die quade humuren af risen</l>
+<l n="965">Sweren alse die meesters wisen</l>
+<l>Een lichame bi naturen heet</l>
+<l>Ende te verduwene ghereet</l>
+<l>Dien sijn groeue spisen goet</l>
+<l n="970">Wantse die groete hitte verdoet</l>
+<l>Een durre lichame en<hi rend="italic">de</hi> een cout</l>
+<l>Lichte spise es sijn behout</l>
+<l>Dus die leuen sal ghesont</l>
+<l>Die moet nutten talre stont</l>
+<l n="975">Sulke spise sulken dranc</l>
+<l>Alse siere complexien es belanc</l>
+<l>Hoert hoement buten v<hi rend="italic">er</hi>staet</l>
+<l>Weder die maghe es goet so quaet</l>
+<l>Maghe die verduwet wel</l>
+<l n="980">Maect den lichame dapper en<hi rend="italic">de</hi> snel</l>
+<l>En<hi rend="italic">de</hi> maect den sin claer va<hi rend="italic">n</hi> wetene</l>
+<l>En<hi rend="italic">de</hi> goede smake en<hi rend="italic">de</hi> lust van etene</l>
+<l>D<hi rend="italic">er</hi> cranker maghe<hi rend="italic">n</hi> teekine sij<hi rend="italic">n</hi> claer</l>
+<l>Alse die lichame es traech en<hi rend="italic">de</hi> zw<hi rend="italic">aer</hi> </l>
+<l n="985">En<hi rend="italic">de</hi> men danscijn te blasen siet</l>
+<l>En<hi rend="italic">de</hi> me<hi rend="italic">n</hi> dicke<hi rend="italic">n</hi> te gheeuwene pliet</l>
+<l>En<hi rend="italic">de</hi> swaer sijn die oghe lede</l>
+<l>Leelicheit vte werpen mede</l>
+<l>Dat bitter scaerp es ende nat</l>
+<l n="990">Ende quade roke si in dat</l>
+<l>Hier af coemt in derre wise</l>
+<l>Dat hem lettel lust der spise</l>
+<l>In desen dinghen wese elc vroede</l>
+<l>Siere ghesonden in g<hi rend="italic">ro</hi>ter hoede</l>
+<l n="995">Vor maeltijt eist pinen goet</l>
+<l><milestone unit="fol" n="68rb"/> Wa<hi rend="italic">n</hi>t die maghe v<hi rend="italic">er</hi>waermen doet</l>
+<l>Pinen na maeltide verswaert</l>
+<l>Want die spise valt nederwaert</l>
+<l>Inder maghen gront al ro</l>
+<l n="1000">En<hi rend="italic">de</hi> sluudt den dorganc also</l>
+<l>D<hi rend="italic">aer</hi> af coemt menich verdriet</l>
+<l>Datme<hi rend="italic">n</hi> vormaels slapens pliet</l>
+<l>V<hi rend="italic">er</hi>maghert des menschen lede</l>
+<l>En<hi rend="italic">de</hi> verdroeghet die vuchtechede</l>
+<l n="1005">Datmen namaels slapens acht</l>
+<l>Dat voedt wel en<hi rend="italic">de</hi> gheuet cracht</l>
+<l>Want die hitte die hare deelt</l>
+<l>In allen den leden tsamen heelt</l>
+<l>En<hi rend="italic">de</hi> v<hi rend="italic">er</hi>hidt die maghe binnen</l>
+<l n="1010">Dat si die spise al mach v<hi rend="italic">er</hi>winnen</l>
+<l>Entie redene entie sinne</l>
+<l>Rusten dan met g<hi rend="italic">ro</hi>ter mi<hi rend="italic">n</hi>ne</l>
+<l><hi rend="bold">H</hi>ier o<hi rend="italic">m</hi>me segghe<hi rend="italic">n</hi> someghe wise</l>
+<l>Dat bet voedt die auontspise</l>
+<l n="1015">Dan die middach spise doet</l>
+<l>Want daeghs hitte entie moet</l>
+<l>Die dan es al ongheroe</l>
+<l>Soe siet dat die spise verdoe</l>
+<l>Entie maghe werdt cout en<hi rend="italic">de</hi> cranc</l>
+<l n="1020">Dus v<hi rend="italic">er</hi>deerft der spisen ganc</l>
+<l>Sauonts eist anders ghescepen</l>
+<l>So werdt die maghe m<hi rend="italic">et</hi> hitte<hi rend="italic">n</hi> begrepe<hi rend="italic">n</hi> </l>
+<l>En<hi rend="italic">de</hi> so rusten alle die sinne</l>
+<l>Dat coemt der ghesonde<hi rend="italic">n</hi> te ghewi<hi rend="italic">n</hi>ne</l>
+<l n="1025">Oec eist recht dat elc man sie</l>
+<l>Of hi tweeweruen etens plie</l>
+<l>Dat hi niet en vaste teenen male</l>
+<l>Entie eens etet also wale</l>
+<l>Van costumen dat hi scuwe</l>
+<l n="1030">Tweeweruen tetene ouer nuwe</l>
+<l>Het mach he<hi rend="italic">m</hi> els werden te sure</l>
+<l>Pleghinghe es eene andre nature</l>
+<l><milestone unit="fol" n="68va"/> Moetmen oec costumen ontkeeren</l>
+<l>Dat moetme<hi rend="italic">n</hi> der naturen leeren</l>
+<l n="1035">Va<hi rend="italic">n</hi> wile<hi rend="italic">n</hi> te wile<hi rend="italic">n</hi> va<hi rend="italic">n</hi> daghe te daghe</l>
+<l>So langhe dat nature verdraghe</l>
+<l>Elc hoedem dat hi niet en ete</l>
+<l>Vor hi wel die waerheit wete</l>
+<l>Dat die maghe hebbe v<hi rend="italic">er</hi>daen</l>
+<l n="1040">Die spise die si heeft ontfaen</l>
+<l>En<hi rend="italic">de</hi> dat machmen d<hi rend="italic">aer</hi> bi weten</l>
+<l>Alse eenen seere langhet o<hi rend="italic">m</hi>me eten</l>
+<l>En<hi rend="italic">de</hi> hem dat spudinne en<hi rend="italic">de</hi> claer</l>
+<l>Ten monde coemt vloeyende daer</l>
+<l n="1045">Want die spise op spise laedt</l>
+<l>Seere hi der naturen scaedt</l>
+<l>Niemene en si te onghereet</l>
+<l>Alse hem hongher ane gheet</l>
+<l>Hine ete metter vaert</l>
+<l n="1050">Want eist dat hi langhe spaert</l>
+<l>So coemt eene vuchticheit swaer</l>
+<l>En<hi rend="italic">de</hi> een roec en<hi rend="italic">de</hi> vervullet daer</l>
+<l>Die maghe entie sijn harde quaet</l>
+<l>Want als tgheent te<hi rend="italic">n</hi> hersenen gaet</l>
+<l n="1055">So werdt si verstoremt dan</l>
+<l>Entie hongher vergaet voert an</l>
+<l>En<hi rend="italic">de</hi> al eist datmen ten eten comt</l>
+<l>Weedt dat die spise lettel vromt</l>
+<l><hi rend="bold">V</hi>iere tiden sijn binnen den iare</l>
+<l n="1060">Die lentijn beghinnet dare</l>
+<l>D<hi rend="italic">aer</hi> in maerte der sonnen ganc</l>
+<l>Dach en<hi rend="italic">de</hi> nacht maect euen lanc</l>
+<l>Dan v<hi rend="italic">er</hi>niewet lijf ende lucht</l>
+<l>Die winde vlieghen hare vlucht</l>
+<l n="1065">Die snee verdoyt altemale</l>
+<l>Die beken loepen in dien dale</l>
+<l>Die fonteynen werden ghier</l>
+<l>Men siet op waert clemmen hier</l>
+<l>Dat zap in die boeme droeghe</l>
+<l n="1070"><milestone unit="fol" n="68vb"/> Tcoeren werdt groene int hoeghe</l>
+<l>Die merschen die werden vro</l>
+<l>Bloemen toeghe<hi rend="italic">n</hi> hem also</l>
+<l>Beesten bringhen hare vrucht</l>
+<l>Voghele singhen in die lucht</l>
+<l n="1075">Leewerken ende nachtegale</l>
+<l>Singhen dan scoene en<hi rend="italic">de</hi> wale</l>
+<l>Die erde die verciert hare al</l>
+<l>Alse die bruut die comen sal</l>
+<l>Te manne ende hare pareert</l>
+<l n="1080">En<hi rend="italic">de</hi> dat huwelijc begheert</l>
+<l>Die lentijn es warem en<hi rend="italic">de</hi> nat</l>
+<l>Ende der lucht gheliker dat</l>
+<l>Inden mensche wast dat bloet</l>
+<l>Ende loept alse eene vloet</l>
+<l n="1085">In smenschen lede harentare</l>
+<l>Ghetidech es dan ende mare</l>
+<l>Quackelen en<hi rend="italic">de</hi> kiekine van hinne<hi rend="italic">n</hi> </l>
+<l>Eyeren dieme<hi rend="italic">n</hi> goet mach ghewinne<hi rend="italic">n</hi> </l>
+<l>Nemmeer dan .vi. te male</l>
+<l n="1090">Gheetine melc es ghetidech wale</l>
+<l>Ende van crude wilde latuwe</l>
+<l>Laten es dan ghetidech en<hi rend="italic">de</hi> nuwe</l>
+<l>En<hi rend="italic">de</hi> te<hi rend="italic">n</hi> ghene<hi rend="italic">n</hi> tiden int iaer so goet</l>
+<l>Baden heeft dan groten spoet</l>
+<l n="1095">Ende zweeten ende pinen</l>
+<l>Dan salmen nemen medicinen</l>
+<l>Die den lichame verdech maken</l>
+<l>Want alle crude dan wel smaken</l>
+<l><hi rend="bold">D</hi>ie rechte somer coemt in</l>
+<l n="1100">Als die zonne neemt beghin</l>
+<l>Inden lancsten dach vanden iare</l>
+<l>Alle vaerwe vertoeght hare</l>
+<l>Die winde metter hitten ontsteken</l>
+<l>Die zee laedt hare hoeghe breken</l>
+<l n="1105">Serpente wassen dan en<hi rend="italic">de</hi> venijn</l>
+<l>Die lucht werdt claer en<hi rend="italic">de</hi> fijn</l>
+<l><milestone unit="fol" n="69ra"/> Tcoeren werdt wit en<hi rend="italic">de</hi> vaert</l>
+<l>Henen tsiere rijpheit waert</l>
+<l>En<hi rend="italic">de</hi> die werelt werdt alse die bruut</l>
+<l n="1110">Die hare wlwassen toeghet al vut</l>
+<l>Ende met vruchten al volladen</l>
+<l>Alse diet al wille beraden</l>
+<l>Die zomer es heet en<hi rend="italic">de</hi> droeghe</l>
+<l>En<hi rend="italic">de</hi> dan betaempt wel dat elc poeghe</l>
+<l n="1115">Te scuwene waer so hi gheet</l>
+<l>Wat dat droeghe es ende heet</l>
+<l>Scuwe ouer dranc en<hi rend="italic">de</hi> ouer ate</l>
+<l>Ete dan te siere bate</l>
+<l>Wat so cout es en<hi rend="italic">de</hi> nat</l>
+<l n="1120">Want het es ghetidech dat</l>
+<l>Alse calf vleesch metten aysine</l>
+<l>Cauwoerden coude crudekine</l>
+<l>Witte kiekine cout van naturen</l>
+<l>Make<hi rend="italic">n</hi> polument te sulker vren</l>
+<l n="1125">Van gheerstinen meele ete zaken</l>
+<l>En<hi rend="italic">de</hi> fruut van suerre smaken</l>
+<l>Sulke alse sijn prumeghernate</l>
+<l>Scuwe vrouwen bouen maten</l>
+<l>Menne sal baden dan no laten</l>
+<l n="1130">En doe noet vtermaten</l>
+<l>Ende hets quaet elken man</l>
+<l>Vele pinen sinen lichame dan</l>
+<l><hi rend="bold">H</hi>erfst comt als d<hi rend="italic">er</hi> zonnen ganc</l>
+<l>Vor winter maect euen lanc</l>
+<l n="1135">Beede dach ende nacht</l>
+<l>D<hi rend="italic">aer</hi> beghinnet sine cracht</l>
+<l>Die nacht gaet dan boue<hi rend="italic">n</hi> den daghe</l>
+<l>Die lucht v<hi rend="italic">er</hi>coudt dan alle slaghe</l>
+<l>Die winden sijn dan alle zwaer</l>
+<l n="1140">Riuieren minderen verre en<hi rend="italic">de</hi> naer</l>
+<l>Fonteyne<hi rend="italic">n</hi> droeghe<hi rend="italic">n</hi> groenheit te gaet</l>
+<l>Die scoenheit vand<hi rend="italic">er</hi> erden wed<hi rend="italic">er</hi> slaet</l>
+<l>Wilde diere souken hole</l>
+<l><milestone unit="fol" n="69rb"/> Vogle met groten scole</l>
+<l n="1145">Vlieghe<hi rend="italic">n</hi> o<hi rend="italic">m</hi>me waerme lande te vinde<hi rend="italic">n</hi> </l>
+<l>Serpenten crupen ende winden</l>
+<l>D<hi rend="italic">aer</hi> si dien winter onthouden tlijf</l>
+<l>Die werelt es dan alse een wijf</l>
+<l>Die hare iueghet heuet leden</l>
+<l n="1150">En<hi rend="italic">de</hi> nv meer tijdt ter outheden</l>
+<l>Herfst es droeghe ende cout</l>
+<l>So eist tijt datmen an spise hout</l>
+<l>Warem en<hi rend="italic">de</hi> vucht alst kiekijn of tlam</l>
+<l>Out wijn es dan wel betam</l>
+<l n="1155">Wijn besien sijn goet in dien tiden</l>
+<l>Hets dan beter pinen en<hi rend="italic">de</hi> riden</l>
+<l>Bade sijn goet dan en<hi rend="italic">de</hi> pusoene</l>
+<l>Op dats een mensche heuet te doene</l>
+<l>Hets goet dan keeren vter maghe</l>
+<l n="1160">Te maten int heetste vanden daghe</l>
+<l>Den lichame es goet zuueren dan</l>
+<l>Op dats noet hebbe die man <hi rend="bold">.</hi> </l>
+<l><hi rend="bold">D</hi>an beghint des winters cracht</l>
+<l>Als alre lancste es die nacht</l>
+<l n="1165">Entie daghe beghinnen dyen</l>
+<l>Tcoude gaet ons an castien</l>
+<l>Winde vorst rijm ende snee</l>
+<l>In holen boemen sijn dan mee</l>
+<l>Beede voglen ende beesten</l>
+<l n="1170">Dan het sijn inden foreesten</l>
+<l>En<hi rend="italic">de</hi> es die erde inder ghebare</l>
+<l>Als oft eene oude quene ware</l>
+<l>Arem en<hi rend="italic">de</hi> in crankeden groet</l>
+<l>En<hi rend="italic">de</hi> wel naer al bider doet</l>
+<l n="1175">Die winter es cout en<hi rend="italic">de</hi> nat</l>
+<l>Ghetidech es dan tetene dat</l>
+<l>Dat warem es bi naturen</l>
+<l>Hoenre sijn dan goet ter curen</l>
+<l>Wederijn vleesch harste ghebraden</l>
+<l n="1180">Heet en<hi rend="italic">de</hi> droeghe mach dan n<hi rend="italic">iet</hi> scaden</l>
+<l><milestone unit="fol" n="69va"/> Heete spise machmense ghecrighe<hi rend="italic">n</hi> </l>
+<l>Noten sijn goet dan ende vighen</l>
+<l>Roet wijn de beste diemen vint</l>
+<l>Es vand<hi rend="italic">er</hi> naturen meest ghemint</l>
+<l n="1185">Dan es den liue seere onbequame</l>
+<l>Laten ende verdich lichame</l>
+<l>Henne doe dan grote noet</l>
+<l>Me<hi rend="italic">n</hi> sal dan scuwen maeltide g<hi rend="italic">ro</hi>t</l>
+<l>Datmen nature niet ne verlade</l>
+<l n="1190">Ghetidech sijn dan ghetemp<hi rend="italic">er</hi>de bade</l>
+<l>Wandelen pinen en scaedt dan niet</l>
+<l>Noch datme<hi rend="italic">n</hi> spel van v<hi rend="italic">ro</hi>uwe<hi rend="italic">n</hi> pliet</l>
+<l>Tuterste coude den lichame bint</l>
+<l>So datmen binne<hi rend="italic">n</hi> mee hitten vint</l>
+<l n="1195">En<hi rend="italic">de</hi> dies v<hi rend="italic">er</hi>duwet me<hi rend="italic">n</hi> vele te bet</l>
+<l>Alexander hout dese wet</l>
+<l>En<hi rend="italic">de</hi> set di hier naer alse de vroede</l>
+<l>En<hi rend="italic">de</hi> blijf in ons heeren hoede</l>
+<l>Vor wareit so hout wel ditte</l>
+<l n="1200">Alse langhe als du behouts die hitte</l>
+<l>En<hi rend="italic">de</hi> vuchtecheit ghetempert in di</l>
+<l>Alse langhe moghestu leuen vri</l>
+<l><hi rend="bold">A</hi> viersins verderuet de man</l>
+<l>Dat hi gheleuen niet ne can</l>
+<l n="1205">Deen es bider naturen ganghe</l>
+<l>Alse die mensche leeft so langhe</l>
+<l>Dat hi te gaen moet o<hi rend="italic">m</hi>me die oude</l>
+<l>Dan breict nature met ghewoude</l>
+<l>&#x00B6; Dander comt van roekeloesheden</l>
+<l n="1210">Alse teuel comt binnen den leden</l>
+<l>Bi onghetideghe<hi rend="italic">n</hi> dranke en<hi rend="italic">de</hi> spisen</l>
+<l>En<hi rend="italic">de</hi> men v<hi rend="italic">er</hi>deerft in zulker wisen</l>
+<l>Hoert hier setten zomeghe saken</l>
+<l>Die de<hi rend="italic">n</hi> lichame vucht en<hi rend="italic">de</hi> vet make<hi rend="italic">n</hi> </l>
+<l n="1215">Ruste ende herten sekerede</l>
+<l>Soete spise entie versch mede</l>
+<l>Van menegher manieren elc</l>
+<l><milestone unit="fol" n="69vb"/> Warem drinken soete melc</l>
+<l>Warem zoete<hi rend="italic">n</hi> wijn te drinkene</l>
+<l n="1220">En<hi rend="italic">de</hi> namaels in slape te winkene</l>
+<l>Daert sachte es entie roke [-g]lt+sgtoete</l>
+<l>Baden alsmens heuet moete</l>
+<l>In soeten watre en<hi rend="italic">de</hi> n<hi rend="italic">iet</hi> te langhe</l>
+<l>Dat die macht niet te ganghe</l>
+<l n="1225">En<hi rend="italic">de</hi> goede roke te hebbene voren</l>
+<l>Sulken alse ten tiden behoren</l>
+<l>Dats balsenen roke in wint<hi rend="italic">er</hi>s stonde<hi rend="italic">n</hi> </l>
+<l>O<hi rend="italic">m</hi>me dat nuttelijcste es vonden</l>
+<l>En<hi rend="italic">de</hi> inden somer o<hi rend="italic">m</hi>me dat vetten</l>
+<l n="1230">Roesen ende vyoletten</l>
+<l>Eenewaerf keeren inde maent</l>
+<l>Dats best te somere alsmen wae<hi rend="italic">n</hi>t</l>
+<l>Want het zuuert die maghe binne<hi rend="italic">n</hi> </l>
+<l>En<hi rend="italic">de</hi> het doet hare hitte ghewinne<hi rend="italic">n</hi> </l>
+<l n="1235">Alse diere wel toe helpt also</l>
+<l>Datmen werdt van herten vro</l>
+<l>En<hi rend="italic">de</hi> men verneemt lieue maren</l>
+<l>En<hi rend="italic">de</hi> men hopet o<hi rend="italic">m</hi>me wel varen</l>
+<l>En<hi rend="italic">de</hi> me<hi rend="italic">n</hi> bringt soeten sanc voren</l>
+<l n="1240">En<hi rend="italic">de</hi> me<hi rend="italic">n</hi> dan moet ieesten horen</l>
+<l>Die ghenouchlijc sijn int v<hi rend="italic">er</hi>tellen</l>
+<l>En<hi rend="italic">de</hi> lachghe<hi rend="italic">n</hi> met goede<hi rend="italic">n</hi> ghesellen</l>
+<l>Ende men cleedere draghet an</l>
+<l>Die ghenouchlijc sijn den man</l>
+<l n="1245"><hi rend="bold">N</hi>v doet den lichame v<hi rend="italic">er</hi>droeghe<hi rend="italic">n</hi> </l>
+<l>Lettel eten vele ghedoeghen</l>
+<l>Lettel drinken pinen vele</l>
+<l>Langhe staen buten allen spele</l>
+<l>Slapen vormaels in harden stede<hi rend="italic">n</hi> </l>
+<l n="1250">In sorghen leuen en<hi rend="italic">de</hi> in onvreden</l>
+<l>In sulpherichghen watre baden</l>
+<l>Met zouter spisen hem verladen</l>
+<l>Ouden zuren wijn te drinkene vele</l>
+<l>Die camere te hebbene buten spele</l>
+<l n="1255"><milestone unit="fol" n="70ra"/> Te latene vele meer dan recht</l>
+<l>In quaet ghepeins te ligghene echt</l>
+<l>Ypocras die seght dat</l>
+<l>Die beslotens lijfs gaet in een bat</l>
+<l>Die mach ontsien in sijn doen</l>
+<l n="1260">Dat lanc euel ofte dat torsioen</l>
+<l>Die vulsbuucs speilt v<hi rend="italic">ro</hi>uwen spel</l>
+<l>Hi mach die iucht vruchten wel</l>
+<l>Die melc en<hi rend="italic">de</hi> visch etet te samen</l>
+<l>Hi mach duchten die mesquamen</l>
+<l n="1265">Van lazerschepe oft ander smette<hi rend="italic">n</hi> </l>
+<l>Die den mensche seere letten</l>
+<l><hi rend="bold">M</hi>en deelt den mensche altemale</l>
+<l>In viere leden principale</l>
+<l>Thoeft es tierste vanden viere</l>
+<l n="1270">Eist v<hi rend="italic">er</hi>uullet van quade<hi rend="italic">n</hi> manieren</l>
+<l>Dat saldi dese maniere toeghen</l>
+<l>Enen verdonkeren die oeghen</l>
+<l>Entie wintbrauwen v<hi rend="italic">er</hi>swaren</l>
+<l>Oeren tuten ende mesbaren</l>
+<l n="1275">En<hi rend="italic">de</hi> he<hi rend="italic">m</hi> verstoppen die nesegaten</l>
+<l>Souctme<hi rend="italic">n</hi> dan niet saen de baten</l>
+<l>Men mach lichte die ziene v<hi rend="italic">er</hi>liesen</l>
+<l>Ofte va<hi rend="italic">n</hi> swaerre hoeft zweere<hi rend="italic">n</hi> riese<hi rend="italic">n</hi> </l>
+<l>Ete mostaert saet in dine spise</l>
+<l n="1280">Altoes radent ons die wise</l>
+<l>Ende doere ieghen medicine</l>
+<l>Oft hem naect ander pine</l>
+<l>&#x00B6; Die borst es dat ander let</l>
+<l>Es si ontreent oft besmet</l>
+<l n="1285">Dits teekijn daerment bi v<hi rend="italic">er</hi>staet</l>
+<l>Die tonghe es zwaer de maghe es q<hi rend="italic">ua</hi>t</l>
+<l>Die maghe werpt wt bitterhede</l>
+<l>Die hoeste dwingt de<hi rend="italic">n</hi> mensche mede</l>
+<l>Men sal dan min eten leeren</l>
+<l n="1290">En<hi rend="italic">de</hi> oec onderwilen keeren</l>
+<l>En<hi rend="italic">de</hi> suckerrosaet nemen na des</l>
+<l><milestone unit="fol" n="70rb"/> Met mastic en<hi rend="italic">de</hi> met hout aloes</l>
+<l>Doemens niet daers gheen ontvlien</l>
+<l>Den mensche en moeter af messcien</l>
+<l n="1295">&#x00B6; Terde let dat sijn die oeghen</l>
+<l>Die moetme<hi rend="italic">n</hi> te wachtene poeghe<hi rend="italic">n</hi> </l>
+<l>Ieghen stof en<hi rend="italic">de</hi> ieghen roec</l>
+<l>En<hi rend="italic">de</hi> ieghen hitte ende coude oec</l>
+<l>Ieghen quade winde droeghe</l>
+<l n="1300">Ende hem oec te wachtene poeghe</l>
+<l>Dat hi niet nerenstelike langhe</l>
+<l>Sine ziene in een dinc en hanghe</l>
+<l>Noch niet en sie eene langhe wile</l>
+<l>Op cleene dinc no op subtile</l>
+<l n="1305">En<hi rend="italic">de</hi> wachtem van ouerspele</l>
+<l>En<hi rend="italic">de</hi> van oec te weenne vele</l>
+<l>Van ouerdranke en<hi rend="italic">de</hi> ouer ate</l>
+<l>Van g<hi rend="italic">ro</hi>tre spisen en<hi rend="italic">de</hi> van o<hi rend="italic">n</hi>mate</l>
+<l>Water van venkele van celidone</l>
+<l n="1310">En<hi rend="italic">de</hi> van verbene<hi rend="italic">n</hi> maect doeghe<hi rend="italic">n</hi> scone</l>
+<l>So doet van ruten en<hi rend="italic">de</hi> van roese<hi rend="italic">n</hi> </l>
+<l>En<hi rend="italic">de</hi> het en mach altoes n<hi rend="italic">iet</hi> noesen</l>
+<l>Datmen int claer water sie</l>
+<l>En<hi rend="italic">de</hi> mense wide ontdoe die</l>
+<l n="1315">Dat vierde let es die manlichede</l>
+<l>Die daer an werdt beheuelt mede</l>
+<l>Hine hebbe varinghe medicine</l>
+<l>Hem naecter af suare pine</l>
+<l>Van dese viere leden wese in hoeden</l>
+<l n="1320">Elc mensche die wille gheuroeden</l>
+<l><hi rend="bold">M</hi>en leest in ouden ieesten dat</l>
+<l>Dat een coninc machtich sat</l>
+<l>In sinen stoel en<hi rend="italic">de</hi> dede ontbieden</l>
+<l>Physiciene van vele lieden</l>
+<l n="1325">Ynden meden ende gryeken</l>
+<l>Hem v<hi rend="italic">er</hi>sochtmen hoemen sieken</l>
+<l>Hoe ghesonde met sire pinen</l>
+<l>Volghen mochte medicinen</l>
+<l><milestone unit="fol" n="70va"/> Dat hi gheere andere hadde noet</l>
+<l n="1330">Die griec antworde albloet</l>
+<l>Dat wie so telker marghenstonde</l>
+<l>Tweewaerue<hi rend="italic">n</hi> met vullen monde</l>
+<l>Name waerme fonteyne</l>
+<l>So ghesont ende so reyne</l>
+<l n="1335">Soudt den lichame wesen doen</l>
+<l>He<hi rend="italic">m</hi> en dochte els gheen pusoen</l>
+<l>&#x00B6; Doe antworde die van meden</l>
+<l>En<hi rend="italic">de</hi> seide die dat name in zeden</l>
+<l>Dat hi mil nuchterne ontfinghe</l>
+<l n="1340">Het ware d<hi rend="italic">er</hi> maghe goede dinghe</l>
+<l>Mare vorwaerheit gheseghet des</l>
+<l>Aldus aristotiles</l>
+<l>Die elkes maerghens so langhe rust</l>
+<l>Dat he<hi rend="italic">m</hi> van zwaerhede<hi rend="italic">n</hi> niene meslust</l>
+<l n="1345">Inden buuc noch inde maghe</l>
+<l>Hi bliuet ghesont gherne inde<hi rend="italic">n</hi> daghe</l>
+<l>Entie he<hi rend="italic">m</hi> elkes marghe<hi rend="italic">n</hi>s wilde pine<hi rend="italic">n</hi> </l>
+<l>Tetene .vi. draghmen rosinen</l>
+<l>Die droeghe sij<hi rend="italic">n</hi> en<hi rend="italic">de</hi> va<hi rend="italic">n</hi> soeter smake</l>
+<l n="1350">Hine daerf n<hi rend="italic">iet</hi> vruchte<hi rend="italic">n</hi> va<hi rend="italic">n</hi> onghemake</l>
+<l>Dat van fleumen coemt in</l>
+<l>D<hi rend="italic">aer</hi> bi scaerpt des menschen sin</l>
+<l>En<hi rend="italic">de</hi> die nokernoten ende vighen</l>
+<l>Daghelijcs eet of can ghecrighen</l>
+<l n="1355">Van ruten mede een lettel bladen</l>
+<l>Venijn en mach he<hi rend="italic">m</hi> niet ghescaden</l>
+<l><hi rend="bold">S</hi>ome spise sijn licht some zw<hi rend="italic">aer</hi> </l>
+<l>En<hi rend="italic">de</hi> some spisen middelbaer</l>
+<l>Lichte spise maect goet bloet</l>
+<l n="1360">Alse taerwijn broet licht en<hi rend="italic">de</hi> goet</l>
+<l>Hinni<hi rend="italic">n</hi> kiekine wel gheuoedt</l>
+<l>Eyere<hi rend="italic">n</hi> nieuwe en<hi rend="italic">de</hi> niet ghebroedt</l>
+<l>Groeue spise alse beerijn swel</l>
+<l>Ende ossijn vleesch also wel</l>
+<l n="1365">En<hi rend="italic">de</hi> alle dit hart sijn en<hi rend="italic">de</hi> droeghe</l>
+<l><milestone unit="fol" n="70vb"/> Me<hi rend="italic">n</hi> gheuese ic wilt en<hi rend="italic">de</hi> ghedoeghe</l>
+<l>Haerbeiders en<hi rend="italic">de</hi> heeren lieden</l>
+<l>Want si wel in hem versieden</l>
+<l>Entie gheerne slapen na etene</l>
+<l n="1370">Middel spise doetme<hi rend="italic">n</hi> ons te wetene</l>
+<l>Alse lamvleesch houkijn en<hi rend="italic">de</hi> wederijn</l>
+<l>En<hi rend="italic">de</hi> wel gheuoedt nieuwe verkijn</l>
+<l>Sijn der ghemeenten wel ghesont</l>
+<l>Mare si v<hi rend="italic">er</hi>keeren te somegher stont</l>
+<l n="1375">Alsmense slaet si heeten en<hi rend="italic">de</hi> droeghe<hi rend="italic">n</hi> </l>
+<l>Menne salse tenene niet ghedoeghe<hi rend="italic">n</hi> </l>
+<l>Henne si heet ende metter vaert</l>
+<l>Met saeusen diere en<hi rend="italic">de</hi> waert</l>
+<l>Vleesch gheuoedt wel inde<hi rend="italic">n</hi> dale</l>
+<l n="1380">Es vele beter tallen male</l>
+<l>Dan dat heiden en<hi rend="italic">de</hi> berghe voeden</l>
+<l>Van vissche<hi rend="italic">n</hi> suldi dat gheuroeden</l>
+<l>Dat cleene visch en<hi rend="italic">de</hi> dinne sijn vel</l>
+<l>Entie he<hi rend="italic">m</hi> dan laet kuwen wel</l>
+<l n="1385">En<hi rend="italic">de</hi> dan in loepende<hi rend="italic">n</hi> watre gheuoedt</l>
+<l>Dat soete es houtmen vor goet</l>
+<l>Van watre salmen dat v<hi rend="italic">er</hi>staen</l>
+<l>Dat claer water sonder waen</l>
+<l>Licht cout scoene ende wit</l>
+<l n="1390">Die sijn best en<hi rend="italic">de</hi> mindst besmit</l>
+<l>Breede watre d<hi rend="italic">aer</hi> pude in sijn</l>
+<l>Hebben in somech venijn</l>
+<l>Bornen die vten steenen rinnen</l>
+<l>Quetsen den mensche<hi rend="italic">n</hi> van binne<hi rend="italic">n</hi> </l>
+<l n="1395">Reghenwater dat hier neder</l>
+<l>Vallet in staerc onweder</l>
+<l>Op datment reene mach ontfaen</l>
+<l>Dat es ghesont sonder waen</l>
+<l>Die nuchterne visch wat<hi rend="italic">er</hi> drinken</l>
+<l n="1400">Doet haerre maghe<hi rend="italic">n</hi> hitte zinken</l>
+<l>En<hi rend="italic">de</hi> quetsen dan den lichame</l>
+<l>Namaels eist gans ende bequame</l>
+<l><milestone unit="fol" n="71ra"/> Op datment dan drinct te maten</l>
+<l>Te zomers tide comet te baten</l>
+<l n="1405">Datmen drinket water cout</l>
+<l>En<hi rend="italic">de</hi> warem wat<hi rend="italic">er</hi> int wint<hi rend="italic">er</hi>s ghewout</l>
+<l><hi rend="bold">W</hi>ijn rijp en<hi rend="italic">de</hi> van goed<hi rend="italic">er</hi> smake</l>
+<l>Es eene nuttelike sake</l>
+<l>Diene drinct int gheuoech</l>
+<l n="1410">Hi sterct den lichame ghenoech</l>
+<l>Hi versiedt des menschen spise</l>
+<l>Hi doet oec wel spreken die wise</l>
+<l>Hi v<hi rend="italic">er</hi>blijt die herte binnen</l>
+<l>Hi doet goede varuwe ghewinne<hi rend="italic">n</hi> </l>
+<l n="1415">Hi maect den mensche sterc ghemoet</l>
+<l>Hi doet oec menech ander goet</l>
+<l>Mare alsmen den wijn ontfaet</l>
+<l>Bouen mate doet hi groet quaet</l>
+<l>Hi v<hi rend="italic">er</hi>storemt des mensche<hi rend="italic">n</hi> hoeft</l>
+<l n="1420">Alle zinne hi verdoeft</l>
+<l>Hi maect die iucht in die lede</l>
+<l>Hi v<hi rend="italic">er</hi>donkert die oeghen mede</l>
+<l>En<hi rend="italic">de</hi> v<hi rend="italic">er</hi>keert des menschen ghedaen</l>
+<l>D<hi rend="italic">aer</hi> noch meer quaets leghet ane</l>
+<l n="1425">Lazerscap daer vte wallet</l>
+<l>Ende dat euel daermen af vallet</l>
+<l>Hier toe radic elken man</l>
+<l>Die heere wille wesen dan</l>
+<l>En<hi rend="italic">de</hi> and<hi rend="italic">er</hi>e liede wille berechten</l>
+<l n="1430">Dat hi leere selue vechten</l>
+<l>Ieghen sijns selues ouerdaet</l>
+<l>Ende hi den lichame so beraet</l>
+<l>Dat hi he<hi rend="italic">m</hi> sine noetdurft gheue</l>
+<l>En<hi rend="italic">de</hi> niet in ouerdaden en leue</l>
+<l n="1435">Want lants heere onghesont</l>
+<l>Doech lettel dats der werelt cont</l>
+<l><hi rend="bold">N</hi>v men hier voren heuet geleert</l>
+<l>Hoet rechte es dat hem lantsheere keert</l>
+<l><milestone unit="fol" n="71rb"/> Dat hi berechte wel sijn lant</l>
+<l n="1440">Ieghen scalkeit en<hi rend="italic">de</hi> viant</l>
+<l>En<hi rend="italic">de</hi> hoe hi ieghen die sonde<hi rend="italic">n</hi> vechte</l>
+<l>En<hi rend="italic">de</hi> sinen lichame so berechte</l>
+<l>Dat hi in ghesonden bliue</l>
+<l>So eist recht datmen vroet scriue</l>
+<l n="1445">Dinghe die den heeren betamen</l>
+<l>Die noch behoeren t<hi rend="italic">er</hi> heeren name<hi rend="italic">n</hi> </l>
+<l>En<hi rend="italic">de</hi> ierst vander gherechticheden</l>
+<l>Die elke<hi rend="italic">n</hi> mensche moet volghe<hi rend="italic">n</hi> mede</l>
+<l>Gherechtichede es eene dueghet</l>
+<l n="1450">Die ghi aldus best hoeden moeghet</l>
+<l>Dats een louelijc ghebod</l>
+<l>Dat die eeneghe vpperste god</l>
+<l>Den heeren hier beuolen heeft</l>
+<l>Datme<hi rend="italic">n</hi> elken dat sine gheeft</l>
+<l n="1455">Hier o<hi rend="italic">m</hi>me sal hi draghen croene</l>
+<l>Diere god toe v<hi rend="italic">er</hi>coes te loene</l>
+<l>Die dat volc berechten can</l>
+<l>En<hi rend="italic">de</hi> die renten besetten dan</l>
+<l>Elken te delene vanden goede</l>
+<l n="1460">En<hi rend="italic">de</hi> tfolc te hebbene in sulker hoede</l>
+<l>En<hi rend="italic">de</hi> oec wachten hare scade</l>
+<l>Ghelijc oft god selue dade</l>
+<l>Dus es hi als een erdersch god</l>
+<l>Sone moet die he<hi rend="italic">er</hi>e n<hi rend="italic">iet</hi> wesen sod</l>
+<l n="1465">Mare hi moet sijn al vorsien</l>
+<l>In alle<hi rend="italic">n</hi> dinghe<hi rend="italic">n</hi> die moghe<hi rend="italic">n</hi> ghescien</l>
+<l>Hier o<hi rend="italic">m</hi>me seiden die ynden</l>
+<l>Datme<hi rend="italic">n</hi> bate meer mach vinden</l>
+<l>Die ondersaten anden heere</l>
+<l n="1470">Die die gherechticheit mi<hi rend="italic">n</hi>net seere</l>
+<l>Dan an die volle tijt gheleghet</l>
+<l>Noch esser meer toe gheseghet</l>
+<l>Rechten he<hi rend="italic">er</hi>e salmen meer weghen</l>
+<l>Dan men doet ghetideghen reghen</l>
+<l n="1475"><hi rend="bold">M</hi>en vant in caldeuscher tale</l>
+<l><milestone unit="fol" n="71va"/> In eenen steen ghehouwen wale</l>
+<l>Dat dese twee ghebroedre sijn</l>
+<l>Die gherechteghe lants heere fijn</l>
+<l>Entie verstannesse van sinne</l>
+<l n="1480">Noch deen ne<hi rend="italic">m</hi>mermeer ghewinne</l>
+<l>Gheene bederue sonder den andren</l>
+<l>Mare si moete<hi rend="italic">n</hi> te samen wandren</l>
+<l>En<hi rend="italic">de</hi> daer dese sijn sonder gheuecht</l>
+<l>Daerne gheualt el niet dan recht</l>
+<l n="1485">Gherechticheit es twiuout ghemect</l>
+<l>Deen openbare dander bedect</l>
+<l>Die openbare die enne bestaet</l>
+<l>Ne gheene sake sonder raet</l>
+<l>En<hi rend="italic">de</hi> heuet v<hi rend="italic">er</hi>stannesse ghebonden</l>
+<l n="1490">Also dat in ghenen stonden</l>
+<l>Niet en doet henne si gheprijst</l>
+<l>Hier af eist dat recht vonnesse rijst</l>
+<l>Bedecte gherechtichede</l>
+<l>Die leghet inder herten stede</l>
+<l n="1495">En<hi rend="italic">de</hi> es verstannessen besceet</l>
+<l>Twi men es den eenen wreet</l>
+<l>En<hi rend="italic">de</hi> men es den andren zochte</l>
+<l>Datme<hi rend="italic">n</hi> alse wel wreken mochte</l>
+<l>Ende in desen sekerlike</l>
+<l n="1500">Draghet die co<hi rend="italic">ninc</hi> gods ghelike</l>
+<l>Wat lants heere<hi rend="italic">n</hi> de hier werdt ontwegh<hi rend="italic">et</hi> </l>
+<l>Hem es gherechticheit ontseghet</l>
+<l>En<hi rend="italic">de</hi> hem gaen af te sire ombaten</l>
+<l>Die herten vanden onderzaten</l>
+<l n="1505">Entie siere liede herten verliest</l>
+<l>Dat es een lants heere die riest</l>
+<l>Entie ter noet niet en mach</l>
+<l>An die sine hebben beiach</l>
+<l><hi rend="bold">N</hi>v merket eene zake hier</l>
+<l n="1510">Die werelt es als een vergier</l>
+<l>Of een boegaert ofte een hof</l>
+<l>Welc es die bescermenesse d<hi rend="italic">aer</hi> of</l>
+<l><milestone unit="fol" n="71vb"/> Dan die vesten entie mure</l>
+<l>Diere af weere<hi rend="italic">n</hi> die felle ghebure</l>
+<l n="1515">Dats recht ordeel recht vonnesse</l>
+<l>Die niet ne volghe<hi rend="italic">n</hi> valscher lesse</l>
+<l>Recht vonnesse es beset</l>
+<l>En<hi rend="italic">de</hi> o<hi rend="italic">m</hi>me loken metter wet</l>
+<l>Die wet dats een lantscap echt</l>
+<l n="1520">Dat een lants he<hi rend="italic">er</hi>e wel berecht</l>
+<l>Die lants he<hi rend="italic">er</hi>e es alst een herde ware</l>
+<l>Die siere scaep neemt nauwe<hi rend="italic">n</hi> ware</l>
+<l>Wa<hi rend="italic">n</hi>t hi bescheremt die ondersaten</l>
+<l>Vander edelinghen o<hi rend="italic">n</hi>maten</l>
+<l n="1525">Die edelinghen sij<hi rend="italic">n</hi> she<hi rend="italic">er</hi>en ghewelt</l>
+<l>Die<hi rend="italic">n</hi> men houden moet opt velt</l>
+<l>Ghewelt dats eene auenture</l>
+<l>Die men neemt ond<hi rend="italic">er</hi> die ghebure</l>
+<l>Die ghebure entie ondersaten</l>
+<l n="1530">Dat sijn die ghene die met mate<hi rend="italic">n</hi> </l>
+<l>Ende metter gherechtichede</l>
+<l>Ghesedt sijn in die nederste stede</l>
+<l>En<hi rend="italic">de</hi> d<hi rend="italic">aer</hi> hare bi die werelt gheneert</l>
+<l>Te winnene al dat men verteert</l>
+<l n="1535">Gherechticheit es dueghet n<hi rend="italic">iet</hi> cleene</l>
+<l>Die in hare seluen rust alleene</l>
+<l>In hare es pays ende vrede</l>
+<l>En<hi rend="italic">de</hi> der ondersaten zalichede</l>
+<l><hi rend="bold">N</hi>v en heeft ghee<hi rend="italic">n</hi> lants he<hi rend="italic">er</hi>e den sin</l>
+<l n="1540">Dat hi sijn hende en<hi rend="italic">de</hi> sijn beghin</l>
+<l>Van sinen wandelen gheualle</l>
+<l>Alleene mach berechten alle</l>
+<l>En<hi rend="italic">de</hi> o<hi rend="italic">m</hi>me dat elc heuet inne</l>
+<l>Naer den lichame .v. sinne</l>
+<l n="1545">So radic dan dat elc lants heere</l>
+<l>Sinen raet an he<hi rend="italic">m</hi> viuen keere</l>
+<l>Want vijfterande sijn creaturen</l>
+<l>Op die erde van haerre naturen</l>
+<l>Die mensche entie ghepluumde diere</l>
+<l n="1550"><milestone unit="fol" n="72ra"/> Die zwimmen na haerre maniere</l>
+<l>Die vieruoete die crupende worme</l>
+<l>En<hi rend="italic">de</hi> elc van desen heeft sine vorme</l>
+<l>En<hi rend="italic">de</hi> uele dincs mochtic v scriuen</l>
+<l>Die alle o<hi rend="italic">m</hi>me gaen met viuen</l>
+<l n="1555">En<hi rend="italic">de</hi> hier bi maeght ghene<hi rend="italic">n</hi> he<hi rend="italic">er</hi>e scade<hi rend="italic">n</hi> </l>
+<l>Dattene vijf wise man beraden</l>
+<l>En<hi rend="italic">de</hi> e<hi rend="italic">m</hi>mer houde in sinen moet</l>
+<l>Oft hi wijs es ende vroet</l>
+<l>Dat nauste van sinen sinne</l>
+<l n="1560">Dat haer ne geen te vullen kinne</l>
+<l>Want hets heeren vreese groet</l>
+<l>Soude yemen weten haren noet</l>
+<l>Want me<hi rend="italic">n</hi> lichte he<hi rend="italic">er</hi>en begheeft</l>
+<l>Alsmen in mesualle sneeft</l>
+<l n="1565"><hi rend="bold">A</hi>lse een heere dan es v<hi rend="italic">er</hi>swaert</l>
+<l>Sal hi roepen te hem waert</l>
+<l>Sinen raet en<hi rend="italic">de</hi> legghe<hi rend="italic">n</hi> he<hi rend="italic">m</hi> te voren</l>
+<l>Die dinghe<hi rend="italic">n</hi> die daer toe behoren</l>
+<l>En<hi rend="italic">de</hi> late spreken elken alleene</l>
+<l n="1570">Wat sijns selues herte meene</l>
+<l>Ende onthouden van hem allen</l>
+<l>Wat si antworden ende kallen</l>
+<l>Ende deen en sal weten niet</l>
+<l>Wat rade hem die ander riet</l>
+<l n="1575">Ende merke dan wie best raet</l>
+<l>Sine eere ende sijns lants staet</l>
+<l>Ende na rechte en<hi rend="italic">de</hi> na wette</l>
+<l>En<hi rend="italic">de</hi> wachtem dat hi niet en sette</l>
+<l>Den eenen vor den andren te seere</l>
+<l n="1580">Wa<hi rend="italic">n</hi>t hi die heuet die meeste eere</l>
+<l>Sal den and<hi rend="italic">er</hi>en versmaden</l>
+<l>Ende sal pinen ende raden</l>
+<l>Hoe hi bouen he<hi rend="italic">m</hi> ghecliue</l>
+<l>En<hi rend="italic">de</hi> dus blijft die heere keytiue</l>
+<l n="1585">Dus heuet menech heere v<hi rend="italic">er</hi>loren</l>
+<l>Lijf ende goet en<hi rend="italic">de</hi> sach testoren</l>
+<l><milestone unit="fol" n="72rb"/> Sijn rike en<hi rend="italic">de</hi> wart slants v<hi rend="italic">er</hi>stooten</l>
+<l>Biden rade vanden ghenooten</l>
+<l>Niemen v<hi rend="italic">er</hi>smade den ionghen man</l>
+<l n="1590">Die wel ende recht raden can</l>
+<l>En<hi rend="italic">de</hi> e<hi rend="italic">m</hi>mer soeke tallen stonden</l>
+<l>Oft mach sijn raet ande<hi rend="italic">n</hi> ghesonden</l>
+<l>En<hi rend="italic">de</hi> oec waert mede nutte en<hi rend="italic">de</hi> goet</l>
+<l>Dat een heere ware so vroet</l>
+<l n="1595">Dat hi wiste ende kende</l>
+<l>Wat naturen hem an sende</l>
+<l>Die cracht van sterren alset was</l>
+<l>Dat sijn moeder sijns ghenas</l>
+<l>Want dicken naturet alsmen vint</l>
+<l n="1600">Nader sterren loep dat kint</l>
+<l>En<hi rend="italic">de</hi> dies hoort hier een bispel</l>
+<l>Wat op eene stont gheuel</l>
+<l><hi rend="bold">W</hi>ise liede quamen ghereden</l>
+<l>Haren wech en<hi rend="italic">de</hi> teere steden</l>
+<l n="1605">Namen si herberghe op eene<hi rend="italic">n</hi> dach</l>
+<l>Met eenen man die weuens plach</l>
+<l>Dies nachts alst gheuiel dat gone</l>
+<l>Ghenas die v<hi rend="italic">ro</hi>uwe van eenen sone</l>
+<l>Die gaste hebben dit verhort</l>
+<l n="1610">En<hi rend="italic">de</hi> mercten des kints ghebort</l>
+<l>En<hi rend="italic">de</hi> ordineerden sine planeten</l>
+<l>Die int risen en<hi rend="italic">de</hi> int beeten</l>
+<l>Waren op die selue stont</l>
+<l>Dat die vrouwe wart ghesont</l>
+<l n="1615">So dat si telleden van verren</l>
+<l>Dat die goede nutte sterren</l>
+<l>Op die wile vander nacht</l>
+<l>Waren wel in hare macht</l>
+<l>Noch en waren die quade sterren</l>
+<l n="1620">Gheresen niet dies vele v<hi rend="italic">er</hi>werren</l>
+<l>Hier bi toeghede hem nature</l>
+<l>Dat dat kint quam in die vre</l>
+<l>Dat het wijs soude sijn van rade</l>
+<l><milestone unit="fol" n="72va"/> Houesch behendech vroe en<hi rend="italic">de</hi> spade</l>
+<l n="1625">En<hi rend="italic">de</hi> van lants heeren ghemint</l>
+<l>Dit en seiden si niet twint</l>
+<l>Noch der moeder noch den vader</l>
+<l>M<hi rend="italic">aer</hi> si zweghens beede gader</l>
+<l>Tkint ghewies en<hi rend="italic">de</hi> w<hi rend="italic">er</hi>t vrome</l>
+<l n="1630">Die vader wille dat het come</l>
+<l>En<hi rend="italic">de</hi> met hem leere weuen</l>
+<l>M<hi rend="italic">aer</hi> o<hi rend="italic">m</hi>me steruen noch o<hi rend="italic">m</hi>me leuen</l>
+<l>Sone conste hijt m<hi rend="italic">et</hi> ghene<hi rend="italic">n</hi> slane</l>
+<l>Ant weueambocht ghebringhe<hi rend="italic">n</hi> ane</l>
+<l n="1635">Doe liet hijt al onghesleghen</l>
+<l>En<hi rend="italic">de</hi> liet hem sijns willen pleghen</l>
+<l>Rechts als een verloren man</l>
+<l>Die ionghelinc keerde he<hi rend="italic">m</hi> daer an</l>
+<l>An wise liede weert ter curen</l>
+<l n="1640">Vroet van sterren en<hi rend="italic">de</hi> van nature<hi rend="italic">n</hi> </l>
+<l>Wijs van zeden en<hi rend="italic">de</hi> van wetten</l>
+<l>Ende hoemen heere<hi rend="italic">n</hi> soude besetten</l>
+<l>Ende quam te heeren houe</l>
+<l>Ende wart van groten loue</l>
+<l n="1645">In yndya weder gheuel</l>
+<l>Hier ieghen een bispel</l>
+<l>Een co<hi rend="italic">ninc</hi> hadde twee sonen</l>
+<l>Die hi ter wijsheit wilde wonen</l>
+<l>Deen v<hi rend="italic">er</hi>stont al datmen he<hi rend="italic">m</hi> leerde</l>
+<l n="1650">M<hi rend="italic">aer</hi> w<hi rend="italic">aer</hi>waert datme<hi rend="italic">n</hi> de<hi rend="italic">n</hi> and<hi rend="italic">er</hi>en keerde</l>
+<l>D<hi rend="italic">aer</hi> wijsheit was was ane scine</l>
+<l>Dat was al verloren pine</l>
+<l>Die co<hi rend="italic">ninc</hi> die hem dies scaemt</l>
+<l>Sende sinen sone als he<hi rend="italic">m</hi> betaemt</l>
+<l n="1655">Acht<hi rend="italic">er</hi> lande met g<hi rend="italic">ro</hi>ten heeren</l>
+<l>M<hi rend="italic">aer</hi> dats o<hi rend="italic">m</hi>me n<hi rend="italic">iet</hi> hine mach n<hi rend="italic">iet</hi> leere<hi rend="italic">n</hi> </l>
+<l>Sond<hi rend="italic">er</hi> alleene smede ambacht</l>
+<l>Dat conste hi wel al sond<hi rend="italic">er</hi> cracht</l>
+<l>Des w<hi rend="italic">er</hi>t die vad<hi rend="italic">er</hi> in droeue<hi rend="italic">n</hi> moede</l>
+<l n="1660">En<hi rend="italic">de</hi> dede te samen sine vroede</l>
+<l><milestone unit="fol" n="72vb"/> En<hi rend="italic">de</hi> vraeghede w<hi rend="italic">aer</hi> bi het mochte wese<hi rend="italic">n</hi> </l>
+<l>Si ghinghen proeuen en<hi rend="italic">de</hi> lesen</l>
+<l>Sinen tijt en<hi rend="italic">de</hi> sine ghebort</l>
+<l>En<hi rend="italic">de</hi> mercten weder en<hi rend="italic">de</hi> vort</l>
+<l n="1665">En<hi rend="italic">de</hi> vondent al openbare</l>
+<l>Dat het scout der sterren ware</l>
+<l>Die de nacht hadde tier stont</l>
+<l>Dat sijn moed<hi rend="italic">er</hi> w<hi rend="italic">er</hi>t sijns ghesont</l>
+<l>Des ghelijcs alse wi hier kallen</l>
+<l n="1670">So es te menegher stont gheuallen</l>
+<l>Hier o<hi rend="italic">m</hi>me raet aristotiles</l>
+<l>Dat elc lants he<hi rend="italic">er</hi>e hem hoede des</l>
+<l>Dat hi niemene enne versmade</l>
+<l>Noch en steke van sinen rade</l>
+<l n="1675">O<hi rend="italic">m</hi>me sine cleenheit vint hine wijs</l>
+<l>En<hi rend="italic">de</hi> eere mi<hi rend="italic">n</hi>nende ende prijs</l>
+<l>Wel ghesedt en<hi rend="italic">de</hi> hi dan pleghe</l>
+<l>Loesheit te scuwene alle weghe</l>
+<l>Houesch en<hi rend="italic">de</hi> crachtech alse wale</l>
+<l n="1680">Ende wel gheraect in sine tale</l>
+<l>En<hi rend="italic">de</hi> spreken co<hi rend="italic">n</hi>ne<hi rend="italic">n</hi> van ouden tiden</l>
+<l>Sulke sullen bi haerre ziden</l>
+<l>Heeren houden en<hi rend="italic">de</hi> kinnen</l>
+<l>Want si dueght en<hi rend="italic">de</hi> wareit mi<hi rend="italic">n</hi>nen</l>
+<l n="1685">En<hi rend="italic">de</hi> raden des lants orbare</l>
+<l>En<hi rend="italic">de</hi> sheeren eere hoe soet ware</l>
+<l><hi rend="bold">E</hi>en out phylosophe een vroet</l>
+<l>Was die ons te verstane doet</l>
+<l>Dat eens vroets lants he<hi rend="italic">er</hi>en wijshede</l>
+<l n="1690">Altoes wasset en<hi rend="italic">de</hi> dyet mede</l>
+<l>Heuet hi goeden gansen raet</l>
+<l>Alse eene riuiere wast en<hi rend="italic">de</hi> gaet</l>
+<l>Biden beken diere in rinnen</l>
+<l>En<hi rend="italic">de</hi> een he<hi rend="italic">er</hi>e mach mee winnen</l>
+<l n="1695">Dicwile met goeden rade</l>
+<l>Dan hi met ghewelde dade</l>
+<l>Dies hebbe elc he<hi rend="italic">er</hi>e in elken tiden</l>
+<l><milestone unit="fol" n="73ra"/> Goeden raet bi siere ziden</l>
+<l>En<hi rend="italic">de</hi> wese in hoeden vor sine<hi rend="italic">n</hi> viant</l>
+<l n="1700">En<hi rend="italic">de</hi> mach hine hebben in die hant</l>
+<l>Sone latene altoes niet risen</l>
+<l>Dits die raet vanden wisen</l>
+<l>Ne gheen heere en si so stout</l>
+<l>Dat hi hem alleen hout</l>
+<l n="1705">Anden raet dien hi selue vant</l>
+<l>M<hi rend="italic">aer</hi> eenen andren vraghe te hant</l>
+<l>Raet hi he<hi rend="italic">m</hi> bet hi maegs volghe<hi rend="italic">n</hi> </l>
+<l>En<hi rend="italic">de</hi> laten tsine al onuerbolghen</l>
+<l>Raedt hi he<hi rend="italic">m</hi> wers houdem an tsine</l>
+<l n="1710">Ende elc pooghe ende pine</l>
+<l>Dat hi niet min hebbe dan he<hi rend="italic">m</hi> dien</l>
+<l>Te rade oft hem mach ghescien</l>
+<l>Lieuere waerre mi nochtan viue</l>
+<l>Maer bouen .vij. niet en cliue</l>
+<l n="1715">En<hi rend="italic">de</hi> hebbere seuene oft hi moghe</l>
+<l>D<hi rend="italic">aer</hi> sijn toe redenen g<hi rend="italic">ro</hi>t en<hi rend="italic">de</hi> hoghe</l>
+<l>So radic dan oft also staet</l>
+<l>Dat een dus proeue sinen raet</l>
+<l>Een he<hi rend="italic">er</hi>e segghe hets dus ghescepe<hi rend="italic">n</hi> </l>
+<l n="1720">Sie ic ben in noede begrepen</l>
+<l>Mi ghebrect ghelt ende scat</l>
+<l>Raet waer magic betren dat</l>
+<l>Raedt hi sinen heere dan</l>
+<l>Dat hi sijns selfs goet taste an</l>
+<l n="1725">En<hi rend="italic">de</hi> hi sine rente versette</l>
+<l>So eist een raet dan van onwette</l>
+<l>Entie lettel emmermeere</l>
+<l>Mict op sijns selues eere</l>
+<l>Raedt hi dat hi reymere sij<hi rend="italic">n</hi> lant</l>
+<l n="1730">So eist sijns he<hi rend="italic">er</hi>en doot viant</l>
+<l>Wa<hi rend="italic">n</hi>t hijs niet en acht no ne rouct</l>
+<l>Dattene sine ghemeente vlouct</l>
+<l>En<hi rend="italic">de</hi> dats algader heeren plaghe</l>
+<l>Wa<hi rend="italic">n</hi>t wedewen en<hi rend="italic">de</hi> weesen claghe</l>
+<l n="1735"><milestone unit="fol" n="73rb"/> En<hi rend="italic">de</hi> hare tranen roepen vor gode</l>
+<l>En<hi rend="italic">de</hi> hine wreeese oec niet node</l>
+<l>Maer vindstu al sulken raet</l>
+<l>Die tote di seght heere v<hi rend="italic">er</hi>staet</l>
+<l>Ic hebbe onder v ghewonnen</l>
+<l n="1740">Goet dies ic v wille onnen</l>
+<l>Dat willic vor v ute legghen</l>
+<l>En<hi rend="italic">de</hi> dies en seldi mi n<hi rend="italic">iet</hi> ontsegghe<hi rend="italic">n</hi> </l>
+<l>Behoudi v eere ende v lijf</l>
+<l>Sone magic niet sijn keytijf</l>
+<l n="1745">Mijn goet dochte mi cleene zake</l>
+<l>Waert dat v eere ofte lijf ghebrake</l>
+<l>Heere die vonde sulken raet</l>
+<l>Hi hadde scoenen toeuerlaet</l>
+<l>Want hi sijn goet sijn lijf sijn ere</l>
+<l n="1750">Te wets al set vor sinen here</l>
+<l>Echt moghstu dus dine<hi rend="italic">n</hi> raet proeue<hi rend="italic">n</hi> </l>
+<l>Wie so meer dan sijn behoeuen</l>
+<l>Te samen iaeght met ghierechede<hi rend="italic">n</hi> </l>
+<l>Dats raet van mordadecheden</l>
+<l n="1755">Die soude di seluen o<hi rend="italic">m</hi>me ghelt</l>
+<l>Vercopen haddi die ghewelt</l>
+<l>Gierigher herte proef ende scouwe</l>
+<l>Mach nemmermeer sijn ghetrouwe</l>
+<l>En<hi rend="italic">de</hi> aldus waert noet bedi</l>
+<l n="1760">Dat altoes dijn raet bi di si</l>
+<l>En<hi rend="italic">de</hi> hi niet rune m<hi rend="italic">et</hi> andren heere<hi rend="italic">n</hi> </l>
+<l>Die staende waren na diere eeren</l>
+<l>Of d<hi rend="italic">aer</hi> du saeghs den ghiereghe<hi rend="italic">n</hi> sin</l>
+<l>Of in wies huse vte ende in</l>
+<l n="1765">Bode quame van dinen viant</l>
+<l>Dien hout in eenen zekeren bant</l>
+<l>En<hi rend="italic">de</hi> meest of si brieue bringhen</l>
+<l>En<hi rend="italic">de</hi> di n<hi rend="italic">iet</hi> ne seiden van dien dinghe<hi rend="italic">n</hi> </l>
+<l>Dien soudstu doen vte dinen rade</l>
+<l n="1770">Of di machre af comen scade</l>
+<l>En<hi rend="italic">de</hi> dats dijn alre ghetrouweste raet</l>
+<l><milestone unit="fol" n="73va"/> Die d<hi rend="italic">aer</hi> na pijnt en<hi rend="italic">de</hi> daer na staet</l>
+<l>Met alder macht m<hi rend="italic">et</hi> alden zinne</l>
+<l>Dat di dijn volc met herten mi<hi rend="italic">n</hi>ne</l>
+<l n="1775">En<hi rend="italic">de</hi> dien al sulke duegden v<hi rend="italic">er</hi>cieren</l>
+<l>Alsic di hier sal visieren</l>
+<l>&#x00B6; Tierste si dat hi alte samen</l>
+<l>Wlmaect man si van lichamen</l>
+<l>So dat he<hi rend="italic">m</hi> niet ghebrect een wort</l>
+<l n="1780">Van dat eenen man toe behort</l>
+<l>Wel ghehaert en<hi rend="italic">de</hi> wel ghebaert</l>
+<l>En<hi rend="italic">de</hi> wel ghescepen nederwaert</l>
+<l>&#x00B6; Dander es dat hi verstandel si</l>
+<l>Ende wille vast hebbe daer bi</l>
+<l n="1785">Te v<hi rend="italic">er</hi>stane datmen he<hi rend="italic">m</hi> seght</l>
+<l>En<hi rend="italic">de</hi> men hem te voren leght</l>
+<l>&#x00B6; Terde dat hi wel ghedinke</l>
+<l>En<hi rend="italic">de</hi> he<hi rend="italic">m</hi> niet een wort ontwinke</l>
+<l>Van dat hi hoort ende verstaet</l>
+<l>1790  Hine houdt in siere herten raet</l>
+<l>&#x00B6; Dat vierde dat hi nerenstelike</l>
+<l>Die noot bekenne vanden rike</l>
+<l>Hoe men die dinc sal v<hi rend="italic">er</hi>legghen</l>
+<l>En<hi rend="italic">de</hi> wat me<hi rend="italic">n</hi> hier of d<hi rend="italic">aer</hi> sal segghen</l>
+<l n="1795">&#x00B6; Dat vijfste dat hi houesch si</l>
+<l>Ghesprakech goedertiere d<hi rend="italic">aer</hi> bi</l>
+<l>Dat sine herte en<hi rend="italic">de</hi> sine worde</l>
+<l>Beede sijn van eenen acorde</l>
+<l>&#x00B6; Dat seste dat hi gheleert si wale</l>
+<l n="1800">Va<hi rend="italic">n</hi> meneger sciencien va<hi rend="italic">n</hi> meneg<hi rend="italic">er</hi> tale</l>
+<l>En<hi rend="italic">de</hi> hi van naturliken sinne</l>
+<l>Vroet si ende men dat bekinne</l>
+<l>&#x00B6; Dat seuende datme<hi rend="italic">n</hi>ne warachtich ki<hi rend="italic">n</hi>ne</l>
+<l>En<hi rend="italic">de</hi> hi trouwe en<hi rend="italic">de</hi> wareit minne</l>
+<l n="1805">Loeghenen scuwe en<hi rend="italic">de</hi> van zeden</l>
+<l>Si van edelen ontfaermicheden</l>
+<l>Ghenoughelijc si mede o<hi rend="italic">m</hi>me te gane</l>
+<l>Gheuoechsamech oec te scouwene ane</l>
+<l><milestone unit="fol" n="73vb"/> &#x00B6; Tachtende so willic dat hi</l>
+<l n="1810">No te ghuls no te lecker en si</l>
+<l>Noch drinkere no gheerne tuussche</l>
+<l>No met wiue te sine oncuussche</l>
+<l>&#x00B6; Dat neghende dat hi van herten</l>
+<l>Groet si en<hi rend="italic">de</hi> onw<hi rend="italic">er</hi>t hebbe smerten</l>
+<l n="1815">Daer men eere bi beiaeght</l>
+<l>En<hi rend="italic">de</hi> hi altoes o<hi rend="italic">m</hi>me eere vraeght</l>
+<l>&#x00B6; Dat tiende dat hi sinen moet</l>
+<l>Niet en sette om twandel erdsche goet</l>
+<l>Mare o<hi rend="italic">m</hi>me des riken orbare</l>
+<l n="1820">En<hi rend="italic">de</hi> elken man hebbe mare</l>
+<l>Beede vremde ende ghebure</l>
+<l>Nader dueght van sire nature</l>
+<l>&#x00B6; Tellefste dat hi minne mede</l>
+<l>Gherecht volc en<hi rend="italic">de</hi> gherechtichede</l>
+<l n="1825">Ende hi tonrecht scuwe dan</l>
+<l>Ende hi gheue elken man</l>
+<l>Wat so sijn es metten rechte</l>
+<l>Wedert heeren sijn of knechte</l>
+<l>Ende sta den ghenen in staden</l>
+<l n="1830">Die met onrecht sijn verladen</l>
+<l>En<hi rend="italic">de</hi> niemene en spare int recht</l>
+<l>Wedert heere si oft knecht</l>
+<l>Want god maecte vander erde</l>
+<l>Alle die menscheit van eere werde</l>
+<l n="1835">&#x00B6; Dat twelefste dat hi bliue ghestade</l>
+<l>In sine achtinge in sinen rade</l>
+<l>In dinghen die he<hi rend="italic">m</hi> gheeft sij<hi rend="italic">n</hi> moet</l>
+<l>Dat si sine orbare ende goet</l>
+<l>En<hi rend="italic">de</hi> scuwe wiueliken sin</l>
+<l>1840  En<hi rend="italic">de</hi> wese onuervaert daer in</l>
+<l>&#x00B6; Dat dertiende dat he<hi rend="italic">m</hi> si becant</l>
+<l>Alden cost die loept int lant</l>
+<l>Ende hi wete harentare</l>
+<l>Al des riken orbare</l>
+<l n="1845">En<hi rend="italic">de</hi> n<hi rend="italic">iet</hi> ne croonen die ondersaten</l>
+<l><milestone unit="fol" n="74ra"/> Vor den he<hi rend="italic">er</hi>e van gheere o<hi rend="italic">n</hi>maten</l>
+<l>En si of si om claghen comen</l>
+<l>Die teeren horen of te vromen</l>
+<l>&#x00B6; Dat viertiende dat hi sine woort</l>
+<l n="1850">Te vele niet en bringhe voort</l>
+<l>Si ghesprakich ende mate</l>
+<l>En<hi rend="italic">de</hi> en spreke oec n<hi rend="italic">iet</hi> en si o<hi rend="italic">m</hi>me bate</l>
+<l>En<hi rend="italic">de</hi> wese i<hi rend="italic">n</hi> lachgene n<hi rend="italic">iet</hi> tongheuoege</l>
+<l>Dat hi den volke te wers ghenoege</l>
+<l n="1855">&#x00B6; Dat vijftiende hi de ghene si</l>
+<l>Die den wiuen noede es bi</l>
+<l>En<hi rend="italic">de</hi> sine herberghe en<hi rend="italic">de</hi> sine zale</l>
+<l>Ondaen ende open si tallen male</l>
+<l>Hem allen die varen en<hi rend="italic">de</hi> keeren</l>
+<l n="1860">En<hi rend="italic">de</hi> boetscepe bringhe<hi rend="italic">n</hi> van he<hi rend="italic">er</hi>en</l>
+<l>En<hi rend="italic">de</hi> hi conne dan onderzoeken</l>
+<l>Wat elc bringt wt sinen hoeken</l>
+<l>En<hi rend="italic">de</hi> co<hi rend="italic">n</hi>ne ghevreessche<hi rend="italic">n</hi> ou<hi rend="italic">er</hi>waer</l>
+<l>Wat niemaren loept hier en<hi rend="italic">de</hi> daer</l>
+<l n="1865">Ende hi daer bi die ondersaten</l>
+<l>Troesten conne ende maten</l>
+<l>En<hi rend="italic">de</hi> ghedoeghen hare simpelheden</l>
+<l>Ende hare wonderlike zede</l>
+<l>Vijfw<hi rend="italic">er</hi>uen drie en<hi rend="italic">de</hi> driewaerf viue</l>
+<l n="1870">Sijn hier pointe die ic scriue</l>
+<l>Die wel moghen staen in staden</l>
+<l>Hem die heeren willen beraden</l>
+<l><hi rend="bold">I</hi>n de<hi rend="italic">n</hi> mensche proef en<hi rend="italic">de</hi> merc</l>
+<l>Dat noyt so cranc dinc no so sterc</l>
+<l n="1875">God maecte onder hemelrike</l>
+<l>Me<hi rend="italic">n</hi>ne vant an yemene sine gelike</l>
+<l>En<hi rend="italic">de</hi> noyt enne was creature</l>
+<l>Wisere dan menschen nature</l>
+<l>Wat so me<hi rend="italic">n</hi> vindt dat leeft oft es</l>
+<l n="1880">Menne vindt hier tghelike des</l>
+<l>Of in ghenen oft in desen</l>
+<l>En<hi rend="italic">de</hi> dit moet m<hi rend="italic">et</hi> ghewelde wesen</l>
+<l><milestone unit="fol" n="74rb"/> Men vantene stout alse den lyoen</l>
+<l>En<hi rend="italic">de</hi> bloede na des hasen doen</l>
+<l n="1885">Milde als den hane machme<hi rend="italic">n</hi>ne ki<hi rend="italic">n</hi>ne<hi rend="italic">n</hi> </l>
+<l>Die sijn coere<hi rend="italic">n</hi> gheuet den hinnen</l>
+<l>Vrec vintme<hi rend="italic">n</hi>ne als die hont nochta<hi rend="italic">n</hi> </l>
+<l>Dies niet en mach en<hi rend="italic">de</hi> niemen an</l>
+<l>Hart onghetempert na sherts zede<hi rend="italic">n</hi> </l>
+<l n="1890">Die dolende gaet van steden te steden</l>
+<l>Alse die huusduue tam en<hi rend="italic">de</hi> sochte</l>
+<l>Die me<hi rend="italic">n</hi> belghen n<hi rend="italic">iet</hi> doen en mochte</l>
+<l>Fel na des leeuwen nature</l>
+<l>Alse die tortelduue goedertiere</l>
+<l n="1895">Simpel na des lams aert</l>
+<l>Scalc rechts na den vos reynaert</l>
+<l>Ghelijc den ree vindtmenne snel</l>
+<l>Traech alse die bere vintme<hi rend="italic">n</hi>ne oec wel</l>
+<l>Beene na den helpen diere</l>
+<l n="1900">Luxurieus na shesels maniere</l>
+<l>Ouerhorich als die naen</l>
+<l>En<hi rend="italic">de</hi> alse die kemel onderdaen</l>
+<l>Scadelijc ghelijc der muus</l>
+<l>Sot ghelijc den voghel struus</l>
+<l n="1905">Wijs alse dinghel de en dwaesde nie</l>
+<l>Nutte ende vromelic alse die bie</l>
+<l>Onzuuerlijc alse een zwijn</l>
+<l>Reene en<hi rend="italic">de</hi> cleenlijc alse een conijn</l>
+<l>En<hi rend="italic">de</hi> wat helpt me<hi rend="italic">n</hi>ne vindt ne<hi rend="italic">m</hi>m<hi rend="italic">er</hi>mee</l>
+<l n="1910">No dier opt lant noch in die zee</l>
+<l>Noch voghel no sterre an de<hi rend="italic">n</hi> trone</l>
+<l>Noch diere dinc noch scone</l>
+<l>No keselkin no sant no steen</l>
+<l>Noch ander dinc oec ne geen</l>
+<l n="1915">Dat onder gode wesen can</l>
+<l>Menne vindt tghelike anden man</l>
+<l>Hier o<hi rend="italic">m</hi>me heedt hi die werelt cleene</l>
+<l>In griex die mensche al ghemeene</l>
+<l>Dus salmen merken elken man</l>
+<l n="1920"><milestone unit="fol" n="74va"/> Wat dese weet wat dese can</l>
+<l>En<hi rend="italic">de</hi> met elken o<hi rend="italic">m</hi>me gaen</l>
+<l>Naer dien dat sine dingen staen</l>
+<l>Voert radic elken mensche dat</l>
+<l>Waer so hi come telker stat</l>
+<l n="1925">Dat hi sine herte niet en set</l>
+<l>An mensche die he<hi rend="italic">m</hi> an ander wet</l>
+<l>Hout dan die hem toe behort</l>
+<l>Want hets al ontrouwe en<hi rend="italic">de</hi> mort</l>
+<l>Ende dies suldi een bispel</l>
+<l n="1930">Hier af nv horen wel</l>
+<l><hi rend="bold">T</hi>wee manne quame<hi rend="italic">n</hi> hare vaert</l>
+<l>Tidende teenen lande waert</l>
+<l>Deen was een wise van orient</l>
+<l>En<hi rend="italic">de</hi> dander was een iuede bekent</l>
+<l n="1935">Die wise reet eene mulinne</l>
+<l>Die hi op hilt van beghinne</l>
+<l>Die he<hi rend="italic">m</hi> droech vleesch en<hi rend="italic">de</hi> broot</l>
+<l>En<hi rend="italic">de</hi> dies he<hi rend="italic">m</hi> inden weghe was noot</l>
+<l>Die iuede die ghinc te voet</l>
+<l n="1940">Sonder spise ende sonder goet</l>
+<l>Alsi dus haerre straten wanderen</l>
+<l>Faueleerde deen ieghe<hi rend="italic">n</hi> den anderen</l>
+<l>Die wise ierst den iuede vraegde</l>
+<l>An wat wette hi hem draegde</l>
+<l n="1945">En<hi rend="italic">de</hi> waer ane sijn gheloeue leght</l>
+<l>Mettien die iuede weder seght</l>
+<l>Ic gheloeue an eenen god</l>
+<l>Diet al heuet in sijn ghebod</l>
+<l>En<hi rend="italic">de</hi> gheweldich inden hemel sit</l>
+<l n="1950">Dits hi d<hi rend="italic">aer</hi> mijn gheloeue an bit</l>
+<l>An desen hopic dat hi sal</l>
+<l>Miere zielen gheuen loen van al</l>
+<l>En<hi rend="italic">de</hi> elken mede die hem set</l>
+<l>In mijn gheloeue in mine wet</l>
+<l n="1955">En<hi rend="italic">de</hi> noch es mijn gheloeue mede</l>
+<l>Wie dat es bute<hi rend="italic">n</hi> mire gheloeuelichede</l>
+<l><milestone unit="fol" n="74vb"/> En<hi rend="italic">de</hi> an mine wet he<hi rend="italic">m</hi> niet en hout</l>
+<l>Dat ic he<hi rend="italic">m</hi> wel moet met ghewout</l>
+<l>Nemen sijn goed en<hi rend="italic">de</hi> sijn leuen</l>
+<l n="1960">Wiue kindere nichten neuen</l>
+<l>Oec eist mine v<hi rend="italic">er</hi>domenesse hier toe</l>
+<l>Eist dat ic hem ghenade doe</l>
+<l>Oft houescheit oft eenech goet</l>
+<l>Nv maect mi dijns gheloeue<hi rend="italic">n</hi> vroet</l>
+<l n="1965">Sp<hi rend="italic">ra</hi>c die iuede<hi rend="bold">.</hi> doe seide die vroede</l>
+<l>Ic doe als die es sonder hoede</l>
+<l>Tiersten willic dat goet ghescie</l>
+<l>Vor al dat leeft ter werelt mie</l>
+<l>D<hi rend="italic">aer</hi>n<hi rend="italic">aer</hi> dan minen gheburen</l>
+<l n="1970">En<hi rend="italic">de</hi> ic en wille ghenen creaturen</l>
+<l>Die god ter werelt heuet gheset</l>
+<l>Weder si houden an mine wet</l>
+<l>Oft an eene andere yet ghescaden</l>
+<l>En<hi rend="italic">de</hi> ic hope dat ghenaden</l>
+<l n="1975">Recht en<hi rend="italic">de</hi> ontfermecheit d<hi rend="italic">aer</hi> bi</l>
+<l>Ter werelt goet ghehouden si</l>
+<l>En<hi rend="italic">de</hi> enne dunct mi altoes n<hi rend="italic">iet</hi> goet</l>
+<l>Datmen iemene onrecht doet</l>
+<l>Mi dunct alse eenen onnoosele<hi rend="italic">n</hi> man</l>
+<l n="1980">Eeneghe scade comet an</l>
+<l>Dat mi deert in al mijn lijf</l>
+<l>Ic wille dat elc man elc wijf</l>
+<l>Gheluc hebbe ende ghesonde</l>
+<l>Ende salech si sijns leuens stonde</l>
+<l n="1985">Die iude sprac wat daedtstu dan</l>
+<l>Of di ghewelt dade eenech man</l>
+<l>Die wise sp<hi rend="italic">ra</hi>c inne ben niet so sod</l>
+<l>Inne kenne inden hemel eene<hi rend="italic">n</hi> god</l>
+<l>Gherecht en<hi rend="italic">de</hi> wijs diet al weet</l>
+<l n="1990">En<hi rend="italic">de</hi> sine oeghen en dect gheen cleet</l>
+<l>Want hijt al siet claer ter curen</l>
+<l>Dat es in sinen creaturen</l>
+<l>Die den goeden den loen gheuet</l>
+<l><milestone unit="fol" n="75ra"/> Naer dat si wel hebben gheleuet</l>
+<l n="1995">Ende den quaden tallen stonden</l>
+<l>Loen gheuet van haren sonden</l>
+<l>Hem so gheuic op die wrake</l>
+<l>Mesdoet men mi in eeneghe zake</l>
+<l>Die iuede sp<hi rend="italic">ra</hi>c hets wel ghesproken</l>
+<l n="2000">Twi heefstu dine wet te broken</l>
+<l>Dune wercs een twint n<hi rend="italic">iet</hi> d<hi rend="italic">aer</hi> naer</l>
+<l>Hoe es dat sprac die wise daer</l>
+<l>Die iuede sprac du best dies wijs</l>
+<l>Ic ben mensche alse du sijs</l>
+<l n="2005">Du sies mi mede gaen te voet</l>
+<l>En<hi rend="italic">de</hi> hongherech ende sond<hi rend="italic">er</hi> goet</l>
+<l>En<hi rend="italic">de</hi> du best wel gherust en<hi rend="italic">de</hi> sat</l>
+<l>Die wise sp<hi rend="italic">ra</hi>c hets wareit dat</l>
+<l>Van dien muul beetede hi saen</l>
+<l n="2010">En<hi rend="italic">de</hi> heuet sinen voedersac ontdaen</l>
+<l>En<hi rend="italic">de</hi> gaf he<hi rend="italic">m</hi> beede spise en<hi rend="italic">de</hi> dranc</l>
+<l>En<hi rend="italic">de</hi> ghinc bi hem eenen ganc</l>
+<l>En<hi rend="italic">de</hi> dedene eene wile riden</l>
+<l>Dien iuede beghan therte v<hi rend="italic">er</hi>bliden</l>
+<l n="2015">Alse hi ghedronke<hi rend="italic">n</hi> hadde en<hi rend="italic">de</hi> ghete<hi rend="italic">n</hi> </l>
+<l>Ende hi zachte was gheseten</l>
+<l>Ende gaf dien muul die sporen</l>
+<l>So dats die wise hadde toren</l>
+<l>Alse he<hi rend="italic">m</hi> muul ende man ontliep</l>
+<l n="2020">Naer den iuede dat hi riep</l>
+<l>Dune beits mijns ic ben ontheert</l>
+<l>Die iuede sp<hi rend="italic">ra</hi>c hebbic di n<hi rend="italic">iet</hi> gheleert</l>
+<l>Die pointe van mire wet</l>
+<l>Die ic wil houden al ombesmet</l>
+<l n="2025">Ic hebdi al vul recht ghedaen</l>
+<l>Mettien ghinc hi met sporen slaen</l>
+<l>Die wise riep naer vtermaten</l>
+<l>Sultu mi in die woestine laten</l>
+<l>D<hi rend="italic">aer</hi> mi die leeuwen entie diere</l>
+<l n="2030">Vertheren sullen harde sciere</l>
+<l><milestone unit="fol" n="75rb"/> Oft ic bliue van honghere doot</l>
+<l>Ofte van dorste in dese noot</l>
+<l>Doet an mi ontfaermichede</l>
+<l>Ghelijc dat ic met di dede</l>
+<l n="2035">Die iuede en achte n<hi rend="italic">iet</hi> der wort</l>
+<l>M<hi rend="italic">aer</hi> ghinc emmer iaghen vort</l>
+<l>Onthier en<hi rend="italic">de</hi> hi so verre ontran</l>
+<l>Dat niemene andren en sach an</l>
+<l>Alse die wise was buter hopen</l>
+<l n="2040">Van eeneghen troeste es hi ghelope<hi rend="italic">n</hi> </l>
+<l>Ter vulmaecteit van siere wet</l>
+<l>Want hi in talen hadde gheset</l>
+<l>Den iuede ofmen he<hi rend="italic">m</hi> dade hoone</l>
+<l>Dat een god ware inden troone</l>
+<l n="2045">Diet al saghe wel ter kuren</l>
+<l>Dat ware in sinen creaturen</l>
+<l>Te hem hief hi hant en<hi rend="italic">de</hi> mont</l>
+<l>En<hi rend="italic">de</hi> seide heere hets di wel cont</l>
+<l>Dat ic dine wet hebbe ghehouden</l>
+<l n="2050">En<hi rend="italic">de</hi> dine gheboden wel vergouden</l>
+<l>Doet an desen iuede anscine</l>
+<l>Dijns selfs eere eist entie mine</l>
+<l>Niet langhe na dese tale</l>
+<l>Comt hi voert in eenen dale</l>
+<l n="2055">En<hi rend="italic">de</hi> vindt den iuede gheuallen</l>
+<l>Den scinkel ontwee met allen</l>
+<l>En<hi rend="italic">de</hi> inden hals ghequetst seere</l>
+<l>Die muul v<hi rend="italic">er</hi>kende sinen heere</l>
+<l>En<hi rend="italic">de</hi> coemt te he<hi rend="italic">m</hi> waert o<hi rend="italic">m</hi>me eten</l>
+<l n="2060">Die wise die es op gheseten</l>
+<l>En<hi rend="italic">de</hi> reet wech ende laet den iuede</l>
+<l>Steruende alse eenen ruede</l>
+<l>Maer die iuede die riep seere</l>
+<l>En laedt mi hier n<hi rend="italic">iet</hi> broeder heere</l>
+<l n="2065">Ontfaremt mijns ic hebbe noet</l>
+<l>Ic ben ghequetst al toter doet</l>
+<l>Hout dine wet vare niet en weghe</l>
+<l><milestone unit="fol" n="75va"/> God heuet di ghegheue<hi rend="italic">n</hi> den zeghe</l>
+<l>Die wise sp<hi rend="italic">ra</hi>c twi lietstu mi alleene</l>
+<l n="2070">Sonder ontfaermecheit ne gheene</l>
+<l>Neen sprac die iuede dat laet staen</l>
+<l>Hets leeden datter es ghedaen</l>
+<l>Ic dede dat mi mine oud<hi rend="italic">er</hi> leerden</l>
+<l>Die wet d<hi rend="italic">aer</hi> si he<hi rend="italic">m</hi> oyt an keerden</l>
+<l n="2075">Die wise hilt vort sine wet</l>
+<l>Ende heeftene achter he<hi rend="italic">m</hi> gheset</l>
+<l>Tote dat hi quam d<hi rend="italic">aer</hi> waren iueden</l>
+<l>En<hi rend="italic">de</hi> gaf den quaden hont den ruede<hi rend="italic">n</hi> </l>
+<l>Die d<hi rend="italic">aer</hi> naer saen sinen ende dede</l>
+<l n="2080">Die heere v<hi rend="italic">er</hi>naemt d<hi rend="italic">aer</hi> vand<hi rend="italic">er</hi> stede</l>
+<l>Ende heuet den wisen man ontfaen</l>
+<l>Tsinen rade en<hi rend="italic">de</hi> lieue ghedaen</l>
+<l>O<hi rend="italic">m</hi>me die houesche ontfaermechede</l>
+<l>Entie dueghet die hi dede</l>
+<l n="2085">Dus eist si twee ghedeelt in tween</l>
+<l>Draghen selden wel ouer een</l>
+<l>Want elc sine wet hout ouer best</l>
+<l>Dus bliuen die herten al ontvest</l>
+<l><hi rend="bold">N</hi>v betaemt wel elken heere</l>
+<l n="2090">Die bewaren wille sine eere</l>
+<l>Dat hi scriuers met he<hi rend="italic">m</hi> houde</l>
+<l>Vroede liede ionghe ende oude</l>
+<l>Die scone en<hi rend="italic">de</hi> wel co<hi rend="italic">n</hi>nen dichten</l>
+<l>En<hi rend="italic">de</hi> met sconen worden v<hi rend="italic">er</hi>lichten</l>
+<l n="2095">Connen dat sijn heere wille</l>
+<l>Entie connen decken stille</l>
+<l>Eens lantsheeren heymelichede</l>
+<l>Want ghelijc dat smenschen lede</l>
+<l>Scoonre sijn ghecleedt dan naect</l>
+<l n="2100">Also eist datmen een dicht maect</l>
+<l>D<hi rend="italic">aer</hi> men der wareit n<hi rend="italic">iet</hi> wt en gheet</l>
+<l>En<hi rend="italic">de</hi> ment m<hi rend="italic">et</hi> scone<hi rend="italic">n</hi> worden cleet</l>
+<l>So werdt die heere d<hi rend="italic">aer</hi> o<hi rend="italic">m</hi>me gheprijst</l>
+<l>Dat hi lieden so wel ghewijst</l>
+<l n="2105"><milestone unit="fol" n="75vb"/> Heeft te siere heymelichede</l>
+<l>Ende werdt te meer ontsien d<hi rend="italic">aer</hi> mede</l>
+<l>Dusghedaneghe sullen die heeren</l>
+<l>In werdecheden houden en<hi rend="italic">de</hi> i<hi rend="italic">n</hi> eere<hi rend="italic">n</hi> </l>
+<l>Op datmense ghetrouwe vint</l>
+<l n="2110">En<hi rend="italic">de</hi> spare<hi rend="italic">n</hi> ieghe<hi rend="italic">n</hi> he<hi rend="italic">m</hi> niet een twint</l>
+<l>Boden die heere senden sal</l>
+<l>Moeten sijn besceeden al</l>
+<l>Wantmen dat te sprekene pliet</l>
+<l>Dat die heere niet en siet</l>
+<l n="2115">D<hi rend="italic">aer</hi> die bode sijn to<hi rend="italic">n</hi>ghe es daer</l>
+<l>En<hi rend="italic">de</hi> sijn ore ouer waer</l>
+<l>Dat die heere niet en hort</l>
+<l>En<hi rend="italic">de</hi> d<hi rend="italic">aer</hi> sijn heere zwijgh<hi rend="italic">et</hi> draeght hi voort</l>
+<l>Hier bi w<hi rend="italic">er</hi>t den heeren goet</l>
+<l n="2120">Dat hare boden waren vroet</l>
+<l>En<hi rend="italic">de</hi> scuwen die dorperheden</l>
+<l>Die perssiene plaghen eere zeden</l>
+<l>Alse heeren boden tote he<hi rend="italic">m</hi> quamen</l>
+<l>Die waren van hoegher namen</l>
+<l n="2125">Dat sise gheerne dronke<hi rend="italic">n</hi> maken</l>
+<l>Dan onder vonden si die zaken</l>
+<l>Entie heymelicheit hoore heeren</l>
+<l>En<hi rend="italic">de</hi> hier af quam vele o<hi rend="italic">n</hi>neeren</l>
+<l>Henne sijn ghene messagiere</l>
+<l n="2130">D<hi rend="italic">aer</hi> ic af dese dinc visiere</l>
+<l>Mare hoeghe lieden die wed<hi rend="italic">er</hi> en<hi rend="italic">de</hi> vort</l>
+<l>Wi draghen der heeren wort</l>
+<l>Heeren sullen hebben mede</l>
+<l>Altoes ende in elke stede</l>
+<l n="2135">Met hem vele haerre edelinghe<hi rend="italic">n</hi> </l>
+<l>Die in al haren dinghen</l>
+<l>Sullen draghen sinen last</l>
+<l>En<hi rend="italic">de</hi> die met duegden also vast</l>
+<l>En<hi rend="italic">de</hi> met gheuene an heere halen</l>
+<l n="2140">Dat si tlijf vor hem betalen</l>
+<l>Tallen tiden in die noet</l>
+<l><milestone unit="fol" n="76ra"/> En<hi rend="italic">de</hi> si eer vallen in die doet</l>
+<l>Eer si verliesen haren heere</l>
+<l>Dien sal die heere altoes doen eere</l>
+<l n="2145">Die hem dus sijn ghetrouwe</l>
+<l>En<hi rend="italic">de</hi> d<hi rend="italic">aer</hi> hi oec ontrouwe an scouwe</l>
+<l>Dien sal hi so van hem v<hi rend="italic">er</hi>stooten</l>
+<l>Dat si hem niet en ghenooten</l>
+<l>Onder die goede meer na dien</l>
+<l n="2150">Dus salmense minnen en<hi rend="italic">de</hi> sien</l>
+<l>Want als een wel doet sond<hi rend="italic">er</hi> danc</l>
+<l>So werdt sijn wille so cranc</l>
+<l>Dat hem rouwet in sinen moet</l>
+<l>Dat hi o<hi rend="italic">m</hi>me niet was goet</l>
+<l n="2155">Hier hendt die boec die es gheseit</l>
+<l>Heymeliche der heymelicheit<hi rend="bold">.</hi> </l>
+<trailer><hi rend="bold">.nota.</hi> </trailer>
+</body>
+</text>
+</TEI.2>

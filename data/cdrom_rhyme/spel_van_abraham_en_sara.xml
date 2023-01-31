@@ -1,0 +1,79 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.transcr 'INCLUDE'> <!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'>]><TEI.2><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Spel van Abraham en Sara</title>
+<author>Onbekend</author>
+</titleStmt>
+<editionStmt>
+<edition>J. Gimberg: 'Fragment van een geestelijk drama'. In: Bijdragen en Mededeelingen Gelre 6 (1903), 279-281 (280-281).</edition>
+</editionStmt>
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<listBibl id="inlMetadata">
+<bibl><interpGrp type="titleLevel1">
+<interp value="Spel van Abraham en Sara"/>
+</interpGrp><interpGrp type="medium">
+<interp value="book"/>
+</interpGrp><interpGrp type="authorLevel1">
+<interp value="Onbekend"/>
+</interpGrp>
+<interpGrp type="ipr">
+<interp value="online"/>
+</interpGrp><interpGrp type="corpusProvenance">
+<interp value="cdrom-mnl"/>
+</interpGrp>
+<interpGrp type="pubYear_from"><interp value="1440"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1440"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1460"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1460"/></interpGrp>
+</bibl>
+</listBibl>
+<bibl id="original-metadata-cdrom-version"><![CDATA[
+<TITEL>Spel van Abraham en Sara</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K1">Zutphen, Gemeentearchief, Verz. handschriftfragmenten 3-8 (fragm.)</BRON>
+<DATUM>1440-1460</DATUM>
+<OMVANG>20 verzen</OMVANG>
+<BRON.OPM>Een papieren fragment (10 x 18,5 cm.), waarvan een zijde geheel blank gelaten werd, op enkele onleesbare woorden na.</BRON.OPM>
+<EDITIE>J. Gimberg: 'Fragment van een geestelijk drama'. In: Bijdragen en Mededeelingen Gelre 6 (1903), 279-281 (280-281).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<EDITIE.OPM>De clauskoppen (sprekersaanduidingen, regieaanwijzingen e.d.) worden cursief weergegeven.</EDITIE.OPM>
+<BRONNEN>Zutphen, Gemeentearchief, Verz. handschriftfragmenten 3-8 (fragm.)</BRONNEN>
+]]></bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body><sp><speaker><pb n="280"/><milestone unit="fol" n="1v"/> <hi rend="italic">Sara tot Abraham:</hi> </speaker><l>Gherne here mijn,</l>
+<l>Het sal op een korte riede sijn.</l>
+<l>Haestelick ende sonder verdriet,</l>
+<l>Sal ic laten doen, dat gij gebiet.</l>
+</sp>
+<sp><speaker><pb n="281"/> <hi rend="italic">Sara tot Agar, oer macht:</hi> </speaker><l>Agar, ic heb vernamen,</l>
+<l>Dat mijnen heren synt gaste avercomen.</l>
+<l>Haestu in Gads vrede</l>
+<l>Ende maket dat beslach van tarwen riede.</l>
+</sp>
+<sp><speaker><hi rend="italic">Sara tot Abraham:</hi> </speaker><l>Here mijn, dat broet is hier,</l>
+<l>Het heeft gehadt gueden tier,</l>
+<l>Het is abel ende bequaem,</l>
+<l>Ic hape, het sal hem sijn aengenaem.</l>
+</sp>
+<stage><hi rend="italic">Dit hoert Sara van veerst staende achter die doer ende sie lachte daerome, ende secht Sara:</hi> </stage>
+<sp><l>Nadien dat ic bin worden oelt</l>
+<l>Ende mijn bloet is al vercolt,</l>
+<l>Ende ic weet ende byns gewys,</l>
+<l>Dat mijn here oeck herde oelt is,</l>
+<l>Zal ic in mijnre oeltheid werden verhoechet,</l>
+<l>Als doe ic was in mijnre joecht.</l>
+</sp>
+<sp><speaker><hi rend="italic">Sara hoert dit ende secht:</hi> </speaker><l>Here, wat ister geschiet,</l>
+<l>Ick en lachte niet.</l>
+<l>[...]</l>
+</sp>
+</body>
+</text>
+</TEI.2>

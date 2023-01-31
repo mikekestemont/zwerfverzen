@@ -1,0 +1,2076 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.transcr 'INCLUDE'> <!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'>]><TEI.2><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Wapene Rogier</title>
+<author>Jan de Weert</author>
+</titleStmt>
+<editionStmt>
+<edition>E. von Kausler: Altniederl&#x00E4;ndische Gedichte, vom Schl&#x00FC;sse des XIII. bis Anfang des XV. Jahrhunderts. Dl. 2. Leipzig, 1866, 14-82.</edition>
+</editionStmt>
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<listBibl id="inlMetadata">
+<bibl><interpGrp type="titleLevel1">
+<interp value="Wapene Rogier"/>
+</interpGrp><interpGrp type="medium">
+<interp value="book"/>
+</interpGrp><interpGrp type="authorLevel1">
+<interp value="Jan de Weert"/>
+</interpGrp>
+<interpGrp type="ipr">
+<interp value="online"/>
+</interpGrp><interpGrp type="corpusProvenance">
+<interp value="cdrom-mnl"/>
+</interpGrp>
+<interpGrp type="pubYear_from"><interp value="1380"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1380"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1425"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1425"/></interpGrp>
+</bibl>
+</listBibl>
+<bibl id="original-metadata-cdrom-version"><![CDATA[
+<TITEL>Wapene Rogier</TITEL>
+<TITEL>Dispitacie van Rogiere ende van Janne</TITEL>
+<TITEL>Een disputacie van Rogiere ende Janne</TITEL>
+<author>Jan de Weert</author>
+<AARD>Rijm</AARD>
+<BRON nr="K157">Stuttgart, W&#x00FC;rttembergische Landesbibliothek, Cod. poet. et philol. fol. 22</BRON>
+<DATUM>1380-1425</DATUM>
+<OMVANG>1870 verzen</OMVANG>
+<BRON.OPM>De codex staat bekend als het zgn. Comburgse handschrift. Hij bevat in totaal 1+346+1 folia; per bladzijde zijn er 2 kolommen en per kolom 36-43 regels. Volgens Janssens e.a. (1991) (zie Van den vos Reynaerde) is het handschrift samengesteld uit zes delen, die in dezelfde periode en omgeving vervaardigd zijn. Tot de inhoud, die uit een vijftigtal teksten bestaat, behoren naast een Dispitacie van Rogiere ende van Janne van Jan de Weert (fol. 218rb-229va), o.a.: de Rose van Hein van Aken (fol. 1ra-85va), de Heimelicheit der heimelicheden van Jacob van Maerlant (fol. 87ra-101vb), het Boec van seden (fol. 102va-110rb), het Boec van Catone (fol. 110rb-112rb), enkele strofische gedichten van Jacob van Maerlant: de Eerste Martijn, de Tweede Martijn, de Derde Martijn (fol. 112rb-124va) en een Disputacie van onser Vrouwen ende van den Heilighen Cruce (fol. 124va-128vb), het Boec van Sidrac (fol. 131ra-174vb), Van sente Brandane (fol. 179ra-192va), Van den vos Reynaerde (fol. 192va-213rb), Van den coninc Saladijn en van Hughen van Tabaryen van Hein van Aken (fol. 229va-231ra), Der leken spieghel (2, 44-45 en 3, 6-15) van Jan van Boendale (fol. 235ra-261vb), Van zeden (fol. 261vb-265ra), de Rijmkroniek van Vlaanderen (fol. 282ra-346rb). Brinkman (1991), 365 n. 43, wijst erop dat de <XREF3 ref=i246>Dispitacie van Rogiere ende van Janne</XREF3>
+ in feite bestaat uit drie afgeronde, zelfstandige stukken. De <hi rend="italic">Eerste Rogier</hi> bestaat uit 66 strofen van elk 13 regels (r. 1-858), de <hi rend="italic">Tweede Rogier</hi> uit 35 strofen (r. 859-1312) en de <hi rend="italic">Derde Rogier</hi> ten slotte uit 43 strofen (r. 1313-1870).</BRON.OPM>
+<EDITIE>E. von Kausler: Altniederl&#x00E4;ndische Gedichte, vom Schl&#x00FC;sse des XIII. bis Anfang des XV. Jahrhunderts. Dl. 2. Leipzig, 1866, 14-82.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1372</BRONMNW>
+<BRONMNW>331 </BRONMNW>
+<EDITIE.OPM>De opmerkingen van de editeur in de voetnoten bij de tekst zijn niet overgenomen.</EDITIE.OPM>
+<BRONNEN>Stuttgart, W&#x00FC;rttembergische Landesbibliothek, Cod. poet. et philol. fol. 22</BRONNEN>
+]]></bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+
+<text><group><text>
+<body><head type="title"><pb n="14"/><milestone unit="fol" n="218rb"/> EEN DISPITACIE VAN ROGIERE ENDE VAN JANNE.</head>
+<lg><l>Waphene, Rogier, hoe saelt gaen?</l>
+<l>Sal tfolc van zonden niet af staen,</l>
+<l>Hoe salt danne ghedueren?</l>
+<l>Tasseren, wouckeren, rouen, slaen,</l>
+<l n="5">Sullen ambachte scinen saen</l>
+<l>Onder die creatueren.</l>
+<l>Quade usage heet niet mesdaen.</l>
+<l>Wie den andren best can vlaen,</l>
+<l>Mach best in state ghedueren.</l>
+<l n="10">Wee hem die daer af es baen!</l>
+<l>Dat quade wrake sal ontfaen</l>
+<l><milestone unit="fol" n="218va"/> Ouer elc verbueren,</l>
+<l>Vinden wi in scriftueren.</l>
+</lg>
+<lg><l>Seneca seit, hebbic vernomen:</l>
+<l n="15">"In zonden wi elc andren dromen".</l>
+<l>Mi dincket hi seghet ware.</l>
+<l>Wanen mach dese blame comen</l>
+<l>Dat deen den anderen wille domen?</l>
+<l>Hets eene plaghe zware:</l>
+<l n="20">Elc souct tgheent dat hem mach vromen,</l>
+<l>Al waert achterdeel hem zomen,</l>
+<l>Die hem bestonden nare.</l>
+<l><pb n="15"/>Rogier, vrient, wille daer toe gomen</l>
+<l>Mi tantwordene sonder becronen,</l>
+<l n="25">Wie occusoen es clare</l>
+<l>Van desen mesbare.</l>
+</lg>
+<lg><l>Wanen comt, lieue Jan de Weert,</l>
+<l>Dat ghi spreken an mi begheert,</l>
+<l>Die niet ne can van clergyen?</l>
+<l n="30">Hets wonder wat ghi vp mi heert:</l>
+<l>Die vele om leeren heeft verteert,</l>
+<l>Mach dispiterens plyen,</l>
+<l>Waer soudic berecht hebben gheleert,</l>
+<l>Vp sulc vraghen als ghi mi sceert,</l>
+<l n="35">Die clerc zijt in surgyen?</l>
+<l>Of men hu tYpre kent ende eert,</l>
+<l>Hout hu daer, ic bem ghekeert.</l>
+<l>Der dispitacien ontvlien</l>
+<l>Sal ic, macht mi ghescien.</l>
+</lg>
+<lg><l n="40">An mi ghesproken eist verloren,</l>
+<l>Jan, ic bade hu gherne te voren</l>
+<l>Dat ghijs mi verliet.</l>
+<l>Waendi dan ghenen spreken horen,</l>
+<l>Vp wien Merlant hadde vercoren,</l>
+<l n="45">Hiet Martin? Ic ne bems niet.</l>
+<l>Ic sta hier ghelijc eenen doren.</l>
+<l>Haddic in Martins cam ghescoren,</l>
+<l>Ic ware nu vroet bediet;</l>
+<l>Maer neen, ic niet, dies hebbic toren.</l>
+<l n="50">Een leec, rudaris, ombescoren</l>
+<l><pb n="16"/>Bem ic, alse ghi wel siet,</l>
+<l>Daer ane eist mi messciet.</l>
+</lg>
+<lg><l>Rogier, Gods ontfaermicheit</l>
+<l><milestone unit="fol" n="218vb"/> Moet Jacoppe hebben besteit</l>
+<l n="55">Daer ic gherne quame!</l>
+<l>Ter vlucht staestu al bereit:</l>
+<l>Al bestu Martin niet, ombeit,</l>
+<l>Ic sekers die vrame.</l>
+<l>Wat ic segghe, wel so weit,</l>
+<l n="60">Spreke ic wort dat di arbeit,</l>
+<l>Ic wils hebben scame.</l>
+<l>Hoort doch tote ic hebbe vulseit</l>
+<l>Tgheent dat mi vp therte leit:</l>
+<l>Dat ics gherne name</l>
+<l n="65">Andwoerde, es gheene scame.</l>
+</lg>
+<lg><l>Uan vare es di gheenen noot;</l>
+<l>Al es Jacop van Merlant doot,</l>
+<l>Wille mi een woort horen;</l>
+<l>Duchtstu van mi wederstoot?</l>
+<l n="70">Mijn conste en es niet also groot</l>
+<l>Als Jacops hier te voren,</l>
+<l>Want die bibele hi in Dietsche ontsloot,</l>
+<l>Ende voer zijn dicht thoeft hi boot</l>
+<l>Voer dies hadden toren.</l>
+<l n="75">Menich goet dicht huut hem vloot,</l>
+<l>Des hopic: in Abrahams scoot</l>
+<l>Es hi dies vercoren,</l>
+<l>Ontvloen den helschen moren.</l>
+</lg>
+<lg><l><pb n="17"/>Het scijnt, ic emmer horen moet:</l>
+<l n="80">Die na wijsen rade doet,</l>
+<l>Dicken het baet hem zeere.</l>
+<l>Dat ghi wilt, Jan, secht metter spoet:</l>
+<l>Mochti mi maken vroet,</l>
+<l>Dat ware mi groet eere.</l>
+<l n="85">Te vromen hebdi mi ghegroet;</l>
+<l>Daer ic mede werde ghezoet,</l>
+<l>Dat hopic, eer ic keere.</l>
+<l>Om dat den crancken noint was goet</l>
+<l>Dat hi ouerlast vp loet,</l>
+<l n="90">So steldic mi ter weere.</l>
+<l>Want spreect, ict zeere begheere.</l>
+</lg>
+<lg><l>Ic vraghe, Rogier, ende noch vraghe,</l>
+<l>Bi wien comt dese zware plaghe</l>
+<l>Van den vulen zonden,</l>
+<l n="95">Die wassen van daghe te daghe?</l>
+<l><milestone unit="fol" n="219ra"/> Onder die sibbe ende na maghe</l>
+<l>Nes selues minne vonden.</l>
+<l>Al sent God neder eene plaghe,</l>
+<l>Waer es hi diere hem af verzaghe?</l>
+<l n="100">Tfolc leeft meest als honden.</l>
+<l>Berecht mi dies ic hu vraghe:</l>
+<l>Bi wien toe comt dat ic claghe?</l>
+<l>Hets wonde bouen alle wonden</l>
+<l>Dat tfolc leeft dus ontbonden.</l>
+</lg>
+<lg><l n="105">Thoeghe es mi dit vraghen, Jan,</l>
+<l><pb n="18"/>Maer ten claersten dat ic can,</l>
+<l>Sal ic weder spreken.</l>
+<l>Tleecke volc, wijf ende man,</l>
+<l>Willen elc andren tijghen an</l>
+<l n="110">Haers selues ghebreken:</l>
+<l>Den papen tyen zijs meest nochtan,</l>
+<l>Als haren spieghel tglas, daer van</l>
+<l>Es tglas naer hute ghesteeken.</l>
+<l>Dit vraghen es mi een zwaer ghespan,</l>
+<l n="115">Want sindert dat de weerelt began,</l>
+<l>Was recht noint versteken:</l>
+<l>Ic claechs den vppersten deken.</l>
+</lg>
+<lg><l>Oec segghen die leecke: waren die sonden</l>
+<l>Also quaet alse die papen orconden,</l>
+<l n="120">Gheleerde die soudense scuwen.</l>
+<l>Datsi te so vele stonden</l>
+<l>Contrarie werken van haren monden,</l>
+<l>Doet den leecken gruwen.</l>
+<l>Die begherte oec van den ponden</l>
+<l n="125">Doet vele onsculdens wesen vonden:</l>
+<l>Elc wilt vp andren duwen.</l>
+<l>Waer soudic connen ghegronden</l>
+<l>Wie bane es van desen sonden?</l>
+<l>Simple zye ic verduwen,</l>
+<l n="130">Houerde altoes vernuwen.</l>
+</lg>
+<lg><l>Rogier, vrient, ens gheen bediet</l>
+<l><pb n="19"/>Dat yement andren sijn quaet tyet,</l>
+<l>Die selue heeft propren wille.</l>
+<l>Doe God den meinsche werden hiet,</l>
+<l n="135">Propren wille hi hem liet</l>
+<l>Te doene lude ende stille.</l>
+<l>Hoe dat tserpent hem tetene riet</l>
+<l><milestone unit="fol" n="219rb"/> Tfruut, twelke God ondersciet,</l>
+<l>Daer ons af quam die hille,</l>
+<l n="140">Haers ondancs en waest niet</l>
+<l>Dat si daer af smaecte yet,</l>
+<l>Des vielen si in scille</l>
+<l>Ende moesten buter sille.</l>
+</lg>
+<lg><l>Die bibele toeghet ons al bloot,</l>
+<l n="145">Dat God den meinsche ne verboot</l>
+<l>Als ware eene vrucht;</l>
+<l>Dandre, cleene ende groot,</l>
+<l>Mochten si orboren ter noot,</l>
+<l>Sonder eeneghen ducht.</l>
+<l n="150">Voer tleuen coes hi die doot,</l>
+<l>Doe hi ant leuen scoot:</l>
+<l>Te rechte quaems hem sucht,</l>
+<l>Ne waer dontfaermichede, die vloot</l>
+<l>Hute shemels vaders scoot,</l>
+<l n="155">Hi ware noch int gerucht</l>
+<l>Ter stede sonder lucht.</l>
+</lg>
+<lg><l>Jan, dit hebbic wel vulhoort.</l>
+<l>Gherne waric bevroet voort,</l>
+<l>Hoe dat recht mach wesen</l>
+<l n="160"><pb n="20"/> Dat vp ons daelde dat zoort</l>
+<l>Der eerster sonden, want acoort</l>
+<l>Daden wi noint te desen.</l>
+<l>Dorstic segghen jeghen hu woort,</l>
+<l>Dat ghi niet ne wort testoort,</l>
+<l n="165">Ic wane, ghi vint lesen,</l>
+<l>Dat loen niet wert na der gheboort,</l>
+<l>Maer staet vp weldaden ghescoort,</l>
+<l>Die huter zielen resen,</l>
+<l>De welke si ghenesen.</l>
+</lg>
+<lg><l n="170">Rogier, du segghes zeere wel:</l>
+<l>Maer dat Adam in sonden vel</l>
+<l>Mach ons niet verdomen.</l>
+<l>Hets waer; dat hi eerst was rebel</l>
+<l>Becoept edel ende onedel</l>
+<l n="175">Dat van hem es comen,</l>
+<l>Ja int werlike ghequel;</l>
+<l>Want twijf drijft den aerbeit fel</l>
+<l>In haers kints voert dromen,</l>
+<l>Die man maect van pinnen gheswel</l>
+<l n="180"><milestone unit="fol" n="219va"/> Ende sweet dicken menich dropel,</l>
+<l>Want hi moet begomen</l>
+<l>Die nootdorst van somen.</l>
+</lg>
+<lg><l>Of die eerde was besmit,</l>
+<l>Daer wi alle sijn hute ghespit,</l>
+<l n="185">Hoe souden wi zuuer ghewesen?</l>
+<l><pb n="21"/>Die dinc moet slachten, elc weet dit,</l>
+<l>Dien huut wien so es ghehit,</l>
+<l>Dit sietstu sonder lesen.</l>
+<l>Nu es die ziele vervaerwet wit</l>
+<l n="190">In der helegher vonten pit;</l>
+<l>Twifelt niet van desen.</l>
+<l>Dies niet gheloeft vaert int ghesit</l>
+<l>Der hellen, daer Lucifer in sit,</l>
+<l>Gheuest met helscher pesen,</l>
+<l n="195">Ende quelt al sonder ghenesen.</l>
+</lg>
+<lg><l>Doe aue, Rogier, dine ruuthede,</l>
+<l>Meerct dat die meinsche, also ic zede,</l>
+<l>Properen wille ontfinc:</l>
+<l>Of hi willende mesdede</l>
+<l n="200">Bi quader ouerhorichede,</l>
+<l>Wien tyet hi die dinc?</l>
+<l>Verboden so wert hem die stede</l>
+<l>Daer niemene plach quade zede,</l>
+<l>Om dat hi ouer ghinc.</l>
+<l n="205">Den properen wille hebben wi mede:</l>
+<l>Elc zye dat hine wel bestede</l>
+<l>Ende gheue hem vroet bewinc,</l>
+<l>Els wert hi areminc.</l>
+</lg>
+<lg><l>Ay, lieue Jan, ghi segghet ware!</l>
+<l n="210">Maer drie vianden zijn te zware</l>
+<l><pb n="22"/>Elken, waer hi belent:</l>
+<l>Dat vleesch, dat hem cleeft so nare,</l>
+<l>Die weerelt, die haer toghet vorbare,</l>
+<l>Ende telsche serpent.</l>
+<l n="215">Wie es ter weerelt, hare of dare,</l>
+<l>Die dese drie heeft so ommare,</l>
+<l>Hine werter bi verblent?</l>
+<l>Dor Gode, Jan, leere mi so clare,</l>
+<l>Want ic bem in so groeten vare,</l>
+<l n="220">Dat ic mach in den hent</l>
+<l>Van eeneghen zijn ghescent.</l>
+</lg>
+<lg><l><milestone unit="fol" n="219vb"/> Rogier, wiltu tware lyen,</l>
+<l>Dune suls gheenen van den drien</l>
+<l>Antyen dijn sneuen.</l>
+<l n="225">Gram bem ic vp die van dien</l>
+<l>Dattu wils den duuel tyen</l>
+<l>Dijn sondelic leuen:</l>
+<l>Niet mach hi di ontvryen.</l>
+<l>Dinen propren wille moet ghescien,</l>
+<l n="230">God heeftene di ghegheuen:</l>
+<l>Hi es quaet, wes des vorsien,</l>
+<l>Der wrake ne salt du niet ontvlien,</l>
+<l>Wilstu ant quaet doen cleuen,</l>
+<l>Du werts daer omme verdreuen.</l>
+</lg>
+<lg><l n="235">Die duuel ne mach niemene deeren</l>
+<l><pb n="23"/>Die hem daer ieghen wille weeren,</l>
+<l>Maer hi mach quaet raden.</l>
+<l>Die met rechte hem wille gheneeren</l>
+<l>Sonder bedrieghen of sonder zweeren,</l>
+<l n="240">Wat mach die duuel hem scaden?</l>
+<l>Sduuels raden of besmeeren</l>
+<l>Mach niet scaden twee peeren</l>
+<l>Den goeden wille ghestade.</l>
+<l>Maer die hem laet den duuel queeren,</l>
+<l n="245">Die ziele van hem sal hi verteeren,</l>
+<l>Ende doense met hem baden</l>
+<l>Int bat sonder ghenaden.</l>
+</lg>
+<lg><l>Jan, so hore ic danne wel:</l>
+<l>Al sijn temptacien snel</l>
+<l n="250">Int toeval, daers niet ane,</l>
+<l>Maect die wille daer ieghen ghescel,</l>
+<l>Die duuel doet gheene so fel,</l>
+<l>So nes te weder stane.</l>
+<l>Daelt yemene int helsche ghequel,</l>
+<l n="255">Dat doet die wille, ende niemen hel,</l>
+<l>Al helpter toe sduuels tane.</l>
+<l>Hoe dat raet gaf die duuel</l>
+<l>Caym te verslane Abel,</l>
+<l>Sijn wille was des bane:</l>
+<l n="260">Dits goet te verstane.</l>
+</lg>
+<lg><l>Na dien dat mijn wille doet,</l>
+<l><pb n="24"/>Dat ic bem quaet of goet,</l>
+<l>So es mi wel van nooden</l>
+<l><milestone unit="fol" n="220ra"/> Dat mi huwe leere bevroet,</l>
+<l n="265">Hoe dat ic sal stelpen sine vloet</l>
+<l>Dat so mi niet ne doode.</l>
+<l>Al heldet te dogheden mijn moet,</l>
+<l>Ic hebber toe so crancken spoet</l>
+<l>Dat ics ontbliue oode.</l>
+<l n="270">Leert mi dat ic werde verhoet,</l>
+<l>Mijn wille dat ict niet ne boet</l>
+<l>Ten laetsten voer Gode,</l>
+<l>Daert al sal staen te lode.</l>
+</lg>
+<lg><l>Rogier, ic doe di bekinnen:</l>
+<l n="275">Het comt hute crancker minnen</l>
+<l>Die du te Gode waert draghes.</l>
+<l>Vp ghenouchten staen dine zinnen,</l>
+<l>Daer du mede verblents van binnen</l>
+<l>Ende int weldoen traghes.</l>
+<l n="280">Wiltu niet die helle winnen,</l>
+<l>So moetstu weldoens beghinnen,</l>
+<l>Tquade vlien, dattu plaghes.</l>
+<l>Laetstu weldoen in di dinnen,</l>
+<l>God sal vp hu die boete hinnen;</l>
+<l n="285">Sye dattu tfuule af iaghes,</l>
+<l>Eer du berste hebs sdaghes.</l>
+</lg>
+<lg><l>Soete raet gheefdi mi, Jan.</l>
+<l>Die alle dinc vermach ende can,</l>
+<l>Moete mi weldoen leeren.</l>
+<l n="290"><pb n="25"/> Te versaghene ic mi began,</l>
+<l>Doe ghi mi eerst sprakes an:</l>
+<l>Ic duchtede van onneeren,</l>
+<l>Want leec so kenne ic mi nochtan.</l>
+<l>Bem ic een deel bevroet der van,</l>
+<l n="295">Des wille ic mi tote hu keeren,</l>
+<l>Ende van den vleessche berecht sijn dan,</l>
+<l>Dat metter zielen hout ghespan,</l>
+<l>Hoe ic sal gheweeren</l>
+<l>Dat mi niet sal deeren.</l>
+</lg>
+<lg><l n="300">Rogier, eist dattu claer sies,</l>
+<l>Dune suls der zielen verlies</l>
+<l>Den vleessche niet tyen.</l>
+<l>Wat mach die lichame dies</l>
+<l>Dat die ziele maect verkies</l>
+<l n="305">Van dat die oghen sien?</l>
+<l><milestone unit="fol" n="220rb"/> Hute der zielen comt dat nyes,</l>
+<l>Want verstannesse hier in blies</l>
+<l>Ende gaf wille vryen.</l>
+<l>Hoe bestu, Rogier, so ries</l>
+<l n="310">Dattu tmesdoen den vleessche tyes?</l>
+<l>Waenstu die ziele ontvryen,</l>
+<l>Wies wille moet ghescien?</l>
+</lg>
+<lg><l>Bemeerct eenen lichame doot,</l>
+<l>So moghestu verstaen al bloot,</l>
+<l n="315">Sijns leerens bedieden:</l>
+<l>Hi ne porrede cleen no groot,</l>
+<l>Sint dat hem de ziele ontscoot,</l>
+<l><pb n="26"/>Diere ouer hadde ghebieden.</l>
+<l>Ter zielen waert dat vleesch hem boot</l>
+<l n="320">Te haren dienste telker noot,</l>
+<l>Als een haerre maysnieden.</l>
+<l>Dus eist beseffelic, alsoet</l>
+<l>Wel gheseit es, onbescroet,</l>
+<l>Dat si tonrechte rieden</l>
+<l n="325">Vp tfleesch, diet hem tieden.</l>
+</lg>
+<lg><l>Of die lichame niet en can</l>
+<l>Let ghepornen, dat hem cleeft an,</l>
+<l>Als die siele es huut,</l>
+<l>Hoe wiltu hem tyen dan</l>
+<l n="330">Tmesdoen, daer die ziele bi wan</l>
+<l>Den helschen besluut?</l>
+<l>Al hout hi met hare een ghespan,</l>
+<l>So nes maar vercleet daer van</l>
+<l>Ende bouen verhuut.</l>
+<l n="335">Of ic nu slonghe eenen man,</l>
+<l>Soude mijn cleet ontfaen den ban</l>
+<l>In der schepenen luud?</l>
+<l>Andwoort, scolier ruut!</l>
+</lg>
+<lg><l>Jan, dat ware groet onrecht,</l>
+<l n="340">Soude tcleet, also ghi secht,</l>
+<l>Ghelden smeinschen scouden.</l>
+<l>Die mauwe es an den arem ghehecht:</l>
+<l>Of die arem maecht gheuecht</l>
+<l>Hoe salse stille houden?</l>
+<l n="345">Claer hebdi mi dit berecht.</l>
+<l><pb n="27"/>Ic duchte, ic bem so ruud een knecht,</l>
+<l>Inne salt cume onthouden.</l>
+<l><milestone unit="fol" n="220va"/> Ende omme dat ic vinde so lecht</l>
+<l>Huwe andwoerde, sal ic hecht</l>
+<l n="350">Int vraghen verbouden:</l>
+<l>Mijn peinsen onthouden.</l>
+</lg>
+<lg><l>Can tfleesch niet doen, so ghi secht,</l>
+<l>So dincke mi dan groet onrecht,</l>
+<l>Dat bequellen moet</l>
+<l n="355">Die ouermate die men hem secht</l>
+<l>Van spijsen, die quetst ende aerghet,</l>
+<l>Twelke dien wille doet</l>
+<l>Eist van allen wetene slecht</l>
+<l>Beuaen bi der zielen plecht.</l>
+<l n="360">So ware ic gherne vroet,</l>
+<l>Of het draghen moet tgheuecht</l>
+<l>Van den qualen, leen mi hu lecht;</l>
+<l>Want ic noch niet verstoet;</l>
+<l>Oft tfleesch die mesdaet boet.</l>
+</lg>
+<lg><l n="365">Hore, Rogier, mine tale:</l>
+<l>Ic sal hu berechten wale,</l>
+<l>Dat hopic, dit vraghen.</l>
+<l>Dat vleesch beseft gheene quale:</l>
+<l>Die siele moet selue al te male</l>
+<l n="370">Die onsochticheit draghen.</l>
+<l>Der zielen wille roupt: "hale, hale!</l>
+<l>Diere gherechten, groet ende smale,</l>
+<l>Vet vleesch willic beiaghen."</l>
+<l><pb n="28"/>Dat die ziele dit al betale</l>
+<l n="375">Es wel ghemeten bi desen pale:</l>
+<l>Wilsoe haer ouerdaet traghen,</l>
+<l>Soe vellede wel die plaghen.</l>
+</lg>
+<lg><l>Als die ziele an heeft ghedaen</l>
+<l>Tfleesch, also du heues verstaen,</l>
+<l n="380">Ghelijc eenen cleede,</l>
+<l>Moet voetsel voert ontfaen,</l>
+<l>Salt in wassene voert vulstaen</l>
+<l>Naer natuere bereede.</l>
+<l>Al heeft nature tfleesch beuaen,</l>
+<l n="385">So moet den wille zijn onderdaen</l>
+<l>Te lieue ende oec te leede.</l>
+<l>Als wille ende lust beede vp staen</l>
+<l>Onmate voetsel, also saen</l>
+<l>Spruut daer quale, dats waerhede.</l>
+<l n="390"><milestone unit="fol" n="220vb"/> Naer twijsen der weede.</l>
+</lg>
+<lg><l>Redene bidt te elker stede</l>
+<l>Dat men orbore, dats waerhede,</l>
+<l>Ende vlye oec onmate van ouerhate.</l>
+<l>Die wille nes niet vernoucht hier mede,</l>
+<l n="395">Al ware sine alleene die stede,</l>
+<l>Te cleene ware hem die sate,</l>
+<l>Die ziele worde bevreet der lede.</l>
+<l>Nu hout dien wille van niemens bede;</l>
+<l><pb n="29"/>Eer ombeeret hi der bate,</l>
+<l n="400">Eer hi hem yet ghelate.</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+</lg>
+<lg><l>Die ziele, die den wille in heeft,</l>
+<l n="405">Daer beseffelicheit an cleeft</l>
+<l>So moet al ghedoghen</l>
+<l>Die wrake die quaet doen gheeft;</l>
+<l>Want so selne es diere sneeft:</l>
+<l>Dit es claer voer hoghen.</l>
+<l n="410">Al scijnt an tfleesch dat beeft</l>
+<l>Hute ouermaten, daert bi leeft,</l>
+<l>Naer tbuten vertoghen,</l>
+<l>Der sielen gheuoelte diere reeft</l>
+<l>Van der qualen diese dor weeft.</l>
+<l n="415">Dus doese quaet doen verdroghen,</l>
+<l>Dies niet te werne hem poghen.</l>
+</lg>
+<lg><l>Ghetoecht, Jan, hebdi mi wel</l>
+<l>Dat mi tfleesch no die duuel</l>
+<l>Niet mach verdomen.</l>
+<l n="420">Berecht mi van der weerelt fel,</l>
+<l>Of so der zielen es rebel,</l>
+<l>So doet so hare vromen,</l>
+<l>Haer trost dinct mi een cranc ghescel;</l>
+<l><pb n="30"/>Maer het dinct den ghenen spel</l>
+<l n="425">Die eerdsche weelde gomen.</l>
+<l>Ic wane, die tijt noint gheuel</l>
+<l>Dat volc ghemeene es so snel</l>
+<l>Omme rike becomen,</l>
+<l>Ic siet daer omme al dromen.</l>
+</lg>
+<lg><l n="430">Rogier, vrient, verstaat ende hore.</l>
+<l>Die weerelt was smeinschen orbore</l>
+<l>Ghemaect al tesamen,</l>
+<l>Dies ware sinen nootdorst core,</l>
+<l>Al zweghe hi ter doot van restore,</l>
+<l n="435"><milestone unit="fol" n="221ra"/> Hine dorsts hem niet scamen.</l>
+<l>Nu es mijn wille also dore</l>
+<l>Dat hem lieuer bet vp score</l>
+<l>Dan mi mach betamen;</l>
+<l>Of ic ouer mate niet store</l>
+<l n="440">Ende in weelden mi versmore,</l>
+<l>Waer sal ic els cramen</l>
+<l>Dan in die helsche bramen?</l>
+</lg>
+<lg><l>   Gheorlooft es dat hem elc houde</l>
+<l>Bewacht van hitten ende van coude,</l>
+<l n="445">Ende redelike oec voedt;</l>
+<l>Waert dat elc tgoet orboren woude</l>
+<l>Te maten, al die weerelt soude</l>
+<l>Staen sonder euelmoet.</l>
+<l>Nu stelt hem elc ter ouerden voude,</l>
+<l n="450">Te orborne van seluere ende van goude</l>
+<l>An heyken, caproen of an hoet:</l>
+<l><pb n="31"/>Moyheit es al des meinschen vroude.</l>
+<l>Lacen! als men moet onder moude,</l>
+<l>Es al verloren tgoet</l>
+<l n="455">Dat moyheit vp haer loedt.</l>
+</lg>
+<lg><l>Die weerelt gheeft gheen occusoen</l>
+<l>Den meinsche dat hi soude mesdoen</l>
+<l>Of in sonden sneuen.</l>
+<l>So gheeft alle dinc in haer saysoen</l>
+<l n="460">Ter noot, alsoe soe heeft gheploen,</l>
+<l>Hem allen die leuen.</l>
+<l>Waenstu, of di mate es ontfloen</l>
+<l>Ende du ouerdaet wils doen,</l>
+<l>De[r] weerelt bane gheuen?</l>
+<l n="465">Wat mesdoet clocke of caproen</l>
+<l>Dattu verwes zwart of groen?</l>
+<l>Niet! maer therte heuen</l>
+<l>Sal omme die moyheit beuen.</l>
+</lg>
+<lg><l>Dus moghestu, Rogier, sijn beuroet</l>
+<l n="470">Dat die weerelt niet ne mesdoet;</l>
+<l>Sone heeft wille gheenen.</l>
+<l>Dat soe die creatueren voet,</l>
+<l>Ende lauet metter spoet;</l>
+<l>Dat doet natuere al teenen:</l>
+<l n="475">Met haerre vrucht es elcs iaers spoet,</l>
+<l>Daer so den meinsche mede groet</l>
+<l><milestone unit="fol" n="221rb"/> Ten orbaren den ghemeenen.</l>
+<l>Die te maten daer in wroet,</l>
+<l>Hem so doet de weerelt goet;</l>
+<l n="480"><pb n="32"/> Deelt hijs voert den cleenen,</l>
+<l>In Gode mach hi verheenen.</l>
+</lg>
+<lg><l>Die heere God in sijn secreet</l>
+<l>Hadde gracie al voer reet</l>
+<l>Der zielen, eer hi se wrochte.</l>
+<l n="485">Die gheeft der zielen dat so weet</l>
+<l>Redene, wijsheit, ondersceet,</l>
+<l>Kennesse ende goet ghedochte;</l>
+<l>Den goet willeghen soe beleet</l>
+<l>Werken, so haer noyt vermeet,</l>
+<l n="490">Alst die wille versochte.</l>
+<l>Ten weldoene es soe ghereet:</l>
+<l>Ontgaet haer yement, dats haer leet,</l>
+<l>Vp dat soene houden mochte,</l>
+<l>Ende bi haers yet rochte.</l>
+</lg>
+<lg><l n="495">Der zielen so zijn alle de sinnen</l>
+<l>Onderdaen mit groeter minnen,</l>
+<l>Als haerre rechter vrauwen.</l>
+<l>Gracie doet haer claer kinnen</l>
+<l>Bi der consiencien binnen,</l>
+<l n="500">Der weerelt ghetrauwen,</l>
+<l>Als lusten te pornen beghinnen.</l>
+<l>Wilsoe, so machse wel verwinnen</l>
+<l>Ende bliuen buten rauwen.</l>
+<l>Maer rust so onder der lust vimmen,</l>
+<l n="505">Lust sal haer gracie ontspinnen,</l>
+<l><pb n="33"/>Met ghenouchten crauwen</l>
+<l>Ende hare also ghelauwen.</l>
+</lg>
+<lg><l>Gracie wille haer tallen dinghen</l>
+<l>Ordineren ende minghen,</l>
+<l n="510">En ware ten zonden.</l>
+<l>Quaet doen wilsoe niet ghehinghen:</l>
+<l>Properen wille moet voert bringhen,</l>
+<l>Als ware gheen vonden.</l>
+<l>Die wille mach die zinne dwinghen,</l>
+<l n="515">Hem ne mach gheen ontspringhen,</l>
+<l>Docht den wille ghebonden.</l>
+<l>Al waert dat die zinne vinghen</l>
+<l>Daer men zonde hute mochte bringhen,</l>
+<l><milestone unit="fol" n="221va"/> Docht den wille niet monden,</l>
+<l n="520">So ontseit telken stonden.</l>
+</lg>
+<lg><l>Sye hier des willen werc al plat:</l>
+<l>Die meinsche es ghelijc eere stat</l>
+<l>Die moet zijn bewaert;</l>
+<l>Elc zin es een hopen gat,</l>
+<l n="525">Dor twelke in mach trecken dat</l>
+<l>Lichte die de stat bezwaert.</l>
+<l>Verstannesse nes niet lat</l>
+<l>Te verstane, wie of wat</l>
+<l>In die stat gheet of vaert;</l>
+<l n="530">Redene kennet: dor gheenen scat</l>
+<l>Liet so also lijden tblat;</l>
+<l><pb n="34"/>Maer saen so haer dat verclaert</l>
+<l>Voer den wille galiaert.</l>
+</lg>
+<lg><l>De wille es deser stat coninc,</l>
+<l n="535">Hi mach laten of doen die dinc,</l>
+<l>Al na zijn gheuouch.</l>
+<l>Al dede hem redene een bedwinc</l>
+<l>Met prouuen, ende soe aen ghinc</l>
+<l>En es hem niet ghenouch,</l>
+<l n="540">Die ghenouchte daer so an vinc</l>
+<l>Laet hem niemene doen ghebrinc</l>
+<l>Dan daer hen lust toe drouch.</l>
+<l>Daer ne helpt ne gheen ghescine</l>
+<l>Dat hi dijnre saken wille verminc</l>
+<l n="545">Daer hi dus spyen plouch;</l>
+<l>Wie daer omme weende of louch.</l>
+</lg>
+<lg><l>Jan, mi dincke an hu spreken,</l>
+<l>Der sielen ne mach niet ghebreken:</l>
+<l>Wat soe wille so heuet.</l>
+<l n="550">Wilsoe doen, vp haer sal leken</l>
+<l>Gracie, sone blijft niet bezweken</l>
+<l>Van hem diet al gheuet.</l>
+<l>Wilsoe oec weldoen van haer steken,</l>
+<l>So wert Lucifer haer deken,</l>
+<l n="555">Daer tcouent al beuet.</l>
+<l>God sal tvleesch niet bescant reken,</l>
+<l>No oec quaet doen up hem wreken,</l>
+<l>Want het niet en sneuet,</l>
+<l>Maer soe an wien dat cleuet.</l>
+</lg>
+<lg><l n="560"><pb n="35"/> Eist also ghi hier bediet,</l>
+<l><milestone unit="fol" n="221vb"/> Sone dochte de lichame niet,</l>
+<l>Hine mach hem seluen gheneeren.</l>
+<l>Maect mi vroet, of ghijt ghebiet,</l>
+<l>Twi God tfleesch werden liet;</l>
+<l n="565">Oft helpen mach, of deeren.</l>
+<l>Al twerc ghi der zielen tyet,</l>
+<l>Omme dat so es in wille ghevryet,</l>
+<l>Die haer niemen mach weeren.</l>
+<l>Sech mi, hoet dus es ghesciet,</l>
+<l n="570">Het dincke mi so vremde een liet,</l>
+<l>Moestie sberechtens ombeeren,</l>
+<l>Ic hielt al ouer sceeren.</l>
+</lg>
+<lg><l>Rogier, nu verstant mi nare,</l>
+<l>Ic sal die toghen dat so clare,</l>
+<l n="575">Du sulles verstaen wale.</l>
+<l>Ombemeerct es die dinc zware</l>
+<l>Die wert int openbare</l>
+<l>Bi bewijse smale.</l>
+<l>Siele ende vleesch zijn, zeere contrare,</l>
+<l n="580">Tesamen nochtan te eenre pare,</l>
+<l>Te berghe ende te dale.</l>
+<l>Die ziele becoepet tmesdoen zware;</l>
+<l>Twi tfleesch staet dies buten vare,</l>
+<l>Sal ic di al te male</l>
+<l n="585">Toeghen met corter tale.</l>
+</lg>
+<lg><l>Doe God, die almoghende heere,</l>
+<l>Hadde gestelt Lucifeere</l>
+<l><pb n="36"/>Bouen den inghelen scoene,</l>
+<l>Began die dulle ansien seere</l>
+<l n="590">Met ghenouchten, elanc so meere,</l>
+<l>Sijn blecken an den troene.</l>
+<l>Dat ansien gaf hem quade leere,</l>
+<l>Want hi wart peinsende, God onneere</l>
+<l>Te doene met ziere hone.</l>
+<l n="595">Daer so stelde hem God ter weere,</l>
+<l>Ende warpene int helsche beere;</l>
+<l>Daer es nu sine crone</l>
+<l>Verkeert in zwaren lone.</l>
+</lg>
+<lg><l>Naer der inghelen groete onurede</l>
+<l n="600">Sach God ydel die scone stede,</l>
+<l>Daer si vielen huut:</l>
+<l>"Maken wi den meinsche," hi zede,</l>
+<l><milestone unit="fol" n="222ra"/> "Na onser beelde"; sonder bede</l>
+<l>Sceen die Gods virtuut.</l>
+<l n="605">Om dat Lucifers scoenheit dede</l>
+<l>Dat hi quam ten helschen leede</l>
+<l>Int donckere besluut,</l>
+<l>So decte God der zielen schoenhede</l>
+<l>Met eerden, want na haerre snede</l>
+<l n="610">Cleedde hi se als eene bruut;</l>
+<l>Hoere voert an mijn luut:</l>
+</lg>
+<lg><l>Doe God der zielen an hadde ghedaen</l>
+<l>Tfleesch, also ghi hebt verstaen,</l>
+<l>Twelke hi van eerden wrochte,</l>
+<l n="615">Doe hiet meinsche. God gaf hem saen</l>
+<l><pb n="37"/>Al die weerelt onderdaen</l>
+<l>In te leuene sochte.</l>
+<l>Dat hi niet hant soude slaen</l>
+<l>An thout dat weten dede ontfaen</l>
+<l n="620">Verboet God, dient al vermochte.</l>
+<l>Haddi ghehouden Gods vermaen,</l>
+<l>Ter hellen haddi niet ghegaen;</l>
+<l>Ende diene daer toe brochte,</l>
+<l>Met hem zoet becochte.</l>
+</lg>
+<lg><l n="625">Doe Adaem van der weerelt sciet,</l>
+<l>Ter eerden terdine vlies hi liet,</l>
+<l>Ter hellen voer hi ghereet:</l>
+<l>Dus es ons, Rogier, wel bediet,</l>
+<l>Dat dit steruen es els niet</l>
+<l n="630">Dan hare die siele ontcleet.</l>
+<l>Den vleesche wert niet ghetyet</l>
+<l>Der eerdscher ghulsicheit verdriet,</l>
+<l>Want het ontfincs gheen leet.</l>
+<l>Hi deerde noch men[t] deluen siet,</l>
+<l n="635">Of God die ziele voer hem ontbiet</l>
+<l>Bi den steruene wreet,</l>
+<l>Te hoerne haer beleet.</l>
+</lg>
+<lg><l>Hoert een claer exempel hier van:</l>
+<l>Lieden twee, wijf ende man,</l>
+<l n="640">Die sijn eens der saken,</l>
+<l>Een kint dat hi an hare wan,</l>
+<l>Twelke een deel der clergyen can,</l>
+<l>Si willent moonc maken.</l>
+<l><pb n="38"/>Tsamen sullen si spreken dan:</l>
+<l n="645"><milestone unit="fol" n="222rb"/> "Maken wine moonc"! Jan,</l>
+<l>Want wi daer naer haken,</l>
+<l>Verstant deser woort ghespan:</l>
+<l>Ter redenen, daer ict omme began,</l>
+<l>Saltu lichte ghenaken</l>
+<l n="650">Ende den carneel smaken.</l>
+</lg>
+<lg><l>Saelt mooncs name ontfaen,</l>
+<l>Het moet in den cloester gaen</l>
+<l>Ende an doen tabijt.</l>
+<l>Dan sal men hem doen vermaen,</l>
+<l n="655">Wat daer ghelaten of ghedaen</l>
+<l>Moet sijn telker tijt:</l>
+<l>Of tkint verbot wille ane vaen,</l>
+<l>Sal men daer omme die cueuele slaen?</l>
+<l>Neent! maer tkint subdijt!</l>
+<l n="660">Constu mi niet dus verstaen,</l>
+<l>So bestu een corlyaen,</l>
+<l>Die stout verloren lijt</l>
+<l>Die men omme di slijt.</l>
+</lg>
+<lg><l>Dit kint es die ziele, verstaen,</l>
+<l n="665">Die cloester daer so in es ghedaen</l>
+<l>Moet die weerelt wesen,</l>
+<l>Tabijt dat haer an es ghedaen</l>
+<l>Es tfleesch van der eerden ontfaen,</l>
+<l>Soet hier es ghelesen.</l>
+<l n="670">Doe waest een meinsche gheheeten saen,</l>
+<l>Tverbot was daer omme vermaen,</l>
+<l><pb n="39"/>Ende hi ghinc bouen desen,</l>
+<l>Daer omme wart hem die helle ontdaen,</l>
+<l>Daer hi in moste bliuen gheuaen</l>
+<l n="675">Tote die was verresen</l>
+<l>Diene quam ghenesen.</l>
+</lg>
+<lg><l>Die meinsche, wart wijf ende man,</l>
+<l>Haer nemmeer een ghesien en can</l>
+<l>Der zielen scoenheit.</l>
+<l n="680">Hadden sie dien ghesien an,</l>
+<l>Lichte si waren oec in den ban</l>
+<l>Daer Lucifer was gheseit.</l>
+<l>Sine saghen waer tfleesch; nochtan</l>
+<l>Maecte houaerde in hem ghespan</l>
+<l n="685">Ende dede doen ghulsicheit.</l>
+<l>God vergraemde hem daer an</l>
+<l><milestone unit="fol" n="222va"/> Ende deedse beede iaghen van dan</l>
+<l>In groeten aerbeit,</l>
+<l>So du wel weit.</l>
+</lg>
+<lg><l>  690 Scaemte viel hem lieden an:</l>
+<l>Elc decte hem so hi best can,</l>
+<l>Sijn vleesch nemmeer te siene.</l>
+<l>Twee scaepvachten God ghewan,</l>
+<l>Hi cleede twijf ende oec den man,</l>
+<l n="695">Houerde te doene vliene:</l>
+<l>Cleedinghe dor tmesdoen began.</l>
+<l>Nu eist ouerden ghespan:</l>
+<l>Men maecse bi engiene.</l>
+<l>Dus meersen si der hellen ban.</l>
+<l n="700"><pb n="40"/> Al decken si tfleesch, nochtan</l>
+<l>Helpen si ten messchiene;</l>
+<l>Noet waert dat mense biene.</l>
+</lg>
+<lg><l>Jan, nu doet mi zijn bevroet,</l>
+<l>Wat profijte dat tfleesch doet</l>
+<l n="705">Der zielen diet an heuet.</l>
+<l>Ghi secht: en weerct quaet no goet,</l>
+<l>Het ne verlet, no ne verspoet.</l>
+<l>Maer daer het an cleuet,</l>
+<l>Emmer seghet mi mijn moet:</l>
+<l n="710">Na datse God daer mede loet,</l>
+<l>Dat het bate gheuet.</l>
+<l>Anders so waert in de vloet</l>
+<l>Beter versmoert dan ghebroet,</l>
+<l>Alst sonder weldoen leuet,</l>
+<l n="715">Hoe dat niet ne sneuet.</l>
+</lg>
+<lg><l>Rogier, dat vleesch doet profijt</l>
+<l>Also vele als die couele wijt</l>
+<l>Die an den moonc waghet.</l>
+<l>Den moonc toghet zijn abijt</l>
+<l n="720">Dat hi daer leeden moet den tijt,</l>
+<l>Doende als die ordine draghet.</l>
+<l>Es hi der ordinen recht subdijt,</l>
+<l>Ende onderhorich daer in lijt,</l>
+<l>So leeft hi al onuersaghet.</l>
+<l n="725">De moonken doen hem gheen despijt</l>
+<l><pb n="41"/>Int capitele, noch verwijt</l>
+<l>Ouer wien men daer claghet,</l>
+<l>Hi blijft ongheplaghet.</l>
+</lg>
+<lg><l><milestone unit="fol" n="222vb"/> Dvs toecht die lichame, Rogier,</l>
+<l n="730">Der sielen, die van heeft bestier,</l>
+<l>Dato hier es comen</l>
+<l>In dese weerelt, onghier,</l>
+<l>Te leed ene tlijf, sonder verfier,</l>
+<l>Dat soe heeft an ghenomen</l>
+<l n="735">Onderdaen, als goet scolier,</l>
+<l>Ten ghebode die God hier</l>
+<l>Sendde te haerre vromen.</l>
+<l>Es daer buten haer regier,</l>
+<l>So salse, duchtic, Lucifer</l>
+<l n="740">In die helle dromen;</l>
+<l>Daer sal wrake haers gomen.</l>
+</lg>
+<lg><l>Ten laetsten wert oec die lichame</l>
+<l>Der salegher siele abijt bequame</l>
+<l>Voer Gode den heere.</l>
+<l n="745">Der verdomder wert hi blame</l>
+<l>Ende eene helpt van verrame</l>
+<l>In meersinghen van zeere.</l>
+<l>Die gherne zijn vleesch vet name,</l>
+<l>Anesiet lettele dachtervrame</l>
+<l n="750">Van den wederkeere</l>
+<l>Daer weelde ghedoomt wert ter scrame,</l>
+<l>Aermoede ten scoet van Abrahame,</l>
+<l>Daer pays wert emmermeere,</l>
+<l><pb n="42"/>Na der scriftueren leere.</l>
+</lg>
+<lg><l n="755">Mi dincke an hu segghen, Jan,</l>
+<l>Dat den lichame hanghet an</l>
+<l>Der sielen als eene paruere.</l>
+<l>Eist dat so gheraken can</l>
+<l>Ten hemele, so wert hi daeran</l>
+<l n="760">Verchierde achemuere.</l>
+<l>Verdient so oec den helschen ban,</l>
+<l>So wert haer tfleesch een zwaer ghespan</l>
+<l>Binder passien suere.</l>
+<l>Dus schijnt, tfleesch an wijf of man</l>
+<l n="765">Ter weerelt noyt werc began</l>
+<l>Van lone teenegher huere,</l>
+<l>Noch oec der scriftuere.</l>
+</lg>
+<lg><l>Es dat waer also ghi secht,</l>
+<l>So doghet tfleesch groot onrecht,</l>
+<l n="770"><milestone unit="fol" n="223ra"/> Dat niet ne mach mesdoen:</l>
+<l>Der sielen eist an ghevlecht</l>
+<l>Waer omme, als die wille vecht</l>
+<l>Ende wont den campyoen,</l>
+<l>Quetst men daer omme haer recht,</l>
+<l n="775">Dat ant mesdoen es ghehecht,</l>
+<l>Ende gheens quaets heeft gheploen?</l>
+<l>Dit dolen also berecht,</l>
+<l>Dat si ghepayt, Rogier, hu knecht:</l>
+<l>Anders heuet hu sermoen</l>
+<l n="780">In eenen vulen soen.</l>
+</lg>
+<lg><l><pb n="43"/>Rogier, nu verstant na mi,</l>
+<l>Te binnen sal ic hier af di</l>
+<l>Maken in corter tale.</l>
+<l>Hore hier ghelicke daer bi:</l>
+<l n="785">Een die dul zijns willen zi</l>
+<l>Heeft gramscap niet smale,</l>
+<l>Daer omme te vechtene staet zijn cry;</l>
+<l>Met kniue, so waent hi,</l>
+<l>Langhen zijns viants quale;</l>
+<l n="790">Den knijf hem so nemen wy,</l>
+<l>Dus blijft achter dat "ay mi"</l>
+<l>Te makene metten strale</l>
+<l>Ende ander quaet also wale.</l>
+</lg>
+<lg><l>Die siele heeft hel gheen instrument,</l>
+<l n="795">Dat metter weerelt es bekent,</l>
+<l>Dan haren lichame.</l>
+<l>Als soe moet werlic parlement,</l>
+<l>Die werlike, die trechte kent,</l>
+<l>Gherne dies wrake name.</l>
+<l n="800">Die siele, diet hiet, es hem ontwent,</l>
+<l>Des vaet hi den lichame present,</l>
+<l>Haer instrument bequame,</l>
+<l>Daer doet hi den lichame torment</l>
+<l>Omme die mesdaet, ende scent</l>
+<l n="805">Die doen dede dontame;</l>
+<l>Beseft tverlies onvrame.</l>
+</lg>
+<lg><l>Nv es slichamen vuust ghenomen:</l>
+<l>Die siele sal niet connen comen</l>
+<l>Daer mede meer te slane;</l>
+<l n="810"><pb n="44"/> Met wille mach sore na dromen.</l>
+<l>Doet soet, dats thaerre onvromen,</l>
+<l>Want so wert sweercs bane.</l>
+<l><milestone unit="fol" n="223rb"/> Wilsoe den lichame gomen,</l>
+<l>So moetene met weldaden betomen,</l>
+<l n="815">Ende wachtene van mesgane.</l>
+<l>Anders sal soene doen domen</l>
+<l>Ter doot, of anders doen rouen van somen</l>
+<l>Lede dat hem cleeft ane:</l>
+<l>Dits licht te verstane.</l>
+</lg>
+<lg><l n="820">Dvs verliest tfleesch sine lede,</l>
+<l>Omme der sielen aerchede</l>
+<l>Te wrekene, die so pliet;</l>
+<l>Want als tfleesch es af ghesneden,</l>
+<l>Moet so ombeeren voert der leden,</l>
+<l n="825">Daer dat let toe diet.</l>
+<l>Die tsmeets hamer wille besteden,</l>
+<l>Salne doen van smedene vreden.</l>
+<l>Dvs bi gheliken bediet</l>
+<l>In elc let bouen ende beneden,</l>
+<l n="830">Want die ziele heeft haer vreden,</l>
+<l>Bi welken buten ghesciet</l>
+<l>Dat so binnen ghebiet.</l>
+</lg>
+<lg><l>Verstontstu claerlic des boucs ghestel,</l>
+<l>Rogier, du souts orconden wel:</l>
+<l n="835">Die sondare lyen moet,</l>
+<l>Dat sijn quaet wille, niemen hel,</l>
+<l><pb n="45"/>Hem leet int helsche ghequel;</l>
+<l>Want niemen hel mesdoet.</l>
+<l>Ondanx noint meinsche in sonden vel,</l>
+<l n="840">Des doet Jheronimus vertel,</l>
+<l>Die helich was ende goet.</l>
+<l>Ware ons leuen ter doghet snel,</l>
+<l>Ons leuen ware ons een bruut spel:</l>
+<l>Van karitaten behoet</l>
+<l n="845">Werden wi, ende verhoet.</l>
+</lg>
+<lg><l>Den loen Gods, Jan, moetti winnen</l>
+<l>Dat ghi mi hebt ghemaect te binnen</l>
+<l>Van deser leere clare.</l>
+<l>Wille de meinsche Gode winnen,</l>
+<l n="850">Gracie sal haer niet ontdinnen,</l>
+<l>Hem nes gheenen noet van vare:</l>
+<l>Goet ende quaet es in sijn kinnen,</l>
+<l>Want loen so sal hijs ghewinnen</l>
+<l>Ten vonnesse hier nare.</l>
+<l n="855"><milestone unit="fol" n="223va"/> God late ons wille ende zinne</l>
+<l>So leeden onder sine vimmen,</l>
+<l>Dat wi gheluuschen dare</l>
+<l>Daer hi beleet die scare.</l>
+</lg>
+<lg><l>Droemt di, Rogier, slaept dijn zin?</l>
+<l n="860">Van vraghene daetstu een beghin,</l>
+<l>Waer bestu ontbleuen?</l>
+<l>Vontstu gheene smake daer in?</l>
+<l>So haddestu lieuer tghewin</l>
+<l>Van ghelde beseuen?</l>
+<l n="865">Keere te mi waert dinen zin,</l>
+<l><pb n="46"/>Wiltstu haspen mijn ghespin,</l>
+<l>het mach di doen leuen.</l>
+<l>Waert al dijn dat comt int Zwin,</l>
+<l>Der zielen daet gheen ghewin:</l>
+<l n="870">Wiltu weldoen begheuen,</l>
+<l>Du wertster omme verdreuen.</l>
+</lg>
+<lg><l>Na dat ghi mi, Jan, dus voren groet</l>
+<l>Ende dus minlike vermanen doet,</l>
+<l>So willic hu danne vraghen</l>
+<l n="875">Wat gracie es: maect mi dan vroet.</l>
+<l>Es van hare alle dine behoet,</l>
+<l>Hoe machse last ghedraghen?</l>
+<l>Wanen comt hare, tsine so goet</l>
+<l>Dat so alle dinc verspoet,</l>
+<l n="880">So ic hore ghewaghen.</l>
+<l>Eist datso alle dinc broet,</l>
+<l>So es die quade van hare ghevoet,</l>
+<l>Dat sise niet connen beiaghen</l>
+<l>Die dicken ouer hare claghen.</l>
+</lg>
+<lg><l n="885">Meneghe, leedende sondelic leuen,</l>
+<l>Segghen, ware hem gracie ghegheuen,</l>
+<l>Si hadden duecht ghedaen:</l>
+<l>Omme dat hem gracie es ontbleuen,</l>
+<l>Moeten si an de weerelt cleuen;</l>
+<l n="890">Dus doen zijt verstaen.</l>
+<l>Es gracie metten quaden beneuen,</l>
+<l>Weder heeft hise niet beseuen?</l>
+<l><pb n="47"/>Doet dinghel hem gheen vermaen?</l>
+<l>Wat ghi hier af vint bescreuen</l>
+<l n="895">Secht mi sonder eenich reuen.</l>
+<l>Twifel hebbics ontfaen,</l>
+<l><milestone unit="fol" n="223vb"/> Doet mi dien wech gaen.</l>
+</lg>
+<lg><l>Mi dincke, Rogier, ghi sijt ontwaken,</l>
+<l>Wanen commen di so hoghe saken</l>
+<l n="900">Te vraghene mi ter hueren?</l>
+<l>Al const niement tsegghene gheraken,</l>
+<l>Dijn zin sout niet connen ghetaken</l>
+<l>Noch gheene creatueren.</l>
+<l>Doch sal ic di so vroet des maken,</l>
+<l n="905">Dattu te kennen suls ghenaken</l>
+<l>Eens deels harer parueren.</l>
+<l>Leenden wie niet an hare staken,</l>
+<l>Wrake souden wi dicke smaken</l>
+<l>Van dat wi verbueren:</l>
+<l n="910">Soe doet dat wi ghedueren.</l>
+</lg>
+<lg><l>Beroghise der gracien eerst vut goet</l>
+<l>Huut des hemels vaders scoet</l>
+<l>Wie kent daer af yet?</l>
+<l>Noint was cleercs conste so groet,</l>
+<l n="915">Sijn weten ne wart al doot,</l>
+<l>Als hi daer na riet.</l>
+<l>Somich wilen daer na scoet,</l>
+<l>Ontfinx sulken weder stoet,</l>
+<l>Dat hi den zin derin liet.</l>
+<l n="920"><pb n="48"/> Nochtan sal ic te diere noet</l>
+<l>Na mijn verstaen ontdecken bloet,</l>
+<l>Hoe dat mach sijn bediet</l>
+<l>Na dat so haer te ons riet.</l>
+</lg>
+<lg><l>Mj dincke dat gracie heeten moet</l>
+<l n="925">Huter Gods minnen eene vloet,</l>
+<l>Sprutende van dauwe,</l>
+<l>Die so helich es ende so goet,</l>
+<l>Dat so hemele ende eerde voet</l>
+<l>Mids haren aenscauwe;</l>
+<l n="930">Daer goet willich es die moet,</l>
+<l>Daer so vloyet so metter spoet;</l>
+<l>Wel hem diese ghelauwe!</l>
+<l>Alle wijsheit, so commen doet</l>
+<l>Sonder hare, en es niet ghebroet.</l>
+<l n="935">Die niet in hare stelt trauwe,</l>
+<l>Voer Gode staet hem nauwe.</l>
+</lg>
+<lg><l>   Dese gracie es also diuyne,</l>
+<l>Dat gheene dinc macht heeft te zine,</l>
+<l><milestone unit="fol" n="224ra"/> Soe ne vloyen der mede.</l>
+<l n="940">Die siele zuuert so ende maect fine,</l>
+<l>So es ghenerigghe van brode ende van wine,</l>
+<l>So bewacht elke stede.</l>
+<l>Liet so den zondeere, ter caryne</l>
+<l>Van der zwarer helscher pine</l>
+<l n="945">Daeldi sonder bede.</l>
+<l>So dect al onder haer slauine,</l>
+<l>Dat es buter helscher caryne.</l>
+<l>Maer van diere zwaerhede</l>
+<l><pb n="49"/>Ne doet so gheenen vrede.</l>
+</lg>
+<lg><l n="950">Jan, ghi secht dat gracie heeft</l>
+<l>Te bewaerne al dat leeft,</l>
+<l>Tquade metten goeden:</l>
+<l>Twy so den eenen so an cleeft,</l>
+<l>Den anderen so wel na begheeft,</l>
+<l n="955">Doet mi des gheuroeden.</l>
+<l>Het scijnt, graciloes versteeft,</l>
+<l>So dat hi ieghen weldoen beeft,</l>
+<l>Eene doghet, machene moeden.</l>
+<l>Wilcoort so dat yemene sneeft,</l>
+<l n="960">So scijnt in sonden so reeft,</l>
+<l>Naer dat soe behoeden</l>
+<l>Mach al ende voeden.</l>
+</lg>
+<lg><l>Rogier, vrient, ic mach hu toghen,</l>
+<l>Hoe eeneghe in gracien verhoghen</l>
+<l n="965">Ende andre hare ontbliuen:</l>
+<l>Na dat die meinsche wille poghen</l>
+<l>Om gracie, so sal so haer boghen</l>
+<l>Te hem waert ende verstiuen.</l>
+<l>Wille hi der gracien werc ghedoghen,</l>
+<l n="970">So salne voestren ende zoghen,</l>
+<l>Int weldoen doen becliuen.</l>
+<l>Maer doet hise in hem verdroghen,</l>
+<l>Alsoet es in zijn vermoghen,</l>
+<l>Hi mach hem seluen verdriuen</l>
+<l n="975">Ter hellen metten keytiuen.</l>
+</lg>
+<lg><l>Gracie es den reyne ghelike,</l>
+<l><pb n="50"/>Die dalende benet therderike</l>
+<l>Ende trect ten wortelen saen.</l>
+<l>Niemen slaet den reyn zwike:</l>
+<l n="980">Wie datter ieghen hout strike,</l>
+<l><milestone unit="fol" n="224rb"/> Die mach verscheit ontfaen.</l>
+<l>Ne waer di duuct binnen sinen slike</l>
+<l>Ende tselfs daer hute ne kike,</l>
+<l>Die es zijnre droecheit baen:</l>
+<l n="985">Al vloeyde twater ouer den dyke,</l>
+<l>En holpe hem niet van eere kryke;</l>
+<l>Soudene twater dwaen,</l>
+<l>Hi moester hute gaen.</l>
+</lg>
+<lg><l>Dit huut gaen so es bediet,</l>
+<l n="990">Dat die meinsche al tgheent vertyet</l>
+<l>Dat gracie mach verdriuen;</l>
+<l>Eist dat hi quade luste vliet,</l>
+<l>Ende hem seluen ter gracien biet,</l>
+<l>An hem sal so haer wriuen.</l>
+<l n="995">Maer die der weelden anesiet</l>
+<l>Ende daer in te dukene pliet,</l>
+<l>Dien mach so ontbliuen.</l>
+<l>Men mach, so die ewangelye lyet,</l>
+<l>Tesamen twee heeren dienen niet</l>
+<l n="1000">Die onderlinghe kiuen,</l>
+<l>Ende an beeden becliuen.</l>
+</lg>
+<lg><l>Gracie gheenen meinsche laet,</l>
+<l>Maer die meinsche haer ontgaet</l>
+<l><pb n="51"/>Bi sinen mesleede.</l>
+<l n="1005">Goetwillich altoes so staet</l>
+<l>Der zielen, te zayene haer zaet</l>
+<l>Vp dat soere selue toe reede.</l>
+<l>Of de reyn doet vut commen tsaet,</l>
+<l>Bi wien comt dat droecheit scaet</l>
+<l n="1010">Den dukere in zine stede?</l>
+<l>An gracien zijde es gheen beraet,</l>
+<l>Maer so wille dat elc ontfaet</l>
+<l>Voetsel binnen haerre weede,</l>
+<l>Ende sijn weldoen breede.</l>
+</lg>
+<lg><l n="1015">Jan, ic hebbe wel verstaen</l>
+<l>Dat elc gracie heeft ontfaen,</l>
+<l>Behoudse wel die wille.</l>
+<l>Al es een van zonden de baen,</l>
+<l>So salne zuueren ende dwaen</l>
+<l n="1020">Met berauwenessen stille;</l>
+<l>Wille hi doghet ane vaen,</l>
+<l>Wat hi voren heeft mesdaen,</l>
+<l><milestone unit="fol" n="224va"/> Hi ontvliet der hille.</l>
+<l>Verhoert hi oec singhels vermaen,</l>
+<l n="1025">Ende hi gracie wille ontgaen,</l>
+<l>Vp der hellen sille</l>
+<l>Staet hi ghereet ter pille.</l>
+</lg>
+<lg><l>Noch soudic van gracien vraghen,</l>
+<l>Wildi niet daer af wanhaghen,</l>
+<l n="1030">Ende ic berechtens ware weert.</l>
+<l>Van somen horic ghewaghen,</l>
+<l><pb n="52"/>Die van Gode in haren daghen</l>
+<l>Voer andre waren weert begheert:</l>
+<l>Disciple, vremde ende som maghen,</l>
+<l n="1035">Cristus wildese hem andraghen</l>
+<l>Ende heeftse selue gheleert.</l>
+<l>Saulus, die met zwaren plaghen</l>
+<l>Kerstin gheloue waende af vaghen,</l>
+<l>God heeft hem niet ghedeert</l>
+<l n="1040">Maer sine aercheit ghesmeert,</l>
+</lg>
+<lg><l>Of dese in gracien waren vercoren,</l>
+<l>Ende andre vele, daer wi af horen,</l>
+<l>Wan en qamen hem die auontueren?</l>
+<l>Sijn eeneghe daer toe gheboren,</l>
+<l n="1045">Sochte so commen si te voren</l>
+<l>Wien sulc lot ghebueren.</l>
+<l>Eens anders ketene es messcoren,</l>
+<l>Wat men daer in slaet, het blijft verloren</l>
+<l>Ende werct al int zuere.</l>
+<l n="1050">Die tgheloue wilde testoren</l>
+<l>Ende meest den kerstinhede dede toren</l>
+<l>Verlichtede die scrifture</l>
+<l>Daer na in corter hure.</l>
+</lg>
+<lg><l>Mattheeus oec, die den tol liet,</l>
+<l n="1055">Doene hem Christus volghen hiet,</l>
+<l>Hi bleef naer hem gaende.</l>
+<l>Hoe es hem tgheluc ghesciet,</l>
+<l>Om de gracie ne bat hi niet</l>
+<l><pb n="53"/>Diene soucoers spaende?</l>
+<l n="1060">Die Magdaleene oec besiet,</l>
+<l>Hoe sonde was van haer ghetyet,</l>
+<l>Also dwoort Gods vermaende.</l>
+<l>Doet mi hier af claer bediet,</l>
+<l>Of God den meinsche onderwiet,</l>
+<l n="1065"><milestone unit="fol" n="224vb"/> Eene houdende staende</l>
+<l>Ende andere neder slaende.</l>
+</lg>
+<lg><l>Rogier, ghi hebt hier gheuraghet</l>
+<l>Tgheent dat grote leeringhe draghet,</l>
+<l>Hoe eeneghe zijn vercoren,</l>
+<l n="1070">So Maria was, die maghet,</l>
+<l>Ende andre, daer ghi af hebt ghesaghet,</l>
+<l>Maertelaers ende confessoren.</l>
+<l>Eene andre zondare claghet</l>
+<l>Dat hem gracie es ontjaghet,</l>
+<l n="1075">Daer omme es hi verloren.</l>
+<l>Dijns vraghens mi wel behaghet:</l>
+<l>Hoe, naer dat scriftuere ghewaghet,</l>
+<l>Dat God heeft ghescoren,</l>
+<l>Sal ic di doen horen.</l>
+</lg>
+<lg><l n="1080">Dat den meinsche sonden ghesciet,</l>
+<l>Es bi faeuten van gracien niet;</l>
+<l>So bleue hem gherne beneuen.</l>
+<l>Als hi quaet doende haer ontvliet,</l>
+<l>Dan wert der gracien niet ghetyet,</l>
+<l n="1085">Sij dat ware beseuen;</l>
+<l>Want als hi te beterne pliet,</l>
+<l>Gracie, die hem tquade ontriet,</l>
+<l><pb n="54"/>Wille echt in hem cleuen.</l>
+<l>Eist dat hi voert zonden vertyet,</l>
+<l n="1090">Metten vercornen wert hi ghewyet,</l>
+<l>Naer verdiente verheuen</l>
+<l>Int eewelike leuen.</l>
+</lg>
+<lg><l>Uerstant, Rogier, mine woort,</l>
+<l>Ic doe die horen rechte voort:</l>
+<l n="1095">Dat God, vercoes hem somen,</l>
+<l>Prijsen mochte hi sine gheboort,</l>
+<l>Wien gheualt dat saleghe coort</l>
+<l>Als een te zine ghenomen.</l>
+<l>Hoe dat ons allen niet behoort</l>
+<l n="1100">Te hebbene tupperste confoort,</l>
+<l>Elc mach te hemele comen.</l>
+<l>Ontdaen so es hem die poort,</l>
+<l>Die in weldoene houden accoort.</l>
+<l>Van sonden achter dromen</l>
+<l n="1105">Wint der zielen vromen.</l>
+</lg>
+<lg><l>Een erdin potter verkent al,</l>
+<l><milestone unit="fol" n="225ra"/> Wat eerden hi orboren sal</l>
+<l>Int zwarte, welke int rote.</l>
+<l>Der swarter abelheit es so smal,</l>
+<l n="1110">Dat verloren ware den val</l>
+<l>Vp hare van den lode.</l>
+<l>Dus die heere, diet al beual,</l>
+<l>Voerwiste der meinschen ghetal,</l>
+<l>Wat elken was van noode:</l>
+<l n="1115">Elken heeft hi ghegheuen stal,</l>
+<l><pb n="55"/>Eenen vp berch, anderen int dal,</l>
+<l>Leuende ende doode:</l>
+<l>Dit mach elc merken ode.</l>
+</lg>
+<lg><l>Als een wercman heeft ghesocht</l>
+<l n="1120">Vele consten, ende vulbrocht</l>
+<l>Menich scoen engyen,</l>
+<l>Of te houdene heeft bedacht,</l>
+<l>Eeneghe heeft hi ghehacht,</l>
+<l>Wien vraecht hi van dien?</l>
+<l n="1125">Die hem weerde, dade cracht,</l>
+<l>Die const ware ieghen verpacht.</l>
+<l>Dit comt, elc weet huut wien.</l>
+<l>Hebstu te verstane macht</l>
+<l>Dit exempel, Rogier, dracht,</l>
+<l n="1130">Di sal berecht ghescien</l>
+<l>Van dattu vraghes myen.</l>
+</lg>
+<lg><l>God, die maecte van beghinne</l>
+<l>Alle dine huut groter minne,</l>
+<l>Dat wi souden orboren.</l>
+<l n="1135">Alsot scrifture doet kinnen,</l>
+<l>Coes hi bi vorsienen zinnen</l>
+<l>Sijn deed hute voren.</l>
+<l>Verstant; ic sal di doen an inne,</l>
+<l>Dine verstannesse ne si dinne,</l>
+<l n="1140">Want hise heeft ghecoren.</l>
+<l>Wes besich met desen ghespinne,</l>
+<l><pb n="56"/>Dat mach di commen te ghewinne,</l>
+<l>Wiltu na mine woort horen :</l>
+<l>Tvraghen wert niet verloren.</l>
+</lg>
+<lg><l n="1145">Doe God sijn weerc al hadde ghedaen,</l>
+<l>Elke dinc thare ontfaen,</l>
+<l>Also hijt hadde beset,</l>
+<l>Coes hi IIII deele hute saen,</l>
+<l><milestone unit="fol" n="225rb"/> So ons die leerare doet verstaen,</l>
+<l n="1150">Meester Jan Belet.</l>
+<l>Van den steden wildi vp slaen</l>
+<l>Themelrike, sonder waen,</l>
+<l>Wien betaemde hem bet.</l>
+<l>Daer werden si met hem ontfaen</l>
+<l n="1155">Die sinen gheloue sijn onderdaen</l>
+<l>Ende naer sine wet</l>
+<l>Leuen onbesmet.</l>
+</lg>
+<lg><l>Hute der hoegher stede scone</l>
+<l>Daelde die heleghe Gods sone,</l>
+<l n="1160">Doe hi meinscheit an nam,</l>
+<l>Ende drouch cruus, ende crone,</l>
+<l>Om beteren, na der scrifturen tone,</l>
+<l>Dat hadde verbuert Adaem.</l>
+<l>Des wert hi in die zonden hone</l>
+<l n="1165">Wijsende, Gode te lone.</l>
+<l>Den quaden wert hi gram.</l>
+<l>Versteken werden daer die ghone</l>
+<l>Die hier niet danckens zijn ghewone</l>
+<l>Jhesumme, den heere lofsam,</l>
+<l n="1170"><pb n="57"/> Van dat hi neder quam.</l>
+</lg>
+<lg><l>Dan ten tijden coes die heere,</l>
+<l>Heleghe daghen, die nu zeere</l>
+<l>Sijn ghelaten dalen.</l>
+<l>Wel toghet ons der bibele leere,</l>
+<l n="1175">Dat hi wille datse, de meinsche eere</l>
+<l>Ende viere alte male;</l>
+<l>Vp weercdaghen hem gheneere,</l>
+<l>Gherechteliken zijn goet meere,</l>
+<l>Daert mede mach betalen,</l>
+<l n="1180">Ende in maten doen die theere,</l>
+<l>Want men siet vele qualen</l>
+<l>Hute gulsicheden halen.</l>
+</lg>
+<lg><l>Als tfolc die mesdaghe vieren sal,</l>
+<l>Eist met sonden besich meest al:</l>
+<l n="1185">Hoe dat sijn weerc laet,</l>
+<l>In tauernen maket ghescal.</l>
+<l>Also te vierne God niet beual,</l>
+<l>Na dat ghescreuen staet.</l>
+<l>De mesdaet es, sonder ghetal</l>
+<l n="1190">Die tfolc antiert, groet ende smal,</l>
+<l><milestone unit="fol" n="225va"/> Als het ledich gaet.</l>
+<l>Het scijnt, niement ducht den val,</l>
+<l>Die men daelt int doncker dal.</l>
+<l>Elc ne rouct wient scaet,</l>
+<l n="1195">Mach hi sijn versaet.</l>
+</lg>
+<lg><l><pb n="58"/>Werlike solace antieren</l>
+<l>Es nu der meinschen visieren.</l>
+<l>Some gaen messe horen,</l>
+<l>Dan loepen si, als wilde dieren,</l>
+<l n="1200">Haer vleesch peysteren ende aysieren:</l>
+<l>Des hem dickent comt thoren.</l>
+<l>Vp dese daghen was Gods visieren,</l>
+<l>Dat elc te beterne hem soude bestieren</l>
+<l>Die mesdaet van te voren.</l>
+<l n="1205">Die anders desen dach regieren</l>
+<l>Danne goede dinghen maitenieren</l>
+<l>Doen die ketene snoeren</l>
+<l>Die si hebben ghescoren.</l>
+</lg>
+<lg><l>Hoe men die mesdaghe vieren sal</l>
+<l n="1210">Toeghet die spieghele van zonden al,</l>
+<l>Dien ic dichte voer desen.</l>
+<l>Dat Gode hiet ende beual</l>
+<l>Moyses, diet niet ne hal,</l>
+<l>Vintstu in exedo lesen.</l>
+<l n="1215">Oec bescrijft Ysaye den val</l>
+<l>Van die meersen tauernen ghescal:</l>
+<l>Dat wee sonder ghenesen.</l>
+<l>Menich es doot, die oec bequal</l>
+<l>Sine gulsicheit, want sonder ghetal</l>
+<l n="1220">Sijnre qualen huut gheresen;</l>
+<l>Des wane ic seker wesen.</l>
+</lg>
+<lg><l>Uan den dinghen coes die heere</l>
+<l><pb n="59"/>Te hem waert houdende nemmeere</l>
+<l>Dan tiende ende offerande,</l>
+<l>Die de papen ende die ruddeere</l>
+<l n="1225">Doen ontfanghen: dat de papen leere</l>
+<l>Sal stichten elkerande;</l>
+<l>Dandre, omme dat hi verweere</l>
+<l>De aerme van alre deere</l>
+<l n="1230">Metten scaerpen brande.</l>
+<l>Deese twee state doen gheene neere:</l>
+<l>Thgemeene vole wint hare theere</l>
+<l><milestone unit="fol" n="225vb"/> Te poerten ende te lande</l>
+<l>Omme den dienst tweerande.</l>
+</lg>
+<lg><l n="1235">Het en es niet gheseit van desen,</l>
+<l>Dat si ledich souden wesen</l>
+<l>Ende der weerelt weelde soucken.</l>
+<l>Ruddren moeten varen reysen,</l>
+<l>Te velne alle onrechte peinsen:</l>
+<l n="1240">Gheens quaets aes selne roucken.</l>
+<l>Papen moeten zinghen lesen,</l>
+<l>Gheestelike zielen ghenesen,</l>
+<l>Naer tleere der boucken.</l>
+<l>Eist dat si ledich goet verteesen,</l>
+<l n="1245">Haer loen ne wert krieken no fresen,</l>
+<l>Maer binnen den helschen houcken</l>
+<l>Sal die duuel, haers roucken.</l>
+</lg>
+<lg><l>Hoe dat men tiende sal gheuen</l>
+<l><pb n="60"/>Ende offerande, hebbic ghescreuen,</l>
+<l n="1250">In den spieghel van zonden.</l>
+<l>Bi der bybele eist wel beseuen,</l>
+<l>Doe dat Caym ende Abel waren int leuen,</l>
+<l>Dat mense gaf tien stonden.</l>
+<l>Want Caym dede Abelle beuen:</l>
+<l n="1255">Om dat de zijne meest was verheuen,</l>
+<l>Doode hine met wonden.</l>
+<l>An wien hare tyen blijft cleuen</l>
+<l>Of refuus, werden verdreuen</l>
+<l>Ten hole ten helschen honden,</l>
+<l n="1260">Dits wel in exedo vonden.</l>
+</lg>
+<lg><l>Die heere, diet al mach bedieden,</l>
+<l>Coes oec sijn deel huten lieden,</l>
+<l>Also hi wel mochte,</l>
+<l>Noch bi beden, noch bi mieden,</l>
+<l n="1265">Noch bi wijsen, diet hem rieden,</l>
+<l>Maer soet hem goet dochte.</l>
+<l>Eerst so coes hi sine maysnieden,</l>
+<l>Bi wien hi wilde dat teekin ghescieden,</l>
+<l>Die hi daer in wrochte.</l>
+<l n="1270">Ten laetsten sal hijt al verwieden,</l>
+<l>Na der ewangeliste bedieden,</l>
+<l>Die goede lieden int sochte,</l>
+<l>Dandre int helsche gherochte.</l>
+</lg>
+<lg><l>Svlc, al en es hi niet vercoren,</l>
+<l n="1275"><pb n="61"/><milestone unit="fol" n="226ra"/> Heuet so in zeden te voren</l>
+<l>Sinen properen wille,</l>
+<l>Gracie es in hem gheboren,</l>
+<l>Wille hire na werken ende horen.</l>
+<l>Hem en es gheene noot van hille,</l>
+<l n="1280">Hi mach, wille hi, te Gode behoren.</l>
+<l>Wille hi niet, so bliue verloren</l>
+<l>Ten helschen ghequille.</l>
+<l>Want so wi tleuen orboren,</l>
+<l>Also es ons den loen ghescoren,</l>
+<l n="1285">Ten hemele ende ter hille.</l>
+<l>Niemen ne si des in ghescille.</l>
+</lg>
+<lg><l>Die lieden segghen, dat si souden</l>
+<l>Alle gherne zijn behouden</l>
+<l>Ten rike van daer bouen,</l>
+<l n="1290">Maer in haer quaet doen si verbouden,</l>
+<l>Ende quaet doen si altoes ontscouden,</l>
+<l>Als loghenaers verscrouen,</l>
+<l>Die in karitaten vercouden.</l>
+<l>Ende hoe dat si die tonghe vouden,</l>
+<l n="1295">Gode si cleene verdouen;</l>
+<l>Die weerelt vouden si, ende vervouden;</l>
+<l>In rijcheden es al haer houden.</l>
+<l>Wanen si Gode so louen</l>
+<l>Ende gracie in hem houen?</l>
+</lg>
+<lg><l n="1300">Neen si! Jan, dats openbare!</l>
+<l><pb n="62"/>Die hem de weerelt trecken te nare</l>
+<l>Moeten Gode achter laten,</l>
+<l>Want die ewangelie seit clare:</l>
+<l>Die dienen wille twee heeren contrare</l>
+<l n="1305">Sal den eenen verhaten.</l>
+<l>Die dor ons leet die passie zware</l>
+<l>Make ons die weerelt so onmare</l>
+<l>Mids sijnre karitaten,</l>
+<l>Dat wi in dien dach van vare</l>
+<l n="1310">Behoren moeten ter helegher scare,</l>
+<l>Gherekent vrye laten,</l>
+<l>Ter hoegher hemelscher saten!</l>
+</lg>
+<lg><l>Jan, waer sidi nu ontbleuen?</l>
+<l>Coondi niet meer berechtens gheuen,</l>
+<l n="1315">Sone wilti nemmeer dichten,</l>
+<l>Emmer, bliue ic hu beneuen.</l>
+<l><milestone unit="fol" n="226rb"/> Want in mi hebbic beseuen</l>
+<l>Dat huwe woerden stichten.</l>
+<l>Mochten huwe woerden in mi so cleuen,</l>
+<l n="1320">Dat ic leerde scuwen tsneuen,</l>
+<l>So prijsdic hu berichten.</l>
+<l>Vul ruutheden es al mijn leuen;</l>
+<l>Helpt, mi so dat si verdreuen</l>
+<l>In mi, ende nemmeer vp richten;</l>
+<l n="1325">Els sal ic ieghen di vichten.</l>
+</lg>
+<lg><l>Uechten ieghen mi, Rogier?</l>
+<l>Selden pleghet goet scolier</l>
+<l><pb n="63"/>Alsoe voert te ghane.</l>
+<l>Als ic hu eerst ansprac hier,</l>
+<l n="1330">Sceenst du gaende al bestier</l>
+<l>Ende gheens quaets bane.</l>
+<l>Twy so bestu vp mi so fier?</l>
+<l>Ic hebbe altoes sonder dangier</l>
+<l>Berecht dine vermane.</l>
+<l n="1335">Met hoofscheden wert di bediet:</l>
+<l>Dattu vraghen wils, besiet,</l>
+<l>Vp hopen van vulstane,</l>
+<l>Ende sonder myen te tane.</l>
+</lg>
+<lg><l>Jan, dits minlic gheseit.</l>
+<l n="1340">Dat ic dwoort in gheenre aercheit</l>
+<l>Sprac, wille ic wel zweeren.</l>
+<l>Mijn zin bi hu wert wel besteit,</l>
+<l>Vp dat mijn herte niet en vergheit</l>
+<l>Dat ic hier mach leeren.</l>
+<l n="1345">Doe ghi te mi spraect: "ontbeit,"</l>
+<l>Waerliken ende node ic deit,</l>
+<l>Ic duchte mi van onneeren.</l>
+<l>Nu horic dat ghi mi vulmeit,</l>
+<l>Ende omme mine bate aerbeit:</l>
+<l n="1350">Wel mocht mi namaels deeren,</l>
+<l>Wildic mi van hu keeren.</l>
+</lg>
+<lg><l>Wie dat openbare siet,</l>
+<l>Dat men hem gheen verlies en biet,</l>
+<l>Ne waer waesdom groot,</l>
+<l n="1355"><pb n="64"/> Te prisene dincti mi niet</l>
+<l>Die den biddenden ontvliet,</l>
+<l>Het ne dade hem noot.</l>
+<l>Een deel bem ic ghevryet</l>
+<l><milestone unit="fol" n="226va"/> In dat ghi mi hebt bediet</l>
+<l n="1360">Elc vraghe ombescroet.</l>
+<l>Nu es soe ghesciet,</l>
+<l>Sint ghi mi te stane riet,</l>
+<l>Dat ic ware lieuer doot</l>
+<l>Dan int vraghen bloot.</l>
+</lg>
+<lg><l n="1365">Uan gracien hebdi mi berecht.</l>
+<l>Nu biddic hu, dat ghi mi secht.</l>
+<l>Twesen der natueren.</l>
+<l>Hoe es so an den meinsche ghehecht,</l>
+<l>Of wats haer werc ouer recht</l>
+<l n="1370">In die creatueren?</l>
+<l>Maect so daer in pays of gheuecht?</l>
+<l>Maect so die lieden crom of recht?</l>
+<l>Toecht mi hare parueren:</l>
+<l>Hier toe gheberst mi hu lecht,</l>
+<l n="1375">Want ic bem so ruude een knecht,</l>
+<l>Leec van der scriftueren,</l>
+<l>Ghelijc minen ghebueren.</l>
+</lg>
+<lg><l>Rogier, de wijse Cathoen seghet:</l>
+<l>Ant niet weten te min leghet,</l>
+<l n="1380">Als men wel wille leeren.</l>
+<l>Wie dat gherne vraghens pleghet</l>
+<l>Ende die andworde wel dor heghet,</l>
+<l><pb n="65"/>Hi comter bi dicken te eeren.</l>
+<l>Dic den vraghene wanconst dreghet,</l>
+<l n="1385">Leeringhe es in hem ontweghet;</l>
+<l>Dit so en es gheen sceeren:</l>
+<l>Eerst sceen dattu waers ontseghet,</l>
+<l>Dattu te mi begonst keeren</l>
+<l>Den scilt, ende di verweeren.</l>
+</lg>
+<lg><l n="1390">God late mi so langhe leuen,</l>
+<l>Dat ic yet moet hebben ghescreuen</l>
+<l>Dat mi mach verstiuen,</l>
+<l>Daer doghet in mach zijn beseuen,</l>
+<l>Ende dat bewijs hem moete gheuen</l>
+<l n="1395">Die hem daer an sal wriuen.</l>
+<l>Sit hier, Rogier, mi beneuen:</l>
+<l>Doe dine verstannesse cleuen</l>
+<l>An dat ic sal scriuen.</l>
+<l>Hoet natuere heeft bedreuen,</l>
+<l n="1400">Dese verstecken, dese verheuen,</l>
+<l><milestone unit="fol" n="226vb"/> Berechts sals die becliuen</l>
+<l>Sonder eenich kyuen.</l>
+</lg>
+<lg><l>Gracie ende natuere mede</l>
+<l>Sijn werkende in groeter waerhede</l>
+<l n="1405">Ende huten vppersten</l>
+<l>Gracie was eerst, ende dede</l>
+<l>Natuere werden ende hebben stede,</l>
+<l>Des willicse hoochst nomen.</l>
+<l>Nature hout ruste no vrede;</l>
+<l n="1410"><pb n="66"/> So scept alle dinc van lede te lede,</l>
+<l>Maer tondancke hem somen.</l>
+<l>Waert dat so werkens vermede,</l>
+<l>Alle dinc te ghinc sonder bede:</l>
+<l>Hier vp mach so romen,</l>
+<l n="1415">Quaemt haer yet te vromen.</l>
+</lg>
+<lg><l>Wilstu ghelike hier af sien,</l>
+<l>Besich Maerten ende Marien,</l>
+<l>Die twee ghesustren waren.</l>
+<l>Maria wilde alle dinc vertyen,</l>
+<l n="1420">Gode louen ende benedyen;</l>
+<l>Allen lemmer liet so varen.</l>
+<l>Maerte ne conste haer niet ghevryen,</l>
+<l>So wilde bestierens plyen</l>
+<l>Des casteels orbaren.</l>
+<l n="1425">Dicken moeste haer last ghescien,</l>
+<l>Want gheenen lemmer wilde so vlyen,</l>
+<l>No haer seluen sparen.</l>
+<l>Dit deedse dicken verzwaren.</l>
+</lg>
+<lg><l>Dese Maerte es natuere,</l>
+<l n="1430">Die weerct in elke creatuere,</l>
+<l>Daer so hi voert coemt.</l>
+<l>Soe bestiert al tsoete ende tsuere,</l>
+<l>Sone rust in gheere hure,</l>
+<l>Wien het scaet ofte vroomt.</l>
+<l n="1435">Al eist dat haer strijt ghebuere,</l>
+<l>Lieuer soe daer in gheduere,</l>
+<l>Ende so fel zij ghenoomt,</l>
+<l>Dan soe haer neerensteit scuere.</l>
+<l><pb n="67"/>Sye hier van Maerten die figuere,</l>
+<l n="1440">Die de weerelt begoomt</l>
+<l>Van nootdorste ende betoomt.</l>
+</lg>
+<lg><l>Teerst so porret so tfiermament</l>
+<l><milestone unit="fol" n="227ra"/> Sterren daeran, planeten omtrent,</l>
+<l>Na den visieren ons heeren.</l>
+<l n="1445">In die planeten es so gheprent,</l>
+<l>Bi dien so haer werc neder sent</l>
+<l>Ter eerde, dans gheen sceeren:</l>
+<l>Deen so eert, dander so scent,</l>
+<l>Dit maect so siende, ende dat blent</l>
+<l n="1450">Na der sterren bekeeren.</l>
+<l>In al dat es natuere haer hent.</l>
+<l>Alleene so doet haer omme went</l>
+<l>Staet minderen ende meeren,</l>
+<l>Meneghen te deeren.</l>
+</lg>
+<lg><l n="1455">Desen omme loep maect eenen rebel</l>
+<l>Wesende, dit leest men wel,</l>
+<l>Eenen andren goedertiere,</l>
+<l>Desen ruude, ende desen abel,</l>
+<l>Eenen traech, eenen andren snel,</l>
+<l n="1460">Na ziere planeet bestieren.</l>
+<l>Hi doet oec sijn den winter fel,</l>
+<l>Den somer sochte, behaghel,</l>
+<l>Die tlant doet verchieren.</l>
+<l>God, die eerst maecte tghestel,</l>
+<l n="1465"><pb n="68"/> Kent den loep, ende niemen hel,</l>
+<l>Ende doet die sterren regieren</l>
+<l>Elke na haerre manieren.</l>
+</lg>
+<lg><l>Die natuere van hem leden</l>
+<l>Bestiert alle dinc hier beneden</l>
+<l n="1470">Na dyuersche ghijsen.</l>
+<l>Den leeft in groter vreden,</l>
+<l>Dandre in groeter aercheden;</l>
+<l>Elken macher af grijsen.</l>
+<l>Ackers, bosschen, bomen, preden</l>
+<l n="1475">Veranderen elcs iaers, na der zeden</l>
+<l>Shemels, omme bijsen.</l>
+<l>Voghelen, dieren oec, verbeden</l>
+<l>Naeture, daer of si niet versceeden:</l>
+<l>Des machmense prijsen</l>
+<l n="1480">Bouen den meinschen onwijsen.</l>
+</lg>
+<lg><l>Want die beesten weten niet bet</l>
+<l>Dan natuere in hem leden set,</l>
+<l>Ende dat doen si al teenen.</l>
+<l>Die meinsche heuet een ander wet,</l>
+<l n="1485"><milestone unit="fol" n="227rb"/> Want hi es een Christus let,</l>
+<l>In wien hi mach vereenen,</l>
+<l>Naer dattene doepzel heuet benet,</l>
+<l>Wille hi leuen naer Gods wet,</l>
+<l>Wachte[n] hem van sonden onreene.</l>
+<l n="1490">Maer mint hi eerdsche weelde vet,</l>
+<l>Ontnauwen mach hem wel twijncket</l>
+<l>Van den rijken reenen,</l>
+<l><pb n="69"/>Twelke es belooft den cleenen.</l>
+</lg>
+<lg><l>Jan, ghi segghet, na mijn verstaen,</l>
+<l n="1495">Dat al des meinschen dinghen gaen,</l>
+<l>Na den loep van bouen:</l>
+<l>Die ghulse natuere heeft ontfaen,</l>
+<l>Sal God die dor ghulsheit slaen,</l>
+<l>So es sijn lot verscrouen.</l>
+<l n="1500">Eist bi Gode so eerst ghedaen,</l>
+<l>So scijnt hi zijn der zonden baen,</l>
+<l>Hoe mach hi se louen?</l>
+<l>Men predict, die hem hier niet dwaen</l>
+<l>Van quade, datsi werden gheuaen</l>
+<l n="1505">In den helschen houen,</l>
+<l>Daer niet cesseert dat droeuen.</l>
+</lg>
+<lg><l>Dje wel gheborne mach wel romen</l>
+<l>Dat zijn lot goet es betomen,</l>
+<l>Vp quaet doen micti niet,</l>
+<l n="1510">En mach hem, scijnt, niet worden ghenomen.</l>
+<l>Die sterre salne te hemele dromen,</l>
+<l>Want dus haer loep bediet.</l>
+<l>Wat mach den quaden weldoen vromen?</l>
+<l>De planete salne verdomen,</l>
+<l n="1515">Bi hare hi doghet vertyet.</l>
+<l>Gode es dit ghetyet van zomen,</l>
+<l>Andere haerre sterre bane nomen,</l>
+<l>Secht mi, of ghijt ghebiet:</l>
+<l>Wien eist recht dat ment tyet?</l>
+</lg>
+<lg><l n="1520">Rogier, ruudt so es dijn zin,</l>
+<l><pb n="70"/>Daer gheene leere goet es in</l>
+<l>So daen, so scijnt, die dijne.</l>
+<l>Naer dattu hebs ter leere beghin,</l>
+<l>Onder haspt wel mijn ghespin,</l>
+<l n="1525">Du vints andwoerde fijne.</l>
+<l>Ic sal di doen so claer bekin,</l>
+<l><milestone unit="fol" n="227va"/> Al verstontstu vele min,</l>
+<l>Di staets bevryet te zijne.</l>
+<l>Die ziele heeft den wille eyghin:</l>
+<l n="1530">Als hi wille, weerct hi ghewin,</l>
+<l>Dits claer ghenouch anschine:</l>
+<l>Hore voort die andwoerde mine.</l>
+</lg>
+<lg><l>Al es een na der natueren gheboren</l>
+<l>Ghuls, daer omme sal niet behoren</l>
+<l n="1535">Den meinsche ghuls te zine.</l>
+<l>Al brinct so porringhe te voren,</l>
+<l>Daer omme ne wert so niet verloren.</l>
+<l>Vp dat hire ieghen pijne</l>
+<l>Es gracie teere hulpe ghecoren.</l>
+<l n="1540">Al es die ketene ru ghescoren,</l>
+<l>Men maectse wel fijne,</l>
+<l>Soe langhe dien puust heeft ghezworen,</l>
+<l>Wilmen const ende cracht orboren:</l>
+<l>Gracie es medicine</l>
+<l n="1545">Elcs zeers, dits anschine.</l>
+</lg>
+<lg><l>Njemen es ghenatuert so fel,</l>
+<l>Hi ne wint dat ieghen hem es rebel,</l>
+<l><pb n="71"/>Omme dat hi soude verdienen.</l>
+<l>Niemen clemt in den hemel,</l>
+<l n="1550">Hine zij int vechten sterc ende snel,</l>
+<l>Daer ne zijn gheen ander engienen.</l>
+<l>Moey sijn, scone, rike of abel,</l>
+<l>Vermoghen, of den aermen fel,</l>
+<l>Dit doet al hope ontsienen.</l>
+<l n="1555">Maer die ten dogheden spant sijn ghestel,</l>
+<l>Clemt ten hemele, wat soudi hel?</l>
+<l>Sine leuen niet diet ontspienen,</l>
+<l>Noch hem daer hute bienen.</l>
+</lg>
+<lg><l>Dewangelie maect ons vroeder</l>
+<l n="1560">Dat Sebedeus kinder moeder</l>
+<l>Cristumme leide voer hant,</l>
+<l>Dat hare II sonen bi hem behoeder</l>
+<l>Sitten mochten ten hemelschen voeder</l>
+<l>In dat zaleghe lant;</l>
+<l n="1565">Deen te rechter hant, dander ter hoeder.</l>
+<l>Niet sprac te hem der salicheit spoeder,</l>
+<l>So ict bescreuen vant,</l>
+<l>Ne waer ten tween keerdi die scouder</l>
+<l><milestone unit="fol" n="227vb"/> Ende warp hem lieden sinen loeder,</l>
+<l n="1570">Dat was der passyen bant,</l>
+<l>Die cort was becant.</l>
+</lg>
+<lg><l>Cristus andwoorde: "mooghdi</l>
+<l>Den keelct drincken beede met mi</l>
+<l><pb n="72"/>Die ic drincken sal,</l>
+<l n="1575">Hets recht dat huwe stede daer zij."</l>
+<l>Si andworden beede: "ja wij!</l>
+<l>Wi zijns ghereet al."</l>
+<l>Haer ghenouch toechdi:</l>
+<l>Die daer sitten wille vry,</l>
+<l n="1580">Hier vechten moet int dal.</l>
+<l>Behout hi tfelt ende den cry,</l>
+<l>Hine dar vreesen gheen owy:</l>
+<l>Bevryet wert hem die val</l>
+<l>Tseers sonder ghetal.</l>
+</lg>
+<lg><l n="1585">Al dat planeten gheuen moghen,</l>
+<l>Es waer temptacie: wille poghen</l>
+<l>Die meinsche, [hi] mach verwinnen.</l>
+<l>Wat hem die drie vianden toghen,</l>
+<l>Wert hem van gracien een verhoghen.</l>
+<l n="1590">Wille hi strijt beghinnen,</l>
+<l>Niet met wapenen, no met boghen,</l>
+<l>Maer dat hi doe den lust verdroghen</l>
+<l>Van der weerelt minnen,</l>
+<l>Gracie ne sal niet ghedoghen,</l>
+<l n="1595">Dat hi sneue, maer queeken, zoghen,</l>
+<l>Ende den loen doen innen,</l>
+<l>Die gheens zins mach dinnen.</l>
+</lg>
+<lg><l>Ic biddu, Jan, doet mi becant,</l>
+<l>Wie temptacie brochte int lant</l>
+<l n="1600">Den meinschen te deeren.</l>
+<l>Soe heeft ghequetst meneghen zant,</l>
+<l><pb n="73"/>Noch doet so dicken zwaren pant</l>
+<l>Somen, dins gheen sceeren.</l>
+<l>Hi was seker groet viant</l>
+<l n="1605">Diet brochte voert ende vant.</l>
+<l>Machse niemen weeren?</l>
+<l>Leen mi daer toe huwe hant,</l>
+<l>Dat ic ghebreke haren bant:</l>
+<l>Ic ne can mi niet beneeren</l>
+<l n="1610">Of ic ne machse queeren.</l>
+</lg>
+<lg><l><milestone unit="fol" n="228ra"/> Rogier, nu verstant mi nare.</l>
+<l>Ic sal di doen weten clare,</l>
+<l>Hute wien so eerst es comen.</l>
+<l>Al es so te weerne zware</l>
+<l n="1615">Ende oec te beseffene: hute hare</l>
+<l>Comt dicken vele vromen.</l>
+<l>Waert dat gheen temptacie ware,</l>
+<l>Hemelrike ware ons onmare;</l>
+<l n="1620">Ons leuen ware als dromen.</l>
+<l>Nu toecht so ons II contrare,</l>
+<l>Danne keert die wille hier of dare:</l>
+<l>Daer mach hi scuwen tdomen,</l>
+<l>Wille hi der dinc ghomen.</l>
+</lg>
+<lg><l>Doe God der zielen gaf leuen,</l>
+<l n="1625">Een verbod wildi haer gheuen,</l>
+<l>Toghen dat hi es een heere,</l>
+<l>Oec datter hi soude sijn beseuen,</l>
+<l><pb n="74"/>Dat ouerhorichede dede beuen</l>
+<l>Den jnghel Lucifeere.</l>
+<l n="1630">Van eerden wildi haer decsel weuen,</l>
+<l>Om datter bi soude zijn verdreuen</l>
+<l>Houerdicheit te meere.</l>
+<l>Hoeghe was die meinsche verheuen,</l>
+<l>Haeddi onderdaen ghebleuen</l>
+<l n="1635">Ende ghedaen zijns meesters leere:</l>
+<l>Wi waren alle buten zeere.</l>
+</lg>
+<lg><l>Claer vorseide hem lieden God:</l>
+<l>Wanneer si braken tverbod.</l>
+<l>Dat si steruen souden.</l>
+<l n="1640">Al quam te Adame der lusten vlot</l>
+<l>Ten frute, hi ne was niet so zot,</l>
+<l>Hine hads hem moghen onthouden.</l>
+<l>Maer zijn wille, treckende tlot,</l>
+<l>Dat van temptacien maecte trabot,</l>
+<l n="1645">Des wi bleuen in scouden,</l>
+<l>Sij verwerrede shemels slot</l>
+<l>Ende van gracien onse verscot.</l>
+<l>Soude dat wesen behouden,</l>
+<l>God moeste dalen ter mouden.</l>
+</lg>
+<lg><l n="1650">Dus moetstu, [R]ogier, merken ode:</l>
+<l>Temptacie es als Gods bode</l>
+<l>Te vrienden ghesint.</l>
+<l><milestone unit="fol" n="228rb"/> Tote Abrahamme quam so van Gode</l>
+<l>Hem beuelen dat hi doode</l>
+<l n="1655">Ysaacke zijn kint.</l>
+<l><pb n="75"/>Van Pietren soudic oec helen node,</l>
+<l>Hoene God met woerden onbescroden</l>
+<l>Tempteerde, of hine mint.</l>
+<l>Tonrechte haer die ziele verblode</l>
+<l n="1660">Jeghen temptacie: ten hemelschen brode</l>
+<l>So wert hi gheprint</l>
+<l>Die vecht ende verwint.</l>
+</lg>
+<lg><l>Job, die heuet oec bescreuen,</l>
+<l>Dat des meinschen leuen</l>
+<l n="1665">Den rudderscepe ghelike,</l>
+<l>Dat gheenre orloghen moet begheuen:</l>
+<l>Ware het stille, het worde verdreuen</l>
+<l>Hute sinen properen rike.</l>
+<l>Tempteres zijn hem altoes neuen,</l>
+<l n="1670">Diet souden varinghe doen sneuen,</l>
+<l>Vp dat die wille hem wike.</l>
+<l>Salt ten rike zijn verheuen,</l>
+<l>An dat vechten sal het cleuen,</l>
+<l>Ende sien dat rechte strijke;</l>
+<l n="1675">Els daelt het ten dijke.</l>
+</lg>
+<lg><l>   Een rudder die niet ne vecht</l>
+<l>Om te verwerne onrecht,</l>
+<l>Sconfiert rudders name.</l>
+<l>Al tempteert die helsche knecht</l>
+<l n="1680">Ons te treckene in sine plecht</l>
+<l>Ten helschen ghescrame,</l>
+<l>Gracie es an die ziele ghehecht,</l>
+<l>Diet mids den wille berecht,</l>
+<l><pb n="76"/>Vp dat haer vreese an quame.</l>
+<l n="1685">Haer en es niet so slecht,</l>
+<l>Sone kennt deemsterhede ende lecht:</l>
+<l>Of so hare der lucht scame,</l>
+<l>Met rechte haer hoeghen vergramen.</l>
+</lg>
+<lg><l>Rogier, ic sechdi al clare:</l>
+<l n="1690">Waert dat gheene temptacie ware,</l>
+<l>Gheene hope ware van lone.</l>
+<l>Elc meinsche es als een ruddare</l>
+<l>Vechtende, stille ende openbare,</l>
+<l>Omme die hemelsche crone.</l>
+<l n="1695"><milestone unit="fol" n="228va"/> Eist confessoer of maertelaere,</l>
+<l>Met verwinnen quamen si dare</l>
+<l>Te sittene in den trone.</l>
+<l>Deen vacht ieghen temptacie zware,</l>
+<l>Dander ne ontsach niet van eenen hare</l>
+<l n="1700">Der tyranten hone</l>
+<l>On Gods rike scone.</l>
+</lg>
+<lg><l>Of gheene temptacie viele an</l>
+<l>Den meinsche, hoe soudi toghen dan</l>
+<l>Dat hi omme trike vochte?</l>
+<l n="1705">Christus temptacie verwan,</l>
+<l>Die noint mesdoen conste no can,</l>
+<l>Maer goet dor ons wrochte.</l>
+<l>Hi ghehinghede nochtan</l>
+<l>Dat an hem veste Sathan,</l>
+<l n="1710">Of hine verwinnen mochte.</l>
+<l>Hadde hem gheweert deerste man,</l>
+<l><pb n="77"/>So ware hi bleuen sonder ban</l>
+<l>Van der stede sochte:</l>
+<l>Te spade hi hem bedochte.</l>
+</lg>
+<lg><l n="1715">Tvleesch hel gheene temptacie doet,</l>
+<l>Dant wille bedect zijn ende ghevoedt</l>
+<l>Der zielen bi te sine.</l>
+<l>Maer den lust den wille begroet</l>
+<l>Ter leckernien, daer so na vroet</l>
+<l n="1720">Met smaken stillekine.</l>
+<l>Es de wille dan so vroet,</l>
+<l>Dat hi den lust werpt onder voet,</l>
+<l>Ende des te omberne hem pine,</l>
+<l>Die abstinencie es so goet</l>
+<l n="1725">Dat so abel maect den moet</l>
+<l>Ter gracien diuine,</l>
+<l>Die voet bouen coerne of wine.</l>
+</lg>
+<lg><l>Waenstu, Rogier, dat tvleesch begheert</l>
+<l>Dat men met seluere gorde den steert,</l>
+<l n="1730">Of cnoppe dat capproen?</l>
+<l>Bet helpt den lichame een veert,</l>
+<l>Orconde elken wien dat deert</l>
+<l>An winde torsioen.</l>
+<l>Worde bi moeyheden gheweert</l>
+<l n="1735">Die minste zeerhede die hem deert,</l>
+<l>Ic wille dit achter doen.</l>
+<l><milestone unit="fol" n="228vb"/> Mi verwondert wat tfolc heert,</l>
+<l>Dat nu der ouerden cam so sceert,</l>
+<l>Want mate es al ontvloen</l>
+<l n="1740">Den cleedren ende den scoen.</l>
+</lg>
+<lg><l><pb n="78"/>Tvleesch ne heescht oec niet mede</l>
+<l>Van drancke, van spijsen leckerhede,</l>
+<l>Maer wille zijn ghevoet.</l>
+<l>Die wille, also ic vorsede,</l>
+<l n="1745">Als hi metter lust hout vrede,</l>
+<l>Gheualt dat hi mesdoet.</l>
+<l>Meerct vp tkint dat gaet ter bede:</l>
+<l>Dicken hetet droghe die snede</l>
+<l>Ende borne drincken moet,</l>
+<l n="1750">Hets vetter ende bet te lede</l>
+<l>Dan die rike, ghevoedt met pasteden;</l>
+<l>Hets soberliker ghevoet,</l>
+<l>Des wast hem gansser bloet.</l>
+</lg>
+<lg><l>Die aerme spijse te hebbene pliet,</l>
+<l n="1755">Die ne rouct tetene niet</l>
+<l>Dan als hem honghert zeere.</l>
+<l>Als hi dbier so dinne siet,</l>
+<l>Na den dorste so neemt hijs yet.</l>
+<l>Waert beter, hi droncs meere,</l>
+<l n="1760">Ende sach waer zijn roest briet;</l>
+<l>Sterke zaeuse hi maken hiet</l>
+<l>Van witten ghinghebeere.</l>
+<l>Hoe wert snachts hem II ghesciet?</l>
+<l>Den doruoeden ruste ontvliet,</l>
+<l n="1765">Vervultheit dede hem deere;</l>
+<l>Die dbier drane sliep als een heere.</l>
+</lg>
+<lg><l>Sduuels temptacie, als ic eer zede,</l>
+<l><pb n="79"/>Mach die niet ghedeeren mede.</l>
+<l>Dijn wille maecht weder staen.</l>
+<l n="1770">Al porret hi di ter quaethede,</l>
+<l>Ghef der porringhen gheene stede,</l>
+<l>Du suls haer lichte ontgaen.</l>
+<l>Maer wiltu doen sine bede,</l>
+<l>Du suls beseffen den onurede:</l>
+<l n="1775">Lichte du bliues gheuaen.</l>
+<l>Die van eerst derieghen strede</l>
+<l>Ende gracie te werke lede,</l>
+<l>Hi soude al pornen saen</l>
+<l><milestone unit="fol" n="229ra"/> Lichte ter neder slaen.</l>
+</lg>
+<lg><l n="1780">Der weerelt temptacie es al niet</l>
+<l>Dan elke dinc hare biet</l>
+<l>Ten meinsche onderdaen,</l>
+<l>Weder hi se anevaert, so vliet,</l>
+<l>Ende wederse God verboet, so riet,</l>
+<l n="1785">De dinc cans niet verstaen.</l>
+<l>Den wille, die deere es ghesciet,</l>
+<l>Dat hijt al heet ende ghebiet,</l>
+<l>Na hem moet hute gaen.</l>
+<l>Tgoede ende quade hi claer siet:</l>
+<l n="1790">Of hi trocke of quaet cruut wiet,</l>
+<l>Kiest voer tsuere tgraen,</l>
+<l>Wie es der mesdaet baen?</l>
+</lg>
+<lg><l>Eene temptacie prisic goet,</l>
+<l><pb n="80"/>Want so loen verdienen doet;</l>
+<l n="1795">Verstant in wat saken:</l>
+<l>Als die wille ombeeren moet</l>
+<l>Der zoetheit, daerne lust toe groet</l>
+<l>Bi roken oft bi smaken,</l>
+<l>Eist die meinsche dan so vroet</l>
+<l n="1800">Dat hi van gram tsine hem hoet,</l>
+<l>Dat vechten sal hem maken</l>
+<l>Ter Gods gracien een vorspoet,</l>
+<l>Onder die welke hi wert ghebroet:</l>
+<l>Wille hi dan haer taken,</l>
+<l n="1805">Hie wert vry van wraken.</l>
+</lg>
+<lg><l>Dus doet temptacie groete baten,</l>
+<l>Die wille vechten, die wille laten,</l>
+<l>Also hi wille verwinnen,</l>
+<l>Wie[n] dat commen sal te staten</l>
+<l n="1810">Van der hoegher hemelscher saten,</l>
+<l>Moet vechten met minnen,</l>
+<l>Omme te weerne elke onmaten.</l>
+<l>Al smaect wel der weerelt raten,</l>
+<l>Men moet redene kinnen,</l>
+<l n="1815">Want God wilde oyt de zonden haten,</l>
+<l>Om dat si smette zijn van den vaten,</l>
+<l>Daer hi rusten soude binnen,</l>
+<l>Waren zuuere die zinnen.</l>
+</lg>
+<lg><l>Temptacie gheenen meinsche scent,</l>
+<l n="1820"><pb n="81"/> Sijn wille en doe daer toe consent,</l>
+<l><milestone unit="fol" n="229rb"/> Na hu segghen weert.</l>
+<l>Weder datse natuere sent,</l>
+<l>So vleesch, so weerelt, so serpent,</l>
+<l>Dat die ziele queert,</l>
+<l n="1825">Die wille es in die ziele gheprent:</l>
+<l>Quaet ende goet so tusschen kent</l>
+<l>Ende dat sonde weert.</l>
+<l>Of so haer van der doghet went</l>
+<l>Ende int mesdoen willins verblent,</l>
+<l n="1830">Te rechte so daer af heert</l>
+<l>Wrake, diese bet heert.</l>
+</lg>
+<lg><l>Dus dar niement zijn veruaert,</l>
+<l>Al keert temptacie te hem waert,</l>
+<l>Maer sal in Gode verbliden:</l>
+<l n="1835">Secht daer ieghen die wille gaeliaert,</l>
+<l>Die gracie Gods haer altoes baert</l>
+<l>In helpen ten strijde.</l>
+<l>Hoe dat coringhe hezwaert</l>
+<l>Den gheest, gracie so verclaert</l>
+<l n="1840">Dien in elke zijden.</l>
+<l>So edele es der gracien aert,</l>
+<l>Dat so niet te helpene spaert</l>
+<l>Voer, temptacie lijden,</l>
+<l>Vp datmer wille toe tijde[n].</l>
+</lg>
+<lg><l n="1845">Hets recht dat gracie tallen hueren</l>
+<l>Bouen gaende es natueren,</l>
+<l><pb n="82"/>Want sose dede werden.</l>
+<l>het scijnt, willen die creatueren,</l>
+<l>Gracie soudse wel ter kueren</l>
+<l n="1850">Van quaet doene beuerden</l>
+<l>Ende van den tormente zuere,</l>
+<l>Die den ghenen sal ghebueren</l>
+<l>Die noynt van quaet doene querden.</l>
+<l>God late ons in weldoene ghedueren,</l>
+<l n="1855">Ende ons hier so claer verscueren,</l>
+<l>Dat wi ten laetsten scerden</l>
+<l>Den viant onterden.</l>
+</lg>
+<lg><l>Amen, Rogier, lieue gheselle!</l>
+<l>Ic duchte, ic di zeere quelle</l>
+<l n="1860">Metter langher tale.</l>
+<l>Ic rade, hem elc te maten stelle</l>
+<l>Dat hi niemene benijde, diene velle</l>
+<l><milestone unit="fol" n="229va"/> Ende van den stoele hale.</l>
+<l>Vor ducht comt dicken wrake snelle,</l>
+<l n="1865">Oec, sonder vertoech, van ghezwelle</l>
+<l>Broedt dicken groete quale.</l>
+<l>Die dor ons smaecte die doot felle</l>
+<l>Moet ons vryen van der helle</l>
+<l>Ende ten auondtmale</l>
+<l n="1870">Spijsen binnen zijnre zale.</l>
+<l>Amen. Amen.</l>
+</lg>
+
+</body>
+</text>
+</group></text>
+</TEI.2>

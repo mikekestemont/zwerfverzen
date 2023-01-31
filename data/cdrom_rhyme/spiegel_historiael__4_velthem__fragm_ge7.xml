@@ -1,0 +1,638 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.transcr 'INCLUDE'> <!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'>]><TEI.2><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Spiegel historiael (vierde partie [aandeel Velthem])</title>
+<author>Lodewijk van Velthem</author>
+</titleStmt>
+<editionStmt>
+<edition>M. de Vries en E. Verwijs (eds.): Jacob van Maerlant's Spiegel historiael, met de fragmenten der later toegevoegde gedeelten, bewerkt door Philip Utenbroeke en Lodewijc van Velthem. 3 delen. Leiden, 1863. Deel 3, 426-434.</edition>
+</editionStmt>
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<listBibl id="inlMetadata">
+<bibl><interpGrp type="titleLevel1">
+<interp value="Spiegel historiael (vierde partie [aandeel Velthem])"/>
+</interpGrp><interpGrp type="medium">
+<interp value="book"/>
+</interpGrp><interpGrp type="authorLevel1">
+<interp value="Lodewijk van Velthem"/>
+</interpGrp>
+<interpGrp type="ipr">
+<interp value="online"/>
+</interpGrp><interpGrp type="corpusProvenance">
+<interp value="cdrom-mnl"/>
+</interpGrp>
+<interpGrp type="pubYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1410"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1410"/></interpGrp>
+</bibl>
+</listBibl>
+<bibl id="original-metadata-cdrom-version"><![CDATA[
+<TITEL>Spiegel historiael (vierde partie [aandeel Velthem])</TITEL>
+<TITEL>Spiegel historiael</TITEL>
+<author>Lodewijk van Velthem</author>
+<AARD>Rijm</AARD>
+<BRON nr="D176">Gent, Bibliotheek der Rijksuniversiteit, 2541,11 (fragm.)</BRON>
+<DATUM>1390-1410</DATUM>
+<OMVANG>565 verzen</OMVANG>
+<BRON.OPM>E&#x00E9;n blad, 4 kolommen per bladzijde, 75 regels per kolom; foli&#x00EB;ring: lxxj. Het fragment bevat een aantal kapittels uit de Vierde Partie (aandeel Velthem), boek 8 van de Spiegel historiael: kap. 44 (laatste 3 verzen) - kap. 52 (1-112); het laatste kapittel is de ordinancie van der vijfter pertien. Van het handschrift waar dit fragment deel van uitmaakte, bleven 32 fragmenten bewaard; de oorspronkelijke codex bevatte waarschijnlijk alle partie&#x00EB;n van de Spiegel historiael (zie verder J.A.A.M. Biemans: Onsen Speghele Ystoriale in Vlaemsche. Codicologisch onderzoek naar de overlevering van de "Spiegel historiael" van Jacob van Maerlant, Philip Utenbroeke en Lodewijk van Velthem, met een beschrijving van de handschriften en fragmenten. Deel 2: Catalogus, registers, bibliografie, platen. Leuven 1997, 355-359).</BRON.OPM>
+<VERWIJZING>Gent, Bibliotheek der Rijksuniversiteit, 2541,7 (fragm.), Brugge, Stadsarchief, Oud archief, reeks 538,7 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,8 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,9 (fragm.), Brussel, Koninklijke Bibliotheek, IV 827,1 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,10 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,13 (fragm.), en Gent, Bibliotheek der Rijksuniversiteit, 2541,14 (fragm.).</VERWIJZING>
+<EDITIE>M. de Vries en E. Verwijs (eds.): Jacob van Maerlant's Spiegel historiael, met de fragmenten der later toegevoegde gedeelten, bewerkt door Philip Utenbroeke en Lodewijc van Velthem. 3 delen. Leiden, 1863. Deel 3, 426-434.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1188.III.5</BRONMNW>
+<BRONNEN>Van de Vierde Partie van de Spiegel historiael werd Boek 1 tot Boek 3, kap. 34 bewerkt door Jacob van Maerlant; men zie daarvoor 's-Gravenhage, Koninklijke Bibliotheek, Bruikleen Koninklijke Akademie van Wetenschappen, XX. Het resterende gedeelte van de Vierde Partie is van de hand van Lodewijk van Velthem. Zijn aandeel in deze Partie is echter uitsluitend gefragmenteerd overgeleverd in enkele verzamelcodices en in een aantal handschriftfragmenten; we vermelden hier Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1020, III en IV (fragm.), Berlijn, Geheimes Staatsarchiv Preussischer Kulturbesitz, XX. HA StA. K&#x00F6;nigsberg, 33,20 (fragm.), Mainz, Bisch&#x00F6;fliches Priesterseminar, z.s. (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 1641 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 1374, Wroclaw, Biblioteka Uniwersytecka, IV F 88e-II (fragm.), Wenen, &#x00D6;sterreichische Nationalbibliothek, 13708, Gent, Bibliotheek der Rijksuniversiteit, 2541,9 (fragm.), Brussel, Koninklijke Bibliotheek, IV 827,1 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,10 (fragm.) en Gent, Bibliotheek der Rijksuniversiteit, 2541,11 (fragm.).</BRONNEN>
+]]></bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body><div type="chapter"><head type="chapter comment">[.XLIV.]</head>
+<l>[....................................]</l>
+<l><pb n="3,426"/> Ic late hier of die tale dan,</l>
+<l>Ende sal u vort, sonder waen,</l>
+<l>Van Menfroet doen verstaen.</l>
+</div>
+<div type="chapter"><head type="chapter">Van Menfrote ende van sinen vader. XLV.</head>
+<l>                In desen tiden quam Innocent,</l>
+<l>Die paus, ende gaderde een convent</l>
+<l>Van vromen lieden mit sinen genoten,</l>
+<l>Ende voer in Poelgen tot Menfroten,</l>
+<l n="5">Om te winnen tlant al voort,</l>
+<l>Datter heiliger kerken toe hoort.</l>
+<l>Maer Menfroet verwaerde tlant,</l>
+<l>Ende liets der kerken niet in hant.</l>
+<l>Dese Menfroet was Vrederics zone.</l>
+<l n="10">Dese Vrederic was oec die gone</l>
+<l>Die desen wan, als ict belie,</l>
+<l>An smercgraven dochter van Lombaerdie:</l>
+<l>Een edel man wast vorwaer.</l>
+<l>Dese Vrederic begherde openbaer</l>
+<l n="15">Scone wijf, edel ende rike,</l>
+<l>Ende daer na stont hi sere sekerlike</l>
+<l>Altoos, om dat hi daer mede here</l>
+<l>Waende bliven vorwaert mere</l>
+<l>Mitten kindren die hire an wan.</l>
+<l n="20">Hine hegherde gene dinc, die man,</l>
+<l>Dan here te sine boven al dat leeft</l>
+<l>Biden kindren die hi bejaget heeft,</l>
+<l>Ende waende trike wel behouden.</l>
+<l>Hi was oec groot clerc gescouden,</l>
+<l n="25">Hi conste alrehande tale wel,</l>
+<l>Maer hi was wantrouwel ende fel.</l>
+<l>Scone sprac hi ende oec wale,</l>
+<l>Ende hier mede waendi altemale</l>
+<l>Regneren ende behouden tlant</l>
+<l n="30">Jeghen elkerliken viant.</l>
+<l>Maer die aventuren si sijn wander:</l>
+<l>Die man penst, ende God een ander.</l>
+<l>Die aventuren sijn sonderlinge,</l>
+<l>Sine laten niet lange staen die dinge,</l>
+<l n="35">Sine laten die heerscapien nie gheduren.</l>
+<l>Na scone weder coemt dat sure,</l>
+<l>Ende na dat lelike coemt scone.</l>
+<l>Dus coemt oec den heerscapien te lone;</l>
+<l>Want als si wanen zijn ten besten,</l>
+<l n="40">Vallen si neder in der vesten.</l>
+<l>Dit siet men alle dage gescien:</l>
+<l><pb n="3,427"/> Hier op soudewi alle besien.</l>
+<l>Dese Vrederic jeghen die kerke hem sette</l>
+<l>Ende jeghen alle hare wette;</l>
+<l n="45">Daer om viel hi in die scende</l>
+<l>Ende quam tot enen quaden ende.</l>
+<l>Des gelijcs was oec Menfroet:</l>
+<l>Hi dede der kerken groten noot,</l>
+<l>Daer mede slachti wel den vader.</l>
+<l n="50">Dese hadde Poelgen onder hem algader,</l>
+<l>Ende sette hem jeghen die kerke mede,</l>
+<l>Waer hi mochte in elke stede;</l>
+<l>Ende sinte Peters goet van Romen,</l>
+<l>Waer dat hijt mochte begomen,</l>
+<l n="55">Dat helt hi op al tenen gader.</l>
+<l>Daer om balch hem onse erdsce vader,</l>
+<l>Die paus van Rome, ende hadde gerne,</l>
+<l>Haddi geconst, bestaen te werne;</l>
+<l>Maer hine conste niet comen te voren.</l>
+<l n="60">Nu seldi hier of een luttel horen.</l>
+</div>
+<div type="chapter"><head type="chapter">Hoe die paeus Karel van Vrancrike onboot om Menfroets wille. XLVI.</head>
+<l>                Doe Innocencius doot was,</l>
+<l>Die paus daer ic hier voren of las,</l>
+<l>Wort gecoren daer een ander,</l>
+<l>Entie wort geheten Alexander,</l>
+<l n="5">Int jaer ons Heren XII<hi rend='sup'>C</hi></l>
+<l>Ende LIII. Dese heeft besondert</l>
+<l>Een groot here; maer hets al niet,</l>
+<l>Sine conden gedoen geen verdriet</l>
+<l>Menfroet, want hise al</l>
+<l n="10">Verjagede van daer, groot ende smal,</l>
+<l>Ende vincse som ende sloech doot.</l>
+<l>Dus bleef hi noch een here groot.</l>
+<l>                In desen tiden was oec twest</l>
+<l>Onder die princen van Almaengen gevest,</l>
+<l n="15">Om te kiesen enen coninc.</l>
+<l>Die enen coren na dese dinc</l>
+<l>Alfonsuse van Spaengenlant;</l>
+<l>Die ander coren daer na thant</l>
+<l>Ritsaerde van Cornuaelgen.</l>
+<l n="20">Hier om quamen si ter bataelgen:</l>
+<l>Doe si striden souden doen,</l>
+<l>Nament op die baroen.</l>
+<l>Dese Ritsaert broeder was</l>
+<l>Des conincs van Engelant, sijt seker das,</l>
+<l n="25">Ende was scone ende coene.</l>
+<l>Dus bleef noch onder die baroene</l>
+<l>Dat conincrike van Almaengen</l>
+<l>Staende in deser calaengen.</l>
+<l>                In desen tiden Alexander starf,</l>
+<l n="30">Die paus, ende men verwarf</l>
+<l>Enen Fransoys van Troys der stat,</l>
+<l>Die vierde Urbaen. Dese besat</l>
+<l>Den stoel te Rome, ende hi began</l>
+<l>Weder te orlogen op dien tyran,</l>
+<l n="35">Menfroet, die nam der kerken goet,</l>
+<l>Ende die oec nu wederstoet</l>
+<l>Die Gulfen ende hadse alle verdreven,</l>
+<l>Haer goet genomen ende haer leven,</l>
+<l>Ende sinte Peters patrimonie mede.</l>
+<l n="40">Dese ordinierde die paus gerede,</l>
+<l>Dat grave Karel, des coninx broeder</l>
+<l>Van Vrancrike, die was behoeder</l>
+<l>Van Provencien ende daer of grave,</l>
+<l>Die paus boet hem tere gave</l>
+<l n="45">Cycilien ende Poelgen mede,</l>
+<l>Mocht hijt nu gewinnen ter stede</l>
+<l>Op Menfroet den tyran.</l>
+<l>                In desen tiden sach men oec an</l>
+<l>Ene comete, sonder waen,</l>
+<l n="50">Die wonderlike was gedaen,</l>
+<l>Ende was gestert al omme, twaren,</l>
+<l>Ende warp grote raeyen uut daer naren.</l>
+<l>                Int selve jaer starf Urbaen,</l>
+<l>Die paeus, ende daer mede saen</l>
+<l n="55">Wert daer gecoren een Clement,</l>
+<l><pb n="3,428"/> Int jaer ons Heren, alsment kent,</l>
+<l>M ende CC mede</l>
+<l>Ende XLIIII oec gherede.</l>
+</div>
+<div type="chapter"><head type="chapter">Hoe Karel Menfroet doot sloech ende tlant van Poelgen wan. XLVII.</head>
+<l>                Die paus Clement heeft oec ontboden</l>
+<l>Karel van Vrancrike om die noden,</l>
+<l>Die Menfroet der heiligher kerken dede,</l>
+<l>Ende boot hem oec dat selve mede</l>
+<l n="5">Dat hem die ander paeus boot,</l>
+<l>Mochti bescermen van der doot</l>
+<l>Die heilige kerke van dien tyran.</l>
+<l>Karel dit stoutelike vinc an</l>
+<l>Overmids die hulpe, dat verstaet,</l>
+<l n="10">Van den coninc diere hem toe gaf raet,</l>
+<l>Sijn broeder, ende oec die baroene</l>
+<l>Van Vrancrike, die hi tsinen doene</l>
+<l>Hadde gereet. Dus voer hi dane</l>
+<l>Al ter zee, na minen wane,</l>
+<l n="15">Te Rome waert als een deghen.</l>
+<l>Sijn volc is al te lande getegen,</l>
+<l>Dat hem volgede ende helpen soude;</l>
+<l>Maer hi voer voren om dat hi woude</l>
+<l>Daer hem gadren, ende oec mede</l>
+<l n="20">Om dat hi wille alle die stede</l>
+<l>Bidden ende helpen eyschen</l>
+<l>In alle die lande, die hi gevreschen</l>
+<l>Conste die Menfroete haten.</l>
+<l>Aldus sochte hi sine baten.</l>
+<l n="25">Te Romen was hi wel ontfaen,</l>
+<l>Ende onboot ende bat zaen</l>
+<l>Alle die lande dat si quamen,</l>
+<l>Dies blide waren doe sijt vernamen,</l>
+<l>Ende quamen alle ende volchden den here</l>
+<l n="30">Te Poelgen waert, dit was zijn ghere.</l>
+<l>Daer vacht hi jegen Menfrote,</l>
+<l>Die daer jeghen brochte ene rote</l>
+<l>Van lieden die ontsienlijc waren.</l>
+<l>Karel en liet hem niet vervaren,</l>
+<l n="35">Ende vacht enen bitterliken strijt.</l>
+<l>Daer wart gevochten mit groten nijt,</l>
+<l>Doch verwan Karel int ende,</l>
+<l>Ende Menfroot bleef in die scende</l>
+<l>Doot geslagen, ende sijn volc ondaen.</l>
+<l n="40">Karel wart daer coninc gedaen</l>
+<l>Van den pacus mit groter eren,</l>
+<l>Doe men screef dat jaer ons Heren</l>
+<l>M CC XLV mede.</l>
+<l>Tlant van Poelgen entie stede</l>
+<l n="45">Ende Cecilien mede tlant</l>
+<l>Helt hi van des paus hant,</l>
+<l>Ende sinte Peters patrimonie met</l>
+<l>Heefti daer te punte geset,</l>
+<l>Entie papen oec entie clerke</l>
+<l n="50">Ende mede die heilige kerke</l>
+<l>Setti in haren state gereet.</l>
+<l>Dus nam Menfroet ende gereet.</l>
+</div>
+<div type="chapter"><head type="chapter">Hoe Coenraed jegen Karel vacht, ende hoe hi doot bleef in den strijt. XLVIII.</head>
+<l>                In desen tiden, dat verstaet,</l>
+<l>So was Menfroets neve Coenraet</l>
+<l>In Almaengen machtich sere,</l>
+<l>Als ic u seide ooc voort ere.</l>
+<l n="5">Hi vernam dat herde zaen,</l>
+<l>Hoet mitten neve was vergaen,</l>
+<l>Dien Karel hadde geslagen doot,</l>
+<l><pb n="3,429"/> Ende Poelgen besat als een here groot.</l>
+<l>Vergaderdi in Almaengen saen,</l>
+<l n="10">In Chyosen, in Tusscanen, sonder waen,</l>
+<l>Ende uut Lombaerdien met</l>
+<l>Quam hem helpe al ongelet,</l>
+<l>Ende [es] oec tot Romen comen,</l>
+<l>Daer men sijns ware heeft genomen,</l>
+<l n="15">Ende was daer herde wel ontfaen</l>
+<l>Ende eerlike van den ghenen saen,</l>
+<l>Die daer te voren hadden gewesen</l>
+<l>Mitten oudervader voer desen.</l>
+<l>Dus trac hi henen te Poelgen waert,</l>
+<l n="20">Ende Karel quam hem jegen ter vaert</l>
+<l>Tot ere stat, hiet Talgecroot.</l>
+<l>Daer was die wijch starc ende groot,</l>
+<l>Want daer waren in beiden siden</l>
+<l>Die beste ridders die mochten striden;</l>
+<l n="25">Want in deen side waren dAelmanne,</l>
+<l>In dander side die Fransoyse danne</l>
+<l>(Dit waren die beste vechters, godweet,</l>
+<l>Die in die werelt waren, lanx ende breet),</l>
+<l>Ende Coenraed hadde meer liede</l>
+<l n="30">Dan Karel dede. Nochtan gesciede</l>
+<l>II ridders die mit Karel waren,</l>
+<l>Dat si die ander scare doervaren,</l>
+<l>Ghelijc als twe lewen fijn.</l>
+<l>Si dadent den vianden in schijn,</l>
+<l n="35">Dat al gesconfiert was.</l>
+<l>Ende Geraed van Valeri, alsict las,</l>
+<l>Was die een die mitter hant</l>
+<l>Al sconfierde, ende Cambricant</l>
+<l>Hiet die ander diet so dede,</l>
+<l n="40">Dats Coenraed quam in pijnlichede;</l>
+<l>Want Coenraed wart daer gevaen,</l>
+<l>Van Oostrike die hertoge saen,</l>
+<l>Ende ander hoge princen mede</l>
+<l>Worden gevaen ende onthovet ter stede.</l>
+<l n="45">                Dus voer te niete al Vrederics gheslachte,</l>
+<l>Dat men wilen so mogende achte,</l>
+<l>Dat al dwanc dat Roemsce rike.</l>
+<l>Nu eist comen dus haestelike</l>
+<l>Te niete overmids desen doene</l>
+<l n="50">Van Karel, den stouten baroene,</l>
+<l>Diese alle sconfierde hier ende daer</l>
+<l>Ende lietse nyewer geduren een haer,</l>
+<l>So datter en bleef struuc no saet,</l>
+<l>Daer yet of te gewagen staet.</l>
+<l n="55">                Robrecht, die oec hadde te wive,</l>
+<l>Een stout van sconen live,</l>
+<l>Des coninx dochter van Cecile,</l>
+<l>Dese Robrecht was een wile</l>
+<l>Mit Karel ten stride, sinen zweer,</l>
+<l n="60">Daer hi bejagede prijs ende eer,</l>
+<l>Daer men jegen Menfroyt street</l>
+<l>Ende jegen Coenrade ooc, godweet.</l>
+<l>Al was hi jonc, hi deet daer wale.</l>
+<l>Hier na suldijs horen tale</l>
+<l n="65">In die vijfte pertie, sonder waen,</l>
+<l>Hoe hem sine saken sullen vergaen.</l>
+</div>
+<div type="chapter"><head type="chapter">Van den coninc Lodewijcs doot, die goede here. XLIX.</head>
+<l>                Dese Karel was Lodewijcs broeder,</l>
+<l>Die dus wort der kerken behoeder,</l>
+<l><pb n="3,430"/> Des goets coninx van Vrancrike,</l>
+<l>Daer ghi of horet dier gelike,</l>
+<l n="5">Hoe hi hier voren te lande quam</l>
+<l>Van over zee, als ict vernam.</l>
+<l>                Nu wil ic u echt seggen vort,</l>
+<l>Hoe hi die zee voort becoort.</l>
+<l>Doe die vrede uut was saen,</l>
+<l n="10">Daer ic hier voren of dede verstaen,</l>
+<l>Nam hi dat cruce anderwerven,</l>
+<l>Ende wilde om onsen Here sterven,</l>
+<l>Ende beval Philips sinen zone</l>
+<l>Sijn conincrike oec na tgone,</l>
+<l n="15">Ende voer wech doe over mere,</l>
+<l>Ende belach Thunus mit groten here.</l>
+<l>Daer quam hem een siecheit an,</l>
+<l>Dier hi ontgaen niene can;</l>
+<l>Dus starf hi in dat here daer</l>
+<l n="20">Heilichlike, overwaer.</l>
+<l>Sijn conincrike bleef na tgone</l>
+<l>Philips, sinen outsten zone,</l>
+<l>Die hem te coninc dede wien zaen.</l>
+<l>Sijn moeder oec, hebbic verstaen,</l>
+<l n="25">Was des goets graven kint</l>
+<l>Van Provensen, alsment vint.</l>
+<l>Si hadde oec III coninginnen</l>
+<l>Te sustren, als wijt kinnen:</l>
+<l>Deen hadde van Engelant Henrike;</l>
+<l n="30">Dander Ritsaert dier gelike,</l>
+<l>Die Almaengen hadde ene wile;</l>
+<l>Die derde die coninc van Cecile,</l>
+<l>Karel, die Vrederix geslachte</l>
+<l>Dus onterft hadde mit machte.</l>
+<l n="35">                Nu is Philips te coninghe ghewiet,</l>
+<l>Ghesacreert ende gebenediet,</l>
+<l>Ende heeft oec huwelijc gedaen</l>
+<l>Aen een jonfrouwe, sonder waen,</l>
+<l>Van Arragoen des coninx kint,</l>
+<l n="40">Die waert was ende sere gemint</l>
+<l>Int eerste van hare coemste, godweet;</l>
+<l>Maer daer na wort si leet</l>
+<l>Om saken die gescieden hare,</l>
+<l>Die ic niene wil openbare</l>
+<l n="45">Seggen nu teser stont,</l>
+<l>Maer sal u werden noch wel cont</l>
+<l>In die vijfte pertie al,</l>
+<l>Wat haer gesciede, groot ende smal.</l>
+<l>Haer moeder was van Ongerie</l>
+<l n="50">Des coninx dochter, entie vrie</l>
+<l>Entie heilige sinte Elsbeen</l>
+<l>Was haer suster, die beter sceen.</l>
+<l>An deser vrouwen wan Philips kinder,</l>
+<l>Die some hadden groten hinder,</l>
+<l n="55">Als ic u tellen sal ende lien</l>
+<l>Hier na inder vijfter paertien.</l>
+</div>
+<div type="chapter"><head type="chapter">Van dinghen die gescieden. L.</head>
+<l>                In des goets Lodewijcs tiden</l>
+<l>So gescieden vele striden</l>
+<l>In Brabant ende werringe groot,</l>
+<l>Voer sine tijt ende na sine doot,</l>
+<l n="5">Dat ic som wil doen verstaen,</l>
+<l>Na dat die croniken togen zaen.</l>
+<l>                Henric, die oude hertoghe,</l>
+<l>Hadde menich groot orloge</l>
+<l>Jeghen keyser Henrike</l>
+<l n="10">Ende jegen Lodewijc des gelike,</l>
+<l><pb n="3,431"/> Dat hi oec wan mitten sinen,</l>
+<l>Dat hem namaels quam te pinen,</l>
+<l>Want hire groten scade in dede,</l>
+<l>Doe hi gewonnen hadde die stede.</l>
+<l n="15">Daer om niet lanc daer naer</l>
+<l>Quamen die van Ludike, vorwaer,</l>
+<l>Te Montenake mit groten here,</l>
+<l>Ende daden dien van Brabant groten dere,</l>
+<l>Want sire vele sloegen doot,</l>
+<l n="20">Ende van Lueven ende haer conroot</l>
+<l>Bleven daer al in den strijt,</l>
+<l>Ende doe screef men ter selver tijt</l>
+<l>M CC ende XII jaer.</l>
+<l>                Dese Henric bleef doot daer naer</l>
+<l n="25">Te Colen in die goede port,</l>
+<l>Ende was te Lueven brocht vort,</l>
+<l>Ende Henric wort hertoge, zijn zone:</l>
+<l>Stout ende vrome was die gone.</l>
+<l>Henric nam ene Marie te wive:</l>
+<l n="30">Na dat ic die waerheit scrive,</l>
+<l>So was si Philips dochter mede,</l>
+<l>Die coninc was van Rome der stede,</l>
+<l>Ende Vrederic die oude was sijn vader,</l>
+<l>Die Almaengen hadde algader.</l>
+<l n="35">Dese Maria droech een kint,</l>
+<l>Dat Henric wort geheten sint,</l>
+<l>Die derde Henric, als ict las,</l>
+<l>Die hertoge in Brabant was.</l>
+<l>                Dese wan den hertoge Janne,</l>
+<l n="40">Den vromen enten stouten manne,</l>
+<l>Die ten Baren ten spele bleef doot,</l>
+<l>Dat scade was ende jamer groot.</l>
+<l>                Henric, des Jans oudervader,</l>
+<l>Die hertoge was altenengader,</l>
+<l n="45">Die wan Dalem die borch mede,</l>
+<l>Die noch die hertogen houden gerede.</l>
+<l>Doe des Henrix wijf was doot,</l>
+<l>Dedi huwelijc herde groot</l>
+<l>Ende nam sinte Elsbenen dochter,</l>
+<l n="50">Sophien: vroeder no sochter</l>
+<l>Sone was vrouwe int hertogenrike.</l>
+<l>An hare wan hi Heynrike,</l>
+<l>Die in Doringe is lantgrave.</l>
+<l>                Dese hertoge Henric, daer ic ave</l>
+<l n="55">Dit scrive, versloech die Stadinge</l>
+<l>Om hare onwettelike dinge,</l>
+<l>Ende doe men screef ons Heren jaer</l>
+<l>M CC XXIIII, vorwaer.</l>
+<l>Desen hevet die paeus gesent</l>
+<l n="60">Dat Roemsche rike, dat scone prosent,</l>
+<l>Ende hi gaft sijnre suster sone;</l>
+<l>Grave van Hollant was die gone,</l>
+<l>Dien hi dit prosent gaf voort,</l>
+<l>Ende coninc Willam geheten wort.</l>
+<l n="65">Daer na sal ic u doen verstaen,</l>
+<l>Hoe sine saken zijn vergaen,</l>
+<l>In die vijfte pertie gemeenlijc.</l>
+<l>Te Lueven starf dese Henrijc,</l>
+<l>Ende was te Vileer begraven</l>
+<l n="70">Rikelijc mit vele haven.</l>
+<l>Enen Henric liet hi hem na,</l>
+<l>Die Brabant hadde, als ict versta,</l>
+<l>Dien ic niet volprisen can,</l>
+<l>Ende die wan den hertoge Jan</l>
+<l n="75">An Adel, der jonfrouwen hoghen,</l>
+<l>Van Borgongen des hertogen</l>
+<l><pb n="3,432"/> Dochter, daer kinder mere of quamen.</l>
+<l>Ic zwige u hier hare namen.</l>
+<l>Om dat ict hier na vertellen sal,</l>
+<l n="80">Hare gescienisse, groot ende smal,</l>
+<l>In die vijfte pertie wale,</l>
+<l>In rime ende in corter tale,</l>
+<l>Sone wil ict hier vertrecken niet;</l>
+<l>Want het dinct mi groot verdriet,</l>
+<l n="85">Dat men een dinc vertrec te dic:</l>
+<l>Die corte redene die prise ic.</l>
+<l>Verstaet men wel die reden mijn,</l>
+<l>Sone mach si niet te cort zijn.</l>
+<l>                Hier mede maec ic des boex een ende,</l>
+<l n="90">Op dat jaer ons Heren, als ict kende,</l>
+<l>M CC L ende zesse</l>
+<l>Screef men doe, in ware lesse,</l>
+<l>Doe tboec wart geent,</l>
+<l>Dat gemaect heeft broder Vincent;</l>
+<l n="95">Maer doet in Dietsce volmaect was,</l>
+<l>Screef men oec, sijt seker das,</l>
+<l>XIII<hi rend='sup'>C</hi> ons Heren jaer</l>
+<l>Ende XV oec, vorwaer,</l>
+<l>Op den goeden sinte Stevens dach,</l>
+<l n="100">Die doe inden Oost gelach.</l>
+</div>
+<div type="chapter"><head type="chapter">Dat ende van der vierder partien. LI.</head>
+<l>                Hier neemt ende die vierde pertie.</l>
+<l>God onse Here ende sinte Marie</l>
+<l>Moeten mi vergheven zaen,</l>
+<l>Of icker yet in hebbe misdaen.</l>
+<l n="5">Dies bidde ic den Vader, diet maecte al,</l>
+<l>Ende, als hi wil, ontmaken sal,</l>
+<l>Enter Moeder diene droech,</l>
+<l>Den Zone, die mit pinen genoech</l>
+<l>Die werelt verloste, die verloren</l>
+<l n="10">Was eer hi was gheboren,</l>
+<l>Dat si mi bringen moeten daer,</l>
+<l>Sonder verdriet ende sonder vaer,</l>
+<l>Na dat corte leven mijn,</l>
+<l>Ter eweliker bliscap sijn. - Amen!</l>
+<l n="15">                Ay, Here God! gedinct oec mede</l>
+<l>Die mi dit boec dichten dede,</l>
+<l>Dat si ter bliscap come naer.</l>
+<l>Dat was mijn vrouwe van Berlaer,</l>
+<l>Ver Maria, die woent nu</l>
+<l n="20">Bi Antwerpen, dat segic u.</l>
+<l>Bi hare vrienscap ende bi hare hoefschede</l>
+<l>Hebic dit gedicht ter stede,</l>
+<l>Meer dan om enige dinge;</l>
+<l>Want hare hovesceit sonderlinge</l>
+<l n="25">Heeft mi daer toe nu gebracht,</l>
+<l>Dat ic bin also bedacht</l>
+<l>Te doene al dat si gebiet,</l>
+<l>Al ware ic niet daer toe gemiet;</l>
+<l>Want si heeft mi daer toe verwonnen</l>
+<l n="30">Mit hoefsceit, mit goeder jonnen,</l>
+<l>Dat ic voortmeer in allen kere</l>
+<l>Tharen dienst bin emmermere.</l>
+<l>Sine darf niet bidden, maer gebieden,</l>
+<l>Alles dies ic mach genieden.</l>
+<l n="35">Om hare make ic dit boec,</l>
+<l>Daer ic menighen ondersoec</l>
+<l>In hebbe gedaen, die mi zwaer</l>
+<l>Was te maken; nochtan vorwaer,</l>
+<l>Dat mi dat overscoot,</l>
+<l n="40">Dat mi der pinen yet verdroot.</l>
+<l>Des danke ic Gode ende sinte Marie,</l>
+<l>Dat ic gheent hebbe dese pertie,</l>
+<l>Die Jacob van Merlant began,</l>
+<l>Die deerste entie derde vort an</l>
+<l n="45">Maecte, ende oec in die vierde</l>
+<l>Hi sijns levens faelierde;</l>
+<l>Entie ander, die hi achterliet,</l>
+<l>Die maecte een, die men hiet</l>
+<l>Philip ane den Dam Uten Broke,</l>
+<l n="50">Ende oec starf na den boeke.</l>
+<l>In die vierde heeft gemaect nu</l>
+<l>Haer Lodewijc van Veltem, segic u;</l>
+<l>Van daert Jacob liet ter stont,</l>
+<l>So heeft hijt vort gemaect cont</l>
+<l n="55"><pb n="3,433"/> Tot op den coninc Lodewijc</l>
+<l>Ende op den keyser Vrederijc,</l>
+<l>Ende tot dat men screef ons Heren jaer</l>
+<l>M CC LVI, vorwaer.</l>
+</div>
+<div type="chapter"><head type="chapter">Die ordinancie van der vijfter pertien van den Spieghel Hystoriaele. LII.</head>
+<l>                Hier beghint die vijfte pertie,</l>
+<l>Daer ic wel die waerheit of lie,</l>
+<l>Datter wondre meer in staen</l>
+<l>Dan hier te voren hebben gedaen,</l>
+<l n="5">Van orlogen, van tempeesten groot,</l>
+<l>Hoe doot is bleven menich genoot.</l>
+<l>                Deerste boec hevet in</l>
+<l>Den coninc Willam ende sijn beghin,</l>
+<l>Doe hi te coninge wort gecoren,</l>
+<l n="10">Sijn bliscap ende sinen toren.</l>
+<l>Sijn striden ende sijn leven al</l>
+<l>Stater in, groot ende smal.</l>
+<l>Van broeder Aelbrecht mede,</l>
+<l>Die te Colen was ter stede,</l>
+<l n="15">Doe daer die coninc Willam quam.</l>
+<l>Ende oec mede, als ict vernam,</l>
+<l>Van algader den soudanen</l>
+<l>Sal ic daer na vermanen,</l>
+<l>Die over zee houden tlant,</l>
+<l n="20">Hoe dat elc oec is genant,</l>
+<l>Ende sijn macht ende sijn doen,</l>
+<l>Ende wat si over zee geploen</l>
+<l>Hebben tot al onsen tiden.</l>
+<l>Daer na sal ic overliden</l>
+<l n="25">Al die steden, groot ende smal,</l>
+<l>Die nu over zee staen al.</l>
+<l>Daer na van broeder Yswine den clerc</l>
+<l>Sal ic seggen oec sijn werc,</l>
+<l>Ende van hertoge Henric mede</l>
+<l n="30">Sinen strijt, die hi oec dede.</l>
+<l>Dit sal int eerste boec al staen</l>
+<l>Ende ander dingen, sonder waen,</l>
+<l>Die hier te vertrecken sijn te zwaer.</l>
+<l>                Dander boec, die volcht hier naer,</l>
+<l n="35">Die sal op Ritsaerde beghinnen,</l>
+<l>Hoe hi tRoemsce rike wil winnen,</l>
+<l>Ende van Rodolve dier ghelike,</l>
+<l>Hoe hi na hem quam ten conincrike;</l>
+<l>Wat oec onder hem gesciede;</l>
+<l n="40">Van vele wonder, van vele bediede;</l>
+<l>Van der vaert van Arragoen,</l>
+<l>Daer in bleef menich baroen;</l>
+<l>Van den coninc van Engelant,</l>
+<l>Hoe hi mede wan sijn lant</l>
+<l n="45">Jeghen Symoen van Monfort;</l>
+<l>Menich strijt die daer toe hort;</l>
+<l>Hoe over zee voer Edelbrecht</l>
+<l>Entie grave Robrecht;</l>
+<l>Al dat gesciede, groot ende clene,</l>
+<l n="50">Sal ic u seggen int gemene,</l>
+<l>Ghelijc dat gevel int lant,</l>
+<l>Ende onder elken coninc genant.</l>
+<l>                Die derde boec maect cont</l>
+<l>Van den grave oec al den gront,</l>
+<l n="55">Die men van Sassen hoort nomen;</l>
+<l>Hoe hi ten conincrike was comen,</l>
+<l>Ende wat gesciede in sinen tiden</l>
+<l>Haer ende ghens, wide ende side;</l>
+<l>Van den hertoge van Brabant met,</l>
+<l n="60">Hoe hi Woerinc heeft ontset,</l>
+<l>Sijn beghin ende sijn eynde,</l>
+<l>Hoe hi sine viande sceynde</l>
+<l>Ende verwan menich baroene;</l>
+<l>Van den andren heren al haer doene,</l>
+<l n="65">Dat suldi onder desen coninc verstaen,</l>
+<l>Wat elken lande is overgegaen.</l>
+<l><pb n="3,434"/>                 Die vierde boec doet u weten,</l>
+<l>Hoe hem te coninge wilde vermeten</l>
+<l>Aelbrecht mitten enen oghe.</l>
+<l n="70">In sinen tiden quam dorloge</l>
+<l>In Vlaendren toe, dat menich man</l>
+<l>Becoft heeft ende noch vort an</l>
+<l>Alle dage becopen doet.</l>
+<l>Hoe Yerlant ende Gales wederstoet,</l>
+<l n="75">Ende ........</l>
+<l>Ende namaels moeste gaen in hant;</l>
+<l>Hoe ooc Florens wart gevaen</l>
+<l>Van Hollant ende vermoort saen;</l>
+<l>Van dingen ende van wonder mede,</l>
+<l n="80">Die ghescieden in elke stede,</l>
+<l>Sal ic u hier besceiden voort,</l>
+<l>Also alst elken coninc behort.</l>
+<l>                Die vijfte boec sal u besceiden,</l>
+<l>Hoe Henric quam in werdicheiden,</l>
+<l n="85">Die van Lutsenborch was grave,</l>
+<l>Daer men mach seggen ave,</l>
+<l>Sint hi te coninc wart gecoren,</l>
+<l>Want die ghinc den andren voren</l>
+<l>Van vromichede ende van stride.</l>
+<l n="90">Wat oec gesciede in sinen tide,</l>
+<l>Sal ic u saen doen weten al;</l>
+<l>Van tempeesten groot ende smal,</l>
+<l>Van pausen, van andren dingen,</l>
+<l>Sal ic u hier al onder minghen.</l>
+<l n="95">                Die seste boec seget gerede</l>
+<l>Van Lodewijc ende van Vrederic mede,</l>
+<l>Die beide coninc wilden wesen,</l>
+<l>Ende hier of is een strijt geresen,</l>
+<l>Die al noch durende es;</l>
+<l n="100">Ende bi hem, sijt seker des,</l>
+<l>Es ooc wonder groot gevallen,</l>
+<l>Daer die menige nu of callen;</l>
+<l>Van den coninc van Vrancrike,</l>
+<l>Ende van den grave des gelike</l>
+<l n="105">Van Henegouwen, die beide quamen</l>
+<l>Op Vlaendren, daer si luttel vramen</l>
+<l>Ende luttel eren behaelden met:</l>
+<l>Dit wert in desen boec geset.</l>
+<l>Al dat gesciet is recht tot nu,</l>
+<l n="110">Dat sal ic vertrecken u</l>
+<l>In desen sesten boec, groot ende smal,</l>
+<l>So dats niet achterbliven en sal.</l>
+</div>
+</body>
+</text>
+</TEI.2>

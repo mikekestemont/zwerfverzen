@@ -1,0 +1,383 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.transcr 'INCLUDE'> <!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'>]><TEI.2><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Madelgijs</title>
+<author>Onbekend</author>
+</titleStmt>
+<editionStmt>
+<edition>R.W.TH. Duijvestein (ed.): Madelgijs. De Middelnederlandse fragmenten en de overeenkomstige Hoogduitse verzen. Brussel, 1989. (Verhandelingen van de Koninklijke Academie voor Wetenschappen, Letteren en Schone Kunsten van Belgi&#x00EB;. Klasse der Letteren 51, nr. 130), 142-148.</edition>
+</editionStmt>
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<listBibl id="inlMetadata">
+<bibl><interpGrp type="titleLevel1">
+<interp value="Madelgijs"/>
+</interpGrp><interpGrp type="medium">
+<interp value="book"/>
+</interpGrp><interpGrp type="authorLevel1">
+<interp value="Onbekend"/>
+</interpGrp>
+<interpGrp type="ipr">
+<interp value="online"/>
+</interpGrp><interpGrp type="corpusProvenance">
+<interp value="cdrom-mnl"/>
+</interpGrp>
+<interpGrp type="pubYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1340"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1360"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1360"/></interpGrp>
+</bibl>
+</listBibl>
+<bibl id="original-metadata-cdrom-version"><![CDATA[
+<TITEL>Madelgijs</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K77">D&#x00FC;sseldorf, Universit&#x00E4;tsbibliothek, Dauerleihgabe der Stadt D&#x00FC;sseldorf, K 2: F 45 (fragm.)</BRON>
+<DATUM>1340-1360</DATUM>
+<OMVANG>269 verzen</OMVANG>
+<BRON.OPM>Twee bladen; per bladzijde 2 kolommen en per kolom oorspronkelijk 40 regels. De bladen zijn bovenaan en aan de zijkanten zodanig besnoeid, dat een kolom nog 34 &#x00E0; 35 regels telt en talrijke eind- of beginletters van kol. 1rb, 1va, 2rb en 2va ontbreken. De bladen volgden in de codex onmiddellijk op elkaar.</BRON.OPM>
+<VERWIJZING>Rotterdam, Gemeentebibliotheek, 96 C 4 (fragm.)</VERWIJZING>
+<EDITIE>R.W.TH. Duijvestein (ed.): Madelgijs. De Middelnederlandse fragmenten en de overeenkomstige Hoogduitse verzen. Brussel, 1989. (Verhandelingen van de Koninklijke Academie voor Wetenschappen, Letteren en Schone Kunsten van Belgi&#x00EB;. Klasse der Letteren 51, nr. 130), 142-148.</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<EDITIE.OPM>Duijvestijn geeft, parallel aan de tekst van de fragmenten, ook de tekst van de Middelhoogduitse vertaling (Malagis in hs. Heidelberg, Universit&#x00E4;tsbibliothek, Pal. germ. 340).</EDITIE.OPM>
+<BRONNEN>Van de Madelgijs bestaan een oudere en een jongere, meer uitgebreide versie. De kortere versie is volledig overgeleverd in een bijna woordelijke vertaling in het Middelhoogduits. De langere versie is bekend uit een Nederlandse prozabewerking (Historie van Malegijs). Drie fragmenten vertegenwoordigen de lange versie: - <x nr=K80>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 203 (fragm.)</x>
+ - <x nr=K81>Leiden, Bibliotheek der Rijksuniversiteit, B.P.L. 2552,34 (fragm.)</x>
+ - <x nr=K82>Antwerpen, Stadsbibliotheek, 500.694 (fragm.)</x>
+ De overige fragmenten vertegenwoordigen de korte versie. Van in totaal 9 hss. zijn er fragmenten overgeleverd: Hs. I: - <x nr=K80>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 203 (fragm.)</x>
+  - <x nr=K76>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 202 (fragm.)</x>
+ Hs. II: - <x nr=K70>Neurenberg, Bibliothek des Germanischen Nationalmuseums, 42584 (fragm.)</x>
+ - <x nr=K75>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 201 (fragm.)</x>
+ Hs. III: - <x nr=K82>Antwerpen, Stadsbibliotheek, 500.694 (fragm.)</x>
+ Hs. IV: - <x nr=K72>Rotterdam, Gemeentebibliotheek, 96 C 4 (fragm.)</x>
+ - <x nr=K77>D&#x00FC;sseldorf, Universit&#x00E4;tsbibliothek, Dauerleihgabe der Stadt D&#x00FC;sseldorf, K 2: F 45 (fragm.)</x>
+ Hs. V: - <x nr=K79>Gent, Bibliotheek der Rijksuniversiteit, 1618 (fragm.)</x>
+ Hs. VI: - <x nr=K71>Gent, Bibliotheek der Rijksuniversiteit, 1651 (fragm.)</x>
+ Hs. VII: - <x nr=K78>Londen, British Library, Add. 35251,k (fragm.)</x>
+ Hs. VIII: - <x nr=K74>Parijs, Biblioth&#x00E8;que Nationale, n&#x00E9;erl. 119 (fragm.)</x>
+ Hs. IX: - <x nr=K73>Berlijn, Staatsbibliothek Preussischer Kulturbesitz, Germ. fol. 923,47 (fragm.)</x>
+ Hs. X: - <x nr=K81>Leiden, Bibliotheek der Rijksuniversiteit, B.P.L. 2552,34 (fragm.)</x>
+</BRONNEN>
+<HSDRUK>Historie van Malegijs</HSDRUK>
+]]></bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body><l><pb n="141"/><milestone unit="fol" n="1ra"/> [..]uien s[e]ide dese es [..]et</l>
+<l>[..]e es mi harde gewant</l>
+<l>[..] daer over twe rechte truwant</l>
+<l>[..]t suldi noch tauont sien</l>
+<l n="5">[..]rac madelgijs broeder viuien</l>
+<l>[.f] ic can truwanten wale</l>
+<l>[.i] gingen in die hoge sale</l>
+<l>[.]ouen in dat palas</l>
+<l>[..]er die coninginne was</l>
+<l n="10">[.o]e seide aldus madelgijs</l>
+<l>[..] vrouwe dor god van paradijs</l>
+<l>[.]oet ons yet geuen</l>
+<l>[..]et ic lede I droeue leuen</l>
+<l>[.l]s me[n ma]ch sien wel</l>
+<l n="15">[.]c hebbe tusscen vleesch ende vel</l>
+<l>[.]water ende tfledersijn</l>
+<l>[..] seide I [wise] meester fijn</l>
+<l>[..]woent te monclier</l>
+<l>[.]ic in hebbe twater scier</l>
+<l n="20">[.]ant hier na vrouwe wert het root</l>
+<l>[...]na so bliuic doot</l>
+<l>[.]enegen dach hebbic geleift</l>
+<l>[.]nde vele der d[ag]en gesveift</l>
+<l>[.]n pelegrima[ge] andre wege</l>
+<l n="25">[.. d]us sone gecreegic sege</l>
+<l>[.]at ic vader of moeder sach</l>
+<l>[.]oe gaf viuien enen scach</l>
+<l>[.]at ...... over die zale</l>
+<l>[.]m die wonderlike tale</l>
+<l n="30">[.]ie viuien brochte vort</l>
+<l>[.]ie coninginne wart verdoort</l>
+<l>[.]m dat hi loech die ridder vri</l>
+<l>[D]ie coninginne seide wat meent hi</l>
+<l>[............. so lacht]</l>
+<l>[...............]</l>
+<l><pb n="142"/>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="1rb"/> Jc hebbe [nochtan] gewerct swaer leet</l>
+<l>[Dor] sijn lachen vrouwe goet</l>
+<l>Ende dicwilen verwalt mijn bloet</l>
+<l>Om sijn lachen in waren saken</l>
+<l>Die lieden wanen dat ic sotte maken</l>
+<l n="40">Dan wilsi mi niet gheuen</l>
+<l>Dus moetic met pinen leuen</l>
+<l>Ende vrouwe weit vor waer</l>
+<l>Hets I pine swaer</l>
+<l>Te lachene sonder groot spel</l>
+<l n="45">Ende dat doet hi weit dit wel</l>
+<l>Dese penitencie gaf hem dus</l>
+<l>Die paeus bonifacius</l>
+<l>Dus bemic met hem gepijnt</l>
+<l>Die coninginne seide het scijnt</l>
+<l n="50">Dat hi harde groot spel heuet</l>
+<l>Helpe vrouwe hens man die leuet</l>
+<l>Die mochte weten hoet hem dert</l>
+<l>Waendi hoe sijn herte zwert</l>
+<l>Dor al dat ghine lachen siet</l>
+<l n="55">Het ne gescreue C clerken niet</l>
+<l>Die tormenten die hi doget</l>
+<l>Tspel es in hem verdroget</l>
+<l>Als I marbersteen</l>
+<l>Viuien loech al in een</l>
+<l n="60">Vrouwe [ende] wel weet</l>
+<l>Haddi spel daer hi droefheit</l>
+<l>Hi soude spliten [........]</l>
+<l>Om gode helpt [mi ende] viuien</l>
+<l>Herberge ende broet</l>
+<l n="65">[Dat] wi dus g[aen sonder] die noot</l>
+<l>[wi] hebben getrect over zee</l>
+<l>Int soete lant van galil[e]</l>
+<l>[Daer wi moeten alle ga..]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><pb n="143"/><milestone unit="fol" n="1va"/> Dat ons geluc mochte gevallen</l>
+<l n="70">Dat ic sage minen vader</l>
+<l>Van wien dat alle gader</l>
+<l>Menscelike nature hebben ontfaen</l>
+<l>So bestedic wel mijn gaen</l>
+<l><hi rend="bold">D</hi>ie coninginne seide ghi secget waer</l>
+<l n="75">Die gode mochte comen so naer</l>
+<l>Dat hine montlange sprake</l>
+<l>Dat ware I goede sake</l>
+<l>Also pensic sprac madelgijs</l>
+<l>Al sprac hi aldus in deser wijs</l>
+<l n="80">Hi meende te sprekene den seluen man</l>
+<l>Diene vleescelike wan</l>
+<l>Want hine noit hadde gesien</l>
+<l>Ende hieromme loech viuien</l>
+<l>Ende om ander dinge mede</l>
+<l n="85">Die hi sprac ende dede</l>
+<l>Die wonderlike waren gedaen</l>
+<l>Als hi liet zijn spreken staen</l>
+<l>Sone loech nemmeer viuien</l>
+<l>Madelgijs knielde over sine knien</l>
+<l n="90">Ende seide ic danke ihesus kerste</l>
+<l>Dat mijn geselle heuet erste</l>
+<l>Want lachen gaet hem so naer</l>
+<l>Viuien begonste lachen daer</l>
+<l>Wederals hi dede eer</l>
+<l n="95">Siet vrouwe seithi dits I seer</l>
+<l>Tswaerste dat noit man sach</l>
+<l>Dat hi hem niet onthouden mach</l>
+<l>Hine lacht als ic spreke</l>
+<l>Trouwen hi es tongereke</l>
+<l n="100">Sprac die vrouwe hets I swaer dogen</l>
+<l>[D]ie trane braken hem vten ogen</l>
+<l>[...ach men sien d.......]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="1vb"/> Al die pine die wi int g[a..]</l>
+<l>Hebben gedaen bede te ga[d..]</l>
+<l n="105">Om te sprekene onsen v[a...]</l>
+<l>Die ons gaf menscen nat[...]</l>
+<l><pb n="144"/>Ja vrouwe also seit scriftu[..]</l>
+<l>Dat god es here der werelt [w..]</l>
+<l>So doet ons vp dese tijt</l>
+<l n="110">Van iouwer karitate gheuen</l>
+<l>Daer wi op mogen leuen</l>
+<l>Die coninginne riep haren camer[....]</l>
+<l>Ende dedem bringen varinc</l>
+<l>I dwale ende spise</l>
+<l n="115">Ende deidse lecgen vor madelgise</l>
+<l>Als dit sach viuien</l>
+<l>Loech hi hertelike mettien</l>
+<l>Die coninginne dat wonder siet</l>
+<l>Here pelegrijm seitsoe nv ne s[...]</l>
+<l n="120">Waer omme lacht hi</l>
+<l>Jc segt iou vrouwe hort na</l>
+<l>Hets tgebod dat hem die pa[......]</l>
+<l>Te lachene als hi spise siet</l>
+<l><hi rend="bold">D</hi>ie coninginne sprac sem mijn leue[n]</l>
+<l n="125">Sodane penitentie hordi[........]</l>
+<l>Jc geloofs wel sprac madelgijs</l>
+<l>Jc moetse doen in deser w[...]</l>
+<l>Twi dat hise dus doet</l>
+<l>Vrouwe salic v maken vroet</l>
+<l n="130">Als hi was ionc was hi pr[e..]</l>
+<l>Ende van naturen luxurieus</l>
+<l>Dat hi hem niemene liet o[.....]</l>
+<l>Die wiues vorme heift ont[...]</l>
+<l>Hine deider mede sijn gevoe[..]</l>
+<l n="135">Enter moeder diene gedroec[.]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="2ra"/> [.]o moet hi lachen sonder spel</l>
+<l>[.]ls ic spreke dats sijn leen</l>
+<l>[.]nde viuien loech al in een</l>
+<l>[...] tafle daer hi geseten was</l>
+<l n="140">[...] coninginne ontfaermde das</l>
+<l>[.]nde seide pelegrijm ombert</l>
+<l>[.]ele te sprekene na dat dert</l>
+<l><pb n="145"/>[.]ouwen geselle des biddic di</l>
+<l>[.]adelgijs seid[e] vrouwe vri</l>
+<l n="145">[.]e ware dat ghijs wel waerdich sijt</l>
+<l>[.]cne hadde te deser tijt</l>
+<l>[.]iet so vele berechts gedaen</l>
+<l>[...] in deser tijt quam I bode ygaen</l>
+<l>[.]nde brochte der vrouwen mare</l>
+<l n="150">[.]at die coninc gevangen ware</l>
+<l>[.]e monclier des sijt wijs</l>
+<l>[.]it heift gedaen madelgijs</l>
+<l>[.]nde sijn broeder viuien mede</l>
+<l>[.]ets haer vader die hier ter stede</l>
+<l n="155">[.]s in prisoene dat si iou cont</l>
+<l>[.]ie hertoge bueue van eggermont</l>
+<l>[.]s dat waer sprac die vrouwe</l>
+<l>[N]v alreerst hebbic rouwe</l>
+<l>[D]at mijn here es gevangen</l>
+<l n="160">[D]en hertoge bueve salic hangen</l>
+<l>[E]nde minen here wreken</l>
+<l>[D]ie bode began spreken</l>
+<l>Help vrouwe ghine sult</l>
+<l>So ware mijns heren tijt veruult</l>
+<l n="165">Me[n] soudene doden des sijt wijs</l>
+<l>Want die dief madelgijs</l>
+<l>Es so wel geleert</l>
+<l>Ende ghi vrouwe wert onteert</l>
+<l>[Hi soude iou halen te parijs]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="2rb"/> So dede viuien die ridder snel</l>
+<l><hi rend="bold">D</hi>ie coninginne was droeue sere</l>
+<l>Om den coninc haren here</l>
+<l>So waren alle die daer waren</l>
+<l>Die bode seide sonder sparen</l>
+<l n="175">Vrouwe seit seker ende wijs</l>
+<l>Dat viuien ende madelgijs</l>
+<l><pb n="146"/>Sullen comen bede gader</l>
+<l>Om den hertoge haren vader</l>
+<l>Want si hebben hem vermeten</l>
+<l n="180">Die pelegrime die gonder eten</l>
+<l>Wanen sijn si kendise yet</l>
+<l>Die vrouwe seide nenic niet</l>
+<l>Si quamen hier recht nv gegaen</l>
+<l>Die bode antworde saen</l>
+<l n="185">Vrouwe wacht iou in elker wijs</l>
+<l>Want die quade madelgijs</l>
+<l>Hi can hem maken out ende cranc</l>
+<l>Ende an beden siden manc</l>
+<l>Hi can hem maken als I ingel</l>
+<l n="190">Sine vroescap es so nagingel</l>
+<l>Dat hem niemen gewachten can</l>
+<l>Jegen hem bi sente ihan</l>
+<l>Jc wane seker sijn des</l>
+<l>Dat gont madelgijs ende viuien es</l>
+<l n="195">Die vrouwe seide ic geloofs wale</l>
+<l>Als deen sprac sine tale</l>
+<l>So lacht dander al in een</l>
+<l>Vrouwe si sijnt onder hem II</l>
+<l>Doetse alle bede vaen</l>
+<l n="200">Die coninc salre bi ontgaen</l>
+<l>Ne ware doetse niet doden</l>
+<l>Want biden riken gode</l>
+<l>[Si souden] den coninc verslaen</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="2va"/> Vte wat lande sidi gheboren</l>
+<l n="205">Madelgijs sprac vroedelike</l>
+<l>Vten [hertogedom va]n oestrike</l>
+<l>Jc entie geselle mijn</l>
+<l>Ende [hoe] heti pelegrijm</l>
+<l>Achter minen petrijn vrouwe</l>
+<l n="210">Ende hoe heeti god geue di rouwe</l>
+<l>Vrouwe alse hi gedoopt was</l>
+<l>Ende hoe was dat berecht mi das</l>
+<l>Also hi hiet diene hief</l>
+<l><pb n="147"/>Die vrouwe seide ay quaet dief</l>
+<l n="215">Nv bem ic te voren wijs</l>
+<l>Dat ghi sijt madelgijs</l>
+<l>Die den ooninc heift gevaen</l>
+<l>Madelgijs es vp gestaan</l>
+<l>Ende sijn broeder viuien</l>
+<l n="220">Elc trac een claer swaert mettien</l>
+<l>Ende seiden bi sinte denijs</l>
+<l>Hier es viuien ende madelgijs</l>
+<l>Die den coninc hebben geuaen</l>
+<l>Die[nt] handen wille hi segt saen</l>
+<l n="225">Die ons beraden wille scande</l>
+<l>Wilne slaen met onsen brande</l>
+<l>De hertoge bueve van eggermont</l>
+<l>Willen wi hebben te deser stont</l>
+<l>Ondanc iou allen gader</l>
+<l n="230">Want hi es onser beder vader</l>
+<l>Ende daer bi wert mesdaen</l>
+<l>[..]t wine langer hier gevaen</l>
+<l><hi rend="bold">D</hi>ie coninginne was veruaert</l>
+<l>Ende [trac ger]eet achter waert</l>
+<l n="235">Doe[........]et al die zale</l>
+<l>Die bode s[eide] ic wist wale</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="2vb"/> Elc ridder ten wapine scoot</l>
+<l>Dat geboot die coninginne</l>
+<l>Viuien sprac met soeten sinne</l>
+<l n="240">Willen wi of doen ons sla[...]</l>
+<l>So mogen wi prouen wat wi[....]</l>
+<l>Madelgijs seide ia wi</l>
+<l>Broeder twine lach di</l>
+<l>Also ghi daet lanchere</l>
+<l n="245">Broeder sprac viuien d[i]e here</l>
+<l>Mijn lachen es al verg[a]en</l>
+<l>Wi moeten harde vaste slaen</l>
+<l>Madelgijs seide wat souden wi[..]</l>
+<l>Doe quamen die riddren snel</l>
+<l n="250">Gewapent entie seriante[n]</l>
+<l><pb n="148"/>Werden hem als II wiganten</l>
+<l>Si vochten vaste al in een</l>
+<l>Sulken sloegen si of die been</l>
+<l>Sulken den arm metter hant</l>
+<l n="255">Si riepen alle sla dien truw[a ..]</l>
+<l>So wat si riepen si waren ver[....]</l>
+<l>Madelgijs drefse achter waert</l>
+<l>Ende sijn broeder viuien</l>
+<l>Enen tor hebben si versien</l>
+<l n="260">Daer waert traken si bede vast</l>
+<l>Want si waren ver[...]</l>
+<l>Si peinsden als die [........]</l>
+<l>Na dien dat hem gescepen stont</l>
+<l>So ware hem die tor best</l>
+<l n="265">Hi was staarc ende wel gevest</l>
+<l>Si hadden bede groten strijt</l>
+<l>Van den middage toter vespert[..]</l>
+<l>Si begonsten sere vermoeden</l>
+<l>Daer si in die porsse stoeden</l>
+</body>
+</text>
+</TEI.2>

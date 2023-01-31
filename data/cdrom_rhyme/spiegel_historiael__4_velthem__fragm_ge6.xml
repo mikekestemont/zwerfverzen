@@ -1,0 +1,642 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.transcr 'INCLUDE'> <!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'>]><TEI.2><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Spiegel historiael (vierde partie [aandeel Velthem])</title>
+<author>Lodewijk van Velthem</author>
+</titleStmt>
+<editionStmt>
+<edition>M. de Vries en E. Verwijs (eds.): Jacob van Maerlant's Spiegel historiael, met de fragmenten der later toegevoegde gedeelten, bewerkt door Philip Utenbroeke en Lodewijc van Velthem. 3 delen. Leiden, 1863. Deel 3, 417-426.</edition>
+</editionStmt>
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<listBibl id="inlMetadata">
+<bibl><interpGrp type="titleLevel1">
+<interp value="Spiegel historiael (vierde partie [aandeel Velthem])"/>
+</interpGrp><interpGrp type="medium">
+<interp value="book"/>
+</interpGrp><interpGrp type="authorLevel1">
+<interp value="Lodewijk van Velthem"/>
+</interpGrp>
+<interpGrp type="ipr">
+<interp value="online"/>
+</interpGrp><interpGrp type="corpusProvenance">
+<interp value="cdrom-mnl"/>
+</interpGrp>
+<interpGrp type="pubYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1410"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1410"/></interpGrp>
+</bibl>
+</listBibl>
+<bibl id="original-metadata-cdrom-version"><![CDATA[
+<TITEL>Spiegel historiael (vierde partie [aandeel Velthem])</TITEL>
+<TITEL>Spiegel historiael</TITEL>
+<author>Lodewijk van Velthem</author>
+<AARD>Rijm</AARD>
+<BRON nr="D175">Gent, Bibliotheek der Rijksuniversiteit, 2541,10 (fragm.)</BRON>
+<DATUM>1390-1410</DATUM>
+<OMVANG>566 verzen</OMVANG>
+<BRON.OPM>Een in twee&#x00EB;n gesneden blad, 4 kolommen per bladzijde, 75 regels per kolom; foli&#x00EB;ring l[xx]. Het fragment bevat een aantal kapittels uit de Vierde Partie (aandeel Velthem), boek 8 van de Spiegel historiael: kap. 35 (laatste 48 vs.) - kap. 44 (1-41). Van het handschrift waar dit fragment deel van uitmaakte, bleven 32 fragmenten bewaard; de oorspronkelijke codex bevatte waarschijnlijk alle partie&#x00EB;n van de Spiegel historiael (zie verder J.A.A.M. Biemans: Onsen Speghele Ystoriale in Vlaemsche. Codicologisch onderzoek naar de overlevering van de "Spiegel historiael" van Jacob van Maerlant, Philip Utenbroeke en Lodewijk van Velthem, met een beschrijving van de handschriften en fragmenten. Deel 2: Catalogus, registers, bibliografie, platen. Leuven 1997, 355-359).</BRON.OPM>
+<VERWIJZING>Gent, Bibliotheek der Rijksuniversiteit, 2541,7 (fragm.), Brugge, Stadsarchief, Oud archief, reeks 538,7 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,8 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,9 (fragm.), Brussel, Koninklijke Bibliotheek, IV 827,1 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,11 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,13 (fragm.), en Gent, Bibliotheek der Rijksuniversiteit, 2541,14 (fragm.).</VERWIJZING>
+<EDITIE>M. de Vries en E. Verwijs (eds.): Jacob van Maerlant's Spiegel historiael, met de fragmenten der later toegevoegde gedeelten, bewerkt door Philip Utenbroeke en Lodewijc van Velthem. 3 delen. Leiden, 1863. Deel 3, 417-426.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1188.III.5</BRONMNW>
+<BRONNEN>Van de Vierde Partie van de Spiegel historiael werd Boek 1 tot Boek 3, kap. 34 bewerkt door Jacob van Maerlant; men zie daarvoor 's-Gravenhage, Koninklijke Bibliotheek, Bruikleen Koninklijke Akademie van Wetenschappen, XX. Het resterende gedeelte van de Vierde Partie is van de hand van Lodewijk van Velthem. Zijn aandeel in deze Partie is echter uitsluitend gefragmenteerd overgeleverd in enkele verzamelcodices en in een aantal handschriftfragmenten; we vermelden hier Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1020, III en IV (fragm.), Berlijn, Geheimes Staatsarchiv Preussischer Kulturbesitz, XX. HA StA. K&#x00F6;nigsberg, 33,20 (fragm.), Mainz, Bisch&#x00F6;fliches Priesterseminar, z.s. (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 1641 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 1374, Wroclaw, Biblioteka Uniwersytecka, IV F 88e-II (fragm.), Wenen, &#x00D6;sterreichische Nationalbibliothek, 13708, Gent, Bibliotheek der Rijksuniversiteit, 2541,9 (fragm.), Brussel, Koninklijke Bibliotheek, IV 827,1 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,10 (fragm.) en Gent, Bibliotheek der Rijksuniversiteit, 2541,11 (fragm.).</BRONNEN>
+]]></bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body><div type="chapter"><head type="chapter comment">[.XXXV.]</head>
+<l>[..................................]</l>
+<l><pb n="3,417"/> Van Vrancrike als een lewe doet,</l>
+<l>Die sine proye heeft onder voet,</l>
+<l>Ende een quame ende woudse hem nemen,</l>
+<l>Dat soudi herde node getemen:</l>
+<l n="5">Diere gelike vacht die coninc,</l>
+<l>Ende sprac aldus te dier dinc:</l>
+<l>"Vecht, ghi kersten! om Gode teren!</l>
+<l>Ende wert hier alle merteleren!</l>
+<l>Ende niement en laet hem hier nu vaen!</l>
+<l n="10">Want ons is liever, sonder waen,</l>
+<l>Dat wi wreken die Gods ande</l>
+<l>Nu op dese Gods viande,</l>
+<l>Dan wi ons gaven in handen."</l>
+<l>Mittesen woorden sloech hi ten tanden</l>
+<l n="15">In die viande ende maecte een scaert,</l>
+<l>So datter XV achterwaert</l>
+<l>Traken, diene daer sagen comen.</l>
+<l>Hi heeft daer enen tlijf genomen,</l>
+<l>Dien hi altemale doerreet</l>
+<l n="20">Mit eenre glavien; daer na gereet</l>
+<l>Trac hi sijn zwert ende sloecher mede</l>
+<l>Hem III van haren perde gerede.</l>
+<l>Sijn broeder Alfons van Poytau,</l>
+<l>Ende Karel sijn broeder van Eniau,</l>
+<l n="25">Volchdem na ende deden niet min</l>
+<l>Dan die coninc dede int beghin;</l>
+<l>Want Karel proefdem herde wale,</l>
+<l>Hi sloecher meer dan XL te dale,</l>
+<l>Eer hi ye toech achter;</l>
+<l n="30">Alfons, die sinen lachter</l>
+<l>Oec wreken woude op die Sarresine,</l>
+<l>Dede hem daer wel grote pine,</l>
+<l>Want hi doerbrac die een scare;</l>
+<l>Ende eer hi doer quam daer nare,</l>
+<l n="35">So wort sijn ors onder hem gesteken,</l>
+<l>Dat hi coenlike daer sal wreken;</l>
+<l>Want die ghene diet stac,</l>
+<l>Daer op hijt saen ter steden wrac,</l>
+<l>Want hine van voren stac in</l>
+<l n="40">Mit sinen zwerde int beghin,</l>
+<l><pb n="3,418"/> Also als hi hem verlichten soude</l>
+<l>Op sijn pert, alst God oec woude,</l>
+<l>Dat tzwert banderside dore quam.</l>
+<l>Die ghene viel doot, dat pert hi nam</l>
+<l n="45">Ende sprancker op mit snelre vaert,</l>
+<l>Ende maecte om hem een scaert,</l>
+<l>So dat si achtervloen, godweet.</l>
+<l>Dit was teerste beghin gereet.</l>
+</div>
+<div type="chapter"><head type="chapter">Hoe donse alle worden gevaen. XXXVI.</head>
+<l>                Nu seldi vort hier verstaen,</l>
+<l>Hoet mitten onsen sal vergaen.</l>
+<l>Die coninc, die daer zere street</l>
+<l>Ende inwaert altoos henen reet</l>
+<l n="5">Ende niet achter trecken en wilde,</l>
+<l>Maer altenen, als een coninc milde,</l>
+<l>Sloech hi ende stac die Sarrasine;</l>
+<l>Ende om die grote pine</l>
+<l>Wort hi nu beringet daer,</l>
+<l n="10">Dat hi gevaen wort daer naer,</l>
+<l>Ende het coste hem C eer.</l>
+<l>Nu hoort, hoe menigen keer</l>
+<l>Hi dede eer hi wort gevaen.</l>
+<l>Hi was oec eer comen anden soudaen;</l>
+<l n="15">Nochtan hadde die soudaen bi heme</l>
+<l>Hem VI<hi rend='sup'>M</hi>, alsict verneme,</l>
+<l>Diene alle wachten ende hoeden nauwe,</l>
+<l>Datten niement daer ontvlauwe;</l>
+<l>Ende daer hi ten soudaen wilde comen,</l>
+<l n="20">Wort hi aldaer opgenomen;</l>
+<l>Maer si C eer moede waren,</l>
+<l>Eer sine gevingen oec daer naren.</l>
+<l>Als dit zijn broeder heeft verstaen,</l>
+<l>Dat die coninc dus is gevaen,</l>
+<l n="25">Mit hem XX wel omtrent</l>
+<l>Is hi gereden so sere na tgent,</l>
+<l>Dat hi die gene aenstreet saen,</l>
+<l>Die den coninc hadden gevaen,</l>
+<l>Ende sloecher daer VI doot.</l>
+<l n="30">Doe quam daer een groot conroot</l>
+<l>Van achter hem, ende begonden te slane,</l>
+<l>Entie van voren quamen oec ane,</l>
+<l>So dat hi hem moeste geven,</l>
+<l>Of si hadden verloren tleven.</l>
+<l n="35">Dus wort Alfons oec gevaen.</l>
+<l>Doe dese heren hadde die soudaen,</l>
+<l>Dochtem dat hi hadde den zege.</l>
+<l>Reet hi vaste selve en wege</l>
+<l>In den strijt ende trooste die sine.</l>
+<l n="40">Dus quamen donse in groter pine,</l>
+<l>Ende tormentense ende sceidense met.</l>
+<l>Nochtan dat hem meest let,</l>
+<l>Dat si meest daer anesien,</l>
+<l>Dat si tcruce namen na dien</l>
+<l n="45">Ende gheesseldent gelijc die Joden daden.</l>
+<l>Dit mochte den kersten sere scaden,</l>
+<l>Dat sijt moesten anesien,</l>
+<l>Ende niet en mochten doen te dien.</l>
+<l>Ja, si spoegen in sijn aensichte,</l>
+<l n="50">Ende stakent mit haren voeten ghedichte!</l>
+<l>Desen jamer liet onse Here gescien,</l>
+<l>Om dat sijs verdient hadden vor dien</l>
+<l>Mit sonden die si hadden gedaen:</l>
+<l>Hier om lietse onse Here vaen.</l>
+</div>
+<div type="chapter"><head type="chapter"><pb n="3,419"/> <hi rend="italic">Hoe die coninc verdingede jeghen den soudaen, ende te Damiaten voer</hi>. XXXVII.</head>
+<l>                Hier na over een tijt daer naer</l>
+<l>So dede vragen, over waer,</l>
+<l>Die soudaen den coninc saen</l>
+<l>Mit eenre felre spraken, sonder waen,</l>
+<l n="5">Of hi vrede wilde maken,</l>
+<l>Als ic u seggen sal, in deser zaken:</l>
+<l>Dat hi hem geve sonder beiden</l>
+<l>Damiaten, daer ic hier voren of seide,</l>
+<l>Mit al datter binnen es;</l>
+<l n="10">Ende wil hi hem quiten na des</l>
+<l>Al die scade, die hem is gedaen,</l>
+<l>Sint dat si Damiaten hebben ontfaen;</l>
+<l>Ende sinen cost ooc ghelde mede,</l>
+<l>Dien hi in desen onvrede</l>
+<l n="15">Heeft gedaen: hi mach verdingen</l>
+<l>Ende al die sine sonderlingen.</l>
+<l>                Na dese sprake, na dese woort,</l>
+<l>Was die paeys aldus bracht voort</l>
+<l>X jaer te houden daer,</l>
+<l n="20">Ende op dese vorme, over waer:</l>
+<l>So dattie soudaen den coninc</l>
+<l>Soude laten varen na dese dinc,</l>
+<l>Ende alle die kerstine, die men wiste</l>
+<l>Die gevaen waren in twiste,</l>
+<l n="25">Van dier tijt dat Lyemslaen,</l>
+<l>Sijn vader, street, die soudaen,</l>
+<l>Waer dat si lagen in elke stede,</l>
+<l>Uut soude laten ende oec mede</l>
+<l>Quite liet gaen ende vri</l>
+<l n="30">Uut sinen lande, verre ende bi;</l>
+<l>Ende dat si dat lant oec na dat,</l>
+<l>Dat si te voren hadden besat,</l>
+<l>Eer die coninc quam int lant,</l>
+<l>Noch bliven soude no houden in hant;</l>
+<l n="35">Entie coninc soudem geven Damiaten,</l>
+<l>Ende voer sine scade oec te baten</l>
+<l>VIII<hi rend='sup'>M</hi> bysanten gereet,</l>
+<l>Die men Sarrasinoysche heet;</l>
+<l>Entie coninc soude oec quite geven</l>
+<l n="40">Alle die Sarrasinen, die leven</l>
+<l>Ende in vangenisse waren.</l>
+<l>Aldus heeft die coninc gevaren.</l>
+<l>Dese vrede wort also gedaen,</l>
+<l>Als ic u hier voren hebbe doen verstaen.</l>
+<l n="45">Ende ware oec yement siec nu</l>
+<l>Vanden kerstinen, segic u,</l>
+<l>Of gewont of gequetst,</l>
+<l>Die sijn mede ingevest,</l>
+<l>Dat men die sal laten genesen,</l>
+<l n="50">Ende dan laten gaen na desen</l>
+<l>Tharen lande waert, of si willen,</l>
+<l>Sonder enich weder stillen,</l>
+<l>Ende ongescaet ende ongescent.</l>
+<l>Aldus wort daer die paeys geent</l>
+<l n="55">Onder hem entie vrede gezworen,</l>
+<l>Dat sine niet sellen scoren.</l>
+</div>
+<div type="chapter"><head type="chapter">Hoe die amiralen den coninc vreesden. XXXVIII.</head>
+<l>                Dus quam die coninc mitten soudaen,</l>
+<l>Ende togen te Damiaten waert saen,</l>
+<l>Om dit al te gestaden mede.</l>
+<l>Doe si quamen daer ter stede,</l>
+<l n="5">Ende dit daer een ridder vernam,</l>
+<l>Een Zarrazijn, datter quam</l>
+<l><pb n="3,420"/> Die soudaen op dese vorwarde,</l>
+<l>Wart daer om vertornt harde,</l>
+<l>Want dese hadde daer mit heme</l>
+<l n="10">Vele ridders, als ict verneme.</l>
+<l>Ende recht des morgens, omtrent</l>
+<l>Dat men gheten hadde na tgent,</l>
+<l>Quam die ridder mit vele lieden,</l>
+<l>Daer die soudaen mit sire mesnieden</l>
+<l n="15">Sat ter tafele ende hadde geten.</l>
+<l>Ghene ridder quam also vermeten,</l>
+<l>Ende sloech op den soudaen ter stat</l>
+<l>Ende wonden sere; saen na dat</l>
+<l>Was hi hem daer saen ontseten.</l>
+<l n="20">Ghene ridder quam, dat suldi weten,</l>
+<l>Tot daer die coninc van Vrancrike</l>
+<l>Sat in sine tente dies gelike,</l>
+<l>Ende niewer of hem en hoede</l>
+<l>Ende om en gheen arch en vermoede;</l>
+<l n="25">So quam die ghene saen daer nare,</l>
+<l>Ende mit hem ene grote scare</l>
+<l>Van Sarrasinen, ende ooc mede</l>
+<l>Quamen die amiralen gerede</l>
+<l>Alle gevolget: om die saken,</l>
+<l n="30">Dat men paeys soude maken</l>
+<l>Sonder hem, dat si niet en weten</l>
+<l>Wat daer elken was beheten,</l>
+<l>So quamen si mit gewapender hant,</l>
+<l>Ende hare zwerde getogen thant,</l>
+<l n="35">Tot voer des coninx tente zaen,</l>
+<l>Om hem daer in doot te slaen.</l>
+<l>Ende recht als si voer die tente quamen,</l>
+<l>Begonden si hem alle te scamen,</l>
+<l>Dat si ten coninc op geleide</l>
+<l n="40">Comen waren ende op sekerheide,</l>
+<l>Yet doen souden, sine hoorden ere</l>
+<l>Wat daer toe seide die here.</l>
+<l>Dus, overmits die Gods cracht,</l>
+<l>Worden si daer also bedacht,</l>
+<l n="45">Dat si hem vrageden daer ter stat,</l>
+<l>Hoe die paeys waer gesat</l>
+<l>Ende wat daer gelovet ware,</l>
+<l>Daer hi om waer comen dare.</l>
+<l>Doe vertellet die coninc daer saen,</l>
+<l n="50">Hoe hi te paeyse waer ontfaen,</l>
+<l>Ende hoe hijt hadde gesworen</l>
+<l>Ende die soudaen oec daer voren.</l>
+<l>"Ende wildi desen paeys mede,</l>
+<l>Ic zweren u hier ter stede,</l>
+<l n="55">Ende doe ghelijc dat ic nu saen</l>
+<l>Hebbe gedaen den soudaen."</l>
+<l>Aldus ende in andren manieren met</l>
+<l>Wort die paeys ghinder geset,</l>
+<l>Ghelijc dat hi gemaect was,</l>
+<l n="60">Mitten amiralen ende na das</l>
+<l>Mit al den Sarrasijnschen heren.</l>
+<l>Beide int gaen ende int keren</l>
+<l>Van der stede ende van den lande mede,</l>
+<l>Ende van al den gevangen oec gerede,</l>
+<l n="65">Ende al die vorwerde van daer voren</l>
+<l>Hebben si daer alle ghezworen,</l>
+<l>Dat sise houden sellen al,</l>
+<l>Ghelijc dat die soudaen beval.</l>
+</div>
+<div type="chapter"><head type="chapter">Hoe die coninc tAkers voer, ende hoe si niet en daden dat si gheloveden. XXXIX.</head>
+<l>                Doe dit aldus was gedaen,</l>
+<l>Trac die coninc daer na saen</l>
+<l>Te Egypten waert mit sinen here,</l>
+<l>Dies hi luttel hadde in dier were.</l>
+<l n="5">Dus bleef hi leggen ene stont.</l>
+<l>Doe wort hem ander dinc cont,</l>
+<l><pb n="3,421"/> Ende sende boden achterwaert,</l>
+<l>Dat men hem scepe sende ter vaert,</l>
+<l>Ghelijc dat hem gelooft was,</l>
+<l n="10">Daer hi mede over voer na das;</l>
+<l>Want hem gelooft was, sonder waen,</l>
+<l>Sine scepe quite te laten gaen.</l>
+<l>Doe hem dus sine scepe som quamen,</l>
+<l>Saten si daer in alle tsamen,</l>
+<l n="15">Ende voeren tot Akers saen daer na;</l>
+<l>Ende als si daer quamen, so ict versta,</l>
+<l>So sende die coninc boden saen</l>
+<l>Tot in Egypten, sonder waen,</l>
+<l>Te eyschen sine scepe daer</l>
+<l n="20">Ende sine tenten oec, vorwaer,</l>
+<l>Ende sine wapine mede gereet,</l>
+<l>Ende al dat hem toebesteet,</l>
+<l>Entie gevangne mede na dat,</l>
+<l>Dat men die late gaen ter stat,</l>
+<l n="25">Ghelijc als voersproken was.</l>
+<l>Ende, als ic hier te voren las,</l>
+<l>Dit eyscheden die boden saen</l>
+<l>Ende lagen hier na, sonder waen,</l>
+<l>Lange stont in Babylone.</l>
+<l n="30">Na vele talen, die waren om tgone,</l>
+<l>So leverden die amirale</l>
+<l>Van dien gevangen, in ware tale,</l>
+<l>Wel IIII<hi rend='sup'>C</hi>; nochtan hem somen,</l>
+<l>Eer sire uut mochten comen,</l>
+<l n="35">Moesten si hem selven verdingen</l>
+<l>Om grote penninge sonderlinge.</l>
+<l>Dus liet mer daer CCCC uut</l>
+<l>Van XCI ende M, overluut,</l>
+<l>Die daer in vangenisse bleven</l>
+<l n="40">Ende in verdriete ende in zwaren sneven.</l>
+<l>Ende van den andren dingen daer</l>
+<l>En wilden si niet geven, overwaer.</l>
+<l>Dus wart die coninc te scherne gedreven.</l>
+<l>Die jongelinge, die daer waren bleven</l>
+<l n="45">Onder die heydene dus gevaen,</l>
+<l>Namen si alle daer na saen</l>
+<l>Ende leidense ter offerande waert,</l>
+<l>Ghelijc enen scape sere vervaert,</l>
+<l>Ende mit zwerden op hem getogen,</l>
+<l n="50">Die si hilden boven hem vermogen,</l>
+<l>Ende dadense aenbeden ter stat</l>
+<l>Mamets wet; ende die om dat</l>
+<l>Sijnre kersten niet wilde ofgaen,</l>
+<l>Dien merteliden si daer saen.</l>
+<l n="55">Dus worter daer vele gedwongen,</l>
+<l>Dat si riepen mit luder tongen</l>
+<l>Mamets wet, ende daer nare</l>
+<l>Moesten si offerhande doen aldare</l>
+<l>Mamet, ende hare wet ofgaen.</l>
+<l n="60">Dus ist daer mit hem vergaen.</l>
+</div>
+<div type="chapter"><head type="chapter">Hoe die coninc voer in Surien ende daer leggende bleef, ende sende sinen broeder te lande. XL.</head>
+<l>                Doe die coninc dat sach,</l>
+<l>En weet hi wat hi doen mach,</l>
+<l>Ende penst: vaert hi te lande,</l>
+<l>Dat si sellen nemen in hande</l>
+<l n="5">Dat lant dat nu kersten es,</l>
+<l>Ende sellense verdriven oec na des;</l>
+<l>Want si ghenen vrede en houden,</l>
+<l>"Ende alle dies wi hem betrouden,</l>
+<l>Dat hebben si ons gebroken nu.</l>
+<l n="10">Ic weet oec wel, dat segic u,</l>
+<l>S ........ en lande,</l>
+<l>Dat si tselve doen te hande</l>
+<l><pb n="3,422"/> Onsen lieden, die hebben beseten</l>
+<l>Dit lant, dies waenic wel die waerheit weten."</l>
+<l n="15">Dies vragedi raets sinen baroenen,</l>
+<l>Wat si hem rieden van den goenen;</l>
+<l>Ende tmere deel die waren daer,</l>
+<l>Seiden: waer datti van daer vaer</l>
+<l>Ende sceide dus van daer, godweet,</l>
+<l n="20">Al dat lant, groot ende breet,</l>
+<l>Dat die kersten houden daer,</l>
+<l>Bleve verloren daer naer;</l>
+<l>Ende oec gevangne met,</l>
+<l>Die dus geloveden an Mamets wet,</l>
+<l n="25">Die zijn verloren nu ter ure</l>
+<l>Ende bliven vort daer inden labure;</l>
+<l>Ende dander, diere doot zijn bleven,</l>
+<l>Daers lichte genoech of gescreven,</l>
+<l>Want si hem martelien lieten,</l>
+<l n="30">Om Gods bliscap te genieten:</l>
+<l>Die storven wel, sijt seker das.</l>
+<l>Saen daer dies te rade was</l>
+<l>Die coninc, dat hi mit sire pertien</l>
+<l>Voer over tot Surien</l>
+<l n="35">Ende bleef daer leggen ene stont,</l>
+<l>Oft hem yet werden soude cont,</l>
+<l>Wat die heydene souden bestaen.</l>
+<l>Ende binnen desen sendi saen</l>
+<l>Sinen broeder te Vrancrike waert,</l>
+<l n="40">Tot sijnre moeder Blansen ter vaert,</l>
+<l>Om te besiene wat si dade,</l>
+<l>Ende dat si zijn lant sette te rade</l>
+<l>Aldaert onberaden es.</l>
+<l>Dus bleef die coninc, des sijt gewes,</l>
+<l n="45">Leggende daer in, en weet hoe lange,</l>
+<l>In zwaren gepense, in zwaren bedwanghe,</l>
+<l>Om die scade die hi hadde ontfaen.</l>
+<l>Dit ghesciede oec, sonder waen,</l>
+<l>Doe men screef ons Heren jaer</l>
+<l n="50">M CC ende L, vorwaer,</l>
+<l>Ende in ........</l>
+<l>........</l>
+</div>
+<div type="chapter"><head type="chapter">Van sinte Peter den Predicare. XLI.</head>
+<l>                In desen tiden was oec mede,</l>
+<l>Van Melane geboren der stede,</l>
+<l>Sinte Peter, die Predicare was,</l>
+<l>Als ic van hem nu oec las,</l>
+<l n="5">Die vele leringe ende mirakel dede,</l>
+<l>Ende dien Innocencius oec mede,</l>
+<l>Die paus, canoniseerde ende boot</l>
+<l>Sine solempniteit groot;</l>
+<l>Ende sine vite ende sijn leven</l>
+<l n="10">Heeft dese Innocencius som bescreven.</l>
+<l>                Dese Peter was van Lombaerdien gheboren.</l>
+<l>Ende in der Predicare ordine vercoren,</l>
+<l>Ende wel XXX jaer die ordine helt.</l>
+<l>In kersten gelove mit groter gewelt</l>
+<l n="15">Leerdi ende helt so vaste,</l>
+<l>Datten nie yement so verlaste,</l>
+<l>Dat hi hem wilde verledigen yet</l>
+<l>........</l>
+<l>In vasten ende in vieren mede</l>
+<l n="20">Was hi altoos wel gerede:</l>
+<l>Ghene vasten en mocht hem deren.</l>
+<l>Alle sonde condi wel weren;</l>
+<l>Maget ende reyne was hi mede</l>
+<l>Beide van live ende van zede.</l>
+<l n="25">Van prediken wort hi geen tijt</l>
+<l>Moede, des wel seker sijt,</l>
+<l>Noch van biechten ongelet.</l>
+<l>Niement sciet van hem oec met,</l>
+<l>Al quame hi ongetroost tot heme,</l>
+<l n="30"><pb n="3,423"/> Hi sciet van hem, als ict verneme,</l>
+<l>Wel getroost ende wel te gemake.</l>
+<l>Te Meylane, in ware sake,</l>
+<l>Was hi gemaect prior na das,</l>
+<l>Dat hi node was.</l>
+<l n="35">Daer na wort hi gesent oec mede</l>
+<l>Om te prediken in elke stede</l>
+<l>Van den paeus, daer quadien waren,</l>
+<l>Die ketterien plagen, twaren.</l>
+<l>Ende van dien wart een op hem erre</l>
+<l n="40">Ende verbolgen; daer na sonder merre</l>
+<l>Vermordi den goeden man,</l>
+<l>Die vriendelic te hem sprac an:</l>
+<l>"Vrient, du doest nu dine zede:</l>
+<l>God vergheefti! ic vergeefti mede."</l>
+<l n="45">Doe lovedi Gode ende dancten daer.</l>
+<l>Doe seidi dit versekijn daer naer:</l>
+<l>"<hi rend="italic">In manus tuas, Domine!"</hi> </l>
+<l>Ende doe tvers geseit was, min no me,</l>
+<l>Gaf hi Gode daer den gheest.</l>
+<l n="50">Entie ghene, hebic verheest,</l>
+<l>Diene dode, wart daer na gevaen,</l>
+<l>Ende grote pine wart hem gedaen,</l>
+<l>Ende geslegen ende na gegeven</l>
+<l>Enen grave, die hem tleven</l>
+<l n="55">Nam, ghelijc dat men was</l>
+<l>Sculdich te doene, sijt seker das.</l>
+<l>Ende desen Peter, desen martelare,</l>
+<l>Vant men leggende oec daer nare</l>
+<l>Bloeyende gelijc ere rose,</l>
+<l n="60">Als of hi hadde ghene nose,</l>
+<l>Ende hi also geslapen hadde nu.</l>
+<l>Doe nam men daer, dat segic u,</l>
+<l>Ende brochten voort van dier stede</l>
+<l>Tot daer men graven soude mede.</l>
+<l n="65">Eer men groef, over waer,</l>
+<l>Dedi miraclen openbaer.</l>
+</div>
+<div type="chapter"><head type="chapter">Van sinen miraclen na sine doot. XLII.</head>
+<l>                Een edel man hadde enen zone,</l>
+<l>Ende in die kele was die gone</l>
+<l><hi rend="italic">So vreselike</hi> starc geswollen zwaer,</l>
+<l>Dat hi wort en conde gespreken daer,</l>
+<l n="5">Noch verswelgen dat hi at.</l>
+<l>Ende daer dese quam ter selver stat,</l>
+<l>Daer men den sant ter erden dede,</l>
+<l>So nam dese van begerlichede</l>
+<l>Sine cappe om sinen hals,</l>
+<l n="10">Om dies men daer was gemals;</l>
+<l>Van sinen goeden leven na dat</l>
+<l>Wert die genesen ter stat.</l>
+<l>                Oec een edel man, een here,</l>
+<l>Hadde dat torsioen oec sere,</l>
+<l n="15">Dat hi waende sterven wel.</l>
+<l>Het wort hem so starc ende so fel,</l>
+<l>Dat hi niene conde gerusten,</l>
+<l>So dat hem stervens begonde te lusten.</l>
+<l>Ende hi dede daer na, als hi vernam</l>
+<l n="20">Van diere niemare die hem quam,</l>
+<l>Die cappe halen van desen man.</l>
+<l>Ende also zaen als si hem quam an,</l>
+<l>Leidise op sinen buuc gereet,</l>
+<l>Ende hem quam an een groot zweet,</l>
+<l n="25">Ende II grote gaerde worme,</l>
+<l>Die elc waren van meniger vorme,</l>
+<l><pb n="3,424"/> Quamen hem uut ter kelen zaen,</l>
+<l>Ende hi wort genesen, sonder waen.</l>
+<l>                Enen jongelinc genas hi met,</l>
+<l n="30">Dien den bant der tonghen let,</l>
+<l>Dat hi niet spreken conde;</l>
+<l>Ende hi dede sinen vinger ter stonde</l>
+<l>In sinte Peters cappe vorwaer,</l>
+<l>Ende stac sinen vinger daer naer</l>
+<l n="35">In sinen mont an sine tonge.</l>
+<l>Daert anhorde oude ende jonge,</l>
+<l>Sprac hi wel ende volcomelike,</l>
+<l>Overmits Gods macht van hemelrike.</l>
+<l>                Doe dese dus begraven was,</l>
+<l n="40">So hingen lampten, als ict las,</l>
+<l>Boven sijn graf, diene waren niet</l>
+<l>Onsteken, alsmen dicke siet.</l>
+<l>Alsmen ten lampten soude gaen,</l>
+<l>Vant mense daer onsteken saen</l>
+<l n="45">Van hem selven, dat verstaet.</l>
+<l>Dus bleven si bernende, hoe dat gaet,</l>
+<l>Tot dat Gods dienst was gedaen:</l>
+<l>Doe ghingen si selve uut saen.</l>
+<l>                Dier mirakelen menich ene</l>
+<l n="50">Ghescieden daer oec na tghene.</l>
+</div>
+<div type="chapter"><head type="chapter">Noch van sinen miraclen. XLIII.</head>
+<l>                Een was mit andren lieden geseten</l>
+<l>Ter tafele, daer men soude eten,</l>
+<l>Ende horde seggen daer in spraken</l>
+<l>Van desen man heilige saken.</l>
+<l n="5">Doe hat den ghenen onwaert,</l>
+<l>Ende wederseide dit ter vaert;</l>
+<l>Ende mittien hi in sinen mont stac</l>
+<l>Een morsiele, doe hi dit sprac,</l>
+<l>Ende dat bleef hem daer stekende zaen,</l>
+<l n="10">Dat niet vorder en wilde gaen,</l>
+<l>Noch achterwaert en condijs niet</l>
+<l>Uutgetrecken, wats gesciet.</l>
+<l>Ende doe hi dit dus gevoelde daer,</l>
+<l>Wart hi tongemake zwaer,</l>
+<l n="15">Want hire pine om doghede:</l>
+<l>En bescoot niet wat hi pogede.</l>
+<l>Doe hi dit sach, sprac hi saen</l>
+<l>Sine biechte ende dede verstaen,</l>
+<l>Hoe hi aldus hadde gesproken:</l>
+<l n="20">"Dese sanct heeft hem nu gewroken</l>
+<l>Over mi, dat weet ic wale.</l>
+<l>Nemmer en valt mi sulke tale,</l>
+<l>Dat ghelove ic nu desen sant."</l>
+<l>Ende hi wort genesen thant.</l>
+<l n="25">                Een wijf die al vol waters was,</l>
+<l>Quam te sinen grave na das</l>
+<l>Ende bat daer <hi rend="italic">vrou</hi>delike, twaren,</l>
+<l>Mit devocien ende in groet begaren,</l>
+<l>Dat si gecrigen mochte gesonde:</l>
+<l n="30">Ende si wort genesen op die stonde.</l>
+<l>                Een wijf oec die was beseten</l>
+<l>Mitten quaden gheest vermeten,</l>
+<l>Ende mit groten wonderlichede</l>
+<l>Haer geliet in elke stede;</l>
+<l n="35">Ende dese mertelare gereet</l>
+<l>Mit enen bloedene, godweet,</l>
+<l>Dedi die viande uut comen daer,</l>
+<l>Ende si wort saen genesen daer naer.</l>
+<l>                Die mitten rede waren bevaen</l>
+<l n="40"><pb n="3,425"/> Of mitten lancevel, sonder waen,</l>
+<l>Of van tantzweringe mede,</l>
+<l>Die genasen daer gerede.</l>
+<l>                Een was die van ere zwere</l>
+<l>Hadde gehadt grote dere,</l>
+<l n="45">So dat hem vele gate bleven</l>
+<l>Al om sinen vinger beneven;</l>
+<l>Ende hi ghinc op zijn graf aldaer,</l>
+<l>Ende stac sinen vinger daer naer</l>
+<l>In sijn graf: ende op der stede</l>
+<l n="50">Wort hi daer genesen mede.</l>
+<l>                Een kint dat mit zwaren ongemake</l>
+<l>Was bevaen, na dese sake</l>
+<l>Brocht men dat kint ten sant,</l>
+<l>Dat op die doot was altehant.</l>
+<l n="55">Also saen alst die erde, vorwaer,</l>
+<l>Vanden grave gegreep aldaer</l>
+<l>Ende die stac in sinen mont,</l>
+<l>Wort dat kint aldaer ghesont.</l>
+<l>                Ende van die miraclen, die hi dede,</l>
+<l n="60">Doe men dat gevreeste mede</l>
+<l>Onder die quade heresien,</l>
+<l>Quamer vele van hare pertien,</l>
+<l>Om dit te scouwen, godweet,</l>
+<l>Ende worden daer gelovich gereet.</l>
+<l n="65">Wat sal icker meer of spreken nu?</l>
+<l>Ghene siecheit, segic u,</l>
+<l>Die men hebben mochte, vorwaer,</l>
+<l>Ende quam hi tesen sant daer naer,</l>
+<l>Opdat hijs goet gelove wan,</l>
+<l n="70">Hi wort genesen, wast wijf of man.</l>
+<l>                Inden Meye starf hi, vorwaer,</l>
+<l>Dat si der werelt openbaer.</l>
+</div>
+<div type="chapter"><head type="chapter">Hoe die coninc van Vrancrike te lande trac, ende hoe langhe die werelt ghestaen heeft. XLIIII.</head>
+<l>                In desen tiden, weet vorwaer,</l>
+<l>So hadde geregneert XXIIII jaer</l>
+<l>Die coninc Lodewijc van Vrancrike;</l>
+<l>Entie paus oec dier gelike,</l>
+<l n="5">Innocencius die vierde,</l>
+<l>Die de heilige kerke antierde,</l>
+<l>Hadde geregneert II jaer;</l>
+<l>Entie keyser Vrederic, vorwaer,</l>
+<l>Hadde XXXIIII jaer ghewesen</l>
+<l n="10">In skeysers state oec voer desen;</l>
+<l>Ende doe men oec screef ons Heren jaer</l>
+<l>M CC ende L, vorwaer;</l>
+<l>Ende van dat die werelt wort gemaect,</l>
+<l>Onse God na hem gesaect,</l>
+<l n="15">So is leden VI<hi rend='sup'>M</hi> jaer</l>
+<l>CCCC ende XLIX, vorwaer.</l>
+<l><pb n="3,426"/>                 Doe dese tijt leden was, godweet,</l>
+<l>Die hier dus bescreven steet,</l>
+<l>Entie sekerheit bleef also gestade,</l>
+<l n="20">Daer ic hier voren gewach of dade,</l>
+<l>Van den lande van Jherusalem,</l>
+<l>So keerde die coninc ende mit hem</l>
+<l>Alle sine baroene thande</l>
+<l>Van Surien tharen lande.</l>
+<l n="25">Die XXste, dat segic u,</l>
+<l>So quamen <hi rend="italic">daer</hi> te lande nu</l>
+<l>Van die over zee waren gevaren.</l>
+<l>Daer of waren droeve, twaren,</l>
+<l>Die daer haer vriende hadden gelaten,</l>
+<l n="30">Som in haren quaden staten,</l>
+<l>Als die hare wet ofghingen,</l>
+<l>Ende daer ane en is gheen verdingen</l>
+<l>Dat si mogen te lande comen,</l>
+<l>Ende ooc die de doot hebben genomen.</l>
+<l n="35">Dies was menich sekerlike</l>
+<l>Droeve nu in Vrancrike,</l>
+<l>Als gheen wonder was, en trouwen.</l>
+<l>Dus waren oec droeve sere die vrouwen,</l>
+<l>Die daer hare manne hadden verloren;</l>
+<l n="40">Ende som lieten si oec sincken den toren,</l>
+<l>Ende namen enen andren man.</l>
+</div>
+</body>
+</text>
+</TEI.2>

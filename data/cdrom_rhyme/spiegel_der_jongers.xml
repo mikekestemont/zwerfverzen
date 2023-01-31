@@ -1,0 +1,688 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.transcr 'INCLUDE'> <!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'>]><TEI.2><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Spiegel der jongers</title>
+<author>Lambertus Goetman</author>
+</titleStmt>
+<editionStmt>
+<edition>C.P. Serrure (ed.): De spiegel der jongers door Lambertus Goetman, 1488. Gent, 1860.</edition>
+</editionStmt>
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<listBibl id="inlMetadata">
+<bibl><interpGrp type="titleLevel1">
+<interp value="Spiegel der jongers"/>
+</interpGrp><interpGrp type="medium">
+<interp value="book"/>
+</interpGrp><interpGrp type="authorLevel1">
+<interp value="Lambertus Goetman"/>
+</interpGrp>
+<interpGrp type="ipr">
+<interp value="online"/>
+</interpGrp><interpGrp type="corpusProvenance">
+<interp value="cdrom-mnl"/>
+</interpGrp>
+<interpGrp type="pubYear_from"><interp value="1510"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1510"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1520"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1520"/></interpGrp>
+</bibl>
+</listBibl>
+<bibl id="original-metadata-cdrom-version"><![CDATA[
+<TITEL>Spiegel der jongers</TITEL>
+<TITEL>Der kinderen spieghel</TITEL>
+<author>Lambertus Goetman</author>
+<AARD>Rijm</AARD>
+<BRON nr="D171">Gent, olim coll.-C.P. Serrure, s.o.</BRON>
+<DATUM>1510-1520 (?)</DATUM>
+<OMVANG>496 verzen</OMVANG>
+<BRON.OPM>Druk in 8&#x00BA;, oorspronkelijk 14 bladen, 20 regels per bladzijde. Gedrukt in Antwerpen bij Willem Vorsterman ca. 1510 (?); de tekst zelf dateert blijkens het colophon uit 1488. Het voor de editie gebruikte exemplaar is niet volledig: het eerste blad (A1) ontbreekt.</BRON.OPM>
+<EDITIE>C.P. Serrure (ed.): De spiegel der jongers door Lambertus Goetman, 1488. Gent, 1860.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1211 </BRONMNW>
+<EDITIE.OPM>De schuine streep in de editie (/) werd steeds door een komma vervangen.</EDITIE.OPM>
+<BRONNEN>Gent, olim coll.-C.P. Serrure, s.o.</BRONNEN>
+]]></bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body><lg><l><pb n="1"/>                O hemelsche coninck, God almachtich,</l>
+<l>Vader, Sone, Heylighe Gheest,</l>
+<l>Drie personen een God warachtich,</l>
+<l>Verleent ons gracie ende wijsheyt meest</l>
+</lg>
+<lg><l n="5">                Hier so te leuen onbeureest,</l>
+<l>Dat wi moghen, sonder sneuen,</l>
+<l>Metten enghelen houden feest,</l>
+<l>Hier bouen int eewich leuen!</l>
+</lg>
+<lg><l>                Een materie heb ick ghegheuen</l>
+<l n="10">Voor ionghe kinderen sonderlinghe,</l>
+<l>Ende wten latijn in duytsche bescreuen,</l>
+<l>God gheue dat icse mach volbringhen!</l>
+</lg>
+<lg><l><pb n="2"/>                Men sal die kinder tot duechde<hi rend="italic">n</hi> dwinghen</l>
+<l>Wanneer si comen ten verstande;</l>
+<l n="15">Alst wisken groen is so salme<hi rend="italic">n</hi>t wringhen,</l>
+<l>Tis quaet oude honde<hi rend="italic">n</hi> lere<hi rend="italic">n</hi> gaen in banden.</l>
+</lg>
+<lg><l>                Niet willen leeren is een schande,</l>
+<l>Consten te connen is groot eere,</l>
+<l>Al sijn die consten menigherhande,</l>
+<l n="20">Wie consten can, hi is een heere.</l>
+</lg>
+<lg><l>                Hier omme heb ick ghearbeyt seere</l>
+<l>Nacht ende dach, vroech ende spade,</l>
+<l>Om te vinden een goede leere,</l>
+<l>Nae tbeuelen der wijsen rade.</l>
+</lg>
+<lg><l n="25">                Dus hebbe ick bider Gods ghenaden</l>
+<l>Een goede materie te samen gheraemt,</l>
+<l>Ende tgoede ghescheyden wten quaden;</l>
+<l>Diet wel onthout blijft ongheblaemt.</l>
+</lg>
+<lg><l>                "Der kinderen spieghel" ben ick ghenaemt.</l>
+<l n="30">Die wil comen tot staet ende eeren,</l>
+<l>Die moet sijn leuen, eer dat betaemt,</l>
+<l>Tot wijsheyt ende tot duechden keeren.</l>
+</lg>
+<lg><l>                So wie dat onthout mijn leeren,</l>
+<l>Hi sal regneren, sijt des becant.</l>
+<l n="35">Scriftuere die seyt: Si bliuen heeren,</l>
+<l>Wie reden ghebruyct beyde ende verstant.</l>
+</lg>
+<lg><l><pb n="3"/>                Nu wil ick beghinnen, al te hant,</l>
+<l>Den kinderen te leeren een nyeuwe dicht;</l>
+<l>Ick hope sy werden in duechden gheplant,</l>
+<l n="40">Wie hem met sinnen daer nae richt.</l>
+</lg>
+<lg><l>                Tis noch beter tseyl gheswicht</l>
+<l>Dan te leuen in ouermoet;</l>
+<l>Op aerde en is gheen dinck so licht</l>
+<l>Ten valt hem swaer diet node doet.</l>
+</lg>
+<lg><l n="45">                Veel dinghen hebben crancken spoet</l>
+<l>Mits traecheit, diet wel versint,</l>
+<l>Mer winninghe maect den arbeyt soet</l>
+<l>Ende maect den vroeden dicwil blint.</l>
+</lg>
+<lg><l>                Die menighe is gaerne daer omtrent</l>
+<l n="50">Daervan ontfanghen is den raet,</l>
+<l>Mer wie dat goet of gauen mint,</l>
+<l>Hi en vraghet niet hoet den armen gaet.</l>
+</lg>
+<lg><l>                Inwendighe nijt ende eyghen baet</l>
+<l>Die hebben Roome ghedestrueert,</l>
+<l n="55">Ende ionghen raet, dese drie, verstaet,</l>
+<l>Hebben dicwil trecht verkeert.</l>
+</lg>
+<lg><l>                Hi is ter werelt nu gheeert</l>
+<l>Die loose vonden vinden can;</l>
+<l>Sulcke consten men nu studeert,</l>
+<l n="60">Ick wijse tvonnisse, wijst mi den man.</l>
+</lg>
+<lg><l><pb n="4"/>                Waer blijft die arme mensche dan</l>
+<l>Als hi voort recht sal doen sijn woort?</l>
+<l>Den rijcken helptmen haest daer van,</l>
+<l>Die arme wort dan cleyn ghehoort.</l>
+</lg>
+<lg><l n="65">                Metten ouden hout altijt accort,</l>
+<l>Die God ontsien waer hi verkeert,</l>
+<l>So segghen die lieden van v rechteuoort:</l>
+<l>"Die ionghe is wijs ende wel gheleert."</l>
+</lg>
+<lg><l>                Der kinder sinnen, diet wel grondeert,</l>
+<l n="70">Sijn onbelast van eenighen bedriue,</l>
+<l>Ghelijck een tafel reyn gheplaneert,</l>
+<l>Daermen goet oft quaet in mach scriuen.</l>
+</lg>
+<lg><l>                En hebt geen spraeck met lichte wijuen,</l>
+<l>Si breyden haer net, ghi wert bespiet,</l>
+<l n="75">Wacht v daer voor bi uwen lijue,</l>
+<l>Al spreken si schoon, si en meynens niet.</l>
+</lg>
+<lg><l>                Tot gheenen tijden, wat v gheschiet,</l>
+<l>En wilt v eere niet ouer gheuen;</l>
+<l>Al hebdi lijden of verdriet,</l>
+<l n="80">Wilt altijt op hope leuen.</l>
+</lg>
+<lg><l>                Wi vinden inden latijn bescreuen,</l>
+<l>Dat hope is dat beste goet,</l>
+<l>Si can den menschen vroechde gheuen</l>
+<l>Ende tot allen dinghen goeden spoet.</l>
+</lg>
+<lg><l n="85"><pb n="5"/>                 Hout v tonghe in v behoet,</l>
+<l>Ende draecht op niemant nijt oft haet,</l>
+<l>Sijt altijt huesch, thoont blijden moet</l>
+<l>Wanneer ghi achter straten gaet.</l>
+</lg>
+<lg><l>                Eert elcken na sinen staet,</l>
+<l n="90">Ende en weest niet stom ghelijc de dieren;</l>
+<l>Sijt rijp van wesen, hebt goet ghelaet,</l>
+<l>En brenct niet voort gheen nieu manieren.</l>
+</lg>
+<lg><l>                Sijt rechtuaerdich int hantieren,</l>
+<l>Met Gode ende eeren wilt v gheneren;</l>
+<l n="95">Leert wijsheyt pleghen aen die mieren,</l>
+<l>Die tsomers soecke<hi rend="italic">n</hi> dat si swinters v<hi rend="italic">er</hi>teren.</l>
+</lg>
+<lg><l>                En wilt niet volghen al v begheren,</l>
+<l>Mer v besnijden in allen dinghen;</l>
+<l>Noch tege<hi rend="italic">n</hi> de waerheyt en wilt niet sweren,</l>
+<l n="100">Ghi sout v siele in laste brenghen.</l>
+</lg>
+<lg><l>                Gheen loghentael en suldy menghen</l>
+<l>In woorden, die ghi doet vermaen;</l>
+<l>En wilt niemant tot boosheyt dringhen,</l>
+<l>So suldi goeden loon ontfaen.</l>
+</lg>
+<lg><l n="105">                Die metten swaerde gaerne slaen,</l>
+<l>Metten swaerde wert hi verslaghen;</l>
+<l>Die niet en wil in tijts afstaen,</l>
+<l>Die noot sal hem doen verdraghen.</l>
+</lg>
+<lg><l><pb n="6"/>                Alsmen hem sal gaen beclaghen</l>
+<l n="110">Ende spreken met recht voor sine misdaet,</l>
+<l>Dan sijn in laste vrienden ende maghen,</l>
+<l>Sijns selfs en weet hi gheenen raet.</l>
+</lg>
+<lg><l>                Dan is te claghen veel te laet</l>
+<l>Als die dinghen sijn gheschiet;</l>
+<l n="115">So wie hem wachten wil der daet,</l>
+<l>Die en sal niet comen in dat verdriet.</l>
+</lg>
+<lg><l>                Als die mensche al ouersiet</l>
+<l>Ende merct dat hi steruen moet,</l>
+<l>So en baet hem alle sijn hope niet,</l>
+<l n="120">Want dan en helpt ghelt noch goet.</l>
+</lg>
+<lg><l>                Die doot is rasscher dan een vloet,</l>
+<l>Want si wacht ons tot allen stonden;</l>
+<l>Weest op v hoede, sidi vroet,</l>
+<l>Eer v lichaem wert ontbonden.</l>
+</lg>
+<lg><l n="125">                Die Heylighe Kerck gheeft ons oorconde,</l>
+<l>Dat wi sullen leuen na haren rade,</l>
+<l>Als biecht te spreken en<hi rend="italic">de</hi> belijen de sonden,</l>
+<l>Dies niet en doet sijnre sielen schade.</l>
+</lg>
+<lg><l>                Doet penitencie eert wort te spade,</l>
+<l n="130">Den tijt is cort om hier te sine;</l>
+<l>Soect altijt aen God ghenade,</l>
+<l>So moechdi ontgaen die helsche pijne.</l>
+</lg>
+<lg><l><pb n="7"/>                En drinct niet droncken in bier oft wijne,</l>
+<l>In die taueerne, hier oft ghinder,</l>
+<l n="135">Het quetset seer die sinnen dijne,</l>
+<l>Ende ghi wert daer bi gheacht te minder.</l>
+</lg>
+<lg><l>                Droncken lieden ende ionghe kinder</l>
+<l>Maken dicwils openbaer</l>
+<l>Verholen dinghen, daer groten hinder</l>
+<l n="140">Den menighen is gheuolghet naer.</l>
+</lg>
+<lg><l>                Die selue plant heeft goede waer,</l>
+<l>Want selue hebben is goet cruyt,</l>
+<l>Hebdi selue en maect gheen maer,</l>
+<l>Ick meyn selue diemen in kisten sluyt.</l>
+</lg>
+<lg><l n="145">                Men acht hem voor een arm schofuyt</l>
+<l>Die ter werelt niet en heeft,</l>
+<l>Trout hi dan een arm bruyt,</l>
+<l>Hi is die armste die leeft.</l>
+</lg>
+<lg><l>                Men vinten selden die gaerne geeft,</l>
+<l n="150">Wie niet en heeft, hi is onwaert,</l>
+<l>Ende als hi dan van ouden beeft,</l>
+<l>Een yeghelic is van hem veruaert.</l>
+</lg>
+<lg><l>                Dan is dat woort te hooren hart,</l>
+<l>Alsmen seyt: "God help v, vrient!"</l>
+<l n="155">En hebdi te voren dan niet ghespaert,</l>
+<l>So werdi verschouen al omtrent.</l>
+</lg>
+<lg><l><pb n="8"/>                Wildi wesen wel ghemint</l>
+<l>Ende met uwen ghebueren niet kijuen,</l>
+<l>Wat ghi beghint te voren versint,</l>
+<l n="160">Wacht v te schelden met quaden wijuen,</l>
+</lg>
+<lg><l>                Ende niemant in quaetheyt stiuen,</l>
+<l>Noch valscheyt dencken in uwen moet;</l>
+<l>Hout Gods gheboden, wilter bi bliuen,</l>
+<l>So moechdi ontgaen der hellen gloet.</l>
+</lg>
+<lg><head type="strophe">                Die .x. gheboden. </head>
+<l n="165">                Dits deerste ghebot nae mijn beuroet:</l>
+<l>Mint God met herten bouen al,</l>
+<l>Ende anderen menschen also doet</l>
+<l>Als ghi wilt datmen v doen sal.</l>
+</lg>
+<lg><head type="strophe">                Dat .ij. ghebot. </head>
+<l>                Ghi en sult oock, groot noch smal,</l>
+<l n="170">Den naem Gods ydelijc noemen,</l>
+<l>Noch bi hem sweeren int ghetal,</l>
+<l>Oft ghi sout v siele verdoemen.</l>
+</lg>
+<lg><head type="strophe"><pb n="9"/>                 <hi rend="italic">Dat .iij. ghebot. </hi></head>
+<l>                God sal wesen v behoeder,</l>
+<l>Ist dat ghi viert die heylighe dagen;</l>
+<l n="175">En viert ghijse niet, ghi sijt tonuroeder,</l>
+<l>Want God sal v daer om plaghen.</l>
+</lg>
+<lg><head type="strophe">                Dat .iiij. ghebot. </head>
+<l>                Oock en suldi niet versoemen</l>
+<l>Altijt te eeren vader ende moeder;</l>
+<l>Sijt hem onderdanich, het sal v vromen,</l>
+<l n="180">Hout vrienschap met vader ende moeder.</l>
+</lg>
+<lg><head type="strophe">                Dat .v. ghebot. </head>
+<l>                En wilt, door niemants claghen,</l>
+<l>Een dootslagher sijn metten wercken</l>
+<l>Noch metter herten tot ghenen daghen,</l>
+<l>So sidi kinder der Heyligher Kercken.</l>
+</lg>
+<lg><head type="strophe">                Dat .vj. ghebot. </head>
+<l n="185">                Hi waer onuroet die v dat riet,</l>
+<l>Dat ghi sout yemant stelen tsine,</l>
+<l>Het is verboden, en doet des niet,</l>
+<l>Die leste noot is int schijne.</l>
+</lg>
+<lg><head type="strophe"><pb n="10"/>                 <hi rend="italic">Dat .vij. ghebot. </hi></head>
+<l>                Oncuysheyt en laet van v niet mercken</l>
+<l n="190">Bouen huwelic, wat v gheschiet,</l>
+<l>Want het leeren ons die clercken,</l>
+<l>Dattet God so selue ghebiet.</l>
+</lg>
+<lg><head type="strophe">                Dat .viij. ghebot. </head>
+<l>                Ghi en sult in gheenre noot</l>
+<l>Valscheyt tuyghen teghen recht,</l>
+<l n="195">Ghi brenct dijn siele in laste groot,</l>
+<l>Ende werdt daer om des viants knecht.</l>
+</lg>
+<lg><head type="strophe">                Dat .ix. ghebot. </head>
+<l>                Wildy schouwen die eewighe pijn,</l>
+<l>En begheert niemants beddeghenoot;</l>
+<l>Stelt daer van therte dijn,</l>
+<l n="200">Het is verboden, ick segt v bloot.</l>
+</lg>
+<lg><head type="strophe">                Dat .x. ghebot. </head>
+<l>                En sijt van v seluen niet so slecht,</l>
+<l>Dat ghi begheert eens anders goet,</l>
+<l>Oft ghi comt in des viants hecht,</l>
+<l>Beneden inder hellen gloet.</l>
+</lg>
+
+<lg><l n="205"><pb n="11"/>                 En wilt niet draghen hoghen moet</l>
+<l>Op schoonheyt, rijcheit oft stercheyt mede,</l>
+<l>Si zijn ghereyst, sijt des wel vroet,</l>
+<l>Die hier besaten borch ende stede.</l>
+</lg>
+<lg><l>                Wildy leuen in goeden vrede,</l>
+<l n="210">Maect uwen staet van cleynen bewinde;</l>
+<l>Si waren rijck in tijden voorleden</l>
+<l>Die nae quamen in grooter allinde.</l>
+</lg>
+<lg><l>                Van tghene dat ick meest besinde,</l>
+<l>Als ick ghelesen heb int latijn,</l>
+<l n="215">Dat is, dat ick gheen beter en vinde</l>
+<l>Dan wel te doen ende vrolijck te sijn.</l>
+</lg>
+<lg><l>                Sulck thoont van buyten blijde aenschijn,</l>
+<l>Int herte heeft hi swaer verdriet,</l>
+<l>Eens anders weluaren doet haer pijn</l>
+<l n="220">Al ist dat hem en costet niet;</l>
+</lg>
+<lg><l>                Alsulck gheselschap altijt vliet.</l>
+<l>Sijt altijt huesch in uwen mont;</l>
+<l>Wat ghi hoort of wat ghi siet,</l>
+<l>En doetet gheenen mensche condt.</l>
+</lg>
+<lg><l n="225">                Die sulcke is van woorden ront</l>
+<l>Als hi van ghenoechten hoort,</l>
+<l>Die sulck die heeft so valschen gront,</l>
+<l>Dat hijt vertelt in arghe voort.</l>
+</lg>
+<lg><l><pb n="12"/>                So wie van sinne dic wert verstoort,</l>
+<l n="230">Die en is niet waerdich dat hi regeert;</l>
+<l>Hi en is van sinnen niet wel ghestelt</l>
+<l>Die eenen anderen sijn nautste seyt.</l>
+</lg>
+<lg><l>                Die sijn boosheyt so cleyn weecht</l>
+<l>Die hi selue heeft ghedaen,</l>
+<l n="235">Ende dier op den ontschuldighen leyt,</l>
+<l>Die sal quaden loon ontfaen.</l>
+</lg>
+<lg><l>                Des morghens suldi vroech opstaen,</l>
+<l>Dat rijcke Gods suldy eerst soecken,</l>
+<l>Ende dan om uwen orbaer gaen,</l>
+<l n="240">So leeren ons die euangeliboecken.</l>
+</lg>
+<lg><l>                En wilt v niet te seer vercloecken</l>
+<l>Als v vyant wil crancken di;</l>
+<l>Hout he<hi rend="italic">m</hi> gheen stede, maer wijct in hoecke<hi rend="italic">n</hi>,</l>
+<l>Tis v te prijsen, onthout dat van mi.</l>
+</lg>
+<lg><l n="245">                Op uwen vrient en sijt niet te vri,</l>
+<l>Men kent ghenen vrient dan inder noot,</l>
+<l>Staet hi v dan met herten bi,</l>
+<l>So ist v, vrient, ick segt v bloot.</l>
+</lg>
+<lg><l>                Ten is gheen heer van macht so groot,</l>
+<l n="250">Die gheen vrienden van doen en heeft;</l>
+<l>Hi is veel ghecker dan een quekenhoot</l>
+<l>Die den eenen om den anderen gheeft.</l>
+</lg>
+<lg><l><pb n="13"/>                Al te haest is hi ghesneeft</l>
+<l>Die hem aen een riet wil houwen,</l>
+<l n="255">So vaert hi die op heren steeft,</l>
+<l>Men en salse niet te nauwe betrouwen.</l>
+</lg>
+<lg><l>                Die vrienschap begeert va<hi rend="italic">n</hi> scone vrouwen,</l>
+<l>Die lecker sijn ende seer vertaert,</l>
+<l>Wie gheven mach hi wort onthouwen,</l>
+<l n="260">Is hi ghebaert of onghebaert.</l>
+</lg>
+<lg><l>                Een luttel goets is haest gheschaert</l>
+<l>Die gaerne tot allen mercten gaet;</l>
+<l>Wie dat om den ouwer spaert,</l>
+<l>Mi dunct hi heeft der wijsen raet.</l>
+</lg>
+<lg><l n="265">                Die ouder en heeft gheen meerder smaet</l>
+<l>Dan Venus te begheeren bouen cracht,</l>
+<l>Want vanden vrouwen wort hi ghehaet</l>
+<l>Ende van oude matronen seer veracht;</l>
+</lg>
+<lg><l>                Si en hebben niet eens ghedacht</l>
+<l n="270">Minne te draghen op yemant el</l>
+<l>Dan op die ghene, die, dach ende nacht,</l>
+<l>Connen hantieren der minnen spel.</l>
+</lg>
+<lg><l>                Als ghi wort out, bedwinct v wel,</l>
+<l>Al heeft v een matroon verspiet,</l>
+<l n="275">Si heeft v lief, niet om v vel,</l>
+<l>Mer om v ghelt, ende anders niet.</l>
+</lg>
+<lg><l><pb n="14"/>                Liefde te draghen en is gheen verdriet,</l>
+<l>Een wijf te nemen is goet spel,</l>
+<l>Ende trouter gheen, wat v gheschiet,</l>
+<l n="280">Ghi en kentse te voren wel.</l>
+</lg>
+<lg><l>                Uwen vrient te manen en sijt niet fel,</l>
+<l>Die v te dienste heeft ghestaen;</l>
+<l>Sidy hem schuldich, betaelt hem snel,</l>
+<l>So suldy prijs ende danck ontfaen.</l>
+</lg>
+<lg><l n="285">                Heeft v vrient v yet misdaen,</l>
+<l>En wilt dat metten swaerde niet wreken;</l>
+<l>Gheeft hem goede woorden en<hi rend="italic">de</hi> laten gaen,</l>
+<l>Men sals v groote eere spreken.</l>
+</lg>
+<lg><l>                Hout v altoos so ondersteken</l>
+<l n="290">Dan dat v is met Gode ghebleuen,</l>
+<l>So en mach v naemaels niet ghebreken,</l>
+<l>Wildi daer af subtijlick leuen</l>
+</lg>
+<lg><l>                Catho heeft ons beschreuen,</l>
+<l>Dat hi is dom ende seer onuroet</l>
+<l n="295">Die so veel heeft wech ghegheuen,</l>
+<l>Dat hi namaels bidden moet.</l>
+</lg>
+<lg><l>                Ghi en sult niemant sijn te goet</l>
+<l>Reden te gheuen van datmen v vraecht;</l>
+<l>Sijt milt va<hi rend="italic">n</hi> woorde<hi rend="italic">n</hi> en<hi rend="italic">de</hi> gheeft antwoort soet,</l>
+<l n="300">So hebdi prijs ende danck beiaecht.</l>
+</lg>
+<lg><l><pb n="15"/>                So wie hem voor die doot versaecht,</l>
+<l>Hem en baet sijn leuen niet;</l>
+<l>Ten baet gheen kermen noch gheclaecht,</l>
+<l>Die doot die heeft ons al verspiet.</l>
+</lg>
+<lg><l n="305">                En wilt niet claghen v verdriet</l>
+<l>Dan trouwe vrienden, diet met v draghen;</l>
+<l>Ghi mocht den sulcken claghen v ghesciet,</l>
+<l>Diet gaerne soude horen ghewaghen.</l>
+</lg>
+<lg><l>                Sijt altijt trouwe in uwen daghen,</l>
+<l n="310">Laet v woort v seghel sijn;</l>
+<l>Set gheen betrouwe<hi rend="italic">n</hi> op vrient of magen,</l>
+<l>Siet selue toe, die baet is dijn.</l>
+</lg>
+<lg><l>                Trou te soecken en is gheen pijn,</l>
+<l>Gheen trou te vinden is groot verdriet;</l>
+<l n="315">Trou is verdreuen wt haer termijn,</l>
+<l>Trou is verloren, ghi soect om niet.</l>
+</lg>
+<lg><l>                Hebdi te doen met yemant yet,</l>
+<l>Aenmerct dat eynde hoet mach vergaen;</l>
+<l>Twesen der menschen eerst aensiet,</l>
+<l n="320">So en wordi bedroghen niet saen.</l>
+</lg>
+<lg><l>                Lortsers, flotsers, die zijn op die baen,</l>
+<l>Lieghers, bedrieghers, die houden tlant;</l>
+<l>Den onnoselen te bedrieghe<hi rend="italic">n</hi> ist he<hi rend="italic">m</hi> gedaen,</l>
+<l>Wacht v te comen aen haren cant.</l>
+</lg>
+<lg><l n="325"><pb n="16"/>                 Si sijn te hants so vast gheplant,</l>
+<l>Dat sijt belortsen in allen siden,</l>
+<l>So wat si crighen metter hant</l>
+<l>Ten mach hem ontsitten noch ontrijden.</l>
+</lg>
+<lg><l>                Metten blijden wilt v verblijden</l>
+<l n="330">Ende metten droeuen sijt droeuich mede;</l>
+<l>Quaet gheselschap wilt altijt mijden,</l>
+<l>En brenct niet voort eenighe seden.</l>
+</lg>
+<lg><l>                Als ghi te gaste sijt ghebeden,</l>
+<l>Daer goet gheselschap is versaemt,</l>
+<l n="335">En wilt niet kiesen die hoochste stede,</l>
+<l>Ghi mocht daer worden in beschaemt.</l>
+</lg>
+<lg><l>                Die weert mocht segghen ongheblaemt:</l>
+<l>"Staet op, ghi moecht v van hier saten,</l>
+<l>Hier moet een sitten diet bat betaemt!"</l>
+<l n="340">Dan moet ghi die stede met scande laten.</l>
+</lg>
+<lg><l>                Spijs ende dranck die neemt bi maten,</l>
+<l>Diemen v ter tafelen brenct;</l>
+<l>En wilt niet slocken ghelijck den vraten,</l>
+<l>Si eten dat hem den buyck ontsinct.</l>
+</lg>
+<lg><l n="345">                Eer ghi eet of eer ghi drinct,</l>
+<l>Ende tbroot op die tafel is gheleyt,</l>
+<l>Die spijse te ghebenedijen eerst bedinct</l>
+<l>Ende oock dat die gracie wort gheseyt.</l>
+</lg>
+<lg><l><pb n="17"/>                Valt daer twist, spreect int bescheyt,</l>
+<l n="350">Ende selue en maect gheen discoort;</l>
+<l>Ende neemt den dranc niet so planteyt,</l>
+<l>Dat ghi wort droncken of versmoort.</l>
+</lg>
+<lg><l>                Ouer tafel en brenct niet voort</l>
+<l>Langhe prologhen, het waer v schande;</l>
+<l n="355">En wilt niet spreken een dorper woort,</l>
+<l>Noch niet veel koteren aen v tanden.</l>
+</lg>
+<lg><l>                Al brenctmen gherechten menigerhande,</l>
+<l>En wilt die spijse niet eerst aentasten;</l>
+<l>Na costumen vanden lande</l>
+<l n="360">Betaemt den weert, ende niet den gasten;</l>
+</lg>
+<lg><l>                Ghi en sult niemant te seer verlasten</l>
+<l>Met toe te drincken bier oft wijn;</l>
+<l>Die sober sijn ende dicwil vasten</l>
+<l>Sietmen selden droncken sijn.</l>
+</lg>
+<lg><l n="365">                Die sulcke heeft dicwils pijn</l>
+<l>Van spijse of drancke te sijn versaet,</l>
+<l>Daer teghen en is gheen medecijn</l>
+<l>Dan soberheyt, na Senecas raet.</l>
+</lg>
+<lg><l>                So wie v seyt dat v mistaet,</l>
+<l n="370">Nemet in dancke, het is v vrient;</l>
+<l>En brenct niet voort een anders quaet,</l>
+<l>Sijt altijt hoesch ende siende blint.</l>
+</lg>
+<lg><l>   <pb n="18"/>                 Laet alle dinck also ghijt vint,</l>
+<l>Ghi wort ghemint, sijt des wel vroet,</l>
+<l n="375">So wie hem alle dinck onderwint</l>
+<l>Int eynde doet hem selden goet.</l>
+</lg>
+<lg><l>                Gaet gaerne ter kercken, wat ghi doet,</l>
+<l>Hebt God ende Maria wtuercoren;</l>
+<l>Hoort gaerne misse met groot ootmoet,</l>
+<l n="380">God en laet v niet verloren.</l>
+</lg>
+<lg><l>                Wildi deuotelijck misse hooren,</l>
+<l>Tyttelijcke sorghe wilt van v stellen,</l>
+<l>Ende valt op v knien te voren,</l>
+<l>Of staet al stille sonder yemant te quellen.</l>
+</lg>
+<lg><l n="385">                Totter kercken suldi v snellen</l>
+<l>Ende heymelic v ghebede stichten;</l>
+<l>Als ghi hoort tgheclanck der bellen,</l>
+<l>Om Gode te sien suldi v rechten.</l>
+</lg>
+<lg><l>                U ooghen suldi altijt swechten</l>
+<l n="390">Ende op niemant meecke slaen;</l>
+<l>Wat ander doen wilt niet berechten,</l>
+<l>Nuchteren suldi ter kercken gaen.</l>
+</lg>
+<lg><l>                Seuen voeten so suldi staen</l>
+<l>Vanden outaer, so ghi mocht ramen;</l>
+<l n="395">Sonder Gode te louen sceyt niet van daen</l>
+<l>Ghi en hebt die benedixie tsamen.</l>
+</lg>
+<lg><l><pb n="19"/>                Dan suldi tot steden, die v betamen,</l>
+<l>Om te winnen v daghelijcx broot,</l>
+<l>Haestelijck gaen in Gods namen;</l>
+<l n="400">God sal v helpen wter noot.</l>
+</lg>
+<lg><l>                Nu hoort een weynich na mijn woort:</l>
+<l>Sinte Augustijn doet ons vermaen,</l>
+<l>So wie deuotelijck misse hoort,</l>
+<l>Seuen duechden sal hi ontfaen.</l>
+</lg>
+<lg><l n="405">                Die eerste duecht, na mijn verstaen,</l>
+<l>Verleent hem God tot sijnre baten,</l>
+<l>Sijn daghelijcx broot sal hi ontfaen,</l>
+<l>Waer hi van leuen mach bi maten.</l>
+</lg>
+<lg><l>                Dander duecht, als ghi moecht vaten,</l>
+<l n="410">Daghelicsche sonden, verstaet wel mi,</l>
+<l>Ende ydele glorie werden hem verlaten</l>
+<l>Hoort die misse, dat segghe ick di.</l>
+</lg>
+<lg><l>                Ten derden mael so sal hi</l>
+<l>Quijtschellinghe crighen rechteuoort,</l>
+<l n="415">Van uergheten sonden wesen vry,</l>
+<l>Hoort hi misse onghestoort.</l>
+</lg>
+<lg><l>                Die vierde duecht, die ghi nu hoort,</l>
+<l>Dat die mensche niet en mach</l>
+<l>Sijn siele verliesen, verstaet dat woort,</l>
+<l n="420">Hoort hi misse op dien dach.</l>
+</lg>
+<lg><l><pb n="20"/>                Die vijfste duecht, die ic versach,</l>
+<l>Misse te horen, mach hi verweruen,</l>
+<l>Al waer hi noch so quaden ghewach,</l>
+<l>Hi en sal niet onuersienlijck steruen.</l>
+</lg>
+<lg><l n="425">                Die seste is van sulcken bederuen,</l>
+<l>Dat hi gheestelijck mach ontfaen</l>
+<l>Gods lichaem, ende daer toe eruen</l>
+<l>Dat rijcke Gods, na mijn verstaen.</l>
+</lg>
+<lg><l>                Die seuende is, nae mijn vermaen,</l>
+<l n="430">Van sulcker macht ende ghewelt,</l>
+<l>Dat alle die stappen, die si gaen,</l>
+<l>Vanden enghelen worden ghetelt.</l>
+</lg>
+<lg><l>                Wie misse hoort, hi wort ghestelt</l>
+<l>Tot allen duechden, ende wel ghefondeert</l>
+<l n="435">Die seuen vruchten voor vertelt</l>
+<l>Van Gode te crighen, nae sijn begheert.</l>
+</lg>
+<lg><l>                "Die metten goeden conuerseert,</l>
+<l>Hi wort beter, ic segt v claer;</l>
+<l>Metten quaden wort hi verkeert,"</l>
+<l n="440">So spreect Dauid openbaer.</l>
+</lg>
+<lg><l>                So wie wil leuen sonder vaer,</l>
+<l>Die leyde sijn leuen recht voort,</l>
+<l>Dat van hem gheen quade nieumaer</l>
+<l>Onder den lieden en wort ghehoort.</l>
+</lg>
+<lg><l n="445"><pb n="21"/>                 Die van sinnen dicwil wert verstoort,</l>
+<l>Het cort hem sijn leuen seluen seere;</l>
+<l>Hi is gheck ende wel verdoort,</l>
+<l>Die voor een ander set goet ende eere.</l>
+</lg>
+<lg><l>                Die Heylighe Scrift gheeft ons leere:</l>
+<l n="450">So wie tot sonden gheuet raet,</l>
+<l>Die valt in pijnen, min noch meer,</l>
+<l>Als die ghene die doet dat quaet.</l>
+</lg>
+<lg><l>                Si en sijn allen niet sculdich der daet,</l>
+<l>Die valscheyt van een ander spreken;</l>
+<l n="455">Merct oock die metten oren vaet,</l>
+<l>Ghelijcke swaer wilt God dat wreken.</l>
+</lg>
+<lg><l>                Het waer veel nutter tseyl ghestreken</l>
+<l>Dan te wesen in anxte groot;</l>
+<l>Tis beter met scande gheweken</l>
+<l n="460">Dan met eeren te blijuen doot.</l>
+</lg>
+<lg><l>                Pijnt v altijt te winnen v broot</l>
+<l>Die wijle ghi vroom zijt ende ghesont;</l>
+<l>Die tijt mach comen het wert v noot</l>
+<l>Als ghi niet meer winnen en cont.</l>
+</lg>
+<lg><l n="465">                Die wil volghen sinen mont</l>
+<l>Ende hem ter leckernien stelt,</l>
+<l>Hy wort gheseylt haest inden gront,</l>
+<l>Armoede wort hem int eynde ghespelt.</l>
+</lg>
+<lg><l><pb n="22"/>                So wie hier zijn lichaem quelt</l>
+<l n="470">Met spijse of dranck bouen maten,</l>
+<l>Die doot die volcht hem met ghewelt,</l>
+<l>Gheen medecijn en mach hem baten.</l>
+</lg>
+<lg><l>                Eylaes! dan moetet sijn ghelaten,</l>
+<l>Wanneer dat comt die leste noot,</l>
+<l n="475">Dat voor was soet als honichraten,</l>
+<l>Dat wort dan bitter, ick segt v bloot.</l>
+</lg>
+<lg><l>                Ick bid v, kinder, door die doot,</l>
+<l>Die Christus stierf aent cruyce machtich,</l>
+<l>Onthout dese leere, cleen ende groot,</l>
+<l n="480">Spieghelt v hier in met sinnen bedachtich.</l>
+</lg>
+<lg><l>                Ende aenroept altijt God almachtich,</l>
+<l>Dat hi verlicht uwen gheest,</l>
+<l>Dat ghi moecht comen in trijc warachtich,</l>
+<l>Daer blijschap sal wesen aldermeest.</l>
+</lg>
+<lg><l n="485">                Ende dat besitten onbeureest</l>
+<l>Van eewen tot eewen, sonder begheuen,</l>
+<l>Ende metten enghelen houden feest,</l>
+<l>Hier bouen int eewighe leuen.</l>
+</lg>
+
+<lg><l>                   Die dese materie heeft bescreuen</l>
+<l n="490">Ende in rijmen heeft versaemt,</l>
+<l>Voor Gode moet hi zijn verheuen,</l>
+<l>Lambertus Goetman is hi ghenaemt.</l>
+</lg>
+<lg><l><pb n="23"/>                Int selue iaer hier nae gheraemt,</l>
+<l>Duysent .CCCC. tachtentich ende acht,</l>
+<l n="495">Wort dit boeck, so dat betaemt,</l>
+<l>Den derden dach in Meerte volbracht.</l>
+</lg>
+</body>
+        <back><div><p>Gheprint Thantwerpen buyten dye Camerpoorte inden gulden Eenhoren by my Willem Vorsterman.</p></div></back>
+
+</text>
+</TEI.2>

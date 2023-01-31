@@ -1,0 +1,393 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.transcr 'INCLUDE'> <!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'>]><TEI.2><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Roelantslied</title>
+<author>Onbekend</author>
+</titleStmt>
+<editionStmt>
+<edition>H. van Dijk: Het Roelantslied. Studie over de Middelnederlandse vertaling van het Chanson de Roland, gevolgd door een diplomatische uitgave van de overgeleverde teksten. Utrecht, 1981. Diss. Utrecht, 318-332, 376-380, 384-392.</edition>
+</editionStmt>
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<listBibl id="inlMetadata">
+<bibl><interpGrp type="titleLevel1">
+<interp value="Roelantslied"/>
+</interpGrp><interpGrp type="medium">
+<interp value="book"/>
+</interpGrp><interpGrp type="authorLevel1">
+<interp value="Onbekend"/>
+</interpGrp>
+<interpGrp type="ipr">
+<interp value="online"/>
+</interpGrp><interpGrp type="corpusProvenance">
+<interp value="cdrom-mnl"/>
+</interpGrp>
+<interpGrp type="pubYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+</bibl>
+</listBibl>
+<bibl id="original-metadata-cdrom-version"><![CDATA[
+<TITEL>Roelantslied</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K108">'s-Gravenhage, Koninklijke Bibliotheek, 74 C 8 (fragm.)</BRON>
+<DATUM>1350-1400</DATUM>
+<OMVANG>332 verzen</OMVANG>
+<BRON.OPM>Twee bladen; per bladzijde 2 kolommen en per kolom 41-42 regels. De bladen zijn nauwelijks besnoeid, maar op de rectozijde ernstig beschadigd, terwijl in fol. 2 nog eens twee gaten zitten. Bij het inbinden zijn de recto- en versozijde van het tweede blad verwisseld.</BRON.OPM>
+<EDITIE>H. van Dijk: Het Roelantslied. Studie over de Middelnederlandse vertaling van het Chanson de Roland, gevolgd door een diplomatische uitgave van de overgeleverde teksten. Utrecht, 1981. Diss. Utrecht, 318-332, 376-380, 384-392.</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<BRONMNW>411.3.2 (andere editie)</BRONMNW>
+<BRONMNW>1117 (andere editie)</BRONMNW>
+<BRONMNW>1299.5 (andere editie)</BRONMNW>
+<EDITIE.OPM>Van Dijk geeft de tekst van alle bekende Middelnederlandse fragmenten van het Roelantslied &#x00E9;n de tekst van het volksboek (de Droefliken strijt van Roncevale; M&#x00FC;nchen, Universit&#x00E4;tsbibliothek, postincunabel 4&#x00BA; p germ. 165) in een zogenaamde synoptische editie. Behalve een versnummering per tekst heeft hij ook een doorlopende versnummering aangebracht; bovendien geeft hij de nummers van de corresponderende verzen uit het Chanson de Roland (editie Segre uit 1971). Hier werd alleen de nummering per tekst overgenomen; de teksten van het volksboek werden hier niet uit Van Dijks editie overgenomen (men zie daarvoor de Droefliken strijt van Roncevale).</EDITIE.OPM>
+<BRONNEN>Van het Roelantslied zijn vijf fragmenten bekend, die tot vijf verschillende handschriften hebben behoord: - <x nr=K108>'s-Gravenhage, Koninklijke Bibliotheek, 74 C 8 (fragm.)</x>
+ - <x nr=K109>Brussel, Koninklijke Bibliotheek, 21143 (fragm.)</x>
+ - <x nr=K110>Lille, Biblioth&#x00E8;que Municipale, z.s. (fragm.) [zoek]</x>
+ - <x nr=K111>Amsterdam, Universiteitsbibliotheek, I A 24<hi rend='sup'>l</hi> (fragm.)</x>
+ - <x nr=K112>Rotterdam, Gemeentebibliotheek, 96 B 6: 1 (fragm.)</x>
+ De editie van het fragment te Lille, dat reeds zoek was in 1855, gaat terug op een afschrift dat in 1835 werd gemaakt door Serrure.</BRONNEN>
+<HSDRUK>Droefliken strijt van Roncevale</HSDRUK>
+]]></bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body><l><pb n="318"/><milestone unit="fol" n="1ra"/> Dan lachter had vrancrike</l>
+<l>Oliuier sprac roelant</l>
+<l>Woudi blazen den olifan[t]</l>
+<l>[D]at soudic gherne sien</l>
+<l n="5">Mochtic v bringen indien</l>
+<l>Trouwen seitti neen ghi niet</l>
+<l>Dan wille god [n..] gescie[.]</l>
+<l>[D]at zoete vrancrike bi mi</l>
+<l>Sijn eere verliese hets so vri</l>
+<l n="10">Pensen wi om die ere</l>
+<l><pb n="320"/>Onsen loen duert emm[ermere]</l>
+<l><hi rend="bold">R</hi>Olant was des liues goet</l>
+<l>Oliuier geradich ende vroet</l>
+<l>Niemen en mochse vervaren</l>
+<l n="15">[A]lsi beide gewapent waren</l>
+<l>Doen sprac de coen oliuier</l>
+<l>Gheselle roelant nv mogdi hier</l>
+<l>Merken enen wijch gescien</l>
+<l>Si comen ende ende en willen niet [..]ien</l>
+<l n="20">Ende ghi en wer[...] rolant</l>
+<l>Te blasen den [.......]</l>
+<l>Quame ons te [........]</l>
+<l>Dat ware ons [..] scone [....]</l>
+<l>Siet alom ende nemt waere</l>
+<l n="25">Ende merct onse [.......]</l>
+<l>Ons menichte es clene</l>
+<l>Maer ic weet wel dat god allene</l>
+<l>Bat mach dan al haer heere</l>
+<l>Dat es ons een scoen weere</l>
+<l n="30">Wi selen ons vercopen die[..]</l>
+<l>Sprac oliuiere de fiere</l>
+<l>Dat men ons ghewage</l>
+<l>Van nv toten doemsdage</l>
+<l>Doen sprac de coene rolant</l>
+<l n="35">Oliuier hets so bewant</l>
+<l>God sal onser [........]</l>
+<l>Wi selen den strij[....]</l>
+<l>Plaetse ende wijch [stat]</l>
+<l>Die vlie heb gods had</l>
+<l n="40">Die fransoyse doe seiden</l>
+<l>Dat si opden heiden</l>
+<l>Lieuer [..ot souden] bliuen</l>
+<l><pb n="322"/><milestone unit="fol" n="1rb"/> Dan si hem lieten verdriuen</l>
+<l><hi rend="bold">R</hi>Oelant ende oliuier</l>
+<l n="45">Waren coene ende f[....]</l>
+<l>Ende begonden hem te scaren</l>
+<l>Ende die met hem waren</l>
+<l>Die bisscop tulpijn w[..] raet</l>
+<l>Het was recht sijn daet</l>
+<l n="50">Was goet ende godlijc</l>
+<l>Ende den vianden vruchtelijc</l>
+<l>Hi voer van scaren te scaren</l>
+<l>Ende woudese met gode bewaren</l>
+<l>Hi seide dus lieue gesellen</l>
+<l n="55">Hort waticv sal tellen</l>
+<l>Pensen wi om de eere</l>
+<l>Onsen loen duert emmermeere</l>
+<l>Ende vecht dore onsen here</l>
+<l>Hi dogede dore ons anxst groot</l>
+<l n="60">Ende vanden ioden slage groot</l>
+<l>Wij mogen blidelike steruen</l>
+<l>Ende hemelrike verweruen</l>
+<l>Biddet gode genade</l>
+<l>Datti v berade</l>
+<l n="65">Ten besten op desen dach</l>
+<l>Want hijt [wel] doen mach</l>
+<l>Die bisscop seinse algader</l>
+<l>Ende beualse den hemelsen vader</l>
+<l>Ic seggu waer af</l>
+<l n="70"><pb n="324"/> Hi hem [penetencie] gaf</l>
+<l>[Hi hiet hem dat si niet en vloen]</l>
+<l>[Want sijt node souden doen]</l>
+<l>[Hi hiet hem grote slaghe]</l>
+<l>[Slaen in dien daghe]</l>
+<l n="75">[Ander penetencie ..........]</l>
+<l>Dat seggic u ouer waer</l>
+<l><hi rend="bold">O</hi>liuier ende roelandt</l>
+<l>Hadden die ouerhant</l>
+<l>Ende trocken [..] met haren scaren</l>
+<l n="80">Als die onveruaert waren</l>
+<l>Rolans ors hiet valentijf</l>
+<l>En[.........] man no wijf</l>
+<l>Die beter ors ie sach</l>
+<l>Dant was op dien dach</l>
+<l n="85"><milestone unit="fol" n="1va"/> Die edel graue roelandt</l>
+<l>[Ha]dde een witte vane inde hant</l>
+<l>Die lanc was ende breet</l>
+<l>[Fie]rlijc hire met reet</l>
+<l>Oliuier reet openbare</l>
+<l n="90">Alre vorst inde scare</l>
+<l>Die fransois quamen achter</l>
+<l>Die herde node lachter</l>
+<l>Ouer hem souden laten gaen</l>
+<l>Sine soudent wederstaen</l>
+<l n="95">Roelant sprac doe</l>
+<l>Den fransoisen aldus toe</l>
+<l><pb n="326"/>Die heden niet ridder sal sijn</l>
+<l>Verliest de hulde mijn</l>
+<l>Ende den loen van onsen here</l>
+<l n="100">Elc pense omde ere</l>
+<l>Die hier sterft waerlike</l>
+<l>Hi vart in hemelrike</l>
+<l><hi rend="bold">A</hi>Ls dit roelant had geseit</l>
+<l>Quam .j. bode ouer gereit</l>
+<l n="105">Haestelike ende seide</l>
+<l>Dat si opder heiden</l>
+<l>Si xij. woude vechten</l>
+<l>Iegen .xij. karels knechten</l>
+<l>Ende hen niemen in weder side</l>
+<l n="110">Ende onder wonde vanden stride</l>
+<l>Doen sprac roelant waerlike</l>
+<l>Wi louent alle blidelike</l>
+<l>Rolant ende de sine</l>
+<l>Ghereiden hem iegen de pine</l>
+<l n="115">Een des sconinx neue quam thant</l>
+<l>Ende brocht .j. stoc inde hant</l>
+<l>Ten fransoysen hi seide</l>
+<l>Datti hem vele leide</l>
+<l>Beraden hadde diese daer liet</l>
+<l n="120"><pb n="328"/> Want hars lijfs ende waer niet</l>
+<l>Roland horde de tale</l>
+<l>Ende volgen also wale</l>
+<l>Ende stackem inden scilde</l>
+<l>Alsoe verre als [..] wilde</l>
+<l n="125">Ende werpen onwerde</l>
+<l>Doot vanden perde</l>
+<l><milestone unit="fol" n="1vb"/> Een wort en sprac hi nemmee</l>
+<l>Ende brac den hals ontwee</l>
+<l><hi rend="bold">D</hi>Oen seide de graue roland</l>
+<l n="130">Ouer inde duuel hant</l>
+<l>Ghi beloget minen here</l>
+<l>Ende seit hem lachter ende onneere</l>
+<l>Datti ons qualike</l>
+<l>Ghelaten hadde int rike</l>
+<l n="135">Edel fransoise seiti slaet</l>
+<l>Want ons te doene staet</l>
+<l>Het heuet emmer een becoch[t]</l>
+<l><pb n="330"/>Die ieghen gode heeft gewrocht</l>
+<l>Die hertoge franceroen</l>
+<l n="140">Hort watti sal doen</l>
+<l>Rouwe was in hem groot</l>
+<l>Dat sijn neve so was doot</l>
+<l>Hi verrechtem sciere</l>
+<l>Op den coenen oliuiere</l>
+<l n="145">Ende stac hem .j. gat wide</l>
+<l>Neuen den halsberch aen deen side</l>
+<l>Datter dore liep sijn spiet</l>
+<l>Nochtan en quetstine niet</l>
+<l>Oliuier riep sijn tekijn</l>
+<l n="150">Hi pensde het soude gewroken sijn</l>
+<l>Hi vermat hem waerlike</l>
+<l>Dat soete lant van vrancrike</l>
+<l>Sijn eere soude verliesen</l>
+<l>Ende si alle doot kiesen</l>
+<l n="155">Oliuier hads toren</l>
+<l>Ende rechtem op te uoren</l>
+<l>Hem gheviel auontuere</l>
+<l>Dat hine stac alduere</l>
+<l>Ende viel ter erden neder</l>
+<l n="160">Nemmer stontti op weder</l>
+<l>Doen sprac de coen oliuiere</l>
+<l>Wine vruchten niet v dreigen hiere</l>
+<l><hi rend="bold">C</hi>ursubles die coninc</l>
+<l>Dats waerlike dinc</l>
+<l n="165">Was van berberien geboren</l>
+<l>Hi dedem inden wijch voren</l>
+<l><pb n="332"/>Lude sprac hi ten sarrasinen</l>
+<l>Ghi heren met cleinder pinen</l>
+<l><pb n="376"/><milestone unit="fol" n="2ra"/> Selc mort was nie gewrocht</l>
+<l n="170">Noch ridder soe diere vercocht</l>
+<l>Soe lange si beide vochten</l>
+<l>Dat oliuier nemmere en mochte</l>
+<l>Doen sprac hi openbaerre</l>
+<l>Lieue gesel[le comt] haerre</l>
+<l n="175">Wi moeten met [rouwe] sceden</l>
+<l>Doen ontvielen [de tranen] hem beden</l>
+<l>Uten ogen haestelike</l>
+<l>Ende weende [bitterlike]</l>
+<l>Oliuier verseerde [...........]</l>
+<l n="180">Dbloet [...............]</l>
+<l><pb n="378"/>Ende viel in on[.............]</l>
+<l>Doen sprac [...............]</l>
+<l>Hulpt god [...............]</l>
+<l>Ic vruchte dat [.............]</l>
+<l n="185">Betic v[...............]</l>
+<l>Ic commer niet [.............]</l>
+<l>Ay lieue geselle [...........]</l>
+<l>Moeten wi nu [...............]</l>
+<l>Dat es mi de droefste [......]</l>
+<l n="190">Die ic [...............]</l>
+<l>Ay vran[...............]</l>
+<l>Hoe se[...............]</l>
+<l>Karel verliese [.............]</l>
+<l>Datti [...............]</l>
+<l n="195">Van de[...............]</l>
+<l>Viel hi [...............]</l>
+<l>Maer schiere hi beq[.........]</l>
+<l>Doen sach hi ende [..........]</l>
+<l>Oliuier ten [..........] gaen</l>
+<l n="200">Die va[.....] was opgestaen</l>
+<l>Hem w[..............]t daer</l>
+<l>Die ogen [.............] claer</l>
+<l>Nochtan dedi [......] genent</l>
+<l>Ende gh[inc vechten alblent]</l>
+<l n="205">Die edel graue rolant</l>
+<l>Volgede oliviere thant</l>
+<l>Ende nam sijns ware</l>
+<l>Inde [sarrasinen] scare</l>
+<l><pb n="380"/>Als oliuier [vernam]</l>
+<l n="210"><milestone unit="fol" n="2rb"/> Dat roelant bi hem quam</l>
+<l>Gaf hem [oliuier .j.] slach</l>
+<l>Dat hi en hoorde [........]</l>
+<l><hi rend="bold">D</hi>Oen sprac [den graue roelant]</l>
+<l>Tote oliuier [.........]t</l>
+<l n="215">Lieve ghesell[............]</l>
+<l>Soe hebdi ges[lag]en mi</l>
+<l>Lieue geselle [ne si v niet]</l>
+<l>Mi es leet [dat mi es gesciet]</l>
+<l>Vergheuet mi dor gods ere</l>
+<l n="220">Want het rouwet mi herde zere</l>
+<l>Doe sprac roelant oliuier</l>
+<l>Ic vergeeft v [gerne hier]</l>
+<l><pb n="384"/>[Oliuier neech hem dor dat]</l>
+<l>[Ende trac achter .j. luttel bat]</l>
+<l n="225">[Want hem porde die doot]</l>
+<l>[Die hem dede pine groot]</l>
+<l>[Hi viel neder op erde]</l>
+<l>[Ende bat gode werde]</l>
+<l>[Here vergeeft mijn] mesdaet</l>
+<l n="230">[Ende hebt mijnen] zielen raet</l>
+<l>[Wilt hare verlenen] hemelrike</l>
+<l>[Want ic v getrouwelike]</l>
+<l>Ghedient heb al mijn leuen</l>
+<l>Noyt en [woudic v] begeuen</l>
+<l n="235">Doen benedidi Karel den here</l>
+<l>Ende [dancte hem] alder ere</l>
+<l>Die hi ie [van] hem gewan</l>
+<l>Ende roelant [bouen] alle man</l>
+<l>Sijn handen h[i ten] hemel stac</l>
+<l n="240">Daer na hi nem[m]er en sprac</l>
+<l>[Dus bleef oliuier doot]</l>
+<l>Rolant hads [rouwe groot]</l>
+<l>Ende weende herde seere</l>
+<l>Ende bat onsen heere</l>
+<l n="245">Datti der zielen plege</l>
+<l>Ende te hemelrike gewege</l>
+<l>Van rouwe die [....] rolant</l>
+<l>Viel hi in on[.....] hant</l>
+<l><pb n="386"/>Als hi bequam [........] toren</l>
+<l n="250">Datti oliuier ha[.......]ren</l>
+<l><milestone unit="fol" n="2va"/> Sonder gautiere ende tulpijn van [.]iemen</l>
+<l>Doen sprac [gautier] sniemen</l>
+<l>A[ls] hi gevloen quam</l>
+<l>Ende hi [..............]nam</l>
+<l n="255">Nv bi [........] graue rolant</l>
+<l>Hets [............ bewant]</l>
+<l>Dorsteke[n] benic ende gewont</l>
+<l>Toter doot dat si v cont</l>
+<l>Grote mort es hier gewrocht</l>
+<l n="260">Dat hebben si diere becocht</l>
+<l>Doen dit sprac die wigant</l>
+<l>Verkinden de graue Roelant</l>
+<l>Gautier seiti sidi dat</l>
+<l>Ic heb v in menege stat</l>
+<l n="265">Herde manlike gesien</l>
+<l>Maer noit en woudi vlien</l>
+<l>Soe en haddic nv gedaen</l>
+<l>Ic wille bi v steruen saen</l>
+<l>Segt waer sijn ons gesellen</l>
+<l n="270">Condire ons iet af getellen</l>
+<l>Iayc si hebben ons begeuen</l>
+<l>Ende sijn allen doot bleuen</l>
+<l>Ghine sietse leuende nemmermere</l>
+<l>No den coninc onsen heere</l>
+<l n="275"><pb n="388"/> <hi rend="bold">D</hi>Oen hoorte dors rolant</l>
+<l>Ende riep monyoye thant</l>
+<l>In die porsse hi reet</l>
+<l>Na die viande hi smeet</l>
+<l>Sijn geselscap was niet groot</l>
+<l n="280">Daer hijt vant in groter noot</l>
+<l>Hem volgde tulpijn ende gautiere</l>
+<l>Die coene waren ende fier</l>
+<l>Doen versloecher roelant</l>
+<l>Wel .xx. metter hant</l>
+<l n="285">Gautier .vij. tulpijn viue</l>
+<l>Roefden siere vanden liue</l>
+<l>Doen seiden de sarrasine</l>
+<l>Dese doet [..........] scine</l>
+<l>Dat si ons [.........] maten</l>
+<l n="290">Nocht[...........] dleuen laten</l>
+<l>Rolant d[.........u]e fier</l>
+<l>Tulpijn ende gautier</l>
+<l>Bleuen tsamen op der heiden</l>
+<l>Dat si niet en wouden sceiden</l>
+<l n="295">Qualic dorsten hem genaken</l>
+<l>Die sarrasine in ware saken</l>
+<l>Met gauelaten ende met scichten</l>
+<l>Scoten si euen gedichten</l>
+<l>Gautier wert dorscoten daer</l>
+<l n="300">Dat seggic v ouer waer</l>
+<l>Tulpijns ors scotense doot</l>
+<l>Datti moest vallen inder noot</l>
+<l>Ende ghinc te voet slaen</l>
+<l>Dat seggic v sonder waen</l>
+<l n="305">Die bisscop tulpijn riep</l>
+<l>Daer hi te voet vechten liep</l>
+<l><pb n="390"/>Doen vinc roelant ten zwerde</l>
+<l>Ende ginc vechten herde</l>
+<l>Alsoe gewont alse hi was</l>
+<l n="310">Sloech hire .xxx. int gras</l>
+<l>Datti wert vermoyt zeere</l>
+<l>Datti qualike mocht meere</l>
+<l>Ende was droeue om sijn verlies</l>
+<l>Hem scorde de tempel doen hi blies</l>
+<l n="315">Hi sette den horen te monde</l>
+<l>Ende blies .j. lange stonde</l>
+<l>Dat hem dede onsochte</l>
+<l>Eer hi den luut volbrochte</l>
+<l>Karel horet daer hi was</l>
+<l n="320">Ende wert geware das</l>
+<l><hi rend="bold">D</hi>Oen sprac karel thant</l>
+<l>Noch horic roelant</l>
+<l>Sal ons gebreken saen</l>
+<l>Dat hebbic ant blasen verstaen</l>
+<l n="325">Dier willen sijn sal niet sparen</l>
+<l>Doen dedi blasen te waren</l>
+<l>Alt geblas datter was</l>
+<l>Rolant verblide das</l>
+<l>Dat es waerlike dinc</l>
+<l n="330">Dat hem soe na was die coninc</l>
+<l><pb n="392"/>Tgheluut was groot oueral</l>
+<l>Beide op berch ende in dal</l>
+</body>
+</text>
+</TEI.2>

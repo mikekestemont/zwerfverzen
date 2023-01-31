@@ -1,0 +1,3282 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.transcr 'INCLUDE'> <!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'>]><TEI.2><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Berlijnse liederenhandschrift</title>
+<author>Niet van toepassing</author>
+</titleStmt>
+<editionStmt>
+<edition>M. Lang (ed.): Zwischen Minnesang und Volkslied. Die Lieder der Berliner Handschrift Germ. Fol. 922. Die Weisen bearbeitet von M&#x00FC;ller-Blattau. Berlin, 1941. (Studien zur Volksliedforschung 1).</edition>
+</editionStmt>
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<listBibl id="inlMetadata">
+<bibl><interpGrp type="titleLevel1">
+<interp value="Berlijnse liederenhandschrift"/>
+</interpGrp><interpGrp type="medium">
+<interp value="book"/>
+</interpGrp><interpGrp type="authorLevel1">
+<interp value="Niet van toepassing"/>
+</interpGrp>
+<interpGrp type="ipr">
+<interp value="online"/>
+</interpGrp><interpGrp type="corpusProvenance">
+<interp value="cdrom-mnl"/>
+</interpGrp>
+<interpGrp type="pubYear_from"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1400"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1425"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1425"/></interpGrp>
+</bibl>
+</listBibl>
+<bibl id="original-metadata-cdrom-version"><![CDATA[
+<TITEL>Berlijnse liederenhandschrift</TITEL>
+<author>Niet van toepassing</author>
+<AARD>Rijm</AARD>
+<BRON nr="K197">Berlijn, Staatsbibliothek Preussischer Kulturbesitz, Germ. fol. 922</BRON>
+<DATUM>1400-1425</DATUM>
+<OMVANG>2504 verzen</OMVANG>
+<BRON.OPM>Een convoluut met in totaal 134 bladen. Het gedeelte met de liederen (fol. 50r-70v, 131r-134v) bevat per bladzijde 1 kolom van 30-37 regels. De codex, die ook bekend staat als het Berlijnse liederenhandschrift, telt in totaal 86 minneliederen, die mogelijk als dansliederen kunnen worden beschouwd (zie F. Willaert: 'Laatmiddeleeuwse danslyriek in een land zonder grens. Het Berlijnse liederenhandschrift mgf 922'. In: Helga Hipp (red.): Niederlandistik und Germanistik. Tangenten und Schnittpunkte. Festschrift f&#x00FC;r Gerhard Worgt zum 65. Geburtstag. Frankfurt am Main [etc.], 1992, 157-168.). De liederen zijn gesteld in een Nederlands-Duitse mengtaal en kunnen volgens Lang (1941), 78, in vier groepen worden onderverdeeld: groep 1: lied I-XXVI (fol. 50r-57v); groep II: lied XXVII-XXX (fol. 58r-58v); groep III: lied XXXI-LXXI (fol. 59r-70v); groep IV lied LXXII-LXXXVI (fol. 131r-134v). Van 12 liederen uit de laatste groep (nrs. LXXII-LXXVIII en LXXXIILXXXVI) is ook de muziek overgeleverd, in dezelfde tekstloze streepjesnotatie die o.m. ook in het Gruuthuse-handschrift voorkomt. Tot de andere teksten in de codex behoren 18, hoofdzakelijk Middelnederlandse, Neder- en Middenrijnse minnereden en de Middelnederlandse ridderroman Segheliin van Jerusalem (fol. 71ra-122vb).</BRON.OPM>
+<EDITIE>M. Lang (ed.): Zwischen Minnesang und Volkslied. Die Lieder der Berliner Handschrift Germ. Fol. 922. Die Weisen bearbeitet von M&#x00FC;ller-Blattau. Berlin, 1941. (Studien zur Volksliedforschung 1).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1447 </BRONMNW>
+<EDITIE.OPM>Van de 86 liederen bezitten er 45 een refrein. Net als in de editie worden de refreinen hier voorafgegaan door een asterisk. Ook het gebruik van haakjes in de tekst is conform de editie: rechthoekige haakjes voor aanvullingen door de editeur en woorden (of delen daarvan) die verloren zijn gegaan; ronde haakjes voor woorden in het handschrift die niet gelezen moeten worden. Op twee plaatsen zijn er wat de haakjes betreft wijzigingen aangebracht: de ronde haakjes in vs. 360 en 504 zijn hier vervangen door rechthoekige. Op zes plaatsen in de editie is met behulp van een schuine streep ("/") aangegeven dat twee aaneengeschreven woorden los van elkaar gelezen moeten worden; dit scheidingstekens is hier niet overgenomen en bovendien zijn de betreffende woorden van elkaar gescheiden met een spatie. Verder ontbreken ook de muzieknotatie en het apparaat met de aantekeningen en opmerkingen.</EDITIE.OPM>
+<BRONNEN>Berlijn, Staatsbibliothek Preussischer Kulturbesitz, Germ. fol. 922</BRONNEN>
+]]></bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<group><text>
+<body><head type="comment">I.</head>
+<lg><l><pb n="1"/><milestone unit="fol" n="50r"/> Hoert iaerlijc mere</l>
+<l>vrische nimere</l>
+<l>van des meyen heere,</l>
+<l>wie das here</l>
+<l n="5">tringhez warlich offenbaer.</l>
+<l>Des winters velde</l>
+<l>huer was uph den velde,</l>
+<l>menigher leyden welde.</l>
+<l>Ziin ghewelde,</l>
+<l n="10">das ist nu van henen gaer.</l>
+<l>Das ziint magheden onde vrouwen,</l>
+<l>[...............]</l>
+<l>wal ghestalt der lichter heyden.</l>
+<l>Cristen onde heyden</l>
+<l n="15">vrowen zijc gaer beyden.</l>
+<l>Wal hem beyden,</l>
+<l>die mir lever in rijcher waer.</l>
+</lg>
+<lg><l>God der ghewaldes</l>
+<l>loves onde waldes,</l>
+<l n="20">cleyne ruechte aldes,</l>
+<l>wan ich aldes</l>
+<l>denche, wes mir nu ansteyt,</l>
+<l>cen creature</l>
+<l>prisit rechte dure.</l>
+<l n="25">Trout zelich wijf ghehure,</l>
+<l>vorbas hure</l>
+<l>hayn ich vyl an dyr gheleyt.</l>
+<l>Hertz onde zin</l>
+<l>mir tso dyr ghewendet ziin.</l>
+<l n="30">Lijf onde have,</l>
+<l>wes ich beydes have,</l>
+<l>daer van lies ich ave,</l>
+<l>scuene, ave</l>
+<l>mir diin hulde weer voorseyt.</l>
+</lg>
+<lg><l n="35">Werlich, der aerden</l>
+<l>reyne wijf oph eerden</l>
+<l>god nie lies ghewerden,</l>
+<l>alzo werden</l>
+<l>zalden zam yr scone lijf.</l>
+<l n="40">Wijf, wes verzonnen.</l>
+<l>Scijn ghelijch der zonnen</l>
+<l>hayt diin bilde erwonnen.</l>
+<l>Zuwe wonnen</l>
+<l>heyset mannes leyt verdrijf.</l>
+<l n="45">In  miner noet,</l>
+<l>scuene feye, ich dyr ghenoet.</l>
+<l>Wijf, wes behende</l>
+<l>daer bij gueder hende.</l>
+<l>Zinlich diin verwende</l>
+<l n="50">hertz wende,</l>
+<l>das rad ich dyr, zelich wijf.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">II.</head>
+<lg><l>* Ontflijchyn ist an alles heyl</l>
+<l>Myr des zuezen zomer tsijt.</l>
+<l>Sal ich van troeste wesen gheyl,</l>
+<l n="55">wye zeer das an dem winter leyt.</l>
+</lg>
+<lg><l>Heen hynder zich gayr lise</l>
+<l>Geysdes in creefftes wyse,</l>
+<l>[...............]</l>
+<l><pb n="2"/>Miin heyl, als bouwe oph yse</l>
+<l n="60">besteyt, da van ich gryze,-</l>
+<l>Alzus blive ich troestes aen.</l>
+<l>Huer doen der mey verganghen wa[s],</l>
+<l>doen hoefte ich in die gruwemaent hiin.</l>
+<l>Nu ist verdorret loef onde gra[s],</l>
+<l n="65">ayn troest ich vuer onde na zus byn.</l>
+</lg>
+<lg><l>Ich hoefte, das der zomer</l>
+<l>Zulde wenden minen commer.</l>
+<l>Nu ist herder vyl dan voer.</l>
+<l>Ich, och, ich armer dommer,</l>
+<l n="70">zus werde yelanch stommer,</l>
+<l>in come dan oph eyn lieflich spoer.</l>
+<l><milestone unit="fol" n="50v"/> Das lijt zeer an des winters macht,</l>
+<l>des mir valle eyn gheluchlich sne</l>
+<l>onde werde oph troestesz verde gheracht.</l>
+<l n="75">Zo hijtse ich truwen aen als ee.</l>
+</lg>
+<lg><l>Noch wil ich vorbas heerden,</l>
+<l>zint das ze wal chan sceerden</l>
+<l>miin leyt, wan zeet bedenchen wil.</l>
+<l>God yr ghelijch oph erden</l>
+<l n="80">noch nie lies ghewerden,</l>
+<l>Ghedenchen, dats mir wonnen spil!</l>
+<l>Onde wil des zelven vruwen mich,</l>
+<l>chan mich nicht bas van yr ghesch[ern]</l>
+<l>unde da van voert zint m&#xE72D;edes riich:</l>
+<l n="85">wil ze, ze mach miin leyt verzeer.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">III.</head>
+<lg><l>Och, zal min hoffen ende miin langher leyden</l>
+<l>nicht helfen, zo ist miin heyl verloren.</l>
+<l>Miin leyt das ist gezworen by dem eyden,</l>
+<l>tso zucher noet ich waert gheboren!</l>
+<l n="90">Das mach eyn wijf wal wenden</l>
+<l>van yr ghenaden zint.</l>
+<l>Mit ter liever en k&#xE72D;nde ich nie wenden,</l>
+<l>daer van miin vrude zwint.</l>
+</lg>
+<lg><l>Och, wolde die hertz lieve zich erbarmen</l>
+<l n="95">onde helfen mer tso zinne weder,</l>
+<l>des weer eyn zelijch stont mich zenden armen,</l>
+<l>want al miin hoffen leghz neder.</l>
+<l>Ich neem des al voer g&#xE72D;ete,</l>
+<l>was mer die lieve d&#xE72D;et.</l>
+<l n="100">Zi haet mer gheholden in den gloede[n],</l>
+<l>das ich yr dienen moyt.</l>
+</lg>
+<lg><l>V&#xE72D;er die l&#xE72D;de haen ich zulch ghebere,</l>
+<l>of mer nicht leydes wee[re]by,</l>
+<l>unde leve gaer z&#xE72D;&#xE72D;erlich an alle zwere,</l>
+<l n="105">daer tso van menigher zorghen vry.</l>
+<l>Mer god weys al miin hertz,</l>
+<l>wye ich verdruevet byn.</l>
+<l>Zi hayt mer ghelayzen in der smertz,</l>
+<l>miin zuetz rosen gaerdeliin.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">IV.</head>
+<lg><l n="110">Ewin ond ewijch van daer ich heyles waerten,</l>
+<l>die miner zinnen hayt ghewalt.</l>
+<l>M&#xE72D;ch ich ewich blijven bi der tsayrtzen,</l>
+<l>voer waer en weer ich nemmer alt,</l>
+<l>zint zy god oph eerden</l>
+<l n="115">tsu vruden gaer mich hayt ghegheven.</l>
+<l><pb n="3"/>Ich hoffe noch, es mach al besser werden,</l>
+<l>mucht ich in yr ghenade le&#xE72D;en.</l>
+</lg>
+<lg><l><milestone unit="fol" n="51r"/> Die argher nider willent mir verdringhen,</l>
+<l>mich zennentliichen armen man.</l>
+<l n="120">Was die rijche als goedes mach ghebrenghen,</l>
+<l>lyef, lo es dich niet in hertzen gan</l>
+<l>onde lo dich niet verdriesen:</l>
+<l>Dou lieves mir tso alre stont.</l>
+<l>Ich hoffe noch, zi lases mir geniesen.</l>
+<l n="125">Eyn gulden b hayt mir ghewont.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">V.</head>
+<lg><l>Miin leven zy kortz ofte lanc,</l>
+<l>die lieve zelighe tsartze</l>
+<l>moys ziin, aen alre nider danc,</l>
+<l>der troyst, oph dyen ich w[arte].</l>
+</lg>
+<lg><l n="130">Ich haen tso gaer ergheven mich</l>
+<l>eynen wive minnentliic[h],</l>
+<l>das ich mijns zelves l&#xE72D;ene.</l>
+<l>Van zorghen moys ich werden alt,</l>
+<l>oph ich mijns zelves han ghewalt.</l>
+<l n="135">Yr doghz onde yr sc&#xE72D;ene</l>
+<l>haet zo bezessen mir dem moyt,</l>
+<l>ghedanch, hertz onde zinne,</l>
+<l>das ich ben yr vrieyghen goyt,</l>
+<l>zi miin ghebeyterinne.</l>
+</lg>
+<lg><l n="140">Zint ich niet zolde bliven miin,</l>
+<l>zo wil ich vyl tse vroer ziin,</l>
+<l>das zalde mir das gonde,</l>
+<l>das ich mir haen ergheven daer,</l>
+<l>da laster onde scanden scaer</l>
+<l n="145">zint vremde tso alre stonde.</l>
+<l>Weer ich noch miin, ich gheve mir yr</l>
+<l>tsu erve aer weder kiven,</l>
+<l>zo lieflich lieft zi eyne myr</l>
+<l>v&#xE72D;er ander allen wiven.</l>
+</lg>
+<lg><l n="150">Wiste ich yet, das yr wille weer,</l>
+<l>zo moys mir vrude werden leer,</l>
+<l>of ich mich des wolde maysen</l>
+<l>aen eyn, die us ghesceyden zy:</l>
+<l>wolde zi, das ich weer eyne vry,</l>
+<l n="155">das worde by mir ghelaysen</l>
+<l>Zy ist mir lief; ben ich yr leit,</l>
+<l>dats aen minen sculden.</l>
+<l>Want in weys niet, oph minen eyt,</l>
+<l>das ich k&#xE72D;er voer yr hulden.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">VI.</head>
+<lg><l n="160">So wie das ane loene dienet,</l>
+<l>des mach ich gheloeven wal.</l>
+<l>Die scone hayt yr das vereynicht,</l>
+<l>das ze mir vederven zal.</l>
+<l>Daer van zwijcht mer lijf onde moyt,</l>
+<l n="165">das ich zy ie tsu vr&#xE72D;ende koes,</l>
+<l>die mir zo diche leyde doet.</l>
+</lg>
+<lg><l>Dem zin en kunde ich nye ghegryfen,</l>
+<l>das ich van yr keerde hin.</l>
+<l>Doer van moys al miin vreude swijchen,</l>
+<l n="170">zint ich alzus dr[oevic] bin.</l>
+<l>Och, reyne wijf, bedenke das:</l>
+<l>zal ich in dinen dienste sterven,</l>
+<l>r&#xE72D;ch van myr diin boezen has.</l>
+</lg>
+<lg><l><milestone unit="fol" n="51v"/> Ich hoffe noch, dye werde reyne,</l>
+<l n="175">das ze zich ontvermen wil,</l>
+<l>der ich in gansen truwen meyne:</l>
+<l>ze ist miin lief onde lievet vyl.</l>
+<l>Och, zal ich ummer vrolijch ziin,</l>
+<l>zo lesche das v&#xE72D;er us miner hertzen,</l>
+<l n="180">zuetze rozen gardelin.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment"><pb n="4"/> VII.</head>
+<lg><l>Ich stont in groser varen,</l>
+<l>doen ich anzach drye bijlde fiin,</l>
+<l>die minnentlijche waren.</l>
+<l>Daer van verbrande mich yr sciin</l>
+<l n="185">zam eyn v&#xE72D;r us heyser glam.</l>
+<l>Idoch zach ich yr wenghelijn,</l>
+<l>wie wal mir das tsem hertzen quam.</l>
+</lg>
+<lg><l>God die was g&#xE72D;eten rijche,</l>
+<l>doe he ghescief die reyne wijf,</l>
+<l n="190">zo tsaert zo minnentlijche:</l>
+<l>des wal gecyret ziin yr lijf.</l>
+<l>Och, kunde ich ym ghedienen bas,</l>
+<l>den eren riichen vrouwen,</l>
+<l>werliich, des dede ich ane has!</l>
+</lg>
+<lg><l n="195">Eyn trysoer, wal ghecyeret</l>
+<l>zo reynlijch mit driin vrouwen (reyn) goet,</l>
+<l>dem zach ich staen ghewyret:</l>
+<l>daer van erhevet mir mijn moyt,</l>
+<l>das ich vergas miin zende (moyt) leyt.</l>
+<l n="200">Zy dreghet eyn fyoel krense,</l>
+<l>der jo miin dienst zal zijn bereyt.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">VIII.</head>
+<lg><l>In yrme dienst bin ich bereyt</l>
+<l>und wil yr dienen al miin daghe</l>
+<l>mit eynen, die ich by mer draghe.</l>
+<l n="205">Das ist der gueden wille miin.</l>
+</lg>
+<lg><l>Voer was verwaet die tsartz guet,</l>
+<l>das yr das dinch van mer wol duet</l>
+<l>und ich bin yr ghevanghen man</l>
+<l>und ze das niet bekennen wil?</l>
+<l n="210">Miin cleynes doen, ich dedes dan vyl,</l>
+<l>unde ich yr mines gruesen gan.</l>
+<l>Zy zal oech mer ghelonen das,</l>
+<l>das ich by allen vrouwen gheyn</l>
+<l>zo gherne (un) were und leghe alleyn</l>
+<l n="215">aen yren hertzen ane has.</l>
+</lg>
+<lg><l>Of nu die tsartze tswyfel haet,</l>
+<l>das mer niet wol ieghen yr en staet</l>
+<l>ja steder moet und truwe gaer,</l>
+<l>das zal zy ane zorghe ziin:</l>
+<l n="220">ich holde zi vast, come ich yr da in,</l>
+<l>jo in yr hulde, das neemt zi waer!</l>
+<l><milestone unit="fol" n="52r"/> Dan zal zi mich niet gheren me:</l>
+<l>ich wil by yr bliven stede.</l>
+<l>Das dinch ich yr vyl gherne dete,</l>
+<l n="225">io was zi wolde, al deedt das wee.</l>
+</lg>
+<lg><l>In weys niet, wiet mer ieghens yr leyt,</l>
+<l>ich vruch, zi have eyn gaert zo wijt,</l>
+<l>jo, hertz, da in zi menighen hayt.</l>
+<l>Oech weys ich nicht wol yr ghevoech,</l>
+<l n="230">of zi mit mer yet have ghen[oech],</l>
+<l>io goet, das mer miin vader laet.</l>
+<l>Yr erve ist breyder vyl da[n]tmijn.</l>
+<l>Drie stuch ich van miin vader haen,</l>
+<l>wil zi, ich setz yr oben daer aen:</l>
+<l n="235">dast ist lijf, hertz unde zin gaer.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">IX.</head>
+<lg><l>Orlof have,</l>
+<l>zorghe, mit alle dyre have!</l>
+<l>Nym der tsartz miin dich abe!</l>
+<l>Mit ten zueren vaer tsu grave</l>
+<l n="240"><pb n="5"/> vluchtich v&#xE72D;er des meyen gabe,</l>
+<l>der zich mit vruden bewiset.</l>
+<l>Wye ee war</l>
+<l>en ryefen, nemt der bloemen waer,</l>
+<l>die da smerent offenbaer</l>
+<l n="245">us dem clusen wol ghevaer,</l>
+<l>die des lieven meyen scaer</l>
+<l>vrolich dem angher bewiset.</l>
+<l>Hier mede ich die lieve tsijt</l>
+<l>grves ende oech die vrouwe miin.</l>
+<l n="250">Tswaer, zi ist daer al miin vre&#xE72D;de (al) aen lijt</l>
+<l>zam des meyen zanck der cleynder voghelijn.</l>
+</lg>
+<lg><l>Heyden unde walt,</l>
+<l>wie vyl der bloemen hayt ghewalt,</l>
+<l>manigher vr&#xE72D;den dusent&#xE72D;alt</l>
+<l n="255">hayt dye lieve an yr ghestalt,</l>
+<l>bylde en waert nye bas ghemalt.</l>
+<l>Prijs ha&#xE72D;e zo fiin creat&#xE72D;re.</l>
+<l>Ane leyt</l>
+<l>ist wensches vlijs an yr gheleyt.</l>
+<l n="260">Wem zi holdes hertzen dreyt,</l>
+<l>der moys billich ziin ghemeyt</l>
+<l>wollencliicher zelicheyt.</l>
+<l>Zorghen ze macht ym dure.</l>
+<l>Was eyn wijf tser werelt z[ol]</l>
+<l n="265">tsemelijcher dinghen haen,</l>
+<l>zwaer, des ist yr lijf tso vollen wol,</l>
+<l>des blive ich yr diensteliiche underdaen.</l>
+</lg>
+<lg><l>Alle miin raet</l>
+<l>ist noch, das mer gheluches rat</l>
+<l n="270">diensteliichen brengh[en] dat</l>
+<l>loen, dem zy behalden hat,</l>
+<l>daer miin hofen al an stat</l>
+<l>und al mir zalden ghelinghe.</l>
+<l>Eyn wijf zo goyt</l>
+<l n="275">k&#xE72D;er ich vuer al der gryeken goet,</l>
+<l>swaer das riet mer ye miin moyt,</l>
+<l>hertz und zin an yr gheboyt.</l>
+<l>Zulche meysterscaf zi doet.</l>
+<l>Pruef, stolter man, ionghelinghe,</l>
+<l n="280">of mer dan das reyne wijf</l>
+<l>ich van sculden lief zol ziin.</l>
+<l>Zwaer, zi ist mer zam miin zelves lijf</l>
+<l>und moys ummer erven in der ziel[en] miin.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">X.</head>
+<lg><l><milestone unit="fol" n="52v"/> * K&#xE72D;nd ich yr ghedienen bas,</l>
+<l n="285">daer al miin troest an leyt,</l>
+<l>in gansen trouwen dede ich das:</l>
+<l>ich nye vergas yr stedelijcheyt.</l>
+</lg>
+<lg><l>Weyr ich der liever vrouwen miin</l>
+<l>alzo lief, al zi mir ist in eren,</l>
+<l n="290">daer v&#xE72D;er wolde ich gheyn keyser ziin -</l>
+<l>och was zolde mir arman vre&#xE72D;den meere?</l>
+<l>Yr ghestalt ist minnentliich,</l>
+<l>in vergas der tsartzen nye.</l>
+<l>Zi ist an tswifel zecherlijch</l>
+<l n="295">miin hemelrijch oph erden hie.</l>
+</lg>
+<lg><l>Miin leven commerliichen staet:</l>
+<l>lief vermyden deyt mir zeer krenken.</l>
+<l><pb n="6"/>Och god, nu gyft der tsartzen raet,</l>
+<l>das zi minen commer bas bedenche</l>
+<l n="300">und grosen noet, dem ich han</l>
+<l>gheleden her vyl manighen tsijt.</l>
+<l>Wil zi mir das v&#xE72D;er lieve verstaen, -</l>
+<l>mich armar man das hertze lijt!</l>
+</lg>
+<lg><l>Och venus vrouwe, zich daer tsu,</l>
+<l n="305">het gheyt mir ues dem scimphe und scalle!</l>
+<l>Und raet mir zelve, wie ich doe,</l>
+<l>das ich der hertzen lieven bas be&#xE72D;alle.</l>
+<l>Aen zi zo ne mach ich leven nicht,</l>
+<l>dye myme hertzen iammer doet</l>
+<l n="310">van lieven liephliich z&#xE72D;&#xE72D;erzicht.</l>
+<l>Mir wee ghescycht in miinen moet.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XI.</head>
+<lg><l>Der hemlen loof,</l>
+<l>des meyen loof</l>
+<l>verdelwet hoof.</l>
+<l n="315">Des steyt miin hoof</l>
+<l>an eyn enghelijch vroudeliin.</l>
+<l>Wie zolde dorren</l>
+<l>der winter dorren</l>
+<l>minen tsoren,</l>
+<l n="320">tso minen tsoren,</l>
+<l>die nu bl&#xE72D;wet int hertz miin!</l>
+<l>Werlijchen, zi lievet mir</l>
+<l>voer golt, steyn onde myr,</l>
+<l>die mich machet vro</l>
+<l n="325">a&#xE72D;onts unde morghens vro.</l>
+<l>Des zinghe ich hoe,</l>
+<l>bys si springhet hoe,</l>
+<l>dan m&#xE72D;es ich gheh&#xE72D;erzam ziin.</l>
+</lg>
+<lg><l>Ach der lude,</l>
+<l n="330">die claffent lude!</l>
+<l>Dat ziin oncr&#xE72D;de,</l>
+<l>die god oncrude</l>
+<l>uut ziinre hoher veste!</l>
+<l>Ich slechte dem hert</l>
+<l n="335">die bliende herd,</l>
+<l>bys het besser wert.</l>
+<l>Wijf, mins hertzen wert,</l>
+<l>doe dinen gaste raste.</l>
+<l>Nu ben ich m&#xE72D;ede unde mat,</l>
+<l n="340">um dat miin denchen over mat</l>
+<l>der zorghen rijs.</l>
+<l>Aventuren, nu oph rijs</l>
+<l>[...............]</l>
+<l>in zulcher wijs,</l>
+<l n="345">myr tsu doen miin beste.</l>
+</lg>
+<lg><l><milestone unit="fol" n="53r"/> Der eren staet</l>
+<l>wonnenclijchen by yr staet</l>
+<l>in yren raet.</l>
+<l>Wal hen, nu raet,</l>
+<l n="350">wye is zy, dye ich meyne:</l>
+<l>zy haet oph ghenoet</l>
+<l>der eren ghenoet,</l>
+<l>des dreecht zi moet,</l>
+<l>alst wesen moet,</l>
+<l n="355">alle eere ist yr tse cleyne.</l>
+<l>Wijf, nu geft mir heyl,</l>
+<l>das al miin zuneden werden heyl,</l>
+<l>miin zon, miin maen -</l>
+<l>want ichs in yren node maen,</l>
+<l n="360">dou bist mire zalden vae[n].</l>
+<l>Zal men myr vaen,</l>
+<l>das weer diin scult allene.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XII.</head>
+<lg><l>Och, wolde eyn reyne wijf ghemeyt,</l>
+<l>die yr desz lasters hayt verzeyt,</l>
+<l n="365">gaer vri vuer allen scanden breyt,</l>
+<l>eyn reyne wijflich bilde!</l>
+<l>Gief hee oph erden bessere icht?</l>
+<l><pb n="7"/>Oph miin trouwe, meyn es nicht:</l>
+<l>van vrouwen lieflich anghe[zicht]</l>
+<l n="370">maecht manne truwen wilde.</l>
+<l>Yr lachen onde yr zachte groes</l>
+<l>ca[n] ze zo vruentliich machen,</l>
+<l>das zich eyn man vruwen moys.</l>
+<l>Ze deyt oech menighen zweren boes</l>
+<l n="375">mit minnentliichen sachen.</l>
+</lg>
+<lg><l>Eyn man mach wol vroliich ziin,</l>
+<l>wan ym eyn reyne wijf gayr fiin</l>
+<l>vrolich oph sliust yr minnen scriin</l>
+<l>unde liicht en in yr hertz,</l>
+<l n="380">das er daer in hayt ghewalt.</l>
+<l>Wie mach er yummer werd[en] alt?</l>
+<l>Zo vr&#xE72D;entlijch ist der minne ghestalt,</l>
+<l>ze ist alre doghz eyn hertz.</l>
+<l>Wan er in tsween armen blanch</l>
+<l n="385">gaer vruentlich zich mach wenden,</l>
+<l>zo wyrt ym der tsijt nicht lanch:</l>
+<l>van yre tswey[er] ombe&#xE72D;anc</l>
+<l>yr leyt moet gaer verzwenden.</l>
+</lg>
+<lg><l>Mich wondert, wye eyn zelder man</l>
+<l n="390">zinen zin ghehalden kan,</l>
+<l>wan ym eyn reyne wijf zwt an</l>
+<l>mit lijchten oghen bliiche.</l>
+<l>Des veert yr yummerme tse bas.</l>
+<l>Eyn goet wijf besser vyl dan scas.</l>
+<l n="395">Yr lof nie man tsu vollen mas,</l>
+<l>her ne levede in y[r]me stryche.</l>
+<l>Wan ze dr&#xE72D;ch eyns mannes mont</l>
+<l>gaer vr&#xE72D;entliich an yr kinne,</l>
+<l>das ist ym eyn zelighe stont</l>
+<l n="400">unde zinre hoyster eren vont:</l>
+<l>vyl wonders machet minne.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XIII.</head>
+<lg><l><milestone unit="fol" n="53v"/> Miin enghen doyteryn,</l>
+<l>wer toyt dat zwaer adyr list,</l>
+<l>miin tsertzen morderin,</l>
+<l n="405">das d&#xE72D; zo gaer weldich bist!</l>
+<l>Was sprychen chan, das lovet dich,</l>
+<l>und ich dich alder hoeste meyne;</l>
+<l>ontghelde ich das alleyne,</l>
+<l>was wonder ist das, vr&#xE72D;we, sprycht?</l>
+</lg>
+<lg><l n="410">Zal diin toghent unde diin scone</l>
+<l>ziin menghes w&#xE72D;nne onde nicht miin,</l>
+<l>das dyr god van hemel loene!</l>
+<l>Was ziin tsu mir die dede diin?</l>
+<l>Yst dyr da van nicht ghesceen,</l>
+<l n="415">das ich dich zo stede minne,</l>
+<l>zo lonet bas van tonnen zinne</l>
+<l>eyn grimmich dyer, das moys ich geen.</l>
+</lg>
+<lg><l>Wo mach in so tsartzen live</l>
+<l>groes onghenade berghen zych?</l>
+<l n="420">Trout lief v&#xE72D;er alle wy&#xE72D;en,</l>
+<l>dem grimmen tzorn van dyr rich!</l>
+<l>Zint mir u minne hayt untz&#xE72D;nt</l>
+<l>onde diin tsartze wiiflich bylde,</l>
+<l>nu doe de zorghe van myr wylde;</l>
+<l n="425">dou hayt hertz unde zyn ghewont.</l>
+</lg>
+<lg><l>Yst dyr aber zo z&#xE72D; m&#xE72D;ete,</l>
+<l>das dou wem ja doden wilt,</l>
+<l>vicht, da du vindes h&#xE72D;ete.</l>
+<l>Dou vindes an mir zwert nocht scyltz.</l>
+<l n="430">Of doten ja diin eyn moet ist,</l>
+<l>dote ioden, dote heyden:</l>
+<l>mich mach nie man van dyr sceyden.</l>
+<l>Doets tu mich, das hayt dou plicht.</l>
+</lg>
+<lg><l>Zo spricht al de werelt ghemeyne:</l>
+<l n="435">"Zich, waer die morderyn gheyt!"</l>
+<l>Denche, tsaertz vrouwe reyne,</l>
+<l>erbarme dich d&#xE72D;er dijn wijflicheyt.</l>
+<l><pb n="8"/>Mijns hofen troest an dyr leyt.</l>
+<l>Beyde leven onde sterven,</l>
+<l n="440">zol ich ghenese odyr veder&#xE72D;en,</l>
+<l>das lijt, vrouwe, an dyr die raet.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XIV.</head>
+<lg><l>Eyn wijf, dye hertz unde zinne</l>
+<l>mit truwen hayt ghekeert</l>
+<l>an eynes mannes minne,</l>
+<l n="445">zo das ziin leyt zi das yr bezweert,</l>
+<l>of he mit valscher list yr ere krenchet,</l>
+<l>zo ist yr prijs bedor&#xE72D;en, yr minner, das bedenchet.</l>
+</lg>
+<lg><l>Weer eyn wijf mit besceyde</l>
+<l>dorch minne in tzarzen zetzet,</l>
+<l n="450">yr ere, by mime eyde,</l>
+<l>zol billich van ym bliven ongheletzet.</l>
+<l><milestone unit="fol" n="54r"/> Want ere yst ziereyt und crone groten vrouwen.</l>
+<l>Weer ziin lief das bero&#xE72D;et, was w&#xE72D;nnen mach he me dan an yr scouwen!</l>
+</lg>
+<lg><l>Eyn wijf, dyr zich chan vr&#xE72D;den</l>
+<l n="455">eyn man mit lieven dinghen,</l>
+<l>die merche ich yr orconden:</l>
+<l>wye ziis vernymt, wil he valche ringhen,</l>
+<l>gheert he an yr, des ze mach haven scande, -</l>
+<l>zi h&#xE72D;ete zich, of zi wille, he druchet zi: des steyt miin eyt ts&#xE72D; pande.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XV.</head>
+<lg><l n="460">* Iych lide tsoren,</l>
+<l>ich han verloren:</l>
+<l>miin vroude hayt ongheluch ercoren,</l>
+<l>en chan daer us ghewenden niet.</l>
+<l>Ich come ts&#xE72D; spade</l>
+<l n="465">of minne stade.</l>
+<l>Noch zo han ich cleyn ghenade:</l>
+<l>aldus blive ich int verdriet.</l>
+<l>Ich leve nu voert recht ane wel:</l>
+<l>des ich waende haven spel,</l>
+<l n="470">haet zich ghekeert in zuchten snel,</l>
+<l>das moys ich mir vermeyen.</l>
+<l>Een hoghe wijf wal ghestalt,</l>
+<l>die mer haet in yre ghewalt,</l>
+<l>die maecht mer arm in vruden kalt</l>
+<l n="475">mit yre z&#xE72D;ezer leyen.</l>
+</lg>
+<lg><l>Aen ki&#xE72D;en</l>
+<l>moys ich bliven.</l>
+<l>Truren, das wil bij mer bliven,</l>
+<l>z&#xE72D;s zo berghet zich miin moet.</l>
+<l n="480">Jdoch ich meyne:</l>
+<l>al ben ich cleyne,</l>
+<l>eyn lieflich lief, eyn zuetze reyne,</l>
+<l>ze ist boven alles goet.</l>
+<l>Wal mer der vyl zeligher stont,</l>
+<l n="485">wal mer des wel z&#xE72D;ezen vont,</l>
+<l>wal mer des wel z&#xE72D;ezen bont!</l>
+<l>God lazen mer beh&#xE72D;eden,</l>
+<l>dien zi mit yren henden trocht!</l>
+<l>Wie zach ie zo reynen vr&#xE72D;cht?</l>
+<l n="490">Ich iaghe na der z&#xE72D;ezer tocht</l>
+<l>van verren ane m&#xE72D;ezen.</l>
+</lg>
+<lg><l>Mer ist verwaert</l>
+<l>der vruden vaert,</l>
+<l>lief van lieve ist mer tsu haert,</l>
+<l n="495">zi zent mer cleyne min.</l>
+<l>Yr oghen luchten chan zi scichen,</l>
+<l>vervan mich in iren strichen,</l>
+<l><pb n="9"/>zo moezen bliven mine zin.</l>
+<l>Ich wensche yr dousent goeder iaer:</l>
+<l n="500">der leven feyer drecht das claer</l>
+<l>yr anschiin unde yr roeder mont,</l>
+<l>daer na ich langhe han gheboghen.</l>
+<l>Die tsartz quam mer v&#xE72D;er miin oghen</l>
+<l>ghezwonghen in mins hertz gro[nt].</l>
+<l n="505">Daer ist ze gaer gheweldich in,</l>
+<l>zi haet derts&#xE72D; hertz onde zin</l>
+<l>gheweldych alleyne.</l>
+<l>Ghenade, z&#xE72D;eze reyne!</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XVI.</head>
+<lg><l><milestone unit="fol" n="54v"/> Tsu myr sprach tzwifel: "dou zalt van der goten laen,</l>
+<l n="510">daer dou haest ye ghezonghen, want yr has yst werende stete."</l>
+<l>Das hoffen sprach: "d&#xE72D; ne zalt noch niet ave staen,</l>
+<l>du hettes dan tsu vyl verloren, unt hes were oech nu tsu spade."</l>
+<l>Der tswifel sprach: "ze toet zo wee</l>
+<l>ont nemmer wol, welich hertz m&#xE72D;cht dan vertraghen?"</l>
+<l n="515">Des hoffen sprach: "du zalt ghewee</l>
+<l>yr yummer ziin unt stetentlichen nach yren hulden iaghen."</l>
+<l>Die tswifel sprach: "zist onghenedich vyl z&#xE72D; vyl."</l>
+<l>Der hoffen sprach: "wie weys, wie zi das enden wil."</l>
+<l>Des tswifel sprach: "ich vrucht, etz zi der toyt."</l>
+<l n="520">Der hoffen sprach: "neyn, volghe bas, du k&#xE72D;mes noch us zender noet.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XVII.</head>
+<lg><l>Was wive [das] yr ere h&#xE72D;eden wil,</l>
+<l>die wil ich raden, of ich chan,</l>
+<l>das zi die b&#xE72D;eze scuwen wyl</l>
+<l>unde kiesen us mannen eynen man</l>
+<l n="525">und gheve dem lijf, zin, hertz unde moet.</l>
+<l>Zy en chan yr nicht bas bewaren.</l>
+<l>Wil ze mit willen tsu ym varen,</l>
+<l>yr liever ere ist wal beh&#xE72D;et.</l>
+</lg>
+<lg><l>Fy waer, eyn reyne bederf wyf</l>
+<l n="530">haet lieflich eynen man ercoren</l>
+<l>onde hayt ym lief als zam yr lijf.</l>
+<l>Daer ist ghewonnen, nicht verloren,</l>
+<l>keyn scade mach daer an ghescien,</l>
+<l>waer die doghent minnet zicht.</l>
+<l n="535">Das mach ich sprichen zecherlijch</l>
+<l>und m&#xE72D;zen oech die wise gheen.</l>
+</lg>
+<lg><l>Eyn bederft man alle wanke,</l>
+<l>dar krenchet wybes ere nicht.</l>
+<l>Wyert hem eyn grues en habedanche,</l>
+<l n="540">das maecht al ziin truren licht</l>
+<l>unde toyt alle goyt dinck des tsu bas.</l>
+<l>Ich bidden dich, vyl lieves wijf,</l>
+<l>[...............]</l>
+<l>zo mach diin lof nicht werden las.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XVIII.</head>
+<lg><l n="545">Tsu eyme nyen jaer</l>
+<l>ghe&#xE72D;e ich mir mit willen dyr,</l>
+<l>ghehure, zelighe claer.</l>
+<l>Wes des aen vaer,</l>
+<l>des du wankes icht an myr</l>
+<l n="550"><pb n="10"/> groes vindes ts&#xE72D; eyme haer.</l>
+<l>Ich un was men nement mijn -</l>
+<l>nicht zonders icht us sceyde -</l>
+<l>das ist eyghentlijchen diin:</l>
+<l>des zeldu ziin</l>
+<l n="555">gaer zicher, by mime eyde.</l>
+</lg>
+<lg><l><milestone unit="fol" n="55r"/> Vrouwe, us al der werelt ghemeyne</l>
+<l>han ich dyr tsu lieve erkore[n].</l>
+<l>Vyl minnentliiche reyne,</l>
+<l>gheweldich bystu eyne</l>
+<l n="560">mijns gheleistens, tzwaer, des tzorn</l>
+<l>das acht ich cleyne.</l>
+<l>Dijn bin ich unde niemens me.</l>
+<l>Och das bedenche, goyte,</l>
+<l>unde wes mer nicht ghe&#xE72D;e.</l>
+<l n="565">Miin wol, miin wee</l>
+<l>hayst&#xE72D; in diin hoyte.</l>
+</lg>
+<lg><l>Vrouwe, mijnder zalden gaerte,</l>
+<l>holt van minen worden nicht:</l>
+<l>daer werke miin dou warte,</l>
+<l n="570">verzuchte mich gaer harte.</l>
+<l>Vindes du dan wankes icht</l>
+<l>an mir [...........],</l>
+<l>[.....] zo laes mir verterbin [..]</l>
+<l>aen alre leye erbarmen.</l>
+<l n="575">Bin ich a&#xE72D;er untr&#xE72D;wen baer,</l>
+<l>des neme oech waer</l>
+<l>unde troeste mir vyl armen.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XIX.</head>
+<lg><l>Zwaer, ich wil vroes m&#xE72D;de ziin</l>
+<l>oph goeden waen unde layzen al miin zorghen</l>
+<l n="580">dorch eyn cleyn vrudeliin.</l>
+<l>God gheve yr do&#xE72D;sent goedemorghen</l>
+<l>unt menich zelich vruden iaer!</l>
+<l>Yr tsucht ist onghemessen,</l>
+<l>yr liif ist alles wandels baer.</l>
+<l n="585">Zi haet mir hertz onde moet bezessen.</l>
+</lg>
+<lg><l>Ich wensch yr ymmer heyles vyl</l>
+<l>unde gueden nacht der minnentliich[en] reynen.</l>
+<l>Zi mach mir gonnen, wes zi wil,</l>
+<l>miin hertz zal zi stetenliiche m[eynen].</l>
+<l n="590">Met trouwen gaer an arghe list</l>
+<l>bin ich yr holt by zonder.</l>
+<l>Gheyn wi[jf] mir vrolich liever ist:</l>
+<l>ontghelde ich das, des hayt mir ummer wonder.</l>
+</lg>
+<lg><l>In zach by mine daghen ny</l>
+<l n="595">eyn wijf zo rechte gherne zam zi eyne.</l>
+<l>Tsuch[t], ere, scheme yr wanet by,</l>
+<l>kus ist yr moyt, danck habe zi, die z&#xE72D;&#xE72D;e[ze] reyne,</l>
+<l>das zi zus doghentliichen doet:</l>
+<l>das moys ich ziin yr eyghen.</l>
+<l n="600">Zist eyn wijf v&#xE72D;er truren g&#xE72D;et,</l>
+<l>Miin bloyende walt macht mir wal troest daer tseghen.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XX.</head>
+<lg><l>* Mijn wal ghedenchen nach der minnentliichen,</l>
+<l>das machet mir zo diche gheyl.</l>
+<l><pb n="11"/>Wye m&#xE72D;cht ich van der tsartzen dan ghewijchen,</l>
+<l n="605">ist al miinder vreuden heyL.</l>
+</lg>
+<lg><l>Zwaer nemmer wil ich van yr laen,</l>
+<l>das han ich mich erweghen.</l>
+<l>Al miin goet ich van yr haen.</l>
+<l>kunde ich yr dienstes pleghen,</l>
+<l n="610">des weer ic[h] werlich plichtich yr tsu doene</l>
+<l>unde dede das gherne zonder has.</l>
+<l>En ghere nicht, das ze mich verschonen,</l>
+<l>k&#xE72D;nde ich yr icht ghedien[en bas].</l>
+</lg>
+<lg><l>Tzwaer, yr gheliiche ist nynder mee,</l>
+<l n="615">bij minen hoesten truwen!</l>
+<l>Hy[e] unde doert yr heyl gheschee:</l>
+<l>die w&#xE72D;nsch mach mir nicht ro&#xE72D;we[n],</l>
+<l><milestone unit="fol" n="55v"/> want ze ist alre tz&#xE72D;chten uber gulde,</l>
+<l>warliichen alles wandels vry.</l>
+<l n="620">Zo weys ich, das ze mich nemt in yr hulde.</l>
+<l>Daer han ich gheyn tswijfel by.</l>
+</lg>
+<lg><l>Das ich ube mere v&#xE72D;er</l>
+<l>ober meer dan dousent mile -</l>
+<l>ze weer in mijns hertzen d&#xE72D;er</l>
+<l n="625">beslozen alle die wile:</l>
+<l>van yre g&#xE72D;ete bin ich zus ontz&#xE72D;nden,</l>
+<l>god maeche zi mit vreuden alt.</l>
+<l>Yr g&#xE72D;ete, yr schone nye man kan volgrunden:</l>
+<l>des danche ich dyr, miin bloyende walt.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXI.</head>
+<lg><l n="630">* Vrou, zich und was mir holt;</l>
+<l>zyst aen miin scolt,</l>
+<l>of ich doch ye in gheenre wijs</l>
+<l>ghedede, das dich erkonnen mach.</l>
+<l>Miin hoystertach,</l>
+<l n="635">das ist mir leyt, miin paradijs.</l>
+</lg>
+<lg><l>Diner ghenade bederf ich wol</l>
+<l>und wil dich bidden yummermee.</l>
+<l>Zint diin hertz ist dogheden vol,</l>
+<l>zo lays mir wezen dyr tso vle.</l>
+<l n="640">D&#xE72D; machs mir halden, wie d&#xE72D; welt,</l>
+<l>myr nicht ghevelt,</l>
+<l>wan du mir wils ghebeyden.</l>
+<l>Das doen ich nach diins hertzen gheer.</l>
+<l>Ghelobes mer,</l>
+<l n="645">dyr holde wil ich mich neyden.</l>
+</lg>
+<lg><l>Diin ghevanghen wil ich ziin</l>
+<l>ymmerme bes an miin toyt.</l>
+<l>Helf mir, vrou, us deser piin</l>
+<l>unt wende minen zenden noyt,</l>
+<l n="650">zint ich erschoven v&#xE72D;er dich bin:</l>
+<l>lijf, moyt, hertz min,</l>
+<l>[...............]</l>
+<l>dey nem d&#xE72D; hoghevolder hort</l>
+<l>unt sprich eyn woert,</l>
+<l n="655">das mir diin tr&#xE72D;we ersciin.</l>
+</lg>
+<lg><l>Met v&#xE72D;erten wil ich ewentliich</l>
+<l>minen dienst an dich ernuwen</l>
+<l>unt wil doch ummer bidden dich,</l>
+<l>das d&#xE72D; des nemes minen truwen.</l>
+<l n="660"><pb n="12"/> Laes abe, wes mer nu brenghen mach</l>
+<l>leyt al den dach;</l>
+<l>das wende, d&#xE72D; reyne tsartze,</l>
+<l>zint ich uf erden nicht lievers han.</l>
+<l>Aen abelan</l>
+<l n="665">uf diin ghenade ich warte.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXII.</head>
+<lg><l><milestone unit="fol" n="56r"/> Ghedenche, minnentlijche reyne z&#xE72D;eze,</l>
+<l>das ich bin diin, zo mir god helfen moese,</l>
+<l>unt gheyns mans me, wes ane swyfel gaer!</l>
+<l>Nach dinen hulden wil ych gherne ringhen,</l>
+<l n="670">d&#xE72D; lieves wijf, daer na laes mir ghelinghen.</l>
+<l>Ich truwe dyr bas dan al der werelt zwaer,</l>
+<l>des laes mir, vrou, gheniezen</l>
+<l>und wes ghenedich myr.</l>
+<l>Du machs mir eyne wel us zorghen sliesen:</l>
+<l n="675">miin wol, miin we, das lyt tse male an dyr.</l>
+</lg>
+<lg><l>Mucht ich des keyzerijches alles walden,</l>
+<l>zo wold ich, zwaer, in dyme dyenste alden,</l>
+<l>das zaltu zarte goete secher ziin.</l>
+<l>V&#xE72D;er d&#xE72D;zent lant k&#xE72D;er ich zwaer diin hulde.</l>
+<l n="680">Drijf van myr leyt unde lays mir abe sculde,</l>
+<l>zint liif unde goet ist alles eyghen diin.</l>
+<l>Wan ich aen zi ghedenchen,</l>
+<l>der wile zo byn ich vro.</l>
+<l>Min bloyende walt vynt g&#xE72D;etlijch yr ghelenghe</l>
+<l n="685">unt schicke mir us allen zorghen dro.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXIII.</head>
+<lg><l>Do&#xE72D; haes, winter kalt,</l>
+<l>weyde unde walt</l>
+<l>gaer vyentlijch ontbloemet.</l>
+<l>Verd&#xE72D;emet</l>
+<l n="690">zi das dine selde!</l>
+<l>Wyr zynt dyre c&#xE72D;nste wijs.</l>
+<l>Do&#xE72D; gheberes vyl tsu grijs.</l>
+<l>Haghel, ys unt sne</l>
+<l>zint me</l>
+<l n="695">wan bloemen of dem velde.</l>
+<l>Heya, wye bereyt</l>
+<l>nu steyt</l>
+<l>uf erden diin gh[ewelde]!</l>
+</lg>
+<lg><l>Man h&#xE72D;ert nich arclinghen</l>
+<l n="700">der z&#xE72D;ezer voghel zinghen:</l>
+<l>zo gaer kan diin bedwanch</l>
+<l>iar lanch</l>
+<l>yr lieffliich done erdomen.</l>
+<l>Hets ys al trurich,</l>
+<l n="705">das was r&#xE72D;rich</l>
+<l>in z&#xE72D;ezen meye:</l>
+<l>valeye</l>
+<l>no berch zy diins belonen.</l>
+<l>Dou maches gheh&#xE72D;er</l>
+<l n="710">unt zuer</l>
+<l>dey locht und wol konen.</l>
+</lg>
+<lg><l><pb n="13"/>Wolde mir der tr&#xE72D;wen cleyt</l>
+<l>zi, daert al an steyt,</l>
+<l>yren mantel strechen,</l>
+<l n="715">dechen</l>
+<l>zolde ich al miin zwere,</l>
+<l>miin truren was cleyne.</l>
+<l>Wolt die tsarze reyne</l>
+<l>dey gonst bewyzen myr,</l>
+<l n="720">van dyr</l>
+<l>ne vrucht ich nemmermere.</l>
+<l>[...............]</l>
+<l>das hare nicht an lyt,</l>
+<l>das ich vreude ghere.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXIV.</head>
+<lg><l n="725">Sulde aber ich mit zorghen leven,</l>
+<l>zwen alle die lude weren vro?</l>
+<l>Gueten troest wil ich mir zelven [...]</l>
+<l>unde mine ghem&#xE72D;ete draghen ho</l>
+<l>alzo recht eyn zelich man.</l>
+<l n="730">Zi ghent myr alle, tr&#xE72D;ren ste mir iammerliichen an.</l>
+</lg>
+<lg><l>Zint zi ghent, wye wol mir vreude en tseme,</l>
+<l>zo volghe ich yr, zo ich best nach.</l>
+<l><milestone unit="fol" n="56v"/> Ich wane, niemant leve, die mir beneme</l>
+<l>tr&#xE72D;ren, das nu manighen dach</l>
+<l n="735">an miin hertz lijt begraven.</l>
+<l>Ghew&#xE72D;ne ich yummer des een ende, ich zil mir tsu bas behaven.</l>
+</lg>
+<lg><l>Hes ist lanch, das mir die oghen miin</l>
+<l>ts&#xE72D; vreuden ye ghestonden wol.</l>
+<l>Zen ich nu miin truren lazen zijn</l>
+<l n="740">unt ich mir rechte des yrhol,</l>
+<l>das ich mir nu verz&#xE72D;met han -</l>
+<l>zo bin ich alt, unt had eyn wijf vyl &#xE72D;bel mir ghetan.</l>
+</lg>
+<lg><l>Zen zi dan gherne erwenden wil,</l>
+<l>das leyt, wels mir van yr ghescicht,</l>
+<l n="745">zo ist mir wijf unmere unt ander spil,</l>
+<l>zo ne doech ich van alder nicht.</l>
+<l>Owe, was wil ze danne miin?</l>
+<l>Nu m&#xE72D;cht ich yr dienen, lietz zijs eyn ende ziin.</l>
+</lg>
+<lg><l><pb n="14"/>E zy der werelt nu erzeyghe an mir,</l>
+<l n="750">wy stede zi ist, zo ne leve ich nicht.</l>
+<l>Ouch ghescw&#xE72D;t eyn wonder lichte an yr,</l>
+<l>das man zi ongherne zicht:</l>
+<l>zo moys zi vyl dicke claghen,</l>
+<l>das zi eynem zo g&#xE72D;eten man k&#xE72D;nde ye yr lijf v&#xE72D;rzaghen.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXV.</head>
+<lg><l n="755">Waer ist nu hijn der voghelijn zanch,</l>
+<l>der z&#xE72D;etz dorch miin oren clanck?</l>
+<l>Wa ist dey hiin ghesceyden?</l>
+<l>Das had ghedaen der winter kalt,</l>
+<l>dyr had den zamer mit ghewalt</l>
+<l n="760">darhyr, das ist miin leyden.</l>
+<l>Dorste mir eyn reyne wijf,</l>
+<l>zo have ich alle w&#xE72D;nne.</l>
+<l>Wat acht ich of winters zijt,</l>
+<l>wo zy mir vreuden gunne?</l>
+</lg>
+<lg><l n="765">Zo wolde ich wijf, zo reyne diin name!</l>
+<l>Da um zo wyrt ym nemmer scame,</l>
+<l>zwe zich tsu vrunden erkyezet.</l>
+<l>Dou maches eynen zenenden man,</l>
+<l>das er an vreuden w&#xE72D;der kan,</l>
+<l n="770">ziin leyt er gaer verl&#xE72D;zet.</l>
+<l>Of alzo hovelijchen troest,</l>
+<l>zo dene ich miner vrouwen,</l>
+<l>das ich van zorghen werde erlost</l>
+<l>unde ze nach wilde scouwen.</l>
+</lg>
+<lg><l n="775">Myr ne kan der winter nicht ghescaden,</l>
+<l>wil nu die g&#xE72D;ete van mir laden</l>
+<l>zo[r]ghenzelijche zwere:</l>
+<l>zo wyret miin zorghe eyn vreuden spil.</l>
+<l>Zus kan die g&#xE72D;ete, zwen wil zi,</l>
+<l n="780">mir machen zorghen lere.</l>
+<l>Das zi spreche zeyner stont:</l>
+<l>"Miin vr&#xE72D;nt, dou zalt dich vr&#xE72D;wen!"-</l>
+<l>zo kunde mir der keyser nicht</l>
+<l>noch al ziin here dr&#xE72D;wen.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXVI.</head>
+<lg><l n="785"><milestone unit="fol" n="57r"/> We, bloyende balsmengaerte!</l>
+<l>Das der doet dem nicht ghespaerd[e],</l>
+<l>der dich helt in zanghe haerte,</l>
+<l>das claghen ich vyl zender man</l>
+<l>den vyl groten van der dame.</l>
+<l n="790">Her stont ye in eren rame,</l>
+<l>nu ist hyn zyn erdes name.</l>
+<l>Der crist neme der zielen an.</l>
+<l>Maria, mane dinen kinde,</l>
+<l>das her in des hemels crame</l>
+<l n="795">ziinre zielen vr&#xE72D;ntliich warte,</l>
+<l>das her hoer vreuden vinde</l>
+<l>mit dem werden inghezinde.</l>
+<l>Crist ons oech der vreuden spinde,</l>
+<l>wan wyr comen uff die ban.</l>
+</lg>
+<lg><l n="800">S&#xE72D;teliich, wijfliich, g&#xE72D;et ghebere,</l>
+<l>dich byzinghet eyn reyne here.</l>
+<l><pb n="15"/>Alle vrouwen havens ere,</l>
+<l>das her ye gheboren wart.</l>
+<l>Ym ist wol mit sconen vrouwen,</l>
+<l n="805">der mach men hem wol betrouwen.</l>
+<l>Her lat ym wyl gherne scouwen</l>
+<l>tsu der ernsteliicher vaert.</l>
+<l>Her kan wal vrouden ere widen.</l>
+<l>Evel ist ym mit dem gouwen,</l>
+<l n="810">want ze zint ym gaer unmere.</l>
+<l>Her ist vroliich mit den bliden,</l>
+<l>untz&#xE72D;cht chan her wol vermiden -</l>
+<l>dey dar kegen wolde striden,</l>
+<l>der ist nicht van goeder aert.</l>
+</lg>
+<lg><l n="815">Rechte k&#xE72D;nst kan [ym] nicht ontstricken</l>
+<l>den vyl goeten van der zicken.</l>
+<l>Zalden zumme, d&#xE72D; does quicken</l>
+<l>zines hertzen vreuden gaer.</l>
+<l>Hon, yr nider, hat bezonghen</l>
+<l n="820">zanghes vr&#xE72D;nt mit ziinre tsonghen.</l>
+<l>Ym en ist nicht al ontspronghen</l>
+<l>rechte k&#xE72D;nst, das ist waer.</l>
+<l>Leacen grijf ich toten reye,</l>
+<l>der kerchof nach hat gheronghen;</l>
+<l n="825">ze kan gaer ziin tr&#xE72D;ren stricken:</l>
+<l>"Ich han vre&#xE72D;de menigher leye</l>
+<l>dorch eyn minnentlijche creye:</l>
+<l>heya, z&#xE72D;etz scone feye,</l>
+<l>an dyr lijt miin hoyste geer!"</l>
+<l>                Nota.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXVII.</head>
+<lg><l n="830"><milestone unit="fol" n="58r"/> Ich hain gegeben voer den tzeil</l>
+<l>mijn hertz, mijn lijp mit vrien wil.</l>
+<l>Nym das in dancke, truit vrauwelijn,</l>
+<l>und lais mir in dine hulde sijn,</l>
+<l>zam du gesprochen haist zu mir,</l>
+<l n="835">soe lebe ich vrolich zorgen leer.</l>
+<l>Dijn fruntlicheit kan das machen,</l>
+<l>das ich truren laissen slaeffen.</l>
+</lg>
+<lg><l>* Ghelucke und heil, truit frauwelijn tzairt,</l>
+<l>wonssche ich dir voil of aller vaert.</l>
+<l n="840">Mijn hertz und lijp und was ich hain,</l>
+<l>das ist dir stedelich onderdain.</l>
+</lg>
+<lg><l>Wij sulde mijn hertz truren hain,</l>
+<l>sint mir ein vroichen woil gedain</l>
+<l>soe stede steet in dem hertzen mijn?</l>
+<l n="845">Mijn liebeste lijp, geselleken mijn,</l>
+<l>welle doch vrolichen mit mir singen</l>
+<l>und nach vroichens hulde ringen.</l>
+<l>Si gebet weirlich rijchen solt</l>
+<l>mit yren montgen, wan sij wolt.</l>
+</lg>
+<lg><l n="850">Zint ich nit me zu geben hain,</l>
+<l>liebe meisterynne wol gedain,</l>
+<l>wilt mir in dine hulde scriben.</l>
+<l>Du liebest mir voir allen wijben,</l>
+<l>Krist hait dich weirlich soe gestalt.</l>
+<l n="855">Mocht ich mit dir noch werden alt,</l>
+<l>soe lebede ich vrolich al mijn jaer.</l>
+<l>Nym das zu dancke tzoe nywen jaer.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXVIII.</head>
+<lg><l>Ghelucke und heil zu n&#xE72D;wen jaer</l>
+<l>wnssche ich dem lieben vrauwelijn.</l>
+<l n="860">Is hait mich gestricket in blauwen vaer,</l>
+<l>umb das ich sulde gestedich sijn.</l>
+<l>Was sij gebiet, ich wil alsoe</l>
+<l>und al mijn truren abelain.</l>
+<l><pb n="16"/>Ir tzairte lijf gevoget mir also,</l>
+<l n="865">das ich ir wil sijn onderdain.</l>
+</lg>
+<lg><l>* Ewich dijn wil ich doch bliven</l>
+<l>und leben altzijt anevanck,</l>
+<l>s und t dae mit auch striven,</l>
+<l>of das ich lebe dir tzo danck.</l>
+</lg>
+<lg><l n="870">Dijn lijp, dijn heil, dijn hoebesch gebeir,</l>
+<l>das liebet mir gair, tzairte vrauwelijn,</l>
+<l>und bin dijn eigen, woir ich keir.</l>
+<l>Behoede mich, vrouwen, van hertzen pijn,</l>
+<l>das ich mach bliven ane wanck</l>
+<l n="875">und vrolich leben al mijn jaer,</l>
+<l>zoe wulde ich dienen dir zu danck</l>
+<l>in einem strick van rodin vaer.</l>
+</lg>
+<lg><l>Czairte vrauwelijn, geleube das mir,</l>
+<l>das ich das leben mijn wil wesen vroe,</l>
+<l n="880">want ich mich gebe gevangen dir</l>
+<l>in einem wissen strick dair tzoe.</l>
+<l>Sus blive ich vast in dijn gewalt.</l>
+<l>Was wolde ich dir dae me van schriven?</l>
+<l>In desem stricke werde ich nit alt,</l>
+<l n="885">want du mir liebest voir allen wiven.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXIX.</head>
+<lg><l>Ich wonssche dir vroude und alles heil,</l>
+<l>mijn liebeste vrouwe, mijn vreuden deil,</l>
+<l>und al dijn lieplich hoibesch gebair</l>
+<l>wonssche ich ein vrolich nyewe jaer:</l>
+<l n="890">me da vroude also veil,</l>
+<l>als laubes spruisset in des meies tzeil,</l>
+<l>wonssche ich dir liebeste vrouwe mijn,</l>
+<l>ir soisse lijp, ir wijplich schyn.</l>
+</lg>
+<lg><l><milestone unit="fol" n="58v"/> * Noch wonssche ich nu und zu aller tzijt,</l>
+<l n="895">das sich das bilde tzairt verblijt</l>
+<l>und laissen truren varen hin,</l>
+<l>sint das ich eme in wonssche beken.</l>
+</lg>
+<lg><l>O milde krist, wilt helffen mer,</l>
+<l>das ich moge hain mijns hertzen beger -</l>
+<l n="900">soe wolde ich dich erwonsschen seir</l>
+<l>nae vreude und heil die ommer meir.</l>
+<l>Mocht nu geschien in deser tzijt,</l>
+<l>die liebeste tzairt, die mir virblijt, -</l>
+<l>und da mit lijp, hertz, moit bij sijn,</l>
+<l n="905">wonssche ich dir, soisse keiserin.</l>
+</lg>
+<lg><l>Doirch desen wonsch, so wil ich doch mich</l>
+<l>behalden in vrouwe venus strick,</l>
+<l>bij mir in dem hertzen nicht virgessen [...],</l>
+<l>want ich diene in blauwe und in wijs</l>
+<l n="910">und bliben wil bis in mijn zijt,</l>
+<l>dair zu so wil ich vurich roit</l>
+<l>dragen zu dem oirden mijn</l>
+<l>of dijn genade, mijn wiffliche schijn.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXX.</head>
+<lg><l>Wie woil ich van dir mois syn,</l>
+<l n="915">soe haistu doch das hertze mijn</l>
+<l>beslossen gair mit soisser list.</l>
+<l>Ich mein dich, liebste doichterlijn,</l>
+<l>du machst mir geben vreude und pijn</l>
+<l>voir al dat lebet, soe helff mir kist;</l>
+<l n="920">das blijft mir stedich onver scheiden.</l>
+<l>Zo lange mir got das leben g&#xE72D;nt,</l>
+<l>in dinen dienst mois ich mich reiden.</l>
+<l>Danck habe dijn lieplich roder mont.</l>
+</lg>
+<lg><l>* Mir ist zu bas, wan ich gedencke,</l>
+<l n="925">das du so selich bist und guet.</l>
+<l>Den loif ich dir mit rechte schencke,</l>
+<l>want dijn genade mich singen duet.</l>
+<l><pb n="17"/>Dijn eigen stat, dijns selves lant</l>
+<l>haistu vol na zu mael virbrant</l>
+<l n="930">mit dinem mynnentlichen vuer.</l>
+<l>Och, lessche doirch den mynnen brant:</l>
+<l>du haist doch meniche zijt bekant,</l>
+<l>dath ich ye was truwen puyr.</l>
+<l>Mijn uisserwelte und hoge erkoren,</l>
+<l n="935">truit selich vreuchen erentrich,</l>
+<l>sint du mir zo troist bist geboiren,</l>
+<l>soe lais dijn gonst ertroisten mich.</l>
+</lg>
+<lg><l>Das ich wer al der werlit heir,</l>
+<l>soe en wolde ich heiles wonsschen meir,</l>
+<l n="940">dan dir zu dienen eweclich.</l>
+<l>Nit anders sicher ich begeir,</l>
+<l>dan stedes zu volgen diner leir,</l>
+<l>mijn blancker engel suberlich.</l>
+<l>Ich hain dir gantz und gair gegeben</l>
+<l n="945">zu nuwen jair lijp, hertz und sin.</l>
+<l>Was dir gevoget, compt mir eben.</l>
+<l>Gedenck mijns, vrauwe, ich vaer dae hin.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXXI. Assit Deus.</head>
+<lg><l><milestone unit="fol" n="59r"/> * Vrouwen gheven hogen moyt,</l>
+<l>zo wie daer aen wil denchen.</l>
+<l n="950">Al miin leven das yst goyt,</l>
+<l>zin truren das moyt crenchen.</l>
+</lg>
+<lg><l>Eyn reyne, werde, zelich wyf,</l>
+<l>die sprac tso mir also:</l>
+<l>"Ich wil ziin dijns leyts verdrijf."</l>
+<l n="955">Des steyt mijn mueten ho.</l>
+<l>Das verstont ich sonder briif,</l>
+<l>end ich sprach: "vrou, also,</l>
+<l>ghyr sijt al mijns hertz gheyr,</l>
+<l>des ben ich alzus vro."</l>
+</lg>
+<lg><l n="960">Wyl die lieve vrouwe miin</l>
+<l>in truwen das verstaen,</l>
+<l>das ze gestede wilde zijn,</l>
+<l>mijn tr&#xE72D;ren weyr gedaen</l>
+<l>onde leghet in yrs hertzen scrijn,</l>
+<l n="965">end ich weer yr ghevaen.</l>
+<l>Yr eyghen dyenre wilde ich zijn,</l>
+<l>das ducht mir waer ghedaen.</l>
+</lg>
+<lg><l>Helf, rijch her god, wye mach das zijn,</l>
+<l>dem ziin lief niet en wenchet!</l>
+<l n="970">Yr stedycheyt, yr lieflycheyt,</l>
+<l>die mir die zinne trenchet,</l>
+<l>yr wiiflicheyt, yr guetlich woert</l>
+<l>deynt mych na vreuden denchen.</l>
+<l>Yr rontlicheit, yr balsem moyt,</l>
+<l n="975">mit zalden ze mich scenchen.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXXII.</head>
+<lg><l>* Wael hem, die na ziinre lost</l>
+<l>mit zuchten wert ghedrucht aen hertz lieven borst!</l>
+</lg>
+<lg><l>Och wie langhe sal ych commer dulden,</l>
+<l>ich zelder man,</l>
+<l n="980">das ich mire werder vrouwen hulde</l>
+<l>noch nie ghewan!</l>
+<l>Des dult mijn hertz groys ongedolt:</l>
+<l>vrou venijs geeft mir clein ontholt,</l>
+<l>opbaern.</l>
+</lg>
+<lg><l n="985">Venijs vrou, ich clage u minen commer.</l>
+<l>Trout zalich wiif,</l>
+<l>sal ich alzus verdommen</l>
+<l>mijn ionghe liif?</l>
+<l>Boven allen vrouwen wijs ercoren,</l>
+<l n="990"><pb n="18"/> ghenade, bloiende rosen,</l>
+<l>liefste liif!</l>
+</lg>
+<lg><l>Stedicheyt, wye machs tu das geliden</l>
+<l>in enighen moyt,</l>
+<l>das tu dich onstede lays bescriven</l>
+<l n="995">in blawen doet?</l>
+<l>Mennich, die gestede zeyt,</l>
+<l>die ghestedicheyt es onghereyt</l>
+<l>in hertzen.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXXIII.</head>
+<lg><l><milestone unit="fol" n="59v"/> * Och, in gansen truwen</l>
+<l n="1000">end in rechter stedicheyt,</l>
+<l>zo moys ich vederven,</l>
+<l>etz zy mir lief oft leyt.</l>
+</lg>
+<lg><l>Ich moys varen, end sy bliift.</l>
+<l>Den iammer, die mijn hertz drijft,</l>
+<l n="1005">dem lays ich ghein man bekennen.</l>
+<l>Zorgen, die aen mir beclijft,</l>
+<l>daer um moys ich zijn ontliift,</l>
+<l>en weys nicht, was beginnen.</l>
+<l>Mijn zuchten end mijn karmen</l>
+<l n="1010">dan helft mir nicht eyn haer.</l>
+<l>Ich moyt alleyne draghen,</l>
+<l>et wert mir wyl tse zwaer.</l>
+</lg>
+<lg><l>Goede maghet, reyne wiif,</l>
+<l>huet dich voer das loes bedriif</l>
+<l n="1015">end pijn dich altoes eren.</l>
+<l>Deys tu wael das lovelich,</l>
+<l>zo machs tu werden vreuden riich,</l>
+<l>dijn dinc ten besten keren</l>
+<l>mit minnentliken denchen,</l>
+<l n="1020">mit minnentliker daet.</l>
+<l>Zo ne mach dich geyn man crenchen,</l>
+<l>doch, das ist mijn raet.</l>
+</lg>
+<lg><l>Die nider connens niet ghezyen,</l>
+<l>dat ons vreuden mach gescien,</l>
+<l n="1025">zi ne willent al benyden.</l>
+<l>Das wensche ich sonder weder tyen,</l>
+<l>das hem leyde moys gescyen:</l>
+<l>Wyr willen ons verbliden.</l>
+<l>Huet dich voer die nider,</l>
+<l n="1030">dat is zo boysen dyet,</l>
+<l>si ne connens niet gheliden,</l>
+<l>das yement goys ghesciet.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXXIV.</head>
+<lg><l>* Lo zijn, lo zijn, lo zijn,</l>
+<l>dou sarte vrouwelijn,</l>
+<l n="1035">vrou, dijn onghebere,</l>
+<l>doch mer ghenade aen scijn!</l>
+</lg>
+<lg><l>Troestes aen zo ben ich noch.</l>
+<l>Ach, des tughet mer die moyt</l>
+<l>end brenck mer in lidens slot!</l>
+<l>Doch zo ben ich ongescout.</l>
+<l n="1040">Alzo, alzo, alzo</l>
+<l>mit haer in vreuden ho!</l>
+<l>Etz comt mer van ghedenchen,</l>
+<l>das ich werde vro.</l>
+</lg>
+<lg><l>Dou byst doch ye mijns hertz raet,</l>
+<l n="1045">wiltu [..] zo gheweldich?</l>
+<l>Of mijn dyenst dyr ich behayt,</l>
+<l>loen mer dan zo lichtelich</l>
+<l>das, das, das,</l>
+<l>helphz mer, lief, alzo!</l>
+<l n="1050">La mich ghenade winnen,</l>
+<l>zo bin ich alles vro.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXXV.</head>
+<lg><l><milestone unit="fol" n="60r"/> * Waphen, waphen, truweloes!</l>
+<l>Al evel dunck myr guet!</l>
+<l>Zynt ich mijns hertz vrou verloes,</l>
+<l n="1055">ervruyt mich niet die moyt.</l>
+</lg>
+<lg><l><pb n="19"/>Also lief, al zy mir is,</l>
+<l>das ich zi lazen moyt!</l>
+<l>Wer yt, altz et heeft gheweest,</l>
+<l>daer voer coer ich ghein goyt.</l>
+<l n="1060">Zint ich verloes,</l>
+<l>dat ich vercoes,</l>
+<l>ervruyt miin hertz nye.</l>
+<l>Nochtan zo deyt mir zo wal,</l>
+<l>dat ich zi ane zie.</l>
+</lg>
+<lg><l n="1065">Was wiltu, ionghe dommer man,</l>
+<l>was wiltu wenschen,</l>
+<l>zint tu bij dyns hertz vrou</l>
+<l>machs reyen densen?</l>
+<l>Daer en derf ich niet tsoe tyden</l>
+<l n="1070">nu noch nemmermeer.</l>
+<l>Zi hayt den zin van mir ghekeert,</l>
+<l>zi ne weynets nemmermeer.</l>
+</lg>
+<lg><l>Was wiltu, arme zender man,</l>
+<l>wes wyltu weynen?</l>
+<l n="1075">Ich stande her alleyne,</l>
+<l>en mach niemmer vreude haen</l>
+<l>noch te blide zyn:</l>
+<l>eyn ander man hayt zijn ghenuechte</l>
+<l>van der vrouwen mijn.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXXVI.</head>
+<lg><l n="1080">* Nu daer, nu daer, nu daer!</l>
+<l>Werde mijn, nu van myr vaer!</l>
+<l>Ich houde mich aen mijn armoet.</l>
+</lg>
+<lg><l>God gheve minre vrouwen goet</l>
+<l>heiles vil, des ich yr gan.</l>
+<l n="1085">Ich bin myt scaden worden vroet,</l>
+<l>des ich bin ir gompelman.</l>
+<l>Alle mijn hope gayr verloren.</l>
+<l>Et zi mir lief, et zi mir toren,</l>
+<l>ich gheve mijn halleer om mijn hoet.</l>
+<l>  1090 Dat ich yr bin zo rechte smade,</l>
+<l>dat is mire armoet scout,</l>
+<l>des wert ich van leide gra,</l>
+<l>en haen zilver nochte golt.</l>
+<l>Zal zi mich daer om versmaden,</l>
+<l n="1095">dat ich leyder niet haen -</l>
+<l>wie dunck, dat zi mir reden doet.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXXVII.</head>
+<lg><l>* Wijf,</l>
+<l>zoukyr zuesyr bloemen bloyt</l>
+<l>yst dyr lijf.</l>
+<l n="1100">Drijf, rouwe, von mir zelden leyt.</l>
+</lg>
+<lg><l>Oph eerden zo ne wert nye gheboren,</l>
+<l>das vrouwen mach ghelijchen.</l>
+<l>Der haen ich eyn uysercoren.</l>
+<l>Die zorghen die van mir wychen.</l>
+<l n="1105">Yr dienre wil ich gerne zijn,</l>
+<l>das wal anscijn,</l>
+<l>mijn vrueden kan zi machen breyt.</l>
+</lg>
+<lg><l>Der alles guets mich enden kan,</l>
+<l>das minnen mach volbrenghen [...]</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXXVIII.</head>
+<lg><l n="1110"><milestone unit="fol" n="60v"/> * Mijn hertz smeltzit mir zam der sne</l>
+<l>droch eynen tsersen lijf.</l>
+<l><pb n="20"/>Ich meyne eyn B en oec een E,</l>
+<l>mijn dienst zal stedeliken by haer bliven.</l>
+</lg>
+<lg><l>Ich wil mich vrijshelic heven an,</l>
+<l n="1115">mijn moet, die wil sich nyen.</l>
+<l>Liever lief ich nie ghewan,</l>
+<l>mijn dienst en can zich van haer vert siden.</l>
+<l>Des ben ich arm man gayr onvro</l>
+<l>end leve in den eleynde.</l>
+<l n="1120">Zulde ich verbranden zam eyn stro,</l>
+<l>en conde mich van haer keren noch ghewenden.</l>
+</lg>
+<lg><l>Lief, das ich niet wael en vaer,</l>
+<l>das doer dinen wil.</l>
+<l>Das ich dich niet ghedienen dayr,</l>
+<l n="1125">das clagen ich gayr heymlich onde stille,</l>
+<l>ich meyne das beste vroudelijn,</l>
+<l>daer van ich liden smertze.</l>
+<l>Ich gruet dyr minnentlichen anscijn</l>
+<l>uys ynnentliker hertzen.</l>
+</lg>
+<lg><l n="1130">Gheyn ionc man sal gheyn vrouweliin</l>
+<l>tsu gheynre tsijt bescalken.</l>
+<l>Gheyt das na dem wille ziin,</l>
+<l>her zal zi draghen als einen wilden valken.</l>
+<l>Mucht ich in draghen oph mijnre hant,</l>
+<l n="1135">mich ducht, ich heddes ere.</l>
+<l>Zolde ich daer omme rumen tlant,</l>
+<l>en conde mich van haer wenden noch ghekeren.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXXIX.</head>
+<lg><l>Miin troest yst in tswijfel ghevallen.</l>
+<l>Wal oph, waer willent varen wallen!</l>
+<l n="1140">Ich haent gheloeft eyn kerchuaert.</l>
+<l>Zint miin lief mich hielt in zorghen,</l>
+<l>spade zo wart ich ghen dem morghen,</l>
+<l>of mir yr rotyr mont af gaet,</l>
+<l>unde in vreuden hald ich mich.</l>
+<l n="1145">Zo hayt yr minne</l>
+<l>ganz mijn zinne -</l>
+<l>adeu, god gheleyde dich!</l>
+</lg>
+<lg><l>Sceyden heyt mijn hertz vercoren.</l>
+<l>Langher dienst weer gaer verloren,</l>
+<l n="1150">den had oph zuverzicht.</l>
+<l>Wold ich volghen yren scertzen,</l>
+<l>das mucht mir wel brenghen smertzen,</l>
+<l>tso dem erntst wers nichtz nicht.</l>
+<l>Zi moes wel anders schyhyn zich,</l>
+<l n="1155">oder ich wayr</l>
+<l>openbaer.</l>
+<l>Adeeu, god gheleide dich!</l>
+</lg>
+<lg><l>Dringhen das brencht meneghen zwaren.</l>
+<l>Mocht ertz verkeren mere,</l>
+<l n="1160">etz zamyt ziin wille nicht.</l>
+<l><milestone unit="fol" n="61r"/> Zo moys ich yr vyl manghes leiden.</l>
+<l>Wil ar mich yr spelen meyden,</l>
+<l>das eyn anderen ducht ewich.</l>
+<l>Reyn ghezel, nu spriich,</l>
+<l n="1165">la voghelen zinghen</l>
+<l>van dyr dringhen.</l>
+<l><pb n="21"/>A deeu, god gheleide dich!</l>
+</lg>
+<p>Hince ian te borghe.</p>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXXX.</head>
+<lg><l>* Ich wen, et zij, zo men mir zayt,</l>
+<l>daert tso mijn gheloven drayt:</l>
+<l n="1170">mich duncket, wie den anderen iaghet,</l>
+<l>datz her zelden rastz.</l>
+<l>   Ich volghe yr, als dier tygher doet</l>
+<l>dem spiegel van arde na dem welfen ziin.</l>
+<l>De tsartz yst minnentliiche ane crijt.</l>
+<l n="1175">Van ich zi zye in ghelijchen schiin,</l>
+<l>so han ich gayr die wise verloren.</l>
+<l>Ze is mir alstz hoghe gheboren.</l>
+<l>Woor allen vrouwen us vercoren</l>
+<l>is ze wel die beste.</l>
+</lg>
+<lg><l n="1180">Zi hayt aen yr van aerde</l>
+<l>des panters zuesheit, des volget yr al doghet na.</l>
+<l>De tsartz is kuys end milde ire guete,</l>
+<l>mir is na iren hulden ga.</l>
+<l>Zus hayn ich weder roe no rast.</l>
+<l n="1185">al ondaet is zi gayr ghehas.</l>
+<l>Zi is mijn wert, ich bin ier gast.</l>
+<l>Op steden wil ze lesten.</l>
+</lg>
+<lg><l>Dem zedewaer ghelijcht zi ane wise,</l>
+<l>daer al vergijft van aerde aen sterft.</l>
+<l n="1190">Zijst ane gal, in dogeden ich zi prise,</l>
+<l>al ondayt gayr aen zi verdrijft.</l>
+<l>Des draget zi der eren rijs,</l>
+<l>croen in conincliker wijs.</l>
+<l>Van allen vrawen hayt zi prijs,</l>
+<l n="1195">behaelt zijt in dat leste!</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXXXI.</head>
+<lg><l>* Armans dienst is dycke onwert,</l>
+<l>Nochtan dat hijt in truwen hoeft.</l>
+<l>Aldus yst mich erlongen.</l>
+</lg>
+<lg><l>Amor, venus, muchtet ziin,</l>
+<l n="1200">dat zich die lieve bedechte,</l>
+<l>anzige ghelays end werke mijn</l>
+<l>end loende mich nae rechte!</l>
+<l>Want en can nicht us ghebrenghen,</l>
+<l>eyn woert uiz spreken no niet zinghen,</l>
+<l n="1205">zo vrucht ich der nider tsonghen.</l>
+</lg>
+<lg><l>Diene ich erghent, daer zi si,</l>
+<l>om haer miin noet te claghen,</l>
+<l>anxt en zorghe woent mer dan bij</l>
+<l>end dars haer niet ghewaghen,</l>
+<l n="1210"><milestone unit="fol" n="61v"/> wat mer dan int hertz leyt,</l>
+<l>ghelays end zinne werd ich quijt -</l>
+<l>alzus ben ic bedwonghen.</l>
+</lg>
+<lg><l>Sal ze mer niet gheniezen zaen,</l>
+<l>das ze mer lief voer alle wijf,</l>
+<l n="1215">end zijt wael weis, wil zeet verstaen,</l>
+<l>das ich herts, ziele end lijf</l>
+<l>yr tse dienste ye gheboet,</l>
+<l>zo weer ich vil zaechter doet:</l>
+<l>miin vreude ist mer ontdronghen.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXXXII.</head>
+<lg><l n="1220">Ich wil iaermeer wezen vro,</l>
+<l>miin ghemuete das steyt ho</l>
+<l><pb n="22"/>dorch eyn wiif, die mer zo wael bevellet.</l>
+<l>Ich hope, mer ghescee noch troyst,</l>
+<l>das ich us zorghen werde erloyst</l>
+<l n="1225">unde ze zich vruentliich tsu mer ghezellyt.</l>
+<l>Ich byd zy anders niet wan um ein grusen,</l>
+<l>en gheer oech anders nicht tso loen.</l>
+<l>Vrou tsart, miins hertzen croen,</l>
+<l>da met machstu miin zende zwaere buezyn.</l>
+</lg>
+<lg><l n="1230">Doen god in ziere ingel scaer</l>
+<l>zas end dachte aen die claer,</l>
+<l>das ze zulde comen oph de erden,</l>
+<l>Nach wensche her zi eben mas,</l>
+<l>nichtes her aen yer vergas.</l>
+<l n="1235">Doe her die tsartz lies gheboren waes,</l>
+<l>ich wene her oech aen mich ghedechte;</l>
+<l>das ze zulde ziin miin hemelrych</l>
+<l>oph erden, die wael minnentliich,</l>
+<l>unde hi mer vil stedigher vreuden brechte.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXXXIII.</head>
+<lg><l n="1240">* Mich wondert, das ich ummermee mach lazen,</l>
+<l>zint myr yr min zo troutelych can dwynghen.</l>
+<l>Nochtan wil ich die lude vrolich machen</l>
+<l>onde van mire werder vrouden zynghen,</l>
+<l>op das ze ghedenken wil,</l>
+<l n="1245">wat ich commers in mijn hertz dulde.</l>
+<l>Minnentlike reyne wijf,</l>
+<l>dou ghees mich broke recht ane minen sculden.</l>
+<l>Och wie gerne nem ich, vrouwe, diin hulde!</l>
+</lg>
+<lg><l>He sprach: "god groes dyr, minnentlike minne,</l>
+<l n="1250">mir ist tse bas, al ich uch ane scouwe."</l>
+<l>Mettien toech zi den sloyaert van den kinne.</l>
+<l>Doen stont yr mont recht als eyn roze in dauwe.</l>
+<l>Wie wal das mir tse moede was,</l>
+<l>doen ich zach yr lely witze wanghe!</l>
+<l n="1255"><milestone unit="fol" n="62r"/> Zy waeren fier al daer by tsaer,</l>
+<l>oech wat rodes was haer aen ghehanghen.</l>
+<l>Aldus halt mir yr minnen stricht ghevanghen.</l>
+</lg>
+<lg><l>Oph erden wart nie bilde bas ghestellet,</l>
+<l>dan miin lief is, die ich dus hoghe prise.</l>
+<l n="1260">Ich haen mich in den moede zo verzellet,</l>
+<l>miin zukeren truit, miin bloemen oph groenen tswighe.</l>
+<l>Zy is miin venster onde miin sciin,</l>
+<l>miin morghen vroe, miin sterre onde miin zonne.</l>
+<l>Danch have die lieve vrouwe mijn!</l>
+<l n="1265">Zi is dar eren loepen als eyn br&#xE72D;ne.</l>
+<l>Zi is miin heil end al miins hertzen w&#xE72D;nne.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment"><pb n="23"/> XXXXIV.</head>
+<lg><l>* Ich weyz eyn wiif, die huset in der hertz miin</l>
+<l>voer allen vrouwen zichyr gayr</l>
+<l>und haet ghewalt tsu ghebieden mer.</l>
+</lg>
+<lg><l n="1270">Wie mucht ich mich yummer bas geziin,</l>
+<l>dan ich zi wiste in eren scaer?</l>
+</lg>
+<lg><l>Ich weynsch yr heyl ayn allen arghe valsche piin -</l>
+<l>oph das god yr ere bewaer,</l>
+<l>das weer miins hertzen geer.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXXXV.</head>
+<lg><l n="1275">Meyn tsijt</l>
+<l>ghijt,</l>
+<l>das ionghen hertzen wal bevellet,</l>
+<l>zint der angher lijd</l>
+<l>gaer wonnenclijch ghestellet.</l>
+<l n="1280">Vogheliin</l>
+<l>ziin</l>
+<l>mit zanghe vrolich, das hellet.</l>
+<l>Gheel vaer bloemen sciin</l>
+<l>ziet men onghetellet.</l>
+<l n="1285">Des moet zwachen</l>
+<l>gayr yr leide.</l>
+<l>Vro can machen</l>
+<l>mir die lieve heyde.</l>
+<l>Das kan ich mich vro machen,</l>
+<l n="1290">dyr ich byn verzellet</l>
+<l>gaer innentlijch,</l>
+<l>daer van miin hertz quellet.</l>
+</lg>
+<lg><l>Sal miin zanch</l>
+<l>lanch</l>
+<l n="1295">der hertzen lieven nich behaghen,</l>
+<l>daer ich ye na ranch,</l>
+<l>wie m&#xE72D;ch ich das verdraghen?</l>
+<l>Zal eyn man</l>
+<l>van</l>
+<l n="1300">den vrouwen has eer prijs beiaghen,</l>
+<l>waer om dien ich yr dan?</l>
+<l>Das mach men mir wael vraghen.</l>
+<l>Miin ghemuete ist hofens riiche.</l>
+<l><milestone unit="fol" n="62v"/> Wolde die lieve, het gynghe mir ghelike.</l>
+<l n="1305">Was ich zol</l>
+<l>wol</l>
+<l>den vrouwen zinghen odyr zaghen:</l>
+<l>was ich lidens dol,</l>
+<l>des moys ich ummer claghen.</l>
+</lg>
+<lg><l n="1310">Wan</l>
+<l>ich leve in den waen,</l>
+<l>das zi mijns beghere,</l>
+<l>zo steyt mir mijn moyt,</l>
+<l>oph ich der keyzer were.</l>
+<l n="1315">Wan ich come an die stat,</l>
+<l>daer zi mich wal ontbere,</l>
+<l>zo wert mich ever wee</l>
+<l>van commerlijcher zwere.</l>
+<l>twyderhande machs stut wenden,</l>
+<l n="1320">sc&#xE72D;ene fyeye, mach es mir een eynden!</l>
+<l>Vrouwe vroet,</l>
+<l>doet</l>
+<l>mir wal, des zaltu haven ere!</l>
+<l>Verworve ich zulich goet,</l>
+<l n="1325">jo wensche ich nych meer.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment"><pb n="24"/> XXXXVI.</head>
+<lg><l>Tsijt van den angher,</l>
+<l>langher</l>
+<l>winder, das raden ich!</l>
+<l>Mich</l>
+<l n="1330">dunket, ghyr zijt worden zegheloes.</l>
+<l>Dringhen durch das crut</l>
+<l>ut</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l n="1335">zynt zy werden voghelijn, dem doe vroes.</l>
+<l>Waer na die ionghen</l>
+<l>ronghen</l>
+<l>ye, das bringhet ons dem mey:</l>
+<l>gayr zender smertzen</l>
+<l n="1340">hertzen-</l>
+<l>vreude willen wyer haen,</l>
+<l>gaen</l>
+<l>zynghen, lynken na den pyfen screy.</l>
+</lg>
+<lg><l>Och, was die heyde</l>
+<l n="1345">weyde,</l>
+<l>velt oph angher breyt</l>
+<l>dreyt,</l>
+<l>bloemen, gras unde was die vreuden beert,</l>
+<l>da v&#xE72D;er neen ich der z&#xE72D;etzen</l>
+<l n="1350">gr&#xE72D;etzen</l>
+<l>droch was iaer,</l>
+<l>tzwaer,</l>
+<l>und der lyever holde, och zi mich wert.</l>
+<l>Des wil ich hoffen</l>
+<l n="1355">proffen</l>
+<l>oph yr guede tsu alre st&#xE72D;nt.</l>
+<l>Wes zolde ich zorghen</l>
+<l>borghen,</l>
+<l>willych hertzen leyt</l>
+<l n="1360">geyt</l>
+<l>troesteliich tghen mir uf yr zuetzen mont!</l>
+</lg>
+<lg><l>Frimoet als ester</l>
+<l>bester</l>
+<l>woent der eren by,</l>
+<l n="1365">zi</l>
+<l>reyne, z&#xE72D;etze, ubsche, doghent rijch.</l>
+<l>Mer mach uf eerden</l>
+<l>werden</l>
+<l>nemmerme zo wol,</l>
+<l n="1370">zol</l>
+<l><milestone unit="fol" n="63r"/> ich m&#xE72D;cht tsu eynen male lieflich troesten mych.</l>
+<l>Des wil trueren</l>
+<l>stueren</l>
+<l>vroliich van myr hyn.</l>
+<l n="1375">Ho will ych zinghen,</l>
+<l>springhen</l>
+<l>in der vreuden creys.</l>
+<l>Weys</l>
+<l>god, zo weer da hyn mijns hertzen pyn.</l>
+</lg>
+<p>Explicit.</p>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXXXVII.</head>
+<lg><l n="1380">Ich vrouwe mir_, das ich zal aen zien</l>
+<l>das liever wijf, van der ich nye en keerte.</l>
+<l>Ich moys yr alre duegheden gyen,</l>
+<l>mijn steder moet mir nye anders leerte.</l>
+<l>Ich claghede yr ye mijn ongheval</l>
+<l n="1385">gayr stede in minen moyte.</l>
+<l><pb n="25"/>Wal mir, das ich ye ghezach</l>
+<l>by minen daghen eyn wijf zo rechte guete!</l>
+</lg>
+<lg><l>Daer om byn ich yr zo holt,</l>
+<l>yst yr tse danche, oph yr ghenade ich waerte.</l>
+<l n="1390">Ich dyende yr ye um rechten tsolt.</l>
+<l>Aen allen wanc yst zy eyn wijf zo tsaerte.</l>
+<l>Ich wil yr dyenen onversocht,</l>
+<l>mit truwen ich zy meyne.</l>
+<l>Ze wast zi mijns hertzen voecht,</l>
+<l n="1395">oph minen eyd, jo zi end anders gheyne.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">XXXXVIII.</head>
+<lg><l>Van nyen zender arbeyt</l>
+<l>moyz ich leyder trurich ziin.</l>
+<l>Mir west iamer unde leyt</l>
+<l>durch die liefste vrouwe mijn.</l>
+<l n="1400">Ydoch zo yst zi mijn hoyste oyrt.</l>
+<l>Zi ist zo goet, zi helft noch:</l>
+<l>in den wane leve ich voert.</l>
+</lg>
+<lg><l>Of ich ie ghewan dem moet,</l>
+<l>das ir ere werde cranch,</l>
+<l n="1405">Tswaer, zo ne ghesciet mir nemmer goet</l>
+<l>onde ich diene yr ane danch!</l>
+<l>Mir gheyt dii tsiit mit leide hyn,</l>
+<l>das zi mit cleynen dinghen wol</l>
+<l>wende in vreuden riicher sciin.</l>
+</lg>
+<lg><l n="1410"><milestone unit="fol" n="63v"/> God g&#xE72D;nne mir, des ich yr gan,</l>
+<l>nicht mer wensch mine daghe.</l>
+<l>Mucht ych eyn gruezen van yr haen,</l>
+<l>so verwonne ich mine claghe.</l>
+<l>Weer ich die lieve noch zo has,</l>
+<l n="1415">ich wolde yr dienen miin iaer</l>
+<l>und wenschen yr ye bas.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">IL.</head>
+<lg><l>* Mer es tser hertzen werden wee,</l>
+<l>des verghesse ich nemmerme,</l>
+<l>mer en troeste dan die reyne.</l>
+</lg>
+<lg><l n="1420">Ich wane ziin ontbonden</l>
+<l>van zennentlijchen daghen.</l>
+<l>Nu han ich truwen vonden,</l>
+<l>das moys ich ummer draghen.</l>
+<l>Vyl besser yst eyn tsuversicht</l>
+<l n="1425">dan eyn tswyveliich ghescicht:</l>
+<l>in truwen ich das meyne.</l>
+</lg>
+<lg><l>Vrou venijs, gyft mer lere,</l>
+<l>dat ich yr hulde erwerve</l>
+<l>onde zi dem moet erkere,</l>
+<l n="1430">eer ich tse mael erderve.</l>
+<l>Dem slussel van mijns hertzen scriin</l>
+<l>draecht die minnentlijche fiin,</l>
+<l>Jo zi end anders gheyne.</l>
+</lg>
+<lg><l>Laet ze mich trurich bliven</l>
+<l n="1435">mit desen nien iare -</l>
+<l>myr lief v&#xE72D;r allen wiven</l>
+<l>gayr in dey hoechsten scaere -</l>
+<l>wal hen, dat zetz ich an yr ts&#xE72D;cht!</l>
+<l>Wan ze wil, die zuetze vrucht,</l>
+<l n="1440">zo ist miin tr&#xE72D;ren cleyne.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">L.</head>
+<lg><l>Och, here god, wie zere mer erlenghet</l>
+<l>tso eynre liever stat, ich weys wel waer!</l>
+<l>Der merker hoete mer zo zere drenghet,</l>
+<l>das ich niet en mach noch oech en dar</l>
+<l n="1445">tso mire liever vrouwen,</l>
+<l><pb n="26"/><milestone unit="fol" n="64r"/> der ich was ye wel holt.</l>
+<l>Och, heren god, zal ich ze nemmer scouwen?</l>
+<l>Ich kuer sieh voer alre grieken golt.</l>
+</lg>
+<lg><l>Miin paradijs, miin spelende lichte zonne</l>
+<l n="1450">ist die lieve, daer al miin zalde an steyt.</l>
+<l>Ich wensche yr bas, dan ich mer zelven gonne:</l>
+<l>das reden ich an engher haarde leyt.</l>
+<l>In kuer nich voer die reyne</l>
+<l>gesmide onde golt zo roet.</l>
+<l n="1455">Of ich das nicht in gansen truwen meyne,</l>
+<l>so bliven ich vuer iren vuesen doet.</l>
+</lg>
+<lg><l>Nach yr zo spielt das hertz in minen live</l>
+<l>recht als ein cleyne wiltz vogheliin,</l>
+<l>das in der luchte ziin vreude drivet.</l>
+<l n="1460">Zus veert miin ghemuete nach ir hijn,</l>
+<l>ghedancke, hertz en zinne,</l>
+<l>wan ich die guete anzie.</l>
+<l>Och venijs, vrou, edel coninghinne,</l>
+<l>helf, das mer noch heyl van yr ghescie.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LI.</head>
+<lg><l n="1465">Ist enich man vrys durch zines hertzen vrouwen,</l>
+<l>die zi tsu vriuden balt.</l>
+<l>Och, yummer och, zal ich zi nicht mer scouwen!</l>
+<l>Yr liif ist wal gestalt,</l>
+<l>die lief onde leyt an mir besloet,</l>
+<l n="1470">ich zwueer das wal bij alle minen eyden [...],</l>
+<l>dat mich yrs nicht verdroet.</l>
+</lg>
+<lg><l>Och milder dach, wye wal was mir tsu moede,</l>
+<l>doen ich miin vrou ansach!</l>
+<l>Miin balsam smaec ist die vyl tsartz goede,</l>
+<l n="1475">daer tsu miin oester dach.</l>
+<l>Ghegruest bist u, bluiende stam,</l>
+<l>dou lieves wal daer van zi zelden quam,</l>
+<l>dou zoete godes lam.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LII.</head>
+<lg><l><milestone unit="fol" n="64v"/> * Al yst der winter nidich,</l>
+<l n="1480">der langer nach verblijt ich,</l>
+<l>gaen ich, loef ich, rid ich</l>
+<l>tso der wel ziuver tsidich.</l>
+<l>vermyd ich zulcher geer,</l>
+<l>wye gec ich weer.</l>
+</lg>
+<lg><l n="1485">Cle haet hye ghewezen</l>
+<l>al dezen</l>
+<l>zuezen zomer lanc.</l>
+<l>Des zint hie ghelezen -</l>
+<l>al lezen -</l>
+<l n="1490">Rozen bloemen manc.</l>
+<l>Ich meyne da[s] oph miin trouwen:</l>
+<l>ich zolde liever scouwen</l>
+<l>eyn dans van sconen vrouwen</l>
+<l>dan bloemen an der ouwen.</l>
+<l n="1495">Verhouwen</l>
+<l>connen zeer</l>
+<l>wel hertzen zweer.</l>
+</lg>
+<lg><l>Zomer onde winter,</l>
+<l>der nynter</l>
+<l n="1500">ghijt mir hoghen moet.</l>
+<l>Des moys ich eyn zinter</l>
+<l>noch spinter</l>
+<l>brinnen in der gloet.</l>
+<l>Des yst mir als eyn ander.</l>
+<l n="1505"><pb n="27"/> Die mile yst mir wil grander:</l>
+<l>wie vaer ich henen wander,</l>
+<l>die coninx alexander</l>
+<l>en vand er</l>
+<l>nye gheyn zo breyt,</l>
+<l n="1510">wye ver he reyt.</l>
+</lg>
+<lg><l>Ich en laze eyn stave</l>
+<l>niet abe,</l>
+<l>al han ich vyl verloren.</l>
+<l>volghet ymant hine tsen grave,</l>
+<l n="1515">[...............]</l>
+<l>neynic, nicht eyn coren.</l>
+<l>Des wyl ich zender leye</l>
+<l>tso winter und tse meye</l>
+<l>vrolich ziin tsem reye.</l>
+<l n="1520">Wiltu, wel scuene feye,</l>
+<l>tseyn, eye,</l>
+<l>en tr&#xE72D;r ich nicht -</l>
+<l>miin hertz is licht.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LIII.</head>
+<lg><l><milestone unit="fol" n="65r"/> So der meye zich lat scouwen</l>
+<l n="1525">scone in dem ghebluinde ouwyn</l>
+<l>onde der valt gheblumit staet</l>
+<l>ond horet vogheliin zinghen,</l>
+<l>zo weys man by waren dinghen,</l>
+<l>das der winter ende hat.</l>
+<l n="1530">Zo moys ich mit zorghen ringhen:</l>
+<l>In have troest van wibe,</l>
+<l>by dem ich tsijt verdrive,</l>
+<l>dy mir anders nicht vurvat.</l>
+</lg>
+<lg><l>Weystu, minne, was ich wolde,</l>
+<l n="1535">of ich ho wenschen wolde?</l>
+<l>Zych, das ware eyn wiiflijch wijf,</l>
+<l>zenfte van ziden, wijs van zinnen,</l>
+<l>strijst an eren, zuetz an mynnen,</l>
+<l>scone, unde da by k&#xE72D;nscher lyph.</l>
+<l n="1540">Zol ich yummer ich ghewinnen</l>
+<l>by der werelde doghenlijche,</l>
+<l>so ne st&#xE72D;nt nye so wol die rijche,</l>
+<l>nie zaghe in mime zanghe blyph.</l>
+</lg>
+<lg><l>Ich wil nemmer vyl ghedriven</l>
+<l n="1545">onghemach no zwachen wyven,</l>
+<l>mynne, das ghelo&#xE72D;e ich dyr.</l>
+<l>Du wilt, hoef ich, mit dinghen</l>
+<l>mich vyl werdelicher tswinghen,</l>
+<l>die nach willen loenet myr.</l>
+<l n="1550">Du moyst aver mich da bringhen,</l>
+<l>da miin dienst zuetz erhelle.</l>
+<l>Bystu danne can goet ghezelle,</l>
+<l>das yrvind ich wal an dyr.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LIV.</head>
+<lg><l>Myr doyt wel der rijche wan,</l>
+<l n="1555">die ich tz&#xE72D; der g&#xE72D;eten han:</l>
+<l>wan der mosewel verghat</l>
+<l>zam der sne, zo lonet mir die reyne.</l>
+<l>Alles, des mijn hertz geert,</l>
+<l>des bin ich vron yr ghewert.</l>
+<l n="1560">Minen wil doet zy wol.</l>
+<l>Gheb&#xE72D;we ich yr eyn huys van elfenbeyne,</l>
+<l><pb n="28"/>wa ich wil, of eyne ze,</l>
+<l><milestone unit="fol" n="65v"/> zo han ich yr vr&#xE72D;ytscaf und yr hulde.</l>
+<l>Brenghe ich yr van galile</l>
+<l n="1565">her ane alle sculde</l>
+<l>eynen berch, ghev&#xE72D;ghe ich das,</l>
+<l>da herodes offe zas,</l>
+<l>Heya hey! des weer alles dynsts eyn vergulden. Jodute.</l>
+</lg>
+<lg><l>Langher dyenst, der ist goyt</l>
+<l n="1570">dey man sc&#xE72D;nen vrouwen doyt,</l>
+<l>als ich miner han ghedaen.</l>
+<l>Des moys ich yr den salamander bringhen.</l>
+<l>Eynes haet zi mir ontboden,</l>
+<l>das ich scich yr aver den roden</l>
+<l n="1575">hyn tzu provinche an das lant</l>
+<l>tsu n&#xE72D;erenberch - da mach mir wol ghelinghen -</l>
+<l>und dey truwe over rijn.</l>
+<l>Doen ich das, zo doet zi, das ich m&#xE72D;ete.</l>
+<l>Zelich zy die vrouwe mijn,</l>
+<l n="1580">zi ist gheheyzen g&#xE72D;te:</l>
+<l>sprich ych ya, ze sprichet neyn:</l>
+<l>alzus helle wer in eyn!</l>
+<l>Heya hey, ze ist ghewezen tze langhe us miner h&#xE72D;te.</l>
+</lg>
+<lg><l>Miin vrou wilt han dem gral,</l>
+<l n="1585">des da plach her pertzeval,</l>
+<l>und den appel, die parijs</l>
+<l>gaf d&#xE72D;rch minnen venus, der godinne.</l>
+<l>Eyn boem steyt tse j&#xE72D;dea</l>
+<l>groys, dem wil zi haven da</l>
+<l n="1590">und van caridol das horen,</l>
+<l>des da plach dey here coninginne</l>
+<l>und dem mantel, dem zi droech</l>
+<l>daer die vrouwen scaef zo wandelbere.</l>
+<l>Dan noch wil zi haven ghenoech,</l>
+<l n="1595">das mir ist tzu zwere:</l>
+<l><pb n="29"/>Nach dem erken yst yr wee,</l>
+<l>die beslosen hat noe.</l>
+<l>Heya hey, brechte ich yr die, wye lief ich  yr dan were! Jodute.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LV.</head>
+<lg><l>Die lucht hayt zich ghezyeryt wol,</l>
+<l n="1600">der angher luchtz bloemen wol,</l>
+<l>wal ons der liever meren!</l>
+<l>Dye vogheliin haynt des winters leyt</l>
+<l>verdronghen, des zint zi ghemeyt.</l>
+<l>Verghanghen yst yr zweren.</l>
+<l n="1605">Wal of, ghij vrouwen wal ghemoyt,</l>
+<l>treedt vrolich an des meyen bloyt,</l>
+<l>ziin guete en yst niet cleyne.</l>
+</lg>
+<lg><l>* Wal heen, ghi b&#xE72D;eze, kerighe zaghen,</l>
+<l>verboden zy dyr crenseliin draghen</l>
+<l n="1610">mit sconen vrouwen reyne!</l>
+</lg>
+<lg><l>Wye nu hayt moyt end reyne lijf,</l>
+<l>hem zal das minnentlijche wijf</l>
+<l>mit zuesen bloemen cleyden</l>
+<l>onde scuwen das wl scander wicht,</l>
+<l n="1615">das zinen stat in scanden licht,</l>
+<l>ond lasynt syn in leyde.</l>
+<l>Deystu das, vrou, der eren oert,</l>
+<l>zo wert dijn lof gayr vollenboert</l>
+<l>voer al der werelt ghemeyne.</l>
+</lg>
+<lg><l n="1620"><milestone unit="fol" n="66r"/> Dye nye na wyves hulde ranc,</l>
+<l>was zocht er in tsweyn armen blanc</l>
+<l>dar wal ghemueten vrouwen?</l>
+<l>Doen dou u vromer heelt, dou milder man,</l>
+<l>dou zalt mit sconen vrouwen gaen</l>
+<l n="1625">om bloemen an der ouwen.</l>
+<l>Daer wert dich menich vr&#xE72D;entlijch groys</l>
+<l>van vrouwen, die ich lo&#xE72D;en moys</l>
+<l>voer golt end duer ghesteyne.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LVI.</head>
+<lg><l>* Mistroest ist miin naeste maech,</l>
+<l n="1630">des moys ich iamer driven.</l>
+<l>Daer van wert mijn ghem&#xE72D;ete traech.</l>
+<l>Zal das an mir becliven,</l>
+<l>och rijch her god, zo moys ich tr&#xE72D;rich bliven!</l>
+</lg>
+<lg><l>Mucht ich mir zelven troysten,</l>
+<l n="1635">zo waer ich wel daer an,</l>
+<l>zo leved ich mit ten vroosten,</l>
+<l>des ich nu nyet en can.</l>
+<l>Dat ist mir werlich alste leyt.</l>
+<l>Zal ich alzus vederven,</l>
+<l n="1640">zo ist miin scade noch alste breyt.</l>
+<l>An yren danc wil zi mir tr&#xE72D;eren erven.</l>
+</lg>
+<lg><l>Wie m&#xE72D;cht ich des ghenezen,</l>
+<l>dat wondert mir zo vyl.</l>
+<l>Ich moys allene wesen,</l>
+<l n="1645">werlich, al ane tsyl.</l>
+<l>Des mach ich nyet tse voeren ziin,</l>
+<l>ich han den scaden vonden,</l>
+<l>des truyrt jo dat hertz mijn.</l>
+<l>Owe, owach! Min heyl is mir ontronnen.</l>
+</lg>
+<lg><l n="1650">Miin moyt beghint tse zwachen,</l>
+<l>des dunck mir vyl tse vro.</l>
+<l>Het coomt by zulichen zachen:</l>
+<l>ich drysche gayr ydel stro.</l>
+<l>Daer ich miin arbeyt umme dreyf,</l>
+<l n="1655"><pb n="30"/> des hayt eyn ander vromen.</l>
+<l>Och, das ich nich tser heyme en bleyf</l>
+<l>onde weer daer nicht ghecomen!</l>
+</lg>
+<p>Das besser god in tsiit.</p>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LVII.</head>
+<lg><l>Trout zelich wijf, zal troyst an mir becliven,</l>
+<l n="1660">zo spreech us dinen mont zo roet:</l>
+<l>"doen ne zalt nicht lench der zorghen waghen driven",</l>
+<l>die mi ghebeyt bys an die doet.</l>
+<l>Deys dan dat, zo trouwe jch wal ghenezen,</l>
+<l>vyl hertz vrocht. Zal ich alzus verwezen,</l>
+<l n="1665">das weer eyn onverdienet loen.</l>
+</lg>
+<lg><l><milestone unit="fol" n="66v"/> Wie ver ich bin, al minen zin ontrisschet</l>
+<l>om een zo fiin das bilde claer.</l>
+<l>Ir mont roet kan dousent zorghen leschen,</l>
+<l>vyl menich enghel nemt er waer.</l>
+<l n="1670">Wie ver ich vaer, miin hertz steyt by der scone</l>
+<l>om anders nicht. Yr hoyft das dreyt de crone</l>
+<l>gayr weldich in der hoechster scayr.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LVIII.</head>
+<lg><l>* Waer wert ye hogher sture,</l>
+<l>dem ionch in hertzen commer hacht,</l>
+<l n="1675">mit zuetzer cracht</l>
+<l>eyn wijflich creature?</l>
+</lg>
+<lg><l>Diin lof, gayr reyne weldich wijf, -</l>
+<l>an dich ist nyet vergessen -</l>
+<l>zo weer ich dom in alre wijs,</l>
+<l n="1680">of ich das wilde messen!</l>
+<l>Prijst diin hogher wunne,</l>
+<l>ney, werlich, zo verdiend ich has.</l>
+<l>Dou bys vyl bas</l>
+<l>ghelovet, dan ich conne.</l>
+</lg>
+<lg><l n="1685">Jonc man, ich radich nacht onde dach,</l>
+<l>dat dou mit tsuchten huedes,</l>
+<l>wes wijflich ere erkrenken mach,</l>
+<l>und scuwe yrs onghemuete</l>
+<l>bas dan diins eygens lives.</l>
+<l n="1690">Want goedes hulde wye die haet,</l>
+<l>hem niet bas staet</l>
+<l>dan gonst eyns reynes wives.</l>
+</lg>
+<lg><l>Aen dich, wijflich spieghel tsartz,</l>
+<l>eyn man zo zich ontzinnet.</l>
+<l n="1695">Daer keghen bist niet krighel haert,</l>
+<l>of he ziin moyt dich condet,</l>
+<l>onde haes oec niet tse scimpe.</l>
+<l>Bis alre doghet eyn bluyende rijs,</l>
+<l>halt diin amijs</l>
+<l n="1700">met eren end mit ghelimpe.</l>
+</lg>
+<lg><l>Wie zich eyns reyne wives troyst</l>
+<l>mit stedicheyt verdinghet,</l>
+<l>tsuaer, siin commer wert verlost,</l>
+<l>ziin vrye moyt verdrynghet</l>
+<l n="1705">hem zonderlinghe smertz,</l>
+<l><pb n="31"/>zo dat hij gaer an alle wanc</l>
+<l>zijn leven lanc</l>
+<l>drayt vrude in ziinme hertzen.</l>
+</lg>
+<lg><l>Tswaer, alre dogheden h&#xE72D;ede gaer</l>
+<l n="1710">ist onder yre waerte.</l>
+<l>Ghelucke mir alzo ghespaer,</l>
+<l>dat ich miins hertzen gerten</l>
+<l>zo doghentlijch arconde,</l>
+<l>dat mir ghenade wert ansciin.</l>
+<l n="1715">Holf, vrouweliin,</l>
+<l>dou hays des anders zonde!</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LIX.</head>
+<lg><l><milestone unit="fol" n="67r"/> * Myr woent eyn guetlich wijf</l>
+<l>stede in den zinne,</l>
+<l>yr liicht anschijn</l>
+<l n="1720">ist mir tse verre us minen oghen.</l>
+<l>Tswaer, nemmer meer ich liever lief</l>
+<l>ghewinnen</l>
+<l>int herts mijn!</l>
+<l>Das rede ich, werlich, ane loeghen:</l>
+<l n="1725">Miin hoyste troyst ist zi und al miin leven.</l>
+<l>Meyn ich das nicht, gheliich zij mir untronnen.</l>
+<l>In yr ghewalt han ich mir al ghegeven.</l>
+</lg>
+<lg><l>Mer ist zo wee, dat ich zi nicht mach scouwen,</l>
+<l>die reyne vrocht, das ben ich alle vrude in eren,</l>
+<l n="1730">miin hertz en can van iamer nicht gherosten.</l>
+<l>Ich wensche yr alles goets,</l>
+<l>wye verre das ich van yr keren.</l>
+<l>Dem dornen bant dragh ic doer yr allene.</l>
+<l>Ich sta rechte als eyn groene walt ghehouwen,</l>
+<l n="1735">das zeren moys, -</l>
+<l>des ich mir zalden zwere nicht cleyne.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LX.</head>
+<lg><l>* Gaer weldich ist in minen huys</l>
+<l>eyn wijf, - wie haet daer ghezant?</l>
+<l>Zy deyt mir menich leyt becant.</l>
+<l n="1740">Das spil moys ich erherden uys.</l>
+</lg>
+<lg><l>En can der nemmer werden quijs,</l>
+<l>al zoud ich leven dusent iaer.</l>
+<l>Al weer dat lant noch alzo wijt,</l>
+<l>noch tan zo m&#xE72D;yst ich bliven daer.</l>
+<l n="1745">En can des waer ghewenden niet,</l>
+<l>das ze mir gaer verheren wil.</l>
+<l>eyn pifer ist eyns mannes spil,</l>
+<l>der alle weghe dansen pliet.</l>
+</lg>
+<lg><l>Wie onghenadich ist zi mir,</l>
+<l n="1750">das ich mir nicht vruwen can.</l>
+<l>Ze halt miin huys voer eyghen yr</l>
+<l>onde was ich goets daer tsu han,</l>
+<l>das meynt zy allent gader hyn,</l>
+<l>recht alsot gaer yr erve zi.</l>
+<l n="1755">Eyn eyghen man en ist niet vry,</l>
+<l>das haen ich dich wijl horen zaen.</l>
+</lg>
+<lg><l>Weer das keyserijche miin</l>
+<l>onde daer tsu des conincs lant,</l>
+<l>noch tan moys ich yr dienre ziin,</l>
+<l n="1760">zo bin ich an yr ghewant.</l>
+<l>En can der nemmer keren van,</l>
+<l>des meyne ich uf die truwe mijn.</l>
+<l>Mocht eyn boere eyn ridder ziin,</l>
+<l>och, was hever weer ich dan!</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment"><pb n="32"/> LXI.</head>
+<lg><l n="1765"><milestone unit="fol" n="67v"/> * Wie mucht ich have guet ghedolt?</l>
+<l>Ich haen verloren rijchen tsolt,</l>
+<l>die lieve de ist mer onholt -</l>
+<l>des ben ich gaer onvro.</l>
+</lg>
+<lg><l>Ich plach mer yre stedicheyt</l>
+<l n="1770">tse vruwen, waer ich henen voer.</l>
+<l>Nu laet zy af, die wal ghemeyt:</l>
+<l>des zo ben ich stede zoer.</l>
+<l>Ich draghe in der hertz miin</l>
+<l>vyl zorghen unde zure piin,</l>
+<l n="1775">want miin trut, miin vrouweliin,</l>
+<l>acht of mer nicht eyn stro,</l>
+<l>acht of mer nicht eyn stro.</l>
+</lg>
+<lg><l>Minnentlike, reyne wijf,</l>
+<l>scaffe, das mer heyl ghescie!</l>
+<l n="1780">Haen ich ghebroken diin ghebot,</l>
+<l>das wil ich buezen yumermee</l>
+<l>end wil der nemmer avlaen</l>
+<l>zonder tzuifel end waen:</l>
+<l>ich wil na iren dienste staen,</l>
+<l n="1785">deyt zij mer dan alzo,</l>
+<l>deyt zi mer dan alzo.</l>
+</lg>
+<lg><l>Ghenade, minnentlike wijf!</l>
+<l>Wiltu dyr bedenken niet?</l>
+<l>Miin zorghen die ziin menichfalt,</l>
+<l n="1790">Wie ist mer armer dan ghesciet?</l>
+<l>Zo treden ich in der zorghen oert.</l>
+<l>Diin liefliich minnentlijche woert</l>
+<l>haent mer dich alzo betoert:</l>
+<l>dou blijfs miin vrouwe jo,</l>
+<l n="1795">dou blijfs miin vrouwe [...]</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXII.</head>
+<lg><l>So vro steynt bloemen an der vesten,</l>
+<l>die zo vrolich lesten</l>
+<l>oph esten</l>
+<l>tse pryse.</l>
+<l n="1800">Der mey in stalter wyse</l>
+<l>zam purper vaer</l>
+<l>cleyne na vrouwen steyt gheswensit.</l>
+<l>Wye zo wal besprensyt,</l>
+<l>becrensyt</l>
+<l n="1805">mit rosen,</l>
+<l>mit vyoel, tidelosen</l>
+<l>wal dousentvaer!</l>
+<l>Over al</l>
+<l>hoert men alleve vogheliin</l>
+<l n="1810">z&#xE72D;ezyr stemmen clinghen.</l>
+<l>Berch onde dal</l>
+<l>gheven balsem lichten sciin,</l>
+<l>dayr die bloemen us springhen.</l>
+<l>Ich wil leyt verdringhen</l>
+<l n="1815">onde ringhen</l>
+<l>na wonnen.</l>
+<l>Ons brinck der brinde zonne</l>
+<l>eyn vrolich iaer.</l>
+</lg>
+<lg><l>Vri zi mer hertz onde moyt van zorghen.</l>
+<l n="1820">Dach, nacht onde morghen</l>
+<l>verborghen</l>
+<l>ych denche,</l>
+<l>wye ich der werden schenche</l>
+<l>yr lof, yr groys.</l>
+<l n="1825">Men can vol loven nicht yr eren.</l>
+<l>Yr lof will ich meren</l>
+<l>onde eren</l>
+<l>die werte.</l>
+</lg>
+<lg><l><pb n="33"/><milestone unit="fol" n="68r"/> Zi is miin troyst oph erden,</l>
+<l n="1830">myr zorghen boys.</l>
+<l>Roesen vaer</l>
+<l>ziin yr wengheliin</l>
+<l>onde yr mont, yr kele wyts by kinne.</l>
+<l>Lachende claer</l>
+<l n="1835">ziin yr oghen tso alre tsijt</l>
+<l>na wijflijcher minne.</l>
+<l>Wan ich das ghezinne,</l>
+<l>ich brynne</l>
+<l>na hulden -</l>
+<l n="1840">das leyt van yren sculden,</l>
+<l>ich moys.</l>
+</lg>
+<lg><l>Miin zin steyt na der zuetsen.</l>
+<l>Tsvaer, ich wil zi gruesen,</l>
+<l>die buesin</l>
+<l n="1845">kan zwere.</l>
+<l>Trout, zy ist vruden lere</l>
+<l>onde doegheden vol.</l>
+<l>Tsuaer, daer zi ist, daer ist miin hertz.</l>
+<l>Ze ist eyn gulden hertz,</l>
+<l n="1850">die smertz</l>
+<l>kan lichten</l>
+<l>mit vruden vol.</l>
+<l>Ghemet zin, das kan zij wal.</l>
+<l>Werder vrucht</l>
+<l n="1855">wert oph erden nie ghezyen</l>
+<l>in des meyen bluete.</l>
+<l>Rijcher tsucht</l>
+<l>mach men yr des pryses gheyn ghyen.</l>
+<l>God yr lijf beh&#xE72D;ete!</l>
+<l n="1860">Mannes stolt ghemuete</l>
+<l>yr guete</l>
+<l>can dwinghen.</l>
+<l>Wal mer, dat ich yr zinghen</l>
+<l>onde dienen zol.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXIII.</head>
+<lg><l n="1865">* Mich wondert, wye yr tr&#xE72D;ren mach,</l>
+<l>die van der tsartzen ye ghescach</l>
+<l>eyn heyl, das hem tse vr&#xE72D;den wart!</l>
+</lg>
+<lg><l>Oph erden ist gheyn zo werden wijf,</l>
+<l>zo scoen, zo stede, zo doghent vroet.</l>
+<l n="1870">God en scyef nie zo reynen lijf,</l>
+<l>zo vrys, zo vro, zo wal ghemoet.</l>
+<l>Yr mays helt zi altzijt mit vest.</l>
+<l>archeyt en hayt an zi gheyn vest.</l>
+<l>Zi voergheyt allen wiven waert.</l>
+</lg>
+<lg><l n="1875">Na der hogher tsartz ich ben ghestalt,</l>
+<l>des moys ich zorghen wonen by.</l>
+<l>Lijf, moyt zi alles hayt ghewalt,</l>
+<l>en hayn nicht behalden bij no vry.</l>
+<l>In truwen moys ich halden tzoren:</l>
+<l n="1880">miin hertz zo doerlich hayt ercoren,</l>
+<l>die lieve ist van zo hogher aert.</l>
+</lg>
+<lg><l>Wal henen, doerlich moys ich hoephen [...]!</l>
+<l>Dus geyt das rad van avant&#xE72D;ren.</l>
+<l>God lof, die tsartz levet noch.</l>
+<l n="1885">In vruden moys zyc ewich d&#xE72D;ren,</l>
+<l>wort mir van yr eyn vr&#xE72D;ntlich woert:</l>
+<l>das heyl brach mir us zorghen oert.</l>
+<l>Dus hophen ich na der hogher tsaert.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXIV.</head>
+<lg><l><milestone unit="fol" n="68v"/> * Menigher seit, ich ben arm van g&#xE72D;ede,</l>
+<l n="1890">Hij zeyt wal waer; ich bin doch rijch van moede.</l>
+<l>Ich weys, das hogher moyt</l>
+<l>ys wel besser dan goet.</l>
+</lg>
+<lg><l>Hogher moyt die wenchet</l>
+<l>in der hertz miin.</l>
+<l n="1895">Ich wil in vruden bliven,</l>
+<l>ia bliven,</l>
+<l>och zich bedinchet</l>
+<l><pb n="34"/>miins hertz troesterin.</l>
+<l>Zi kan miin leyt verdriven,</l>
+<l n="1900">Daer op zo wil ich willentliichen warten.</l>
+<l>Wert mir eyn vrientlich gruetzen van der tsartzen,</l>
+<l>das weer eyn vruden vont:</l>
+<l>gebl&#xE72D;emet zi die stont,</l>
+<l>stont!</l>
+</lg>
+<lg><l n="1905">Ich wilde, das alle ioncfrouwen</l>
+<l>onde reyne vrouwen tsaert</l>
+<l>erkenden vyl der trouwen.</l>
+<l>Zo muchten zi wal scouwen</l>
+<l>die truwe oph rechte vaert.</l>
+<l n="1910">[...............]</l>
+<l>des hem anlachen,</l>
+<l>van cleynen dinghen groetz reden machet.</l>
+<l>Daer voer hoet dich mit trouwen,</l>
+<l>met truwen.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXV.</head>
+<lg><l n="1915">* Eyn lieflich wijf vol stedicheyt,</l>
+<l>der ich mit willen bin bereyt,</l>
+<l>zi kan miin vruden machen breyt</l>
+<l>onde al miin leyt verdriven.</l>
+</lg>
+<lg><l>Des will ich yummer loven voert</l>
+<l n="1920">god al zinder werdicheyt,</l>
+<l>zint das mir eyn troesteliich woert</l>
+<l>van hertz lieve ist bereyt,</l>
+<l>dyr ich yummer dienen wil.</l>
+<l>Yr lieflich troest ist ane tsyl,</l>
+<l n="1925">zi kan mir vruden mache[n] vyl.</l>
+<l>Dyr ich wil yummer bliven.</l>
+</lg>
+<lg><l>Wan ich mach des daechs anzien</l>
+<l>Yr lieflich oghen blinken,</l>
+<l>zo ne kan mir gheyn arch ghescien,</l>
+<l n="1930">zo lieflich kan zyr denchen.</l>
+<l>Ghecleydet mit vrou eren cleyt,</l>
+<l>troyst onde raet al an yr steyt</l>
+<l>met zo rechter wijflicheyt,</l>
+<l>en kan geyn man vol scriven.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXVI.</head>
+<lg><l n="1935">Ich hoef zi corteliin zien,</l>
+<l>das reyne wijf, die guete gaer an die moy [...],</l>
+<l>der ich moys alre dogheden gien,</l>
+<l>ze hayt der eren g&#xE72D;ete.</l>
+<l>Jch wensch yr heyl bas, dan jch mer zelven doe.</l>
+<l n="1940">Wan ich zi weyt</l>
+<l>gaer wal ghemeyt,</l>
+<l>zo ist miin zender hertz mit vruden vro.</l>
+<l>Die lieve deyt mer, das zi wil.</l>
+<l>By yr zo moys ich bliven</l>
+<l n="1945">dorch cleynen danch.</l>
+<l>Zi ist miin trout, mer vruden spil</l>
+<l>onde lief voer allen wiven</l>
+<l><milestone unit="fol" n="69r"/> gaer ane wanc.</l>
+<l>Wat zi mer to leide doet,</l>
+<l n="1950">das willent mir al wael behaen</l>
+<l>onde zal oech stedeliichen mer dunchet guet.</l>
+<l>Das ich vyl trurde dorch miin leyt,</l>
+<l>das weren vro die nider onde al yr scaer;</l>
+<l>ich neme das wal oph minen eyt,</l>
+<l n="1955">ich zal noch machen yr scande gaer.</l>
+<l>Oph mer god des levens gan,</l>
+<l>zo prise ich mijn fyoel crans</l>
+<l>tso tr&#xE72D;ren allen bosen ende al yr man.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment"><pb n="35"/> LXVII.</head>
+<lg><l>Das ist user masen lanch,</l>
+<l n="1960">das ich nie van hertzen zanch</l>
+<l>vrolich dorch gheyn wijf</l>
+<l>Das doyt zorghe dousentvalt,</l>
+<l>die mir zinnen haet ghewalt.</l>
+<l>Des voerzwint miin lijf,</l>
+<l n="1965">das ich yr zo vremde ben,</l>
+<l>die mir in der hertzen lijt</l>
+<l>nach onde dach tso alre tsijt</l>
+<l>zonder heyls ghewin.</l>
+</lg>
+<lg><l>Amor, zuetzir minnen vrucht,</l>
+<l n="1970">come tso mire vrouwen tsucht</l>
+<l>onde raet daer tsu,</l>
+<l>das zy mir ghenedich zi.</l>
+<l>deyt zi das, van zorghen vri</l>
+<l>wert ich onde vro.</l>
+<l n="1975">Das coomt alste lanchem tsoe,</l>
+<l>daer van grawet mir die haer,</l>
+<l>das zich heener nider scaer</l>
+<l>vruwen spade onde vroe.</l>
+</lg>
+<lg><l>Jo en gheerde ich no nicht meer,</l>
+<l n="1980">dan ich zi noch zaghe ee,</l>
+<l>er ich sterve doet</l>
+<l>end mir wert eyn gr&#xE72D;eseliin</l>
+<l>van der liever vrouwen miin:</l>
+<l>zo wer hyn miin noet.</l>
+<l n="1985">Ze haet ere onde reyne lijf,</l>
+<l>geyn ghebrech en yst an yr,</l>
+<l>dan zo onghenedich mir</l>
+<l>ist das reyne wijf.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXVIII.</head>
+<lg><l>Se yst is ane tsyl ontreffeliich mire vruden,</l>
+<l n="1990">daer na ich vyl onde vyl gheronghen haen.</l>
+<l>Laet ze vorgheves mich zinghen onde gueden,</l>
+<l>werlich zo doyt zi, des ich yr vergan.</l>
+<l>Tso scaden onde tso vromen,</l>
+<l>laet comen, wie das zol,</l>
+<l n="1995">das licht an yr, och zi mir wil benaden.</l>
+<l>Ydoch zo trouwe ich yr des besten wol.</l>
+</lg>
+<lg><l>Wie mistroestelich, das ich zender trure</l>
+<l>nach yren dienste nu onde talre stont,</l>
+<l>doch sta ich onvervaert vast zam eyn m&#xE72D;re,</l>
+<l n="2000">die wel ghebouwet staet oph herden gront.</l>
+<l>Men mach mir nicht becoren,</l>
+<l>ich wil bij yr bestaen.</l>
+<l><milestone unit="fol" n="69v"/> Waer ich van verwen zwertz gheliich den more,</l>
+<l>der truwen zal zi mir gheniesen laen.</l>
+</lg>
+<lg><l n="2005">Tswifel leret mich, das ich zi layse,</l>
+<l>die rechte v&#xE72D;eghe staet keghens mir hayt.</l>
+<l><pb n="36"/>Tret miin gheluch oph mire zalden strate,</l>
+<l>ze ist zo goet, dat ze doet, dat ze wal staet.</l>
+<l>Eyn iegher mach wel huften,</l>
+<l n="2010">wert he gheluckes arm,</l>
+<l>doch wil ich vrolich scallen unde guften,</l>
+<l>est mir besceert loen, ervet mir er erm.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXIX.</head>
+<lg><l>* Wal hen, dorch wives guede</l>
+<l>mach ich wal liden piin!</l>
+<l n="2015">Zi zaechten jo mijn ghemuede,</l>
+<l>wanneer ich trurich bin.</l>
+</lg>
+<lg><l>Wer eynen ezel strichet</l>
+<l>dorch ziin zachte haer</l>
+<l>onde eynen voesen smiset,</l>
+<l n="2020">jo, hy moyt ziins nemen waer,</l>
+<l>das he hem niet bedrieghet,</l>
+<l>ziin valscheyt es zo groyt:</l>
+<l>ich bolghe, ich smeyche, ich droyghe,</l>
+<l>io, dus sla ich vruden vloet.</l>
+</lg>
+<lg><l n="2025">Wan miin onghelucke</l>
+<l>groet niet mer werden mach,</l>
+<l>neme icht opten rugghe</l>
+<l>jo, end werpet in den bach.</l>
+<l>Zal ich das langher lazen</l>
+<l n="2030">als eyn verdervet man,</l>
+<l>tsvaer neyn, ich wil mir sayzen</l>
+<l>jo, tso vr&#xE72D;den weder an.</l>
+</lg>
+<lg><l>Wer wil heyme laysen</l>
+<l>dem wolf das zueze spil,</l>
+<l n="2035">die herde vrucht der scaden,</l>
+<l>jo, wanner hy bizen wil:</l>
+<l>der lammer weer is cleyne,</l>
+<l>cranc moeder der eren waer.</l>
+<l>Miin fyoel crensel reyne,</l>
+<l n="2040">jo, des moys ich nemen waer.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXX.</head>
+<lg><l>Ghelucke, heyl onde alles goet</l>
+<l>wensche ich, yr eygen, daer ich bin.</l>
+<l>Zi gheeft mir tso allen tsiden moyt,</l>
+<l>in weys gheyn besser troesterin.</l>
+<l n="2045">Wilde zi mir ghebieden vyl</l>
+<l>des heyls, zo ne werde ich nemmer cranck,</l>
+<l>zint ich yr gherne dienen wil:</l>
+<l>groen ist der minnen anenvanc.</l>
+</lg>
+<lg><l>Roeder verwen bin ich holt:</l>
+<l n="2050">des wil ich gherne yr dienre ziin.</l>
+<l>Zi lichtet claer zam al dat golt,</l>
+<l><milestone unit="fol" n="70r"/> miin hophe, miin troyst, miin hoyste anschiin.</l>
+<l>Blaeu das dudyt stedicheyt,</l>
+<l>das weys yder steden man:</l>
+<l n="2055">al wert al dem luden leyt,</l>
+<l>ich zal yr dienen, of ich kan.</l>
+</lg>
+<lg><l>Gheyn man mach mir miin lief nicht leyden,</l>
+<l>want zi dorch lieft mich dat iaer.</l>
+<l>Van yren dyenst ich nemmer sceiden,</l>
+<l n="2060">das zinghe ich weydeliiche vaer.</l>
+<l>Tse yren dienst wer ich gherne,</l>
+<l>al zulde ich liden arbeyt.</l>
+<l>Lief, nu lays mich zwerts onberen,</l>
+<l>des brinck tsorn onde leyt.</l>
+</lg>
+<lg><l n="2065"><pb n="37"/> Vrouwen dienst bleef nie verloren,</l>
+<l>hoert ich eyn tsartz mondeliin gheen,</l>
+<l>loent zi nicht huden, zi loent morghen,</l>
+<l>daer van zal zich ghein man ontzeen.</l>
+<l>In myme hertzen heymelich</l>
+<l n="2070">will ich yr dienen ane wanch.</l>
+<l>Yr lieflicheyt, die vruyt mich witz,</l>
+<l>dat is eyn goyt ghedanch.</l>
+</lg>
+<lg><l>Ghele verwe, die hayt den zede,</l>
+<l>das zi gayr erloughen zi.</l>
+<l n="2075">Das wil mich zelden leyder mede.</l>
+<l>Ich vrucht yr tsartz mondeliin [...]</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXXI.</head>
+<lg><l>Ich quam, aldaer mit tsuchten zaysen</l>
+<l>zes vrouwen, werent ongheliich ghemoyt.</l>
+<l>Die eyne sprach: "wie hayt mer god ghelaysen</l>
+<l n="2080">mit eynen man, die mer gheyn vroude doet!</l>
+<l>He riit us in vremden land,</l>
+<l>he leyst mich hi tse heymen</l>
+<l>- her ist mijns hertzen vrouden crans -,</l>
+<l>van tr&#xE72D;ren ich moys weynen.</l>
+<l n="2085">Och, riich here god, wie acht hy des zo cleyne!"</l>
+</lg>
+<lg><l>Die ander sprach: "waer ist hy nu die mine,</l>
+<l>dem ich in rechten truwen loenen zal?</l>
+<l>Dach onde nacht zo licht her in den wine,</l>
+<l>mit groesen dronken coemt her altoes vol.</l>
+<l n="2090">Des avonde est her gayr eyn kint.</l>
+<l>Her ist oech wal by iaren,</l>
+<l>bij mer leyt her als eyn rint;</l>
+<l>ziins willen moys ich warden.</l>
+<l><milestone unit="fol" n="70v"/> Och, riich here god, wie langhe zal ich harden?"</l>
+</lg>
+<lg><l n="2095">Der derde sprach: "onde wie bin ich verz&#xE72D;met</l>
+<l>met eynen man, die ist gheleret wal!</l>
+<l>Dach ende nach her mer dat bedde r&#xE72D;met,</l>
+<l>he leeft recht, zam eyn cluser leven [...]</l>
+<l>zo zelden vruyt hem den moyt!</l>
+<l n="2100">Da van ich ionghe grisen.</l>
+<l>Tso eynen monneke wer he goet,</l>
+<l>da voer wild ich en prisen.</l>
+<l>Ziin veigher lijf kan tsucht onde ere bewisen."</l>
+</lg>
+<lg><l>De vierde sprach: "en kans nicht al bezorghen,</l>
+<l n="2105">was mer ghesciet, das lays ich henen gaen.</l>
+<l>Vris onde vro abonts onde morghen,</l>
+<l>die tsijt, das ich dat leven oph erden haen:</l>
+<l>deyt he mer eyn, ich doe hem tsweye,</l>
+<l>wil her das nicht horen,</l>
+<l n="2110">zo zinghe ich lude: heya hey!</l>
+<l>Miin hertz kan vruden storen,</l>
+<l>wat zolde eyn wijf, die nicht den man can doren?"</l>
+</lg>
+<lg><l>Die vijfte sprach: "waer ist her nu, der mine?</l>
+<l>Verleghen in den huse!</l>
+<l n="2115">Des mijn hertz iammer onde pine.</l>
+<l>Van hoek tse hoeke sl&#xE72D;ft her zam eyn muys.</l>
+<l>Mer dunck, he zi tse mael eyn doer,</l>
+<l>he nist nicht wal bi zinnen.</l>
+<l>Da um steyt mich miin moyt alzo,</l>
+<l n="2120">dat ich zi nicht wil minnen.</l>
+<l><pb n="38"/>Ich wensche im oech daer tso ziin hertz verbrinnen."</l>
+</lg>
+<lg><l>De zeste vrouwe lachen zi begonde:</l>
+<l>"her god, was leven ich oph erden han!</l>
+<l>Helsen, cussen han ich dousent stonde</l>
+<l n="2125">van minen vrunt, den alre liefsten man.</l>
+<l>Tsuaer, her dede mer nie gheyn leyt,</l>
+<l>dan ich im wal gonde.</l>
+<l>Ich bin im lief voer alle wijf,</l>
+<l>das han ich bevonden.</l>
+<l n="2130">Ich wensch hem heyles nu onde tallen stonden."</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXXII.</head>
+<lg><l><milestone unit="fol" n="131r"/> Wie mach das got gefugen so,</l>
+<l>das alle dinck wert in boese gekert?</l>
+<l>Myn hertz und ich weren dicke vro,</l>
+<l>met rechter dogent wol gelert,</l>
+<l n="2135">so en mach is doch so bliben nit:</l>
+<l>das beste man selden dar zu spricht,</l>
+<l>hir um so mach ichs laessen sin.</l>
+</lg>
+<lg><l>* Ich wil ein barfues werden tzwaer</l>
+<l>und bliben dar in al myn jaer</l>
+<l n="2140">in eyme grauwen keppelin.</l>
+</lg>
+<lg><l>Zage ich van swartz, so geleubet man wys,</l>
+<l>und des selben k&#xE72D;me.</l>
+<l>Queme ich gereden van parijs,</l>
+<l>man spreche, ich queme van rome.</l>
+<l n="2145">Ich weis, wie ichs sal grijffen an:</l>
+<l>wan ich wil gentzlich abe laen</l>
+<l>und bliben in der tzellen mijn.</l>
+</lg>
+<lg><l>Hivoer, doe ich nit geistlich was,</l>
+<l>do mocht ich haben froen moet,</l>
+<l n="2150">mich konde nie dinck herfrauwen bas,</l>
+<l>dan als ich sach die vrauwelin g&#xE72D;t.</l>
+<l>Des bin ich nu zu male herloest:</l>
+<l>ein ketelin gra wil sin myn troist,</l>
+<l>wo is mir recht kan wenden pin.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXXIII.</head>
+<lg><l n="2155">Nu frauwe dich, hertze, sint das sich hoffen</l>
+<l>so wol an dir haet ghequijt,</l>
+<l>das dir der dogentblick ist kont.</l>
+</lg>
+<lg><l>Ich wils met truwe dir helffen proven</l>
+<l>und warten gantz der vreuden tzijt,</l>
+<l n="2160">want du bist da von liplych wont.</l>
+</lg>
+<lg><l>* Werz du so flijslich mir nit gesloffen,</l>
+<l>so moest ich altzijt buen lijt.</l>
+<l>N&#xE72D; brauwe ich fraude der seliger stont,</l>
+<l>die mich macht aller sorgen loesz.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXXIV.</head>
+<lg><l n="2165">Wie moet und sin</l>
+<l>wilt da hin</l>
+<l>of din gewin,</l>
+<l>ich foirt du mich mit, geweldigz mir.</l>
+<l>Daz ist geschiet;</l>
+<l n="2170">ich hans vergeit.</l>
+<l>By wenden nit</l>
+<l>en welles dins hertzen ger.</l>
+<l>Ja wiltu du dan dem folgen nach,</l>
+<l>diner mein</l>
+<l n="2175">ich w[eis] das [ein].</l>
+</lg>
+<lg><l><pb n="39"/><milestone unit="fol" n="131v"/> * Of tzwivels ast</l>
+<l>dich overlast</l>
+<l>und twinget dich fast -</l>
+<l>wiltu das nit bedencken recht:</l>
+<l n="2180">nach tzwivels lere</l>
+<l>ich dicke kere:</l>
+<l>der ist myn herre,</l>
+<l>ich bin sin onderdenich knecht.</l>
+</lg>
+<lg><l>Wie mack das sin:</l>
+<l n="2185">du dues nit schin,</l>
+<l>das herre si diin</l>
+<l>dir tzwifelt eigentlich.</l>
+<l>Ich volge dem hertzen</l>
+<l>dorch senden smertzen.</l>
+<l n="2190">Lof, doghent, schertzen</l>
+<l>hat dar zu getwongen mich.</l>
+<l>Of dir do diner gir</l>
+<l>das zwifel were.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXXV.</head>
+<lg><l>Virlangen mir kein rowe laet</l>
+<l n="2195">noch dir, druyt liebeste mynneclijch,</l>
+<l>wan ich voer al der werlt dich mein.</l>
+</lg>
+<lg><l>Wisz, al mijn freude of hoffen staet,</l>
+<l>wie ich moege schier gesien dich.</l>
+</lg>
+<lg><l>Min hertz gants truwe zu dir hait.</l>
+<l n="2200">Dar in besorge, aller liebeste, mich,</l>
+<l>so gere ich ander vreude kein.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXXVI.</head>
+<lg><l>* Al in dem slaef met truwen, zwaer,</l>
+<l>noch wachend nemmer sicherlich,</l>
+<l>vrauwe mijnneclich,</l>
+<l n="2205">kamstu mir us dem hertzen myn,</l>
+<l>dar zu mich rechte liebe bint.</l>
+</lg>
+<lg><l>Trut hoester haert, vrauwe sonderbaer,</l>
+<l>du bist gein mir gnaden rich.</l>
+<l>Bedencke dich,</l>
+<l n="2210">daz gewalt sal ye genedich sin!</l>
+</lg>
+<lg><l>Dich sehen duncket mich dusent iaer,</l>
+<l>dar um noch dir verlanget mich.</l>
+<l>Wan din gelijch</l>
+<l>an tzocht, an ere, als wandels sin</l>
+<l n="2215">uf erden niemans leben vint.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXXVII.</head>
+<lg><l>Ich quam zu ir, doe was ich vroe,</l>
+<l>ich bat si also sere.</l>
+<l><milestone unit="fol" n="132r"/> Si sprach: "was ist der rede hoe?</l>
+<l>Herlaesset mich der mere!</l>
+<l n="2220">Ich han mir selber einen man,</l>
+<l>der mach sijn nit geliden,</l>
+<l>der mir aller vreude virgan.</l>
+<l>Ir mocht wol voirbas riden."</l>
+</lg>
+<lg><l>* Unheil musser in becliven,</l>
+<l n="2225">der siner vrauwen ist zu hart!</l>
+<l>Man sal en omme driben,</l>
+<l>si iagen of der wederfaert.</l>
+</lg>
+<lg><l>Ich reit van ir, als si mich hies.</l>
+<l>Ye doch bleip ir das beste deil:</l>
+<l n="2230">hertz, moet und sin ich bi ir lies.</l>
+<l>Das wage ich alles of ein heil:</l>
+<l><pb n="40"/>sint al mijn hoffen an ir lijt</l>
+<l>und ich ir wol getruwen:</l>
+<l>ein iglich stonde hait irn tzijt,</l>
+<l n="2235">dar of sal nie mans buwen.</l>
+</lg>
+<lg><l>Obe si nu einen hoeder haet,</l>
+<l>sal dar mijn dienst verloren sijn?</l>
+<l>Man sal si driben vroe und spaet,</l>
+<l>die huder zu der vrauwelin,</l>
+<l n="2240">und laessz zu den luten nicht,</l>
+<l>zu guter massennie,</l>
+<l>da van en nommermeir gut gheschiet.</l>
+<l>Obir yren gatteren gutzen drye.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXXVIII.</head>
+<lg><l>Wist ich van dir gantz gar gerecht,</l>
+<l n="2245">als du van mir wol wissen macht,</l>
+<l>den rechten ernst aen alles gebeirde,</l>
+<l>so mochte ich vrolichen scertzen.</l>
+<l>Du weist wol, das ich bin din knecht</l>
+<l>und lebe dir gentzlich dag und nacht</l>
+<l n="2250">und hain auch liebers nit of erden</l>
+<l>dan dich, das brenget mir smertzen.</l>
+<l>Ich dar nit sagen, was ich meine,</l>
+<l>und wulde doch, das du es wist van mir.</l>
+<l>Ich mochte nie han ein wortelin clein,</l>
+<l n="2255">van dir, das ich mochte mircken ein,</l>
+<l>wie ich nach lost mocht leben dir.</l>
+</lg>
+<lg><l>* Mijn begerlich hertz, saltu verstaen,</l>
+<l>ist weirlich bi dir, wo du bist.</l>
+<l>Sal ich da nit hien wider hain,</l>
+<l n="2260">so lebe ich gar of leiten waen.</l>
+<l>Nu mircke den troist, der bi dir ist!</l>
+</lg>
+<lg><l>Ich bidde dich, liebes vrauwelijn,</l>
+<l>das du wollest recht besynnen dich,</l>
+<l>wan ich weis ye kein zuversicht</l>
+<l n="2265">dan ich allein met rechter gantzer stet.</l>
+<l>soude alle die werlit myn eigen sin,</l>
+<l>so wer ich menlich doch zu rijch:</l>
+<l>das mochte mir alles gehelffen nicht,</l>
+<l>want si mir cleine sture doet.</l>
+<l n="2270">Wan din lieplich genade gestalt</l>
+<l>hait mich van mir verirret gar,</l>
+<l>dar zu dine dogent menichvalt.</l>
+<l>Und werde ich alz matoeselin alt,</l>
+<l>nit ander wertz an mir gewaer.</l>
+</lg>
+<lg><l n="2275"><milestone unit="fol" n="132v"/> Han ich gesprochen icht zu vil,</l>
+<l>des en laes mich nit ontgelden!</l>
+<l>Durch alle dine gute mich gewer,</l>
+<l>so mach ich sijn met vreuden geil.</l>
+<l>settze mir, so wan du wilt ein tzijl,</l>
+<l n="2280">so hilffestu mir vreuden melden.</l>
+<l>Vrauwe dogentrijche, seldenbeer,</l>
+<l>das wer mijn aller hogestes heil,</l>
+<l>daz du mir saghest den rechten gront,</l>
+<l>wair mach ich mich solde halden,</l>
+<l n="2285">so werde mir liebes froude kont.</l>
+<l>Got gebe dir gelucke, vrouwe, vrouwe, dusent stont!</l>
+<l>Lais mich den troist behalden!</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXXIX.</head>
+<lg><l>In lieb gedencke ner ich mich</l>
+<l>und frouwe mich in mir selber mit,</l>
+<l n="2290">wijl mir gebricht zu sien dich.</l>
+<l>Daer om vergesse ich sicher niet</l>
+<l>diner goetlich tzertlich lieplicheit,</l>
+<l><pb n="41"/>die mir swair lebet ye me und me</l>
+<l>und blive dir willentlich stede bereit</l>
+<l n="2295">naech diner ger, wie is mir geet.</l>
+</lg>
+<lg><l>* Zint ich dijns wesen moes ontberen,</l>
+<l>soe vrouwestu doch in gedencken mich</l>
+<l>und haist an mir ein ewich weren,</l>
+<l>das findestu weirlich, sicherlich.</l>
+</lg>
+<lg><l n="2300">In groen, roet, wijs bin ich virstricket</l>
+<l>dir ewenlich, ia ymmer me.</l>
+<l>Also haistu, vrouwe, mijn hertze virricket,</l>
+<l>dair in ein a und auch ein d.</l>
+<l>Das doet mijn moet in freuden me,</l>
+<l n="2305">soe ich mich weis dir wol bewaret,</l>
+<l>und vindist an mir kein wider weren,</l>
+<l>wil ich geloeve, mijn liebeste tzairt.</l>
+</lg>
+<lg><l>Och, doet ein goet getruwe mir</l>
+<l>in hilffe, das ich mach wesen geil!</l>
+<l n="2310">Des ich y wairten bin van dir.</l>
+<l>Mijn genade mit wilen mit mir deil.</l>
+<l>Das ist mijn hoffen tzijt fur tzijt</l>
+<l>und mijn hergettzen stetentlich</l>
+<l>und bist, der ich in truwen bit,</l>
+<l n="2315">nach diner beger swair ewentlich.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXXX.</head>
+<lg><l>Doirch vechten wairt ich uysgesant</l>
+<l>in einen gairten wonnetlich,</l>
+<l>dae ich veil goeder meister vant.</l>
+<l>Ein schair van vrouwen mynnentlich</l>
+<l n="2320">vant ich auch in dem gairten daer,</l>
+<l>die nement daer der besten wair.</l>
+<l>Ich machte mich in der schirmer schair,</l>
+<l>ich vach und ranck und vrauden mich.</l>
+</lg>
+<lg><l><milestone unit="fol" n="133r"/> * Die liebeste, die ich ye bekant,</l>
+<l n="2325">hait mich zu vechten dair gesant.</l>
+<l>Der boitschaft wairt ich auch hermaent,</l>
+<l>des vraude ich mich gair ynnentlich.</l>
+</lg>
+<lg><l>Wie solde ein truwer steder knecht</l>
+<l>niet vechten doirch irs hertzen ger?</l>
+<l n="2330">Ein ros, zu vechten gair gerecht,</l>
+<l>schicket si nae wonssche und willen mer.</l>
+<l>Dae mit quam ich in gerant.</l>
+<l>Ein ringelijn und ein wijsser bant</l>
+<l>dede mer zu boetschaft das bekant,</l>
+<l n="2335">das ich doirch sij wer vrauden rich.</l>
+</lg>
+<lg><l>Der cleine bant mich vreuden sere</l>
+<l>doirch ein soe mynnecliche bilde.</l>
+<l>Doirch die ich vacht mit rechter gere,</l>
+<l>die wil mer werden vroemde und wilde.</l>
+<l n="2340">Soe werde ich voirbas nommer vroe.</l>
+<l>Vacht ich ye eenes moetes hoe,</l>
+<l>soe vecht ich dan in jamers dro,</l>
+<l>sus kommet die tzijt gair ongelich.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXXXI.</head>
+<lg><l>Zint das mijn dinck sint soe gestalt,</l>
+<l n="2345">das ich mich moes sceiden van dir,</l>
+<l>doch scheidet mijn hertze van dir niecht!</l>
+<l>Scheiden, du doest mir grois gewalt</l>
+<l>und ist niet nae mijns hertzen ger.</l>
+<l>Scheiden, scheiden, wer hait dir bedicht,</l>
+<l n="2350">der en hait mijns willen niet geraempt</l>
+<l><pb n="42"/>und hait betroevet mir den sin</l>
+<l>und hait in vreuden mir gelaempt,</l>
+<l>das ich niet en weis, was ich begin.</l>
+<l>Scheiden, scheiden, du bist ein bitter kruit!</l>
+</lg>
+<lg><l n="2355">* Got segen dich, lief, zu der letz!</l>
+<l>Mijn truwe haef dyer und dienst [..]!</l>
+<l>Wijs, groen und bruen van mir, mijn hoegeste liefsdes b!</l>
+<l>Ich hain dich in mijns hertzen sin</l>
+<l>virvlochten, schoen lieflich mijn truyt!</l>
+</lg>
+<lg><l n="2360">Och, van dir scheit nu mijn lijf.</l>
+<l>Doch sal mijn hertze bij dir sijn</l>
+<l>unde diner vergessen nommermeir.</l>
+<l>Du bist mijn heil, mijn leitvirdrijff.</l>
+<l>Wan ich gedenck an dich, soe went mijn pijn.</l>
+<l n="2365">Woir ich in dem lande keir,</l>
+<l>mijn sin weirt dich ommer an,</l>
+<l>gedenck zu dir zu alre stont.</l>
+<l>Ich en beger niet meir van dir zo loen,</l>
+<l>dan das mich troist dijn roeter mont.</l>
+<l n="2370">Mijn dienst myer genslich nicht en r[oe l]ont.</l>
+</lg>
+<lg><l><milestone unit="fol" n="133v"/> Is sij mir lief, is sij mir leit,</l>
+<l>doch kan ich des joe gebesseren niet.</l>
+<l>Ich vare daehen, got geve mir heil,</l>
+<l>got geve, dat ich si vinde gemeit.</l>
+<l n="2375">Ich hain mijn vairt wol bereit.</l>
+<l>Alre eirst werde ich vresch und geil,</l>
+<l>soe wolde ich met ir in dem dantz</l>
+<l>springen vresch met vreuden hoe,</l>
+<l>met ir, mijn tzairter enggel glans.</l>
+<l n="2380">Elende ewende, soe werde ich vroe</l>
+<l>und wolde mich vrauwen ober luyt.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXXXII.</head>
+<lg><l>Uis irme monde ein lieplich groes</l>
+<l>quam mir in zuessem slaeffe.</l>
+<l>Dair wairt mir alre soirgen boes,</l>
+<l n="2385">die nacht ich niet en straeffe.</l>
+<l>Mijn truren was zugangen gair,</l>
+<l>mijn vreude wart dusentvalt.</l>
+<l>Got hait sij selves gescicket daer,</l>
+<l>en sach nie bilde so wol gestalt.</l>
+</lg>
+<lg><l n="2390">* Her mach ommer vrauwen sich,</l>
+<l>die ir hers gudes gan.</l>
+<l>Sy ist so rechte mynneclich,</l>
+<l>das ich irs niet virgessen enkan.</l>
+</lg>
+<lg><l>Ir ougen stoende ir lieflich tzair</l>
+<l n="2395">met trauwen onder schoissen.</l>
+<l>Hedde die nacht geduert ein jair,</l>
+<l>is en wer mir niet virdrossen.</l>
+<l>Die stad ich ommer loeben wil,</l>
+<l>dae mir die soesse droem geschach.</l>
+<l n="2400">Mijn hertz hait alre vreuden spil,</l>
+<l>vrou venus mijns dair guetlich plach.</l>
+</lg>
+<lg><l>Van groissen vreuden ich ontspranck,</l>
+<l>mich duchte, waz mir wer geschien!</l>
+<l>Mijn hertze gentzlich daer nae ranck,</l>
+<l n="2405">wie ich sij me moecht[e] gesien:</l>
+<l>dair nae wairt mir virlangen seir</l>
+<l>nae der uisherwelten tzairt.</l>
+<l>Got behoede ir wijplich eir,</l>
+<l>das wonssch ich ir of alre vairt.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment"><pb n="43"/> LXXXIII.</head>
+<lg><l n="2410">Eein wijplich bilde quam mir zu voeren</l>
+<l>in myme slaiffe, aldair ich lach,</l>
+<l>und dede mir veil groissen tzoeren,</l>
+<l>das ich nit wist, was mir geschach.</l>
+<l>Sij bant mich weirlich also hairt,</l>
+<l n="2415">ein lieflich wijf van guder airt,</l>
+<l>das mir das hertze dede wee.</l>
+</lg>
+<lg><l>* Wol hein, ich wil des besten hoffen,</l>
+<l>sint mir die vreude ist ontsloffen,</l>
+<l>want trurens acht ich niet ein slee.</l>
+</lg>
+<lg><l n="2420"><milestone unit="fol" n="134r"/> Zoe mir daer tocht in mijnem droem,</l>
+<l>sprach mir das vreuchen guitlich:</l>
+<l>"Sinstu mir nu nemes goem,</l>
+<l>soe mach dir van hertzen werden vroe!"</l>
+<l>In haren arm das sij mir twanck,</l>
+<l n="2425">des ir mijn hertz wiste danck.</l>
+<l>Was wulde sij mir doen vreuden me?</l>
+</lg>
+<lg><l>Gair ongetroist das ich ontspranck,</l>
+<l>doe ich die tzairte niet en sach,</l>
+<l>die mir soe hadde in ir betwanck</l>
+<l n="2430">voir al die werlt nacht ond dach.</l>
+<l>Veil tzoirnich was das hertze mijn,</l>
+<l>das ich bie ir nit me mocht sijn,</l>
+<l>die mir soe goetlich dede ee.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXXXIV.</head>
+<lg><l>Ich hain met myner synne gewaut</l>
+<l n="2435">besessen, vrauwe, die goete dijn.</l>
+<l>Gebildet scoen, guetlich gestalt</l>
+<l>bistu mir in dem hertzen mijn.</l>
+<l>tzuch mir zu dir, mijn liebeste tzairt,</l>
+<l>und halt mich recht nae diner ger</l>
+<l n="2440">und setz mir arman niet zu hairt,</l>
+<l>want ich gnade van dir waer.</l>
+<l>Das saltu gantz geloenen mir.</l>
+</lg>
+<lg><l>* Du liebest mir voir al der werliit</l>
+<l>gentzlich met rechter stedicheit.</l>
+<l n="2445">Het ich des van dir wedergelt,</l>
+<l>so het ich weirlich niet geveilt,</l>
+<l>weirt mir der troist van dir geseit.</l>
+</lg>
+<lg><l>Ich gebe dir, vrauwe, gewalt und recht</l>
+<l>zu dir nae mynem willen gair.</l>
+<l n="2450">Ob mich dijn goet dae in bedecht,</l>
+<l>soe duer als om ein eynich hair,</l>
+<l>soe saltu vinden sicherlich,</l>
+<l>das ich wil alles, das du wilt.</l>
+<l>Das w[oir]t ich nommer wedersprech.</l>
+<l n="2455">Voir al der werlt soe meine ich dich,</l>
+<l>myt diner truwe das wedergelt.</l>
+</lg>
+<lg><l>Mijn hertze in leides bach lijt,</l>
+<l>das clage ich, liebeste vrauwe, dir.</l>
+<l>Hilf us, mijn troist, ist an der tzijt!</l>
+<l n="2460"><pb n="44"/> Dijn goete mach wol helffen mir.</l>
+<l>D&#xE72D;ch helflich, vrauwe, an mir schijn,</l>
+<l>lais mich an moede niet virderben!</l>
+<l>Ich wil dir onderdanich sijn:</l>
+<l>recht wie du wilt, als bin ich dijn.</l>
+<l n="2465">Laes, vrauwe, mich ginade herwerben.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXXXV.</head>
+<lg><l><milestone unit="fol" n="134v"/> Mijn hertze hait gescheiden sich</l>
+<l>van mir zu dir, zairt hogestes ein,</l>
+<l>und wil auch onderdenich sijn</l>
+<l>voir al der werlt dijnre weirdikeit.</l>
+<l>  2470 * Entfae is, vrauwe, genedeklich!</l>
+<l>Dorch al dijn genaden du vindest kein nein:</l>
+<l>gebuit, ich halde den willen din!</l>
+</lg>
+<lg><l>Met gantzer truwe ich sprech,</l>
+<l>das ich zu dir ain al ghemein</l>
+<l n="2475">gewillet hain dem hertzen mijn,</l>
+<l>da bij zu dienst mich dir bereit.</l>
+</lg>
+
+</body>
+</text>
+<text>
+<body><head type="comment">LXXXVI.</head>
+<lg><l>Tzairlicher aert, wes tziestu mich,</l>
+<l>das du gein mir haldest zu hairt?</l>
+<l>Dijn genade haistu vesteclich</l>
+<l n="2480">och gentzlich an mir gespairt.</l>
+<l>Das ich doch hain virsculdet nie</l>
+<l>und moes gen dir der vremde staen!</l>
+<l>Was ich om goet och ye gelie,</l>
+<l>ich hain siin weder danck noch loen.</l>
+</lg>
+<lg><l n="2485">* Als ich nu bin gescheit van dir,</l>
+<l>sol ich dair in bliven so,</l>
+<l>dan wer alle vreude ontferret mir</l>
+<l>und mocht auch nommer werden vro.</l>
+</lg>
+<lg><l>Wijplich bilde, mijn truwe tracht!</l>
+<l n="2490">Lais mich ouch des ontgelden niecht,</l>
+<l>das ich om woldaet hain bedacht</l>
+<l>zu eigen dijnr wijplich geschiecht.</l>
+<l>Sol ich alre vreuden wesen aen,</l>
+<l>soe wil ich doch soe halden mich,</l>
+<l n="2495">das du kein arch van mir solt han, -</l>
+<l>ich hoffe, dijn genade bedencke sich.</l>
+</lg>
+<lg><l>Zolde nu mijn leven dair om enden,</l>
+<l>ich blive dir onderdenich ein,</l>
+<l>und mach niemans daz gewenden,</l>
+<l n="2500">du haist mijn gantz gewalt allein.</l>
+<l>bewise auch nu dijn weirtlich tzocht,</l>
+<l>wie ich gein mir dijn togentlich hertz.</l>
+<l>Halt dijn ungenad gein mir in flocht,</l>
+<l n="2504">soe wert verdreven al mijn swer.</l>
+</lg>
+
+</body>
+</text>
+</group>
+</text>
+</TEI.2>

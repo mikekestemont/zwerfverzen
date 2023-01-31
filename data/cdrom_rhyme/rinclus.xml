@@ -1,0 +1,1752 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.transcr 'INCLUDE'> <!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'>]><TEI.2><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Rinclus</title>
+<author>Gielijs van Molhem</author>
+</titleStmt>
+<editionStmt>
+<edition>P. Leendertz: Het Middelnederlandsche leerdicht Rinclus. Amsterdam, 1893.</edition>
+</editionStmt>
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<listBibl id="inlMetadata">
+<bibl><interpGrp type="titleLevel1">
+<interp value="Rinclus"/>
+</interpGrp><interpGrp type="medium">
+<interp value="book"/>
+</interpGrp><interpGrp type="authorLevel1">
+<interp value="Gielijs van Molhem"/>
+</interpGrp>
+<interpGrp type="ipr">
+<interp value="online"/>
+</interpGrp><interpGrp type="corpusProvenance">
+<interp value="cdrom-mnl"/>
+</interpGrp>
+<interpGrp type="pubYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1410"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1410"/></interpGrp>
+</bibl>
+</listBibl>
+<bibl id="original-metadata-cdrom-version"><![CDATA[
+<TITEL>Rinclus</TITEL>
+<author>Gielijs van Molhem</author>
+<author>Heinrec</author>
+<AARD>Rijm</AARD>
+<BRON nr="D17">Gent, Bibliotheek der Rijksuniversiteit, 1374</BRON>
+<DATUM>1390-1410</DATUM>
+<OMVANG>1451 verzen</OMVANG>
+<BRON.OPM>Het handschrift telt 137 bladen, elk blad telt &#x00E9;&#x00E9;n kolom, 25 tot 35 regels. De inhoud van het handschrift bestaat uitsluitend uit rijmteksten, die echter alle neergeschreven werden als proza, doorlopend over de hele breedte van de bladspiegel. De Rinclus bevindt zich op fol. 79r-96v; op fol. 96v breekt de tekst plots af, waarbij niet meer uit te maken is hoelang de oorspronkelijke tekst geweest moet zijn: de hier overgeleverde 122 strofen komen overeen met de eerste 123 van de 273 strofen van de Franse brontekst (het leerdicht Li Miserere van Le Reclus de Moiliens). De codex bevat verder fragmenten uit de Eerste, Tweede, Derde en Vierde Partie van de Spiegel historiael (fol. 1r-78v en 102r), een fragment uit Hein van Akens Rose (fol. 97-97v), een fragment van Boendales Boec vander wraken (fol. 97v-99r), de Eerste Martijn, de Tweede Martijn en de Derde Martijn van Jacob van Maerlant (fol. 102-119), de Vierde Martijn, toegeschreven aan Hein van Aken (fol. 119r-128r), Der kerken claghe van Jacob van Maerlant (fol. 129-131v); twee fragmenten uit Van der feesten een proper dinc (fol. 131v-133). De Rinclus is het werk van twee auteurs: Gielijs van Molhem schreef de strofen 1-97, de strofen 98-122 zijn het werk van een zekere Heinrec (zie vs. 1161).</BRON.OPM>
+<EDITIE>P. Leendertz: Het Middelnederlandsche leerdicht Rinclus. Amsterdam, 1893.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1116 </BRONMNW>
+<EDITIE.OPM>De korte lijst met correcties die de editeur op p. XII van zijn inleiding geeft, werd in de tekst verwerkt.</EDITIE.OPM>
+<BRONNEN>Gent, Bibliotheek der Rijksuniversiteit, 1374</BRONNEN>
+]]></bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+
+<text><group><text>
+<body><lg><head type="strophe comment">pb n="1"/>1.</head>
+<l>Deus, edel God vanden paradyse</l>
+<l>Gheeft gracie van Molhem Gielise</l>
+<l>Dat hi wten walsche vertiere</l>
+<l>In dietsche woerde, die staen in prise</l>
+<l n="5">Ende salech sijn oec; want hise</l>
+<l>Vant in dboec, dat de clusenere</l>
+<l>Van Molinens maecte, hets sijn gere.</l>
+<l>Ute hem dichtic te bat, want here</l>
+<l>Bi namen wi voegen in ene wise:</l>
+<l n="10">Molhem Molinens, hiers geene were.</l>
+<l>Niet dat den goeden man gedere,</l>
+<l>Dat selc dwaes steet in sine assise.</l>
+</lg>
+<lg><head type="strophe comment">2.</head>
+<l>   Want Gielijs wert des wel geware,</l>
+<l>Dat hijs herde onwerdech ware,</l>
+<l n="15">Noemdehi hem inden getale</l>
+<l>Des goets mans, die sijn lange iare</l>
+<l>Heilechlec in pinen sware</l>
+<l>Heeft geleidt; dats sonder hale.</l>
+<l>Mer gerne soude hi, conste hi wale</l>
+<l n="20">Translateren in dietsche tale</l>
+<l>Sijn boec, want hets ene ware</l>
+<l>Hem, diere na werct, vor tfiants strale.</l>
+<l>Dbeghin des wercs settic te male</l>
+<l>In Gods gewout, dat hijt beware.</l>
+</lg>
+<lg><head type="strophe comment"><pb n="2"/> 3.</head>
+<l n="25">Ghenadech God, hebt mijns genade,</l>
+<l>Want langen tijt hebdi mi stade</l>
+<l>Verleent te doene, dat u bequame,</l>
+<l>Dats dat ic soude blameren tquade.</l>
+<l>Want die prophete wt uwen rade</l>
+<l n="30">Verdoemt den vrecken om de blame,</l>
+<l>Dat hi tgraen slut na ontame</l>
+<l>Vore hem, die bidt in uwen name;</l>
+<l>Want dit stoet inden heiligen blade,</l>
+<l>Tgreyn, te reiken wt minen lichame,</l>
+<l n="35">Op dat menre nutscap af name,</l>
+<l>Ontpluct voert, al eest te spade.</l>
+</lg>
+<lg><head type="strophe comment">4.</head>
+<l>In eenre ander stat machmen lesen,</l>
+<l>God sprect uten prophete van desen</l>
+<l>Onreine vrecke pannetieren:</l>
+<l n="40">"Cleine volc bidt broet, het moet wesen;</l>
+<l>"Dune wilt hen shongers niet genesen."</l>
+<l>Soe wee hem, diet dus doet verdieren,</l>
+<l>Hine wilt tontginnene niet meer finieren</l>
+<l>Sijn broedekijn in tween, in vieren</l>
+<l n="45">Ter armer behoef, dat sijt mochten kesen.</l>
+<l>Oec sie ic volc van vele manieren,</l>
+<l>Woudt op mijn brodekijn vele mengieren,</l>
+<l>Het worde meer van mi gepresen.</l>
+</lg>
+<lg><head type="strophe comment"><pb n="3"/> 5.</head>
+<l>Lostelec es broet ingesonde,</l>
+<l n="50">Mer die sieke weret van monde</l>
+<l>Ende nemt liever den appel suren.</l>
+<l>Ghelijc eest, dies benic orconde,</l>
+<l>Dat de sot en haet dinc meer te gronde</l>
+<l>Dan castien. Men maechs niet rueren,</l>
+<l n="55">Want hi es so arch van naturen,</l>
+<l>Dat goet raet wert in hem seerre te sueren</l>
+<l>Dan broet in den sieken monde.</l>
+<l>Wie sonden volcht van uren turen,</l>
+<l>Es ongecust van waerden puren;</l>
+<l n="60">Soe overoncuusch es de sonde.</l>
+</lg>
+<lg><head type="strophe comment">6.</head>
+<l>Ia selc es so verkeert in schine,</l>
+<l>Dat hem gheeft alte groten pine</l>
+<l>Doecht te hoerne, want hine caens verbeiden</l>
+<l>Ende soect noetsaken elre tsine.</l>
+<l n="65">Hi peist: dune sels hier niet bliven,</l>
+<l>Dermen sprect van salecheiden.</l>
+<l>Men caent so soetelec niet geleiden,</l>
+<l>Hine vliet alst scaep den wolf inder weiden;</l>
+<l>Soe ruertenne de sonde met venine.</l>
+<l n="70">Mer die hen voegen ter sotheiden,</l>
+<l>Derwert sietmenne gereiden,</l>
+<l>Want dan alre ierst es hi an tsine.</l>
+</lg>
+<lg><head type="strophe comment"><pb n="4"/> 7.</head>
+<l>Een anxt eest sieken wederkeren</l>
+<l>Sine spise: daer moet bi verseeren</l>
+<l n="75">Siecheit ende daers de doot tontsiene.</l>
+<l>Doot es hi, die niet en wille leeren</l>
+<l>Gods woert, mer doecht in arch verkeren</l>
+<l>Ende wisen raet niene acht tantsiene,</l>
+<l>Ne wat hem na es te gesciene.</l>
+<l n="80">Hi maect sine dinc voer Gode onsiene</l>
+<l>Ende roeft hem selven van alre eren.</l>
+<l>Wie hem niet en voecht na doecht te pliene,</l>
+<l>Mer in lanc so meer te vliene,</l>
+<l>Werdt met gewout viant ons Heren.</l>
+</lg>
+<lg><head type="strophe comment">8.</head>
+<l n="85">Lichter ware mi de hant te slane</l>
+<l>Toten hemele dan te wederstane</l>
+<l>Elc gebrec; in caent verbieden.</l>
+<l>Niene latic daer bi voert te gane.</l>
+<l>Al ne waers bate meer tontfane</l>
+<l n="90">Dan van .m. verkeerden lieden</l>
+<l>Hen .ij., die van sonden scieden,</l>
+<l>Ochte een, ic naemt ter groter mieden.</l>
+<l>Daer bi pleechtmen ten brande te gane,</l>
+<l>Mochtemen tferlies iet weder nieden.</l>
+<l n="95">Scudden en mach geen cleet gewieden,</l>
+<l>Mer te min onreyns hancter ane.</l>
+</lg>
+<lg><head type="strophe comment">9.</head>
+<l>Magic dit werc ten inde bringen,</l>
+<l>Het mach vromen te menegen dingen,</l>
+<l>Ende quaet gedaen waert dat ic swege;</l>
+<l n="100"><pb n="5"/> Want wils de lieve god gehingen,</l>
+<l>Iemans weldat salre bi lingen:</l>
+<l>Te beter saels sijn allewege</l>
+<l>Die goede; die quade, slaetmen sege,</l>
+<l>doet tsine ocht gaen beter wege;</l>
+<l n="105">Die goede poente in hen dringen.</l>
+<l>Ende swegic dan ende der quaetheit nege,</l>
+<l>Recht waert, dat mi God betege</l>
+<l>Der liede gebrec, die quaet begingen.</l>
+</lg>
+<lg><head type="strophe comment">10.</head>
+<l>[O]m drie dinge, mensche, ic die vrage:</l>
+<l n="110">Wanen quaemstu van iersten dage?</l>
+<l>Waer bestu? Ende waer selstu henen?</l>
+<l>Sech voert, want ics di niet en verdrage,</l>
+<l>Drie ander dinc, die ic gewage:</l>
+<l>Wie du wars sal sijn. Gerenen</l>
+<l n="115">Die mine woerde, dijn sinne suenen</l>
+<l>Die wijsheit volcht, quelt dese plage;</l>
+<l>Hine can hem suchtens niet ontwenen,</l>
+<l>Als hi sijn broesche lijf siet lenen</l>
+<l>Op so iammerliken lage.</l>
+</lg>
+<lg><head type="strophe comment">11.</head>
+<l n="120">[H]oe mochten si gesijn in rasten,</l>
+<l>Die wel verstonden ende compasten</l>
+<l><pb n="6"/>Dbedieden mijnre corter waerde.</l>
+<l>Selc hoert wel goet dinc; van .ii. basten</l>
+<l>Dies niet en acht noch en wilter hem met lasten</l>
+<l n="125">Meer dan hijt prijst. Fi behagelarde,</l>
+<l>Hoert mi! Wat holpt dat ic u sparde?</l>
+<l>Die sin mijns dichtens es selc van arde,</l>
+<l>Hi sal u toten merge tasten.</l>
+<l>Scuwet den prekel van dies viants garde,</l>
+<l n="130">Dats overmoet; sijts op u warde,</l>
+<l>Ocht u ne holpt vullegaen no vasten.</l>
+</lg>
+<lg><head type="strophe comment">12.</head>
+<l>[M]ensche, hore, wanen du comen sijs.</l>
+<l>Tgebod dat Adaem brac; hadde hijs</l>
+<l>Ontbaert ende, dat hem God geboet,</l>
+<l n="135">Ende den appel opt doede rijs</l>
+<l>Niene hadde aneveerdt int paradijs,</l>
+<l>God haddene na de weelde groet</l>
+<l>Met hem gemaect ingels genoet.</l>
+<l>Neen hi, dat brachte ons ter doot.</l>
+<l n="140">O wach! hi die was sins so wijs</l>
+<l>Waer bi el diende hi sonder noet,</l>
+<l>Dat hem God dat goet voresloet</l>
+<l>Ende ons? Want noch gevoelen wijs.</l>
+</lg>
+<lg><head type="strophe comment">13.</head>
+<l>[V]an so subtilen man waest wonder,</l>
+<l n="145">Dat hi ter noet sijns sins werdt sonder</l>
+<l>Ende ons allen eygen maecte,</l>
+<l>Dien God gevrijt hadde sonder</l>
+</lg>
+<lg><head type="strophe comment"><pb n="7"/> 14.</head>
+<l>[H]ine wrachte niet bider wijsheit,</l>
+<l>Die den bant der onderhorecheit</l>
+<l n="150">Brac sonder noet om cleine dinc.</l>
+<l>Wach di armer gierecheit!</l>
+<l>God screef in der voersienecheit</l>
+<l>Die doot an des appels ommerinc,</l>
+<l>Want de doot was des appels geminc;</l>
+<l n="155">Mer god orloefde hem, dat hi ginc</l>
+<l>Ghebruken met groter geweldecheit</l>
+<l>Al ander vrocht, waer si daer hinc.</l>
+<l>Dit en halp Adame al niet</l>
+<l>Ten naesten siere salecheit.</l>
+</lg>
+<lg><head type="strophe comment">15.</head>
+<l n="160">[M]ensche proef den last, dien du draechs:</l>
+<l>Dune cans geslapen nachts na daechs</l>
+<l>Met rasten dore die sonden Adaems.</l>
+<l>Wach! mesdaet, dier du noeyt en plaechs,</l>
+<l>Noest di; dune aets ne oec en saechs</l>
+<l n="165">Die vrocht, daer du in pinen om quaems.</l>
+<l>Viant, die tserpent vernaems</l>
+<l>Knaechs hier in so vele dijns alaems,</l>
+<l>Datture noch menegen bi versaechs.</l>
+<l>Want du na elcs archste raems</l>
+<l n="170">Ende in lanc so meer vorwert craems,</l>
+<l>Dat moet God versien, want du valsch iaechs.</l>
+</lg>
+<lg><head type="strophe comment"><pb n="8"/> 16.</head>
+<l>[T]hoet es gestoert tot in die lede</l>
+<l>Ia overmids Sathanas gecnede,</l>
+<l>Dat ons quetst buten ende binnen.</l>
+<l n="175">Tfleesch geeft den geeste onvrede</l>
+<l>Mids tvenijn, dat die viant dede</l>
+<l>In teech, dats dat hem liet verwinnen</l>
+<l>Adaem. An teech machmen tfleesch bekinnen,</l>
+<l>Dat reinicheit niet en wille minnen,</l>
+<l n="180">Mer sonden soeken telker stonde</l>
+<l>Ende leckerlec dat can ontginnen,</l>
+<l>Hier laten dit, dat daer beginnen.</l>
+<l>Het keret danent quam, dat es sijn sede.</l>
+</lg>
+<lg><head type="strophe comment">17.</head>
+<l>[M]ensche, du sprancs den spronc van qualen</l>
+<l n="185">Ia uter paradyscher salen</l>
+<l>Hier neder in den armen weenne;</l>
+<l>Uter bliscap, die niet en mach smalen,</l>
+<l>Moestu int dal van weenne dalen,</l>
+<l>Daer dijn gebrec en es niet cleenne:</l>
+<l n="190">Dorst, honger, coude heefstu gemeenne;</l>
+<l>Dar bi es nacht ende dach dijn meenne,</l>
+<l>Hoe du dijn lijfttocht moechs verhalen,</l>
+<l>Ende peist daer na toten leene.</l>
+<l>En wenstu lijftocht maer allene,</l>
+<l n="195">Wie sal der sielen cost betalen?</l>
+</lg>
+<lg><head type="strophe comment"><pb n="9"/> 18.</head>
+<l>Icken hebbe mensche niet gemest,</l>
+<l>Wanen du quaems ende wie du best,</l>
+<l>Mer war du sels en wetic niet.</l>
+<l>Du sies twee wege, als oest ende west</l>
+<l n="200">Ongelijc, deen quaetst, dander best;</l>
+<l>Deen geeft bliscap, dander verdriet.</l>
+<l>Sich vore di: du best bespiet.</l>
+<l>God dinen eygenen wille di liet;</l>
+<l>Hi settet al an di te lest;</l>
+<l n="205">Ten goeden wege hi di riet.</l>
+<l>Wie noyt met wille danen sciet,</l>
+<l>Vant in die helle sinen nest.</l>
+</lg>
+<lg><head type="strophe comment">19.</head>
+<l>Die worstelt ende boven geet</l>
+<l>Prijstmen, noch meer die op steet</l>
+<l n="210">Onder den sterken ende boven blijft.</l>
+<l>Du sproncs van boven in dit leet;</l>
+<l>Sprinct weder op: hets di gereet,</l>
+<l>Op dat goet wille an di beclijft;</l>
+<l>Verhale dine scade, eer die verstijft</l>
+<l n="215">Dijn vlocht, ochtu blijft verkeytijft.</l>
+<l>Lase! hoe dit dijn herte ontfeet!</l>
+<l>Eest dat dijn spronc niet op en clijft,</l>
+<l>Du sprincs hier na, alsoemen scrijft,</l>
+<l>Soe diepe, dat mens gront en weet.</l>
+</lg>
+<lg><head type="strophe comment"><pb n="10"/> 20.</head>
+<l n="220">Mensche, verstant, hore na mi:</l>
+<l>Wie du wars, dat seggic di;</l>
+<l>Mi es leet, dat ics gewagen moet,</l>
+<l>Want daers so vele scanden bi.</l>
+<l>Hoeverdege, proef dit dan: o wi!</l>
+<l n="225">Dijn behagel lijf dijn vleesch, dijn bloet</l>
+<l>Nam sijn begen wt armer vloet.</l>
+<l>Sprakic vorder, en ware niet goet;</l>
+<l>Andi willic dat tgronden si;</l>
+<l>Du proefs den sen, bestu vroet.</l>
+<l n="230">Settestu dit wel in dinen moet,</l>
+<l>So bleefstu meneger sonden vri.</l>
+</lg>
+<lg><head type="strophe comment">21.</head>
+<l>Mensche, wie bestu, dat ane hore:</l>
+<l>Bestu niet een sac vol van gore,</l>
+<l>Die dagelijcs sleic wilt sijn gemeten,</l>
+<l n="235">Nu ydel, dan weder vol nu core?</l>
+<l>Dune heefs niet in maten behore:</l>
+<l>Du deens, heefstu te vele geten,</l>
+<l>Ende crieps, heefstu te cleine ontbeten.</l>
+<l>Dijnre maten es di al vergeten,</l>
+<l n="240">Want oncuuscheit art di an van ore.</l>
+<l>En es dinc so reine, wiltuut weten,</l>
+<l>Dat di genaect of heefs beseten,</l>
+<l>En werdt ontreynt; anesich dit, dore.</l>
+</lg>
+<lg><head type="strophe comment">22.</head>
+<l>Wattu salt, mensche, na dit leven</l>
+<l n="245">Sijn, willic di te kinnen geven:</l>
+<l><pb n="11"/>Spise der worme onder derde;</l>
+<l>Dijn vleesch, dat cierlijc es verheven,</l>
+<l>Daer menege weelde an es bedreven,</l>
+<l>Sal sijn gekeert in groter onwerde.</l>
+<l n="250">Als die doot comt met haren swerde,</l>
+<l>Die siele sceedt wt slijfs gewerde,</l>
+<l>Dan geetd an tsuchten ende an dbeven</l>
+<l>Tfleesch, dat sijns willen noede ontberde;</l>
+<l>Heefstu gedaen so wat begerde,</l>
+<l n="255">Du moetster iammerlijc om sneven.</l>
+</lg>
+<lg><head type="strophe comment">23.</head>
+<l>Heefstu mi, mensche, wel verstaen,</l>
+<l>Du kins, dat di hebben gedaen</l>
+<l>Adaem ende Yeve groet verlies.</l>
+<l>Sintu in noede best bevaen,</l>
+<l n="260">Pijndi, hoe du moges wederstaen.</l>
+<l>God heeft di hermaect bi dies</l>
+<l>Den sterken bant na onsen kies,</l>
+<l>Die wt gehorsamheiden wies,</l>
+<l>Daer Adaem iegen was gegaen.</l>
+<l n="265">Nu ne maecti nemmeer so ries,</l>
+<l>Dattu gehorsamheit verlies,</l>
+<l>Want si can alle smetten dwaen.</l>
+</lg>
+<lg><head type="strophe comment">   24.</head>
+<l>Dat wi Gods hulde niet en behouden,</l>
+<l>Comt al bi onser traecheit scouden.</l>
+<l n="270">Sijn dienst es licht; ia make wi moete,</l>
+<l>Dat wi onse werc daer in vouden,</l>
+<l>Hi weecht ons, daer wi wesen souden,</l>
+<l>Ende sent bliscap ons te gemoete.</l>
+<l><pb n="12"/>Sijn reyne gebode sijn so soete,</l>
+<l n="275">Si geven alles doegens boete.</l>
+<l>Op dit mogen wi ons verbouden:</l>
+<l>Valle wi mids sonden groete,</l>
+<l>God set ons weder op onse voete</l>
+<l>Ongequetst ende hem vergouden.</l>
+</lg>
+<lg><head type="strophe comment">25.</head>
+<l n="280">Die met doegene es verladen,</l>
+<l>Wilt hi keren ter Gods genaden,</l>
+<l>God sent hem troest, die wel can sachten</l>
+<l>Ende tempereren sijn verdriet met staden</l>
+<l>So dat hijt lichter dreecht. Dus daden</l>
+<l n="285">Die martelaren, die hare gedachten</l>
+<l>Nietne keerden, te wat noede sise brachten</l>
+<l>Dondadege, diere moert ane wrachten.</l>
+<l>Al mochtmen hare live scaden,</l>
+<l>Tgeloeve bleef in vrayer wachten;</l>
+<l n="290">Sine wouden op die doot niet achten,</l>
+<l>Mer in Gods dienste hare wesen gaden.</l>
+</lg>
+<lg><head type="strophe comment">26.</head>
+<l>Die Gode hebben van herten wert,</l>
+<l>In hen en mach niet sijn verwert</l>
+<l>Tfier, dat wt caritaten ruert.</l>
+<l n="295">Noet, honger, coude, dorst dan deert</l>
+<l>Hem, want God te sine begert</l>
+<l><pb n="13"/>Gheselle, daer hem therte puert.</l>
+<l>Sent ons swaerheit in tsalege vuert,</l>
+<l>Soe eest beter, hoe soet besuert,</l>
+<l n="300">Dat men der weldecheit ontbert,</l>
+<l>Dan salecheit es geavontuert,</l>
+<l>Ende doegen mint, daer God bi duert,</l>
+<l>Dan weldech varen henderwert.</l>
+</lg>
+<lg><head type="strophe comment">27.</head>
+<l>O wach! ende wat hadde hi gewonnen,</l>
+<l n="305">Dies tgoet al ware onder der sonnen</l>
+<l>Ende dan die siele niet behielde.</l>
+<l>Die goede Laureis was des versonnen:</l>
+<l>Hi lach met vieregen bloede beronnen</l>
+<l>Op den roestre in ongewilde;</l>
+<l n="310">Alse dier der martielien niene scilde</l>
+<l>Den tyran vraechde hi, ochte hi wilde</l>
+<l>Eten sijns vleeschs: het ware begonnen</l>
+<l>Dorbraden, want het van den beenne vilde.</l>
+<l>Dies was hi hier te loegene milde,</l>
+<l n="315">Dies hem God soude sijn rike geonnen.</l>
+</lg>
+<lg><head type="strophe comment">28.</head>
+<l>Wat scrijft men vanden goeden man</l>
+<l>Vincente, die Daciane verwan,</l>
+<l>Daer hi vore hem leet swaren torment?</l>
+<l>Hi lach op den roester van</l>
+<l n="320">Ysere, daer hem dbloet afran</l>
+<l>Ende tsmout recht als van hersent;</l>
+<l>Het was invierech al ontrent.</l>
+<l><pb n="14"/>Hem en ruerde hi noyt en twent,</l>
+<l>Mer sinen scepper hi te loven began.</l>
+<l n="325">Hi temperde wel dat instrument,</l>
+<l>Dat hi voer Gode heeft oeyt sent</l>
+<l>Ghespeelt ende spelen sal voertan.</l>
+</lg>
+<lg><head type="strophe comment">29.</head>
+<l>Si, die weec sijn ende alte trage,</l>
+<l>Merken, hoe die Gods vriende hare daghe</l>
+<l n="330">Ontfunct waren in caritaten.</l>
+<l>Die sente Andriese, sente Stevene sage,</l>
+<l>Welke tormente ende welke plage</l>
+<l>Si doechden, mochten hen gerne gematen.</l>
+<l>Drie daghe hinc deen ant cruce verhaten</l>
+<l n="335">Ende predecte elken te baten;</l>
+<l>Dander bat Gode sonder clage,</l>
+<l>Dat hi hen die sonden wilde verlaten,</l>
+<l>Diene steinden, of arch besaten:</l>
+<l>Sine wisten watter ane gelage.</l>
+</lg>
+<lg><head type="strophe comment">30.</head>
+<l n="340">Meesters warent van goeder scolen;</l>
+<l>Hare woert, hare daet, hoe sijt bequolen,</l>
+<l>Verlichten die heilige kerke.</l>
+<l>Also wise tonge slaet in dolen,</l>
+<l>Doet hare woerde met logenen solen,</l>
+<l n="345">Elc volc begertse inden werke.</l>
+<l>Dat brinct menege siele in swerke.</l>
+<l>Woerde sonder daet, wt leecken, wt clerke,</l>
+<l>Dienen gelijc den scoen sonder solen,</l>
+<l>Want si staen buten hantgemerke.</l>
+<l n="350"><pb n="15"/> Met enen vlogele mach qualike stercke</l>
+<l>Vlocht vogel doen, dits onverholen.</l>
+</lg>
+<lg><head type="strophe comment">31.</head>
+<l>   Wat vrochte mach dragen lant verspaect?</l>
+<l>Die sondecht ende sermone maect</l>
+<l>Vandat een ander sonde iaecht,</l>
+<l n="355">Wat achtmen sijns? Want hi es naect</l>
+<l>Van doechden, daer sijn ere in laect.</l>
+<l>Hi sal eer doen, dat Gode behaecht,</l>
+<l>Eer hi den sondere meer versaect.</l>
+<l>Sijn goede werke ane hem bedaecht,</l>
+<l n="360">So wert sijn woert na recht gesmaect.</l>
+<l>Met redenen hi versmaedheit draecht,</l>
+<l>Die meester, die sijn woert laecht,</l>
+<l>Es hi van daden ongeraect.</l>
+</lg>
+<lg><head type="strophe comment">32.</head>
+<l>Qualec prisic des meesters dingen,</l>
+<l n="365">Die hem wilt met welden mingen</l>
+<l>Ende hetet enen anderen dragen rouwe;</l>
+<l>Hi scuwet den wech van siere leringen</l>
+<l>Ende wijst den swaren pat, den ingen</l>
+<l>Ons te gane; dits geen trouwe.</l>
+<l n="370">Hi peist: eer gin ic, daer ic cnouwe</l>
+<l>Iet leckers ocht ane sage ene vrouwe,</l>
+<l>Die ic te valle mochte bringen,</l>
+<l>Dan te doene dat men scouwe.</l>
+<l>Elc dus volcht des viants bouwe,</l>
+<l n="375">Die hem noch swaren sanc sal singen.</l>
+</lg>
+<lg><head type="strophe comment"><pb n="16"/> 33.</head>
+<l>Wat wondere eest, al geloeft men twent</l>
+<l>Ochte lettel goet die predect, sent</l>
+<l>Die vasten hiet ende selve es sat</l>
+<l>Van spisen, die hi lecker kent,</l>
+<l n="380">Van claren wine, die saechte rent</l>
+<l>Dor sine kele? Voert hiet hi dat,</l>
+<l>Te makene hert onse bedde stat,</l>
+<l>Ende de sine es saechte; dus vliet hi wat</l>
+<l>Hi raedt; ons waent hi maken blent.</l>
+<l n="385">Vent hijt dus goet hier, ginder bat,</l>
+<l>(Hine proeve tiersten tswerte gewat)</l>
+<l>So staet sijn seil te wensche in went.</l>
+</lg>
+<lg><head type="strophe comment">34.</head>
+<l>Die werelt wert bi haren scouden</l>
+<l>Bederft, die ons berechten souden;</l>
+<l n="390">Si leggen ons poente wel te voren,</l>
+<l>Die si selve lettel houden,</l>
+<l>Want hare gescrifte glose vouden</l>
+<l>Na hare gevoech, niet na behoren.</l>
+<l>Die onse bliscap niet en willecoren,</l>
+<l n="395">Leidense selve biden oren;</l>
+<l>Dat sietmen wel. Fi derre wisouden!</l>
+<l>Die sculdech sijn, dat si ondaet scoren,</l>
+<l>Dat sijn die, die alle doecht versmoren;</l>
+<l>Dits alte nauwe Gode vergouden.</l>
+</lg>
+<lg><head type="strophe comment"><pb n="17"/> 35.</head>
+<l n="400">Dit en seggic niet bi selken saken,</l>
+<l>Dat ic mi mach onsculdech maken,</l>
+<l>Om dat ic lachtere iemens gebreke.</l>
+<l>Wie dat wel seget, men volge der spraken,</l>
+<l>Al sagemen oec in sonden blaken,</l>
+<l n="405">Want men minct wel lose treken</l>
+<l>In doecht. Hoert, wat ic daertoe sal spreken:</l>
+<l>God, die wert es dat hem elc weke,</l>
+<l>Sal dat te scedene wel geraken,</l>
+<l>Want sijn ordeel strijct rechten streke,</l>
+<l n="410">Ende den mensche hi nemmermeer besweke,</l>
+<l>Minde hi Gode ende wilde arch messaken.</l>
+</lg>
+<lg><head type="strophe comment">36.</head>
+<l>Hi die recht elken willecoert,</l>
+<l>Die doecht, arch loent, nadat behoert,</l>
+<l>Ende negeenen mensche onrecht en doet,</l>
+<l n="415">Want hi in tfolc meester behoert,</l>
+<l>Sijn si gerechtech ocht verdoert</l>
+<l>Loent hi tweevout, eest quaet of goet,</l>
+<l>Ia dobbele crone of dobbele gloet.</l>
+<l>Cleine troest eest mi, dies benic vroet,</l>
+<l n="420">Dat mijn meester .ij. pinen cort</l>
+<l>Ende ic dan ene becoren moet.</l>
+<l>Wach sijns, die inder meester gloet stoet!</l>
+<l>Sine bluscht niet, mer pijnt altoes voert.</l>
+</lg>
+<lg><head type="strophe comment">37.</head>
+<l>Hi, die es overste ende here</l>
+<l n="425">Van alre dinc, leert ons ene leere,</l>
+<l>Dat wi den meester niet en versmaden,</l>
+<l><pb n="18"/>Die predect, ruert hi die Gods eere.</l>
+<l>Al sijn sine werke buten keere,</l>
+<l>Volge wi den woerden, niet den daden.</l>
+<l n="430">Ochte hi met sonden es beladen,</l>
+<l>Wat mach dat den sermoene scaden,</l>
+<l>Dat ter doechtwert raedt even seere.</l>
+<l>Men sal den sotten meester gaden</l>
+<l>Metten ossen, die dlant besaden,</l>
+<l n="435">Dies bate en hebben nemmermeere.</l>
+</lg>
+<lg><head type="strophe comment">38.</head>
+<l>Meester, die quaet doet ende wel seecht,</l>
+<l>Es, mensche, dijn osse, want hi dreecht</l>
+<l>Dyoc tuwen boef, mer vore hem niet.</l>
+<l>Dine nutscap te winne pleegt</l>
+<l n="440">Mids menegen woerde, datse weegt</l>
+<l>In wisene, dat men archeit vliet.</l>
+<l>Ocht hi dan qualeke voer hem siet</l>
+<l>Ende selve na sine woerde niet en tiet,</l>
+<l>Hets recht, dat daer sine scade ane leegt.</l>
+<l n="445">Al siestune springen in den vliet,</l>
+<l>En volge hem niet, mer doe dat hi di riet,</l>
+<l>Ochtu blijfs van Gods rike ontwoegt.</l>
+</lg>
+<lg><head type="strophe comment">39.</head>
+<l>Die Gode ontsprinct, hi vindt o wach!</l>
+<l>Den armsten troest die wesen mach.</l>
+<l n="450">Sijn spronc gelijct den groeyenden boem,</l>
+<l>Diemen noyt vrocht bringen en sach,</l>
+<l>Dats die werelt, die dies oeyt plach:</l>
+<l><pb n="19"/>Si toent vrient ic ben moye ende oem;</l>
+<l>Dits al gedroch, sine heves goem;</l>
+<l n="455">Wat si geloeft, dannes mer droem.</l>
+<l>Wie hare beraet noyt en ontsach,</l>
+<l>Sant si te lest an haren toem</l>
+<l>Ende tracken inden helschen doem,</l>
+<l>Daer nemmermeer en es verdrach.</l>
+</lg>
+<lg><head type="strophe comment">40.</head>
+<l n="460">Hiervormaels brachtmen altoes</l>
+<l>Dien wive, die haren man verloes,</l>
+<l>Enen hoet van wilgen groenne geloeft.</l>
+<l>Selken hoet, mensche sorgeloes,</l>
+<l>Wachstu, ia een arm cleet ende allettel stroes</l>
+<l n="465">Vander werelt, alse du legts thoet.</l>
+<l>Si nam di naect, nacomt si ende roeft</l>
+<l>Di alles, verstaens, du best verdoeft.</l>
+<l>Der werelt gave es alte loes;</l>
+<l>Hijs salech, die hem van hare cloeft.</l>
+<l n="470">god geeft hem, opdat hijs geloeft,</l>
+<l>Die rijcste crone, die noyt man coes.</l>
+</lg>
+<lg><head type="strophe comment">41.</head>
+<l>Antwert, mensche, ic wille di kinnen:</l>
+<l>Si twee dier dochtere sere minnen;</l>
+<l>Des eens goet es erve, dander have;</l>
+<l n="475">Welc van tween wildi ghewinnen?</l>
+<l>Bepeyst dit, wies wiltu beginnen.</l>
+<l>Erfnesse dat en nemt niet ave,</l>
+<l>Mer havelec goet dwaest gelijc den cave;</l>
+<l>Dits ene ongedeilde gave.</l>
+<l n="480">Hier proeftmen, heefstu wijsheit binnen:</l>
+<l><pb n="20"/>Die een es keyser, dander slave;</l>
+<l>Laetstu den cepter ende vaes ten stave,</l>
+<l>Wie saldi clagen? In caent versinnen.</l>
+</lg>
+<lg><head type="strophe comment">42.</head>
+<l>Du, die wijs bes ende merken sout,</l>
+<l n="485">Den sin van desen .ij. onthout:</l>
+<l>Deen es de werelt, dander God.</l>
+<l>De werelt heeft in hare gewout</l>
+<l>Dit wandel goet, scat, selver, gout.</l>
+<l>Dan ruert Gods erve niet een not:</l>
+<l n="490">Sine grote rijcheit, sijn gebot</l>
+<l>Es sonder verganc; ansich dit, sot;</l>
+<l>Ghef Gode dijn siele, betale dine scout,</l>
+<l>Dese werelt en es mer een spot.</l>
+<l>Sich Gods palais, sich sduvels cot,</l>
+<l n="495">Kyes, daer du ewelec in bliven wout.</l>
+</lg>
+<lg><head type="strophe comment">43.</head>
+<l>Vanden riken man bescreef</l>
+<l>Lucas, hoe dat hi rijcheit dreef</l>
+<l>Ende in groter weldecheiden at</l>
+<l>Ghewafleerde sopten ende in wreef,</l>
+<l n="500">Wat hem bequam, wat hem gereef,</l>
+<l>Alse die indertijt sijn vuele vat</l>
+<l>En waende niet gemaken sat.</l>
+<l>Ach! wat ees siere sielen te bat,</l>
+<l>Die uter wijsheit Gods becleef?</l>
+<l n="505">Swarlec gout hare die werelt dat,</l>
+<l>Dat sise verleidde in thelsche gat,</l>
+<l>Dar noyt siele ongepijnt en bleef.</l>
+</lg>
+<lg><head type="strophe comment"><pb n="21"/> 44.</head>
+<l>Hets recht, dat hem die helle wreet</l>
+<l>Met harre felre wraken sleet,</l>
+<l n="510">Den gieregen tyrant, den quaden hont,</l>
+<l>Die Lasaruse was ongereet</l>
+<l>Iet lafenessen, dar hi ontbeet.</l>
+<l>Hore herwert, proeft desen gront,</l>
+<l>Gulsege siele, leckere mont,</l>
+<l n="515">Daer soberheit noyt in en stont.</l>
+<l>Fi dijns! laet di dit wesen leet,</l>
+<l>Ocht God wreket in corter stont;</l>
+<l>Want om dies die tyrant al verslont,</l>
+<l>Heeft hi een stinckende bat ende heet.</l>
+</lg>
+<lg><head type="strophe comment">45.</head>
+<l n="520">Wach, hoe ontekent ende hoe swart</l>
+<l>Es dese tyrant nu, die so hart</l>
+<l>Den armen Lasaruse was!</l>
+<l>Ter porten claterde hi sijn bart</l>
+<l>Ende riep, dat hem die kele smart:</l>
+<l n="525">"Ghef broet, mi honghert boven pas."</l>
+<l>Men sant hem niet dan hontgebas;</l>
+<l>Sinen hongher daer niemen en genas,</l>
+<l>Noch enen voet te hem wert tart.</l>
+<l>Nu es sine rijcheit mer gedwas,</l>
+<l n="530">Die dus tgemeyne goet in las,</l>
+<l>Want hem rout, dat hi ye gewart.</l>
+</lg>
+<lg><head type="strophe comment">46.</head>
+<l>Here es die catijf gescofiert,</l>
+<l>Die hem so grotelec hadde geciert</l>
+<l><pb n="22"/>Met haven, die hi qualike nam.</l>
+<l n="535">God heeftene verre van hem gestiert.</l>
+<l>Hi hadde den armen tgoet verdiert;</l>
+<l>Dies wederseide hem Abraham</l>
+<l>Den dropel, dat bi redenen quam.</l>
+<l>Wach! sine hitte en wert niet lam,</l>
+<l n="540">Ware hi vol waters gevisiert,</l>
+<l>Want die gloet es so vreesam;</l>
+<l>Oec sijn hem die viande gram.</l>
+<l>Dus es hi swarlec geantiert.</l>
+</lg>
+<lg><head type="strophe comment">47.</head>
+<l>O rike, anesich dinen armen fijn!</l>
+<l n="545">Ter quader tijt waest tgoet ye dijn</l>
+<l>Ende dien tresoer, dien du vercreechs.</l>
+<l>God ordeelt di, dats wel in scijn;</l>
+<l>Hi wrect over den groten wijn,</l>
+<l>Dien du dore dine kele seechs.</l>
+<l n="550">Verdoemt du inden tormente leechs,</l>
+<l>Om dattu vore Lazaruse sweechs</l>
+<l>Ende niet en stoppes den hongher sijn,</l>
+<l>Ende ginc ellendech wech sijns weechs.</l>
+<l>Den berrenden dorst, dien du nu dreechs,</l>
+<l n="555">En bluschste niet, droncstu den Rijn.</l>
+</lg>
+<lg><head type="strophe comment">48.</head>
+<l>Nu hoert na mi, ghi lecker kelen,</l>
+<l>Hoedt u van overtullegen velen,</l>
+<l>Die uwen God maect van uwen buken.</l>
+<l>Hine bat den dropel om geen spelen</l>
+<l n="560">Lazaruse, dien hi hadde sien quolen</l>
+<l>Ter porten, die hi dede sluten.</l>
+<l><pb n="23"/>Wach hoene nu die vlammen ruken!</l>
+<l>Hine mach geenre welden meer gebruken.</l>
+<l>Her leckernie, dus canstu stelen</l>
+<l n="565">Hare welvaert, die vore di ontpluken</l>
+<l>Den mont ende der maten ontuken.</l>
+<l>Hets di quaet enege dinc bevelen.</l>
+</lg>
+<lg><head type="strophe comment">49.</head>
+<l>Ene smette dreecht hi van dorpernien,</l>
+<l>Die hem voeghet ter leckernien,</l>
+<l n="570">Want die sonde es al tonreyne.</l>
+<l>Men swige der sonden, wilmens lien:</l>
+<l>Buuc half sat sal bat bedien</l>
+<l>Dan vol. In gesonden alleine</l>
+<l>Dese vertuut en es niet cleine;</l>
+<l n="575">Oec en heeft soberheit negeyne</l>
+<l>Onvriende, men weet hare wies tien;</l>
+<l>Mer de gulsege, die ic meine</l>
+<l>Ende dien die vrecheit ruert te beine,</l>
+<l>Heeft lettel vriende in siere partien.</l>
+</lg>
+<lg><head type="strophe comment">50.</head>
+<l n="580">In overdade was dese gevoedt,</l>
+<l>Ende Lazarus siec, vermoedt,</l>
+<l>In breken siec, want hi was arm.</l>
+<l>Nu es die dinc anders verhoedt:</l>
+<l><pb n="24"/>Elc vint nu, dat hi heeft gebroedt;</l>
+<l n="585">Die arme es blide in Abrahams arm</l>
+<l>Daer boven in themelsche geherm;</l>
+<l>Ende die rike hevet so werm</l>
+<l>Int vier, dat niemene en verhoedt;</l>
+<l>Hem en helpt bert, scadue ne scerm.</l>
+<l n="590">Hi goet voermaels dor sinen derm,</l>
+<l>Dat bleven ware, hadde hi ghevroedt.</l>
+</lg>
+<lg><head type="strophe comment">51.</head>
+<l>Wel was die man in groet delijt,</l>
+<l>Mer sere verwandelde hem die tijt,</l>
+<l>Doen hi den dropel waters iesch.</l>
+<l n="595">"Swijch, sone, du bes vermaledijt,"</l>
+<l>Sprac Abraham, "dats om den nijt,</l>
+<l>"Die Lazarus ane di gevriesch:</l>
+<l>"Ellendech op den herden driesch</l>
+<l>"Daer waest dat hi sine sonden wiesch;</l>
+<l n="600">"Ende du viels iegen Gode in strijt,</l>
+<l>"Blijf daer in des viants gebriesch."</l>
+<l>God kinnet al, eest walsch, eest vriesch;</l>
+<l>Hi es gerecht, dus ordeelt hijt.</l>
+</lg>
+<lg><head type="strophe comment">52.</head>
+<l>Met selker maten, Jhesus seecht,</l>
+<l n="605">Als elc anderen te metene pleecht,</l>
+<l>Sal hi ons meten, want hijt trecht prijst.</l>
+<l>Dat es een woert, hoe dat ons weecht,</l>
+<l>Daer God geen archeit in en dreecht.</l>
+<l>Proeft, want hi hoeveschelec bewijst,</l>
+<l n="610">Dat smenschen scout es, daelt hi of rijst.</l>
+<l>Hi werdt genoedt, die darme spijst,</l>
+<l><pb n="25"/>Ende die wel doet, in doecht geseecht;</l>
+<l>Mer van quaet doene niemen en wijst.</l>
+<l>Mensche, God wilt, dattu selve sijst</l>
+<l n="615">Doemere van dat andi leecht.</l>
+</lg>
+<lg><head type="strophe comment">53.</head>
+<l>Dit bispel mach huut ende haer</l>
+<l>Den riken crempen doen in vaer,</l>
+<l>Mer en bevreest den armen twent.</l>
+<l>Wel heeft die rike tgoet te caer,</l>
+<l n="620">Diet nutten mach ommenech iaer</l>
+<l>Ende swarlec geldet inden torment;</l>
+<l>Mer die arme, diemen niet en kint,</l>
+<l>Als men hem smadelec op rent,</l>
+<l>Verdreecht hijt wel, so es God aldaer.</l>
+<l n="625">Dien hi ene hemelsche crone ane sent</l>
+<l>Ende den riken, in doechden verblendt,</l>
+<l>Wijst god ter hellen oppebaer.</l>
+</lg>
+<lg><head type="strophe comment">54.</head>
+<l>In dewangelie, die niet en verkeert,</l>
+<l>Dies doecht ane ons soude sijn gemeert,</l>
+<l n="630">Waren bescreven dese waert.</l>
+<l>Hijs saechte gecastijt, geleert,</l>
+<l>Die scuwet, dat een ander bereert.</l>
+<l>Spise, die de nature bespaert,</l>
+<l>Goet raet, diemen stect achter waert,</l>
+<l n="635"><pb n="26"/> Dese twee sijn beide op quade vaert.</l>
+<l>Doecht gerne horen ende dan versceert</l>
+<l>Tesine, so datmen weldoen spaert,</l>
+<l>Dat trect den mensche an bosen art,</l>
+<l>Bi wien hi ewelec blijft onteert.</l>
+</lg>
+<lg><head type="strophe comment">55.</head>
+<l n="640">Dattu bids Gode es te vergeefs,</l>
+<l>Diet tsgoets te vele an di heefs</l>
+<l>Dat God in tgemeine strect</l>
+<l>Alden volke, dattu verkeefs</l>
+<l>Ende metten haren in weelde leefs.</l>
+<l n="645">Also de arme te di wert trect</l>
+<l>Om broet of om daer hi hem mede dect</l>
+<l>Ghehelpt hem vloechs, dies hem gebrect;</l>
+<l>En sorge voer breke kints no neefs.</l>
+<l>Gereede aelmoesene Gode weet</l>
+<l n="650">Ende tweevout dient; mer sijs bevlect</l>
+<l>De ongereede, al warse eens greefs.</l>
+</lg>
+<lg><head type="strophe comment">56.</head>
+<l>Beraedt di bat, quaet sot verdoert:</l>
+<l>Waenstu, dat di God willecoert</l>
+<l>Allene al tgoet om dijn gemac,</l>
+<l n="655">Dat alden volke toebehoert?</l>
+<l>Dijn solre es vol corens gesmoert,</l>
+<l>Ende in dijns evenkerstens sac,</l>
+<l>Die oyt in laste van kinderen stac,</l>
+<l>En es noch coren noch gebac</l>
+<l n="660"><pb n="27"/> Ende leegt ende swelt; dits niet dan moert.</l>
+<l>Vore Gode, die oyt swarlec wrac,</l>
+<l>Antwertstu noch, want hijt vore sprac;</l>
+<l>Ende dies en wertstuus niet verstoert?</l>
+</lg>
+<lg><head type="strophe comment">57.</head>
+<l>Wi souden nacht ende dach voresien</l>
+<l n="665">Van goede, dat wi an ons tien,</l>
+<l>Dat ons tere ware gemingt</l>
+<l>Met maten, dat wijs mochten gien</l>
+<l>Vore Gode, die ons noch van dien</l>
+<l>Anspreken sal waer, als hi dingt</l>
+<l n="670">In dordeel. Wie daer doncker bringt</l>
+<l>Sijn feit, vloechs van hem verlingt.</l>
+<l>Dies en mach paus no prince ontvlien,</l>
+<l>Want god daer menst vordeels gehingt</l>
+<l>Den rijcsten, dien hier vrecheit dwingt</l>
+<l n="675">Negeen crom en mach vore hem geschien.</l>
+</lg>
+<lg><head type="strophe comment">58.</head>
+<l>Een gierech man, hert ende ruut,</l>
+<l>Was teenre stont, die sijn deduut</l>
+<l>Algader leide an goet, an gelt;</l>
+<l>Hine achte niet, dat naecter huut</l>
+<l n="680">Derme maecten groet geluut;</l>
+<l>Hi vergat Gods ende siere gewelt.</l>
+<l>Eens droemde hem ende sach aen een velt</l>
+<l>Tscoenste perc, met muren omstelt,</l>
+<l>Dat noyt man sach, ende tscoenste fruut.</l>
+<l n="685"><pb n="28"/> Derwert heeft hi hem versnelt</l>
+<l>Ende waender in. Het wert bevelt:</l>
+<l>Die dore was toe; dus bleef hiere wt.</l>
+</lg>
+<lg><head type="strophe comment">59.</head>
+<l>Hine mochte niet in ende hi ontfinc</l>
+<l>Van hongere na een hert ontsinc</l>
+<l n="690">Om tscoenne fruut, dat hi daer sach.</l>
+<l>Hi claterde der doven rinc.</l>
+<l>Te lost quam een, die hem ontfinc,</l>
+<l>Vriendelec ende seide hem: "o wach!</l>
+<l>"In hebbe der scoenre vrocht, in mach</l>
+<l n="695">"Van hongere volloven den dach;</l>
+<l>"Nu geffer mi, vrient, ende bedinc,</l>
+<l>"Dat de doot es te swaren slach."</l>
+<l>Dander sprac: "doeds mi verdrach,</l>
+<l>"In daedt om geen ertsche dinc."</l>
+</lg>
+<lg><head type="strophe comment">60.</head>
+<l n="700">De bogartman sprac: "vrient, dat verstant</l>
+<l>"Ic moet wachten met noedeger hant</l>
+<l>"Den inganc ane den bogaert,</l>
+<l>"Want noyt man scoenre vrocht en vant.</l>
+<l>"Wijs volc, dat sit in ander lant,</l>
+<l n="705">"Heeft hier binnen geplant gespaert;</l>
+<l>"Niene vinder elre so vermaert.</l>
+<l><pb n="29"/>"Van spisen sonder in desen pant</l>
+<l>"Ende niemen en weet werwaert,</l>
+<l>"Dan selen si comen in den aert</l>
+<l n="710">"Hier nemen, wierre hem iegen spant.</l>
+</lg>
+<lg><head type="strophe comment">61.</head>
+<l>"Sonder orlof geen cnecht en sal</l>
+<l>"Sijns heren goet, eest groet eest smal,</l>
+<l>"Ontkeren, diet in hoeden heeft.</l>
+<l>"Dus moetic des fruuts getal</l>
+<l n="715">"Wel wachten, sint ment mi beval.</l>
+<l>"In gaefs geennen man, die leeft,</l>
+<l>"Dan hem, diement van rechte geeft.</l>
+<l>"Mer stoede hier suwes iet, dat bedeeft</l>
+<l>"Hoe ghi woudt. Wat helpt groet gescal?</l>
+<l n="720">Ghine bites, dat ghiere doot om bleeft."</l>
+<l>Hi, die dus lach in droeme versteeft</l>
+<l>Ontspranc ende dus verloes hijt al.</l>
+</lg>
+<lg><head type="strophe comment">62.</head>
+<l>Die man besochte sinen sin</l>
+<l>Te gronde, dat hi wert daer in</l>
+<l n="725">Van wondere mat ende verveert oec.</l>
+<l>Als hi ane sach dinde ende dbegin</l>
+<l>Sijns hongers, prijsdi hem te min,</l>
+<l>Datmen den bogaert vore hem loec.</l>
+<l><pb n="30"/>Hi sprac te hemselven: "vuele goec,</l>
+<l n="730">"Mijn sin, die oyt na vrecheit roec,</l>
+<l>"Heeft mi benomen groet gewin;</l>
+<l>"Ende derme volc, dat vore mi doec,</l>
+<l>"Daer noyt mijn hant vore en ontploec</l>
+<l>"In doechden; dies ic targher bin.</l>
+</lg>
+<lg><head type="strophe comment">63.</head>
+<l n="735">Alse hi de scoenheit vore ogen hilt</l>
+<l>Dies bogaerts, scout hi sijn herte wilt</l>
+<l>Ende heeft sijn ongeval geclaecht:</l>
+<l>"Vroet volc eest, dat dus wilt</l>
+<l>"Vorsienech sijn ende met gewilt</l>
+<l n="740">"In selc vergier sijn vordeel iaecht;</l>
+<l>"Want wiere in deilt, blijft onversaecht.</l>
+<l>"Hare voerraet mi wel behaecht.</l>
+<l>"In werde nemmermeer gestilt,</l>
+<l>"In hebbere boem in, die vrocht draecht,</l>
+<l n="745">"Wanneer mi noet of anxt bedaecht,</l>
+<l>"Dat ic daer vonde minen scilt."</l>
+</lg>
+<lg><head type="strophe comment">64.</head>
+<l>Wel heeft die goede man bediedt</l>
+<l>Sbogaerds woert, dienne wederniedt</l>
+<l>Sere hadde. Ende verwermt</l>
+<l n="750">Nu roept hi: "God die mi beriedt</l>
+<l>"Den droem, genade, och gijt gebiedt!</l>
+<l>"Archeit heeft soe in mi gehermt,</l>
+<l>"Dat ic van gisteren ben verwermt.</l>
+<l>"Ay haddic al mijn leven gekermt</l>
+<l n="755">"Vore tparc, en hadde mi gediedt.</l>
+<l>"Nu proevic, Here, mijns ontfermt,</l>
+<l>"Dat elc sal na sinen termt,</l>
+<l>"Si goet, si quaet, na recht sijn gemiedt.</l>
+</lg>
+<lg><head type="strophe comment"><pb n="31"/> 65.</head>
+<l>"Ay God," seit hi, "niet en gedinct</l>
+<l n="760">"Der sonden, die mi vore u minct.</l>
+<l>"Ic was met gierecheiden geeent</l>
+<l>"Ende wrachtere bi, die vore u stinct,</l>
+<l>"Want siden menegen an hare winct,</l>
+<l>"Dat namaels sine siele beweent.</l>
+<l n="765">"Van dien, dat ghi mi hebt verleent,</l>
+<l>"Om dat mi werden mochte ontleent,</l>
+<l>"Ende werdt tuwer eren niet gescinct.</l>
+<l>"Eest dat gi mi tordeelne meent</l>
+<l>"Hier na, daer nu vore vereendt</l>
+<l n="770">"In werde inden tormente gesinct.</l>
+</lg>
+<lg><head type="strophe comment">66.</head>
+<l>Elc mensche sie wel, wat hi doe,</l>
+<l>Want god en trachem noyt toe</l>
+<l>Aelmoesene, daer sonde in mingde.</l>
+<l>Die wolle mingde in vlas, in stroe,</l>
+<l n="775">Maecte den gewande quade vloe.</l>
+<l>Wach hem, die in hem noyt dringde</l>
+<l>Dleven, dat Gode de siele onttingde!</l>
+<l>Betert, dies pleget, om die lingde</l>
+<l>Van hem, die wrake tongeroe.</l>
+<l n="780">Proeft: noyt aelmoesene en verstringde</l>
+<l>Aflaet, hoe lude hoe stille clingde,</l>
+<l>Ute bloedeger hant; nu verstaet hoe:</l>
+</lg>
+<lg><head type="strophe comment"><pb n="32"/> 67.</head>
+<l>Want bloedecheit heet, die anderen haet;</l>
+<l>Hantbloedech heet, die niemen en laet;</l>
+<l n="785">Hantbloedech heet verrader, dief;</l>
+<l>Hantbloedech heet, die hoeverde raedt;</l>
+<l>Hantbloedech, wie dat roeven badt;</l>
+<l>Hantbloedech wroegher, iemens gerief;</l>
+<l>Hantbloedech in der lecker brief</l>
+<l n="790">Hantbloedech, die oeyt logene hief;</l>
+<l>Hantbloedech putier, die niet en maedt;</l>
+<l>Hantbloedech persemeers gerief;</l>
+<l>Hantbloedech valsche orcunde onlief;</l>
+<l>Hantbloedech, daer gedreych in vaedt.</l>
+</lg>
+<lg><head type="strophe comment">68.</head>
+<l n="795">Hantbloedech hebben si alle dese,</l>
+<l>Want Gods recht tuucht, dat si wese,</l>
+<l>Dat hise bloedech wille noemen.</l>
+<l>Hoe ic verradere ochte roevere prese,</l>
+<l>Hare bloedege name hare niet ontrese,</l>
+<l n="800">Diet volc hier geesselen ende doemen,</l>
+<l><pb n="33"/>Nement hier ende gevent hen somen,</l>
+<l>Quaet spreken, liegen omme roemen</l>
+<l>(Dit trect al in die bloedege pese),</l>
+<l>Maechdoem roeven ende volgen keesdoeme.</l>
+<l n="805">Bloedege oge traen helpt geen broemen.</l>
+<l>Wies niet en geloeft, nemt scrijf ende lese.</l>
+</lg>
+<lg><head type="strophe comment">69.</head>
+<l>Doet hoeftsonde man of kint,</l>
+<l>Hi heet bloedech; als hijt versint,</l>
+<l>Na recht es hem den name geleit;</l>
+<l n="810">Soe vele quaets steet op haren, tint,</l>
+<l>Want si die glotternie mint</l>
+<l>Niet dan bloet ende vleesch, na waerheit.</l>
+<l>Die hem oec met luxurien meyt,</l>
+<l>Verget Gods ende siere salecheit,</l>
+<l n="815">Eren, redenen, trouwen oec sint.</l>
+<l>Tvleesch heeft soe grote mogentheit,</l>
+<l>Dat sinen wille al doet ende seit;</l>
+<l>Soe es geenre sielen scout bekint.</l>
+</lg>
+<lg><head type="strophe comment">70.</head>
+<l>   O wach ghi leckers, die vleesch ende bloet</l>
+<l n="820">Meer ontsiet ende diet al verdoet</l>
+<l>Ende uwen buke schijnt soe vrient!</l>
+<l>Ghi gierege, u steet de moet</l>
+<l>Na dit verganclijc ertsche goet;</l>
+<l><pb n="34"/>Hoe wel dat ghi den vleessche dient!</l>
+<l n="825">Waerdi eneger sielen vrient,</l>
+<l>Diert deren mochte, ghi ontspient</l>
+<l>Teer u ondaet ende socht oetmoet.</l>
+<l>Neen, u verblende herten vlient.</l>
+<l>Doch doet dus sonde onsient,</l>
+<l n="830">Wat gi geeft es iegen spoet.</l>
+</lg>
+<lg><head type="strophe comment">71.</head>
+<l>Vore Gode en wert noyt wilsam</l>
+<l>Noch ter werelt gichte, die quam</l>
+<l>Van eere onbequamer hant, die stanc.</l>
+<l>Wolf, voer Gode waenstu sijn lam</l>
+<l n="835">(Du, die den armen bes podersam),</l>
+<l>Daer daflaet es ane belanc?</l>
+<l>Dijn broet geefstu ter Gods hant,</l>
+<l>Ghi sijt selve in tfiants gemanc.</l>
+<l>Ghevenijnde gave noyt en bequam,</l>
+<l n="840">Mer dat vrient geeft vrient wel ontfanc;</l>
+<l>Ende Gods recht sal sijn die danc</l>
+<l>Na tsgeens herte, ute wien dat clam.</l>
+</lg>
+<lg><head type="strophe comment">72.</head>
+<l>Caym offerde siere vrochte</l>
+<l>Vore Gode, diese qualec mochte.</l>
+<l n="845">Abelle was God goedertiere,</l>
+<l>Diet reine lam tofferne brochte.</l>
+<l>Tgrote ferdeel, dat Caym cnochte,</l>
+<l>Versmaedde God, doet quam ten viere.</l>
+<l><pb n="35"/>Sine felle bedochte maniere</l>
+<l n="850">Maecte die Gods vrientscap diere;</l>
+<l>Mer Abel vant so wat hi sochte:</l>
+<l>Te hemele clam sijn offer sciere.</l>
+<l>God wilt, dat men anders payire,</l>
+<l>Dan daer men tkint bi sweegen mochte.</l>
+</lg>
+<lg><head type="strophe comment">73.</head>
+<l n="855">Mensche, verstant die redene claer:</l>
+<l>God leet dor ons armoede swaer</l>
+<l>Ende wert daer toe iammerlike begaedt</l>
+<l>Van hen, die hem hadden onmaer.</l>
+<l>Bedecs anschijns met slagen swaer</l>
+<l n="860">Wert hi gegruet, bespot, versmaedt.</l>
+<l>Proeft, wat danke sal sijn gestaedt</l>
+<l>Den gruetene, daer selc arch in baedt.</l>
+<l>Dat vore sie elc moederbaer.</l>
+<l>Want wie hem met sonden belaedt,</l>
+<l n="865">Hine doet, hine seit, dat Gode gaedt,</l>
+<l>Wat hi beedt, hets verloren maer.</l>
+</lg>
+<lg><head type="strophe comment">74.</head>
+<l>Wat goede mach doen of seggen, die</l>
+<l>Hem dagelijcs werpt in Gods hatie?</l>
+<l>Groet es van Gode die suetecheit,</l>
+<l n="870">Die swarlec starf om ons. Besie,</l>
+<l>Mensche, God seit: "benic God, wie</l>
+<l>Doet mi hier na werdecheit?</l>
+<l>Benic here, waer es mine mogentheit?</l>
+<l>Benic vader, wie heeft geleit</l>
+<l n="875">Minne an mi?" Proeft, dese drie</l>
+<l><pb n="36"/>Versoect God na gerechtecheit</l>
+<l>Ane ons; hier en helpt niet toe geseit:</l>
+<l>Wi sijnt ende warent sculdech ie.</l>
+</lg>
+<lg><head type="strophe comment">75.</head>
+<l>Alse God so wilt God sijn gewerdt,</l>
+<l n="880">Alse vader met minnen aneverdt,</l>
+<l>Alse here ontsien, dat wel betaemt.</l>
+<l>Mer nu es onse doen so verhoverdt</l>
+<l>Ende es hoverde met ons generdt,</l>
+<l>Dat hem onse Here so sere ons scaemt;</l>
+<l n="885">Want hoverde heeft des geraemt,</l>
+<l>Dat si meest Gods vriende ontplaemt:</l>
+<l>Si vaert gewapent ende geswerdt</l>
+<l>Ende wille Gods viant sijn genaemt;</l>
+<l>Si es stouts ende die meest Gode blaemt</l>
+<l n="890">Ende meest sielen met sonden ert.</l>
+</lg>
+<lg><head type="strophe comment">76.</head>
+<l>Hoverde altoes naerre giert;</l>
+<l>Si liecht, si roemt, dat si antiert</l>
+<l>Meer goeds, dan si heeft ofte verbiet.</l>
+<l>Si blameert anderen ende versiert</l>
+<l n="895">Ende prijst hare selven gemaniert.</l>
+<l>Si borste, quame si, daer verseit,</l>
+<l>Ochte worddi in hare nette geleidt,</l>
+<l><pb n="37"/>Daerbi si bleve verhameidt;</l>
+<l>Want si en wincti niet, noch en smeict</l>
+<l n="900">Te waren, die hem ter doget gereidt.</l>
+<l>Dat gelijc hare sijn lijf men breidt,</l>
+<l>Si heeft onwert, wat hare ontiert.</l>
+</lg>
+<lg><head type="strophe comment">77.</head>
+<l>Hoverde, die mi heves onwert,</l>
+<l>Dies du cons ochte sierheit baert</l>
+<l n="905">Ende mi verwits dinen hoegen aert,</l>
+<l>Wat sal dus hoegelec gekert?</l>
+<l>Al bestu geclommen, gemeert</l>
+<l>Dies du in rijcheit heves bewaert,</l>
+<l>Ende vore di niet en es gespaert,</l>
+<l n="910">Rike cledere, scat, scone paert,</l>
+<l>Swijch stille ende dwinc dinen staert,</l>
+<l>Want icken ontsie niet dinen gaert,</l>
+<l>Sint dijn grote goet, musaert,</l>
+<l>Negene doget en heeft in di geschert.</l>
+</lg>
+<lg><head type="strophe comment">78.</head>
+<l n="915">Trec op den breidel dijns rossijds,</l>
+<l>Hoverdege, want du so rijds,</l>
+<l>Dat dijn spronc den steenwech loemt;</l>
+<l>Beidt, sprect (dat clincken dijns gesmijds</l>
+<l><pb n="38"/>Deert mi): wien eest dattu benijds?</l>
+<l n="920">Edel man, die mi dorper noemt,</l>
+<l>Beliechstu di, dats sere versoemt.</l>
+<l>Nu proef, wies heefstu di beroemt:</l>
+<l>Onser beider moeder hiet Eva ierst tijts.</l>
+<l>Al droechstu side, in gout gebloemt,</l>
+<l n="925">Dorper blijfstu ende toe verdoemt,</l>
+<l>En si dattuut met doechden lijds.</l>
+</lg>
+<lg><head type="strophe comment">79.</head>
+<l>Nemmeer en werde mi verweten</l>
+<l>Mijn vader, ic laet elken weten;</l>
+<l>Beter waric een goet herde</l>
+<l n="930">Dan quaet, van hoger aert gespleten.</l>
+<l>Dat mijn moeder mijns vergeten</l>
+<l>Hadde inden voet geterde</l>
+<l>Ende vonden ware op enen berde</l>
+<l>Vondelinc, coric, wats gewerde,</l>
+<l n="935">Ende dan met dogeden ware beseten,</l>
+<l>Dan mijn vader hiet edel herde,</l>
+<l>Dien ic niet en volgede enen scherde,</l>
+<l>Noch mi geere doget en mochte vermeten.</l>
+</lg>
+<lg><head type="strophe comment">80.</head>
+<l>Hoverdege, dij vaet dijn strec:</l>
+<l n="940">Du glorieers ende suecs bedec</l>
+<l>In weldaet, die een ander doet.</l>
+<l>Wat sal dijn vader genoemt, sec?</l>
+<l>Waertoe doestu siere doeget vertrec,</l>
+<l>Ende du niet en staes, daer na hi stoet?</l>
+<l n="945"><pb n="39"/> Dattu best quaet ende hi was goet,</l>
+<l>Es di scandelec ontmoet;</l>
+<l>Sijn doget en bluscht niet dijn gebrec.</l>
+<l>Sich, sint dijns vader reine bloet</l>
+<l>Te quade in di wandelen moet,</l>
+<l n="955">Swijch, dijns geslechs nemmeer en sprec.</l>
+</lg>
+<lg><head type="strophe comment">81.</head>
+<l>Ende du, wijs man van groter name,</l>
+<l>Ende du mids dijnre hoverden blame</l>
+<l>Does, om dat mijn const es cleene,</l>
+<l>Het schijnt, dune best niet na betame</l>
+<l n="955">Gheleert, sint hoverdege blame</l>
+<l>In di hout. Hort, wat ic di meene:</l>
+<l>Sint wijsheit di vrome negeene</l>
+<l>En bringt, dan overmoet allene</l>
+<l>So en es mi dijn const niet bequame.</l>
+<l n="960">Hi can genoech van Gode te leene,</l>
+<l>Die scuut hoverde ende blijft reene,</l>
+<l>Eer sine besluupt inden lichame.</l>
+</lg>
+<lg><head type="strophe comment">82.</head>
+<l>Ende du met crachte dijns lijfs</l>
+<l>Ochte mids der werdecheiden drijfs</l>
+<l n="965">Hoverde iegen dinen gebuer</l>
+<l>Ende di in groter felheit stijfs</l>
+<l>Op hen, wien du hare goet ontscrijfs,</l>
+<l>Dijn nature, fel mensche suer</l>
+<l>Scenstu, die dus bes elken stuer.</l>
+<l n="970">Ane mi cranken geene felheit ruer;</l>
+<l>Op telch wassic, daer du op clijfs;</l>
+<l>Ic ben geformt, als du. Geduer</l>
+<l><pb n="40"/>In maten dan ende niemenne en verruer,</l>
+<l>Wien du gelijc van leden blijfs.</l>
+</lg>
+<lg><head type="strophe comment">83.</head>
+<l n="975">Du behagelaert, die ane scoenheit sneefs,</l>
+<l>Mi iammert, dattu alsoe leefs,</l>
+<l>Dat hoverde in dine scoenheit wast.</l>
+<l>Catijf, dattu na cierheit weefs!</l>
+<l>De scoenheit en ruert van di niet; geefs</l>
+<l n="980">Hem lof, die verruerde di men bast.</l>
+<l>Mi ende di sciep God, sijds vast.</l>
+<l>Woude hi, ic ware recompast</l>
+<l>Scoenre dan du, diet vordeel heefs.</l>
+<l>Gheeft Gode de ere, hi dreegt den last.</l>
+<l n="985">Di ware beter, hoverdege gast,</l>
+<l>Dan duut liets, dattu cropel bleefs.</l>
+</lg>
+<lg><head type="strophe comment">84.</head>
+<l>In weet, hoe ic met hare gebere,</l>
+<l>Die Gode ontdanct, dat hi laet hare</l>
+<l>Anscijn bloet van varuwen bliven</l>
+<l n="990">Ochte dat si bleec om enege dere,</l>
+<l>Int craem dan coept om scoenheiden gere</l>
+<l><pb n="41"/>Blanket ende doet hare wangen wriven,</l>
+<l>Hets al een bort hare ronsen scriven,</l>
+<l>Dies mense gelijc iongen wiven</l>
+<l n="995">Soeken sal. "Met selken smere,</l>
+<l>Seit si dan, "sal ic scoenheit driven;</l>
+<l>"Gode en moet geen danc becliven,</l>
+<l>"Maer geloeft sijs die cramer here."</l>
+</lg>
+<lg><head type="strophe comment">85.</head>
+<l>Vore Gode si hen swarlec scenden,</l>
+<l n="1000">Die te houdene onderwenden</l>
+<l>Feite van selken sabretten.</l>
+<l>Der antworden si hen genenden,</l>
+<l>Dier goet af heet. Hoe dogt hi tsenden,</l>
+<l>Dat wijf sijn eere dus beletten?</l>
+<l n="1005">Want war es: dwijf, die hen blancketten</l>
+<l>Ende die vorme Gods besmetten,</l>
+<l>Willen haren sceppere ontvinden,</l>
+<l>Dat hise sciep. Mids dien onwetten</l>
+<l>Loechent God hars ende salse setten</l>
+<l n="1010">Ter pinen, die duert sonder inden.</l>
+</lg>
+<lg><head type="strophe comment"><pb n="42"/> 86.</head>
+<l>En wondere u miere woerde niet;</l>
+<l>Hi es onwijs, dier hem noyt anstiet.</l>
+<l>Gelijc een pottere maect sijn vat,</l>
+<l>Sciep God elken ende beriet</l>
+<l n="1015">Na sijn gevoech. Soe wee hare, diet</l>
+<l>Versmaedt ende willet herverwen bat.</l>
+<l>Het scijnt, si set hare in Gods stat</l>
+<l>Te heilne dit, te brokene dat.</l>
+<l>Dits dat God alte noede anesiet.</l>
+<l n="1020">Besmoert anscijn es Gode gehat,</l>
+<l>Maer sijn gewerke, eest bleec eest sat,</l>
+<l>Wilt hi, dat blive alsoe hijt liet.</l>
+</lg>
+<lg><head type="strophe comment">87.</head>
+<l>Ende di, rike vol hoverden,</l>
+<l>Du werts gescent in Gods antwerden.</l>
+<l n="1025">Wetstu, wat hi di hangt vore ogen?</l>
+<l>Jhesus sprac: "wach den onwerden</l>
+<l>"Riken, die in tgoet der erden</l>
+<l>"Hebben haren troest gebogen!"</l>
+<l>Besich, aldus vendict vertegen</l>
+<l n="1030">In de ewangelie. O du</l>
+<l>Rike, die volchs boesen geverden,</l>
+<l>Dit "wach" waer di quaet ontvlogen.</l>
+<l>Peister wel op: het quam van hogen,</l>
+<l>Sijn snede es scarpere dan van swerden.</l>
+</lg>
+<lg><head type="strophe comment"><pb n="43"/> 88.</head>
+<l n="1035">Hoverde, du leids weldech tijt;</l>
+<l>In scanden draechstu op mi nijt,</l>
+<l>Ende mi en es niet an di belanc.</l>
+<l>Ocht wijsheit groet an di gedijt,</l>
+<l>Ende dertsche goet di hoger vrijt</l>
+<l n="1040">Dan mi wat helpt dat? Onlanc</l>
+<l>Du sels sterven sonder dinen danc</l>
+<l>Ghelijc mi, die ben arm ende cranc.</l>
+<l>Nu maec van welden grot gecrijt;</l>
+<l>Die doot comt in dijn gemanc</l>
+<l n="1045">Ende wisselt di den rouwe om sanc;</l>
+<l>Dan wert dijnre welden overlijt.</l>
+</lg>
+<lg><head type="strophe comment">89.</head>
+<l>Die hem overmoedecheit, nemt ane</l>
+<l>Gode orlogens te bestane.</l>
+<l>Dies sal hi hem beraden toren</l>
+<l n="1050">Degene, ia wien ten utegane</l>
+<l>Wijct, dat leeft onder de mane,</l>
+<l>(Si lief, si leet, het moet geboren),</l>
+<l>Die deluwen doet loef, bloemen, coren,</l>
+<l>Die tgoet quist, dar veecken in versmoren</l>
+<l n="1055">Die princen macht heeft te verslane,</l>
+<l>Soe swert waest, dat wit was geboren,</l>
+<l>Ende die fierste houdt metten sporen;</l>
+<l>Vore hare scuut overmoet die bane.</l>
+</lg>
+<lg><head type="strophe comment"><pb n="44"/> 90.</head>
+<l>Hierste ingel die hoverde ontstac</l>
+<l n="1060">So verre, dat hi nae hem trac</l>
+<l>In den hemel den anderen stoel:</l>
+<l>Mer onse here dat weder sprac</l>
+<l>Ende sine clarheit hem daer af brac</l>
+<l>Ende alte swert sijn anscijn moel.</l>
+<l n="1065">Nochtan op der hoverden stoel</l>
+<l>Sit hi hoechst in den helschen poel.</l>
+<l>God dar gewapens lijfs in stac</l>
+<l>Hoverde ende wat met hare moel;</l>
+<l>Daer drogt ende drogt. Mensche, gevoel</l>
+<l n="1070">Gods wapene; hi wrect ende wrac.</l>
+</lg>
+<lg><head type="strophe comment">91.</head>
+<l>Hoverde, waenstu tallen uren</l>
+<l>Leven? Dune moetsti so mueren</l>
+<l>Dattu di cans iegen Gode verweren.</l>
+<l>Waenstu, dat Gods woerde logene rueren?</l>
+<l n="1075">In sijn huus en mach niet dueren,</l>
+<l>Dat hordic hem bi David sweren.</l>
+<l>Mer wiltu di met hem generen,</l>
+<l>Du moets der hoverden ontberen,</l>
+<l>Die de Gods hant woude vervueren.</l>
+<l n="1080"><pb n="45"/> Hine lietse oec anderen kempe weren</l>
+<l>Dan hem, sint dat dus was sijn begeren.</l>
+<l>Wie mochte ons els daer af gepaeren?</l>
+</lg>
+<lg><head type="strophe comment">92.</head>
+<l>Den potte alte noede ontsinct</l>
+<l>Den gore, daer hi ierst af drinct.</l>
+<l n="1085">Ghelike en es mensche, die leeft,</l>
+<l>Die in dbegin om quaet doen dinct,</l>
+<l>En werde hem met pinen ontminct</l>
+<l>Alse diemen sceedt, daer hi an cleeft.</l>
+<l>Mer in wat sonden dat men sneeft,</l>
+<l n="1090">Der hoverden men meest geeft</l>
+<l>Eygendoems, ende daer doge pinct</l>
+<l>Tote dien die hoverde weeft</l>
+<l>Om dienst, want sijt van arde heeft.</l>
+<l>Dits een poent, dat vor Gode stinct.</l>
+</lg>
+<lg><head type="strophe comment">93.</head>
+<l n="1095">Hoverde die eyscht over recht</l>
+<l>Den dienst al ute van haren cnecht.</l>
+<l>Wanneer soe si therte verwent,</l>
+<l>Si onneert alle weldaet slecht</l>
+<l>Het moet al staen na hare berecht,</l>
+<l n="1100">Ia dat si hare wesen bekent.</l>
+<l>Ende menechwerven si oec rent</l>
+<l>Metten bruederen aen tcovent</l>
+<l>Ende ruert daer nijt, twist ende gevecht.</l>
+<l><pb n="46"/>Vele cloestere beslut hare gelent,</l>
+<l n="1105">Dar men hare werc verholen spent.</l>
+<l>Dies menst scijnt, heves selc stont plecht.</l>
+</lg>
+<lg><head type="strophe comment">94.</head>
+<l>Hoverde sijns wiese versmaedt:</l>
+<l>Hare ogen scinen al ontstaedt,</l>
+<l>Si staen so vreselike gedrayt.</l>
+<l n="1110">Die vorme des gaens si oec ontgaedt:</l>
+<l>Van fierheiden scijntse datse waedt.</l>
+<l>Siet, hoese metten armen blait</l>
+<l>Ende met haren scouderen mayt,</l>
+<l>Thoet op hals, als .i. hane, die crayt.</l>
+<l n="1115">Met elker dwaesheit si hare saedt</l>
+<l>Mids hope, dat si hare daerin frayt.</l>
+<l>Hets wonder, hoet hare lijf gehayt.</l>
+<l>Mer sine mach roems niet sijn versaedt.</l>
+</lg>
+<lg><head type="strophe comment">95.</head>
+<l>Van desen geluwen gehaerden,</l>
+<l n="1120">Behagelen, gekymden musarden</l>
+<l>Maghic cranke mare ontdecken.</l>
+<l>Wiet hare na overmoet doet arden,</l>
+<l>Sine siele tijdt ten helschen varden;</l>
+<l>Dus can hoverde vrient betrecken.</l>
+<l n="1125">Sijnt man, sijnt wijf, diere ane swecken,</l>
+<l>Beter ware hen, dat si tinse vlecken</l>
+<l>Thaer ute molen toter swarden,</l>
+<l><pb n="47"/>Al ginct vort tote in thersenbecken,</l>
+<l>Dan scone gehart ende Gode wecken</l>
+<l n="1130">Met sonden ende de wrake warden.</l>
+</lg>
+<lg><head type="strophe comment">96.</head>
+<l>Hoverde ghert, dat mense sie.</l>
+<l>Eens seden pleecht oec hare partie,</l>
+<l>Dats cort wenden wel den croc.</l>
+<l>Met redenen ics den clerc betie,</l>
+<l n="1135">Want hi can wel die meesterie;</l>
+<l>Proeft, den erpelstert went hi oec.</l>
+<l>Hi souden cort wenden, die goec;</l>
+<l>Uter werelt, daer hi na roec</l>
+<l>Hadden God geset int vrie.</l>
+<l n="1140">Ochte hi boven dien Gode ontdoec</l>
+<l>Ende hi de hant ter ydelheit ontploec</l>
+<l>So eest recht, dat God sijns vertie.</l>
+</lg>
+<lg><head type="strophe comment">97.</head>
+<l>Clerc, van Gode du di sceeds</l>
+<l>Alse du dijn haer lanc overbreeds,</l>
+<l n="1145">Daermen di scoer al lesende tfeers:</l>
+<l>"Dominus pars." Sich, hoe du leeds</l>
+<l>Dijn gods deel qualec, wantu cleeds</l>
+<l>Di na der werelt ende sceers.</l>
+<l>Du versmaeds dijns besscops sceers</l>
+<l n="1150">Ende wens den croec lancs ende dweers.</l>
+<l>Hore na mi: God maent u dijns eeds,</l>
+<l>Dien du hem swoers. Proeft, watser mers:</l>
+<l>Du, die Gode van di weers,</l>
+<l>Beraeds dijnre sielen vele leeds.</l>
+</lg>
+<lg><head type="strophe comment"><pb n="48"/> 98.</head>
+<l n="1155">Mi wondert, waerbi Gielijs liet,</l>
+<l>Dat hi vort en maecte niet</l>
+<l>Dat dichte vanden goeden man</l>
+<l>Van Molleyns, die so heilech hiet.</l>
+<l>Mer waest, dat hi te saen versciet,</l>
+<l n="1160">Soe moeste hijt varen laten dan.</l>
+<l>Nu comt hier Heinrec, die nochtan</l>
+<l>Wale weet, dat hi en can</l>
+<l>Iegen hem wijsheiden iet;</l>
+<l>Nochtan wilt hijt vort vaen an.</l>
+<l n="1165">Nu geons hem god ende sente Ian</l>
+<l>Ende God te vorst, dart bi gesciet.</l>
+</lg>
+<lg><head type="strophe comment">99.</head>
+<l>Hoverde heeft dingele gewont;</l>
+<l>De werelt maecse ongesont;</l>
+<l>Hemel ende erde doetse scade;</l>
+<l n="1170">Al die werelt es hare pront,</l>
+<l>Eest leec, eest clerc, siec ocht gesont;</l>
+<l>Het baedt al in haren bade.</l>
+<l>Alse die prelate hare gaen te rade,</l>
+<l>Die tfolc hoeden souden van mesdade,</l>
+<l n="1175">So vallen dandere inden gront;</l>
+<l>Dan comt hoverde, hare gegade,</l>
+<l>Ende slutet al in hare lade,</l>
+<l>Herde, scaep ende hont.</l>
+</lg>
+<lg><head type="strophe comment">100.</head>
+<l>En ware niet goet, dat ic lede</l>
+<l n="1180">Die dinc, daer hoverdechede</l>
+<l>Af begint; dat sijn cleeder diere,</l>
+<l><pb n="49"/>Wel gevoedert van selsender chiere</l>
+<l>Ende scone gevaruwet mede.</l>
+<l>Dit so es der liede maniere;</l>
+<l n="1185">Dies hebbense pinen meer dan viere</l>
+<l>Om den lichame, die ondiere,</l>
+<l>Dat menne prise telker stede</l>
+<l>Want woudemense vercoepen schiere,</l>
+<l>Sine gouden niet alsoe vele van biere</l>
+<l n="1190">Als menre amen wijns toe dede.</l>
+</lg>
+<lg><head type="strophe comment">101.</head>
+<l>Met groten ademe blaest hoverde</l>
+<l>Om cledere te dragene van groter werde.</l>
+<l>Si willen maken die werelt blint</l>
+<l>Met varuwen, die hier wast op derde.</l>
+<l n="1195">Hoverde leidt ons met cranken geverde,</l>
+<l>Als ons dat sien aldus verblint.</l>
+<l>Dat coren sietmen ende kint,</l>
+<l>Alst vanden cave en hevet twint;</l>
+<l>Also soudemen tfleesch, ware tcleet siere verde.</l>
+<l n="1200">Hoverde doet menegen tormint;</l>
+<l>Van palleerne den art si vint.</l>
+<l>Hoverde leerde ons, dat oyt derde.</l>
+</lg>
+<lg><head type="strophe comment">   102.</head>
+<l>God beclaecht hem, onse lieve Here,</l>
+<l>Over deze sloye, diemen trect seere,</l>
+<l n="1205">Ende over dese varuwen diere</l>
+<l>Het es beide in sine onnere.</l>
+<l>Hi priset den armen te gevene mere</l>
+<l><pb n="50"/>Dien cost vander varuwen siere.</l>
+<l>Die stort es vuel, hets sine maniere;</l>
+<l n="1210">Hi sloyt der menege dinc ondiere.</l>
+<l>Dies lietmenne bat, semmine ere!</l>
+<l>Wie ane den stort leit selke chiere,</l>
+<l>Beter warre hem van naturen viere</l>
+<l>Dan dese allene, na mine leere.</l>
+</lg>
+<lg><head type="strophe comment">103.</head>
+<l n="1215">God, onse Here, dat verstaet,</l>
+<l>Heetet ene geburinne quaet</l>
+<l>Ende den man een quaet gebuer,</l>
+<l>Die met so vele clederen gaet,</l>
+<l>Dat die helecht, sonder baraet,</l>
+<l n="1220">Soude te dragene werden enen esel suer,</l>
+<l>Ende siet sterven van couden stuer</l>
+<l>Weduen ende weesen mids ongeduer.</l>
+<l>Dese en doen niet sente Mertens daet,</l>
+<l>Die te Amiens deilde anden muer</l>
+<l n="1225">Sinen mantel, die ridder puer.</l>
+<l>Mer nu en es niet alselc prelaet.</l>
+</lg>
+<lg><head type="strophe comment">104.</head>
+<l>Ghi, die hebt grote behagelhede,</l>
+<l>Ghefse dor Gode ende leert dien snede</l>
+<l>Dien den mantel deelde in tween.</l>
+<l n="1230">Hi verwan die gierechede,</l>
+<l>Doe hi deene helecht anedede</l>
+<l>Ende dandere den armen gaf, die versween</l>
+<l>Van couden, alse an hem scheen</l>
+<l><pb n="51"/>An sijn beven ende sijn geween.</l>
+<l n="1235">Dies maecte hiere Gods minne mede</l>
+<l>Die nie sider en gef een,</l>
+<l>Si en maectene met hare een.</l>
+<l>Wt goeder herten quam dese sede.</l>
+</lg>
+<lg><head type="strophe comment">105.</head>
+<l>Al theer versmaedde den naecten daer,</l>
+<l n="1240">Mer die goede Merten quam hem naer,</l>
+<l>Als hine naect daer staen sach;</l>
+<l>Hine versmaeddene niet een haer.</l>
+<l>Goede hoverde dede der quader vaer,</l>
+<l>Want sise veronwerdde al den dach.</l>
+<l n="1245">Met enen snede, dies hi plach,</l>
+<l>Gaf hi gierecheiden enen slach,</l>
+<l>Dat si van hem vloe oppenbaer.</l>
+<l>Dies catijfs bloetheit hem verwach</l>
+<l>Meer dan sijns selfs; so hi eerst mach,</l>
+<l n="1250">Cleedde een mantel liede een paer.</l>
+</lg>
+<lg><head type="strophe comment">106.</head>
+<l>Deus! wat slage van enen riddere was dit!</l>
+<l>Hi toendenne melde ende onbesmit;</l>
+<l>Noyt en was negeen alselc geslagen.</l>
+<l>Saen gaf hi den armen, die bit,</l>
+<l n="1255">Deen heellecht van daer hi sit,</l>
+<l>Omme dat hine iegen tcoude soude dragen;</l>
+<l>Niet en liet hi hem wanhagen,</l>
+<l>Dattene half naect die liede sagen.</l>
+<l>Dies es hi vore Gode wit,</l>
+<l n="1260">Diet sinen ingelen ginc sagen:</l>
+<l>"Merten, die noch es ongedwagen,</l>
+<l>"Gaf mi dit cleet; ic wille ghijt wit."</l>
+</lg>
+<lg><head type="strophe comment"><pb n="52"/> 107.</head>
+<l>Deus! hoe goeden halven cleet</l>
+<l>Was, dat die goeden Merten sneet,</l>
+<l n="1265">Daer hem soe af beloefde onse Here.</l>
+<l>Wildi, mensche, gi moget gereet</l>
+<l>Verdienen, alsic wale weet,</l>
+<l>Dat hem God sal beloven sere.</l>
+<l>Doet gelijc Mertens kere,</l>
+<l n="1270">So sal hi u doen grote ere;</l>
+<l>Ende versmaedt der gierecheiden leet</l>
+<l>Ende scuwet hoverde voert meere,</l>
+<l>Ghelijc Merten dede wilen ere.</l>
+<l>So werdi met Gode beheet.</l>
+</lg>
+<lg><head type="strophe comment">108.</head>
+<l n="1275">Also den lichame werpt onder voet</l>
+<l>Hoverde; dat niet en doet</l>
+<l>Vanden anderen sonden negeene.</l>
+<l>Ander sonden leggen hare broet</l>
+<l>In enech let, daert bi moet</l>
+<l n="1280">Vuel wesen ende onreene.</l>
+<l>Nidecheit dat esser eene,</l>
+<l>Die therte houdt vol van weene</l>
+<l>Alsi siet geschien enen anderen goet:</l>
+<l>Mer als eens anders vroude wert cleene</l>
+<l n="1285">Ende sijn gout gedijt te steene,</l>
+<l>Dan wertse vet ende wel gemoet.</l>
+</lg>
+<lg><head type="strophe comment">109.</head>
+<l>   Nidecheit brouwet ende drinct</l>
+<l>Druefheit, also si hare bedinct,</l>
+<l><pb n="53"/>Dat enen anderen goet geschiet;</l>
+<l n="1290">Mer si lacht, si speelt, si singt,</l>
+<l>Als een ander in armoeden sinct.</l>
+<l>Soe seer haetse al dat si siet:</l>
+<l>Eer daedse haer selven quaets iet,</l>
+<l>Eer si liete sonder verdriet</l>
+<l n="1295">Haren geselle want, sine crinct.</l>
+<l>Si en sage liever metter eenre ogen niet,</l>
+<l>In dien in beide duwe stake .i. spriet;</l>
+<l>Soe seer begertse, dat gi blent ginct.</l>
+</lg>
+<lg><head type="strophe comment">110.</head>
+<l>O nidecheit, des duvels kint,</l>
+<l n="1300">U vader brachte op dit tormint</l>
+<l>Ane onsen iersten vader Adame.</l>
+<l>Si aten tfruut, si waren blint,</l>
+<l>Dat hen te pinen verginc sint,</l>
+<l>Want hen quammer af mesquame.</l>
+<l n="1305">Hi hiet hen, dat si der vrocht name,</l>
+<l>So ware si ewelec sonder blame</l>
+<l>Ende vaste met Gode bekint.</l>
+<l>Daer wert gherect ons der doot rame</l>
+<l>Beide ter sielen ende ten lichame.</l>
+<l n="1310">Dat dede dat nidege serpint.</l>
+</lg>
+<lg><head type="strophe comment">111.</head>
+<l>Nidecheit, die vrouwe fel,</l>
+<l>Seide, si soude sijn moeder wel,</l>
+<l><pb n="54"/>Ende ginc bi haren vader slapen.</l>
+<l>Op enen nacht hadden si har spel,</l>
+<l n="1315">Dat vele wouds ende donders vel</l>
+<l>Dat weder en mochte niet sijn quader.</l>
+<l>Si wonnen onder hen beide gader</l>
+<l>Eenen viant, die verrader</l>
+<l>Es altoes ende rebel.</l>
+<l n="1320">Quade Tonghe heet hi, dat wet wel;</l>
+<l>Hi comt vroegere ende spader</l>
+<l>Ende doet den lieden grot gequel.</l>
+</lg>
+<lg><head type="strophe comment">112.</head>
+<l>Quade Tonge si geoneert,</l>
+<l>Die nu die moeder heeft geleert</l>
+<l n="1325">Verraden, liegen ende smeeken.</l>
+<l>Saen so was hire in verweert,</l>
+<l>Want hiere al sijn herte toe keert.</l>
+<l>Oec can hi wel die heren streeken;</l>
+<l>Beide clerke ende leeken</l>
+<l n="1330">Can hi vore met talen weeken;</l>
+<l>Mer hi bidt altoes achterwert,</l>
+<l>Want hi verraedt roeden ende bleeken.</l>
+<l>Hi swelcht den boute al metter vleeken;</l>
+<l>Het wert al bi hem verseert.</l>
+</lg>
+<lg><head type="strophe comment">113.</head>
+<l n="1335">Quade Tonge es wel te hove</l>
+<l>Ende stoet inder heren love.</l>
+<l>Dies comt si dicke te haren rade</l>
+<l>(Want si plucse vanden stove),</l>
+<l><pb n="55"/>Om dat hi bi haren orlove</l>
+<l n="1340">Van hen versteet tgoede ende tquade.</l>
+<l>Datti hi hare segge, als hijs heeft stade,</l>
+<l>Al waert dat mens hare niet en bade,</l>
+<l>Hi soude utebringen, die gelove,</l>
+<l>Al waert oec dat hiere oec quaet an dade.</l>
+<l n="1345">Hines niemens vriet vroech noch spade.</l>
+<l>Ic woude hem sine tonge clove.</l>
+</lg>
+<lg><head type="strophe comment">114.</head>
+<l>Quade Tonge doet bi valscheiden</l>
+<l>Menegen van eeren sceiden,</l>
+<l>Die nochtan was rike ende goet.</l>
+<l n="1350">Si houdt vele gesellecheiden,</l>
+<l>Omdat si haren raet wilt breiden</l>
+<l>Ende te scanden bringen, dat men doet.</l>
+<l>Gonneert werde sijns herten bloet,</l>
+<l>Dat hi so saen vertrecken moet</l>
+<l n="1355">Al, dat si in doechden seiden,</l>
+<l>Den scalken fellen, diet onder voet</l>
+<l>Niet en leggen, mer in die stoet</l>
+<l>Bringen vort met scalcheiden.</l>
+</lg>
+<lg><head type="strophe comment">115.</head>
+<l>Quade Tonge met scoennen waerden</l>
+<l n="1360">Gheet si mi mine eere afcarden,</l>
+<l>Ende icken caens geblameren niet.</l>
+<l>So scone redene si mi baerden</l>
+<l>Met altemale haren reinarden,</l>
+<l><pb n="56"/>Dat scijnt, dat si mi minnen iet</l>
+<l n="1365">Mer achter, daer men mi niet en siet,</l>
+<l>Singt hi van mi een argher liet.</l>
+<l>Dats iammer van selken papelarden:</l>
+<l>Si hebben linen in hare riet,</l>
+<l>Ende wullen es haer ingesciet;</l>
+<l n="1370">Si stelen, dat si souden warden.</l>
+</lg>
+<lg><head type="strophe comment">116.</head>
+<l>Quade Tonge en hevet genen rouwe</l>
+<l>Van altemale sinen gebrouwe,</l>
+<l>Sint sine tonge ontbonden si;</l>
+<l>Want hare liet es .i. getouwe,</l>
+<l n="1375">Dat maect alle wonden nouwe,</l>
+<l>Die nochtan sijn van mesdade vri.</l>
+<l>Beter ware te genesene mi</l>
+<l>Wonden van swerden, waricker bi,</l>
+<l>Dan wonden van tongen gehouwe;</l>
+<l n="1380">Want hare quaet valch gecri</l>
+<l>Maect gout argere dan bli;</l>
+<l>Nochtan wilt hi, dat men tgout scouwe.</l>
+</lg>
+<lg><head type="strophe comment">117.</head>
+<l>Es oec een man so goet van levene,</l>
+<l>Dat hi niet en mict te gevene</l>
+<l n="1385">Om wat dat enege tonge seget,</l>
+<l>Quade Tonge, diene te bevene</l>
+<l><pb n="57"/>Gherne brachte, al warre sevene,</l>
+<l>Heeftene nochtan al omme beleget,</l>
+<l>So dat sine op hare tonge dreget</l>
+<l n="1390">Ende den anderen lieden vreghet:</l>
+<l>"Deus, pleget dese iet te snevene?</l>
+<l>"Neen hi, ic wane hi dogeden pleget;</l>
+<l>"Mer ik waense hem luttel weget,</l>
+<l>"Want hi nemt rogge, daer hi leent evene."</l>
+</lg>
+<lg><head type="strophe comment">118.</head>
+<l n="1395">Quade Tonge clemt herde hoge;</l>
+<l>Want en es coninc noch hertoge,</l>
+<l>Si en comt te sinen rade.</l>
+<l>In cloesteren spant si haren boge,</l>
+<l>Om dat si daer in comen moge,</l>
+<l n="1400">Alsi oec doet vroeg ende spade.</l>
+<l>Cystiaus leit si in hare pade</l>
+<l>Ende Clungi clemt op hare grade</l>
+<l>Ende Premonstreit mercse in doge.</l>
+<l>Leeke, clerke sijn hare gegade</l>
+<l n="1405">Ende baden meest in haren bade</l>
+<l>Ende sugen van haren soge.</l>
+</lg>
+<lg><head type="strophe comment">119.</head>
+<l>Nidecheit, gi hebt al bloet</l>
+<l>Bi Quaden Tongen die werelt doet,</l>
+<l>Die gi in uwen lichame droecht.</l>
+<l n="1410">Haddise versmacht met eneger noet,</l>
+<l>Ghi hadt der werelt bliscap grot</l>
+<l>Ane bracht, die gi nu versloecht.</l>
+<l>Hulpe, dat si u soe wel genoecht,</l>
+<l><pb n="58"/>Dat gi ie op hare loecht</l>
+<l n="1415">Ochte dat men melc op goot!</l>
+<l>Dat heeft de werelt al verboecht</l>
+<l>Ende bracht in pinen, dat u gevoecht,</l>
+<l>Want gi sijt selve doegede snoet.</l>
+</lg>
+<lg><head type="strophe comment">120.</head>
+<l>Nidecheit, quade caytivinne,</l>
+<l n="1420">U sone maect menege onminne,</l>
+<l>Daer gi der daet af sculdech sijt.</l>
+<l>Ghi hebt met uwen subtilen sinne</l>
+<l>Menegen bracht ter doot inne,</l>
+<l>Die volleeft mochten haren tijt</l>
+<l n="1425">Hebben; dat dede u quade nijt.</l>
+<l>Alle doget es u despijt,</l>
+<l>Want gi pijntse te makene dinne.</l>
+<l>Ghi maect in dore selc gecrijt,</l>
+<l>Daer vele leets af nemt delijt.</l>
+<l n="1430">U blasen loent alse die getene spinne.</l>
+</lg>
+<lg><head type="strophe comment">121.</head>
+<l>Nidecheit, sloege u die mort,</l>
+<l>Sone hadde u sone negeen confort,</l>
+<l>Want uwe doot dat ware de sine.</l>
+<l>Waerdi doot ende alte stort,</l>
+<l n="1435">So quame caritate vort,</l>
+<l>Die gi vergeeft met uwen venine.</l>
+<l>Hoefsche minne ende fine,</l>
+<l>Die goet ende wettech was in schine,</l>
+<l><pb n="59"/>Die hebdi altemale versmort</l>
+<l n="1440">Ende gestoten in die santine,</l>
+<l>Daer si inne hevet pine,</l>
+<l>Ende mede geworpen uter bort.</l>
+</lg>
+<lg><head type="strophe comment">122.</head>
+<l>Mensche, verstaet ende huedt u ere</l>
+<l>Ende peist, dat ghijs te doene hebt sere,</l>
+<l n="1445">Want Nidecheit en es niet allene:</l>
+<l>Si trect met haren telken kere</l>
+<l>Sonden ende quaetheiden meerre,</l>
+<l>Die gerne u doget maken cleene;</l>
+<l>Si cnaecht u tfleesch af toten beene,</l>
+<l n="1450">Alse si es daer, hort wat ic meene,</l>
+<l>Ende alsi en dar [...]</l>
+</lg>
+
+</body>
+</text>
+</group></text>
+</TEI.2>

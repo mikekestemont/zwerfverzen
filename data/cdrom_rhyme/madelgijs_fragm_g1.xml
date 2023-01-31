@@ -1,0 +1,130 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.transcr 'INCLUDE'> <!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'>]><TEI.2><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Madelgijs</title>
+<author>Onbekend</author>
+</titleStmt>
+<editionStmt>
+<edition>R.W.TH. Duijvestein (ed.): Madelgijs. De Middelnederlandse fragmenten en de overeenkomstige Hoogduitse verzen. Brussel, 1989. (Verhandelingen van de Koninklijke Academie voor Wetenschappen, Letteren en Schone Kunsten van Belgi&#x00EB;. Klasse der Letteren 51, nr. 130), 103-104.</edition>
+</editionStmt>
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<listBibl id="inlMetadata">
+<bibl><interpGrp type="titleLevel1">
+<interp value="Madelgijs"/>
+</interpGrp><interpGrp type="medium">
+<interp value="book"/>
+</interpGrp><interpGrp type="authorLevel1">
+<interp value="Onbekend"/>
+</interpGrp>
+<interpGrp type="ipr">
+<interp value="online"/>
+</interpGrp><interpGrp type="corpusProvenance">
+<interp value="cdrom-mnl"/>
+</interpGrp>
+<interpGrp type="pubYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+</bibl>
+</listBibl>
+<bibl id="original-metadata-cdrom-version"><![CDATA[
+<TITEL>Madelgijs</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K71">Gent, Bibliotheek der Rijksuniversiteit, 1651 (fragm.)</BRON>
+<DATUM>1350-1400</DATUM>
+<OMVANG>61 verzen</OMVANG>
+<BRON.OPM>Twee in de breedte op elkaar aansluitende stroken, die het bovenste deel van een blad vormen. De bovenste strook is rechts, de onderste links iets besnoeid. Per bladzijde 2 kolommen en oorspronkelijk per kolom waarschijnlijk 40 regels (nu nog 15 regels). Blijkens de oude foli&#x00EB;ring gaat het hier om restanten van het 42ste blad uit de codex.</BRON.OPM>
+<EDITIE>R.W.TH. Duijvestein (ed.): Madelgijs. De Middelnederlandse fragmenten en de overeenkomstige Hoogduitse verzen. Brussel, 1989. (Verhandelingen van de Koninklijke Academie voor Wetenschappen, Letteren en Schone Kunsten van Belgi&#x00EB;. Klasse der Letteren 51, nr. 130), 103-104.</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<EDITIE.OPM>Duijvestijn geeft, parallel aan de tekst van de fragmenten, ook de tekst van de Middelhoogduitse vertaling (Malagis in hs. Heidelberg, Universit&#x00E4;tsbibliothek, Pal. germ. 340).</EDITIE.OPM>
+<BRONNEN>Van de Madelgijs bestaan een oudere en een jongere, meer uitgebreide versie. De kortere versie is volledig overgeleverd in een bijna woordelijke vertaling in het Middelhoogduits. De langere versie is bekend uit een Nederlandse prozabewerking (Historie van Malegijs). Drie fragmenten vertegenwoordigen de lange versie: - <x nr=K80>Leiden, Bibliotheek der Rijks universiteit, Ltk. 203 (fragm.)</x>
+ - <x nr=K81>Leiden, Bibliotheek der Rijksuniversiteit, B.P.L. 2552,34 (fragm.)</x>
+ - <x nr=K82>Antwerpen, Stadsbibliotheek, 500.694 (fragm.)</x>
+ De overige fragmenten vertegenwoordigen de korte versie. Van in totaal 10 hss. zijn er fragmenten overgeleverd: Hs. I: - <x nr=K80>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 203 (fragm.)</x>
+ - <x nr=K76>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 202 (fragm.)</x>
+ Hs. II: - <x nr=K70>Neurenberg, Bibliothek des Germanischen Nationalmuseums, 42584 (fragm.)</x>
+ - <x nr=K75>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 201 (fragm.)</x>
+ Hs. III: - <x nr=K82>Antwerpen, Stadsbibliotheek, 500.694 (fragm.)</x>
+ Hs. IV: - <x nr=K72>Rotterdam, Gemeentebibliotheek, 96 C 4 (fragm.)</x>
+ - <x nr=K77>D&#x00FC;sseldorf, Universit&#x00E4;tsbibliothek, Dauerleihgabe der Stadt D&#x00FC;sseldorf, K 2: F 45 (fragm.)</x>
+ Hs. V: - <x nr=K79>Gent, Bibliotheek der Rijksuniversiteit, 1618 (fragm.)</x>
+ Hs. VI: - <x nr=K71>Gent, Bibliotheek der Rijksuniversiteit, 1651 (fragm.)</x>
+   Hs. VII: - <x nr=K78>Londen, British Library, Add. 35251,k (fragm.)</x>
+ Hs. VIII: - <x nr=K74>Parijs, Biblioth&#x00E8;que Nationale, n&#x00E9;erl. 119 (fragm.)</x>
+ Hs. IX: - <x nr=K73>Berlijn, Staatsbibliothek Preussischer Kulturbesitz, Germ. fol. 923,47 (fragm.)</x>
+ Hs. X: - <x nr=K81>Leiden, Bibliotheek der Rijksuniversiteit, B.P.L. 2552,34 (fragm.)</x>
+</BRONNEN>
+<HSDRUK>Historie van Malegijs</HSDRUK>
+]]></bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body><l><pb n="103"/><milestone unit="fol" n="ra"/> Dat hi in corten stonden</l>
+<l>Vp die herde in groter noot</l>
+<l>Lach al stille of hi ware doot</l>
+<l>Van groter crancheide</l>
+<l n="5">Doe sprac hi ende seide</l>
+<l>Dit orisoen met goeder herte</l>
+<l>O god here bi der smerte</l>
+<l>Die ghi ontfinct an die columme</l>
+<l>Alsmen v alomme ende omme</l>
+<l n="10">Gheselde met scaerpen roeden</l>
+<l>Vwe huut te sticken soe moeste bloeden</l>
+<l>Ontfaermelike te menigher steide</l>
+<l>So dat niemen die waerheide</l>
+<l>Mach weiten die met tonghen sprac</l>
+<l n="15">Te hoe menegher steide dat vte brac</l>
+<l><milestone unit="fol" n="rb"/> Mids der cracht des orisoens</l>
+<l>Daer mochtemen horen veile soens</l>
+<l>Van den serpenten die daer waren</l>
+<l>So vreselijc was dat mesbaren</l>
+<l n="20">Dat elken mensche mochte gruwen</l>
+<l>Vier ende venijn dat si spuwen</l>
+<l>Elc was vast vp die steide</l>
+<l>Bider cracht ende bi der beide</l>
+<l>Des orisoens dat hi sprac</l>
+<l n="25">Madelghijs hi slouc ende stac</l>
+<l>Also veile als hi beghert</l>
+<l>Elken cortte hi of den stert</l>
+<l>Ende tusschen ghinct met haesten groot</l>
+<l>Aldus bleiuen si alle doot</l>
+<l n="30">Noit man was so sere ghewont</l>
+<l>[.........]</l>
+<l><milestone unit="fol" n="va"/> Madelgheis hem sach bi</l>
+<l>Ende makede so veile ghescals</l>
+<l>Dat hi die keitene om sinen hals</l>
+<l n="35"><pb n="104"/> Brac ghereet in IIII sticken</l>
+<l>Nochtanne was soe voets dicke</l>
+<l>Om madelghise hi beet</l>
+<l>Ende als hi hem gheen leet</l>
+<l>Mochte doen no ghelauwen</l>
+<l n="40">So ghinct die keitene knauwen</l>
+<l>Ende biten met sinen tanden</l>
+<l>Madelghijs sprac veile scanden</l>
+<l>Moetstu hebben dattu bijts</l>
+<l>Die keitene ende te sticken slijts</l>
+<l n="45">Du souds mi wel gherne knauwen</l>
+<l>Mochtstu mi te pointe ghelauwen</l>
+<l><milestone unit="fol" n="vb"/> Daer hads in dinen poot</l>
+<l>Hoe saen soutstu mi hebben doot</l>
+<l>Ghebenedijt si die wigant</l>
+<l n="50">Die di met sire conste bant</l>
+<l>Dattu doghes dit verdriet</l>
+<l>Ic ne saghene in III daghen niet</l>
+<l>Ic sochtene gherne wistic waer</l>
+<l>Ic ware dul qwamic so naer</l>
+<l n="55">Dattu vier up mi scoots</l>
+<l>O maria moeder gods</l>
+<l>Sprac die scipman goet van prise</l>
+<l>Ghi moet den here madelghise</l>
+<l>Lossen vte sire noot</l>
+<l n="60">Si hi leiuende ofte doot</l>
+<l>Ghi moet corten sijn torment</l>
+</body>
+</text>
+</TEI.2>

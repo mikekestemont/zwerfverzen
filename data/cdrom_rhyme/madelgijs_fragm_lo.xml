@@ -1,0 +1,336 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.transcr 'INCLUDE'> <!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'>]><TEI.2><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Madelgijs</title>
+<author>Onbekend</author>
+</titleStmt>
+<editionStmt>
+<edition>R.W.TH. Duijvestein (ed.): Madelgijs. De Middelnederlandse fragmenten en de overeenkomstige Hoogduitse verzen. Brussel, 1989. (Verhandelingen van de Koninklijke Academie voor Wetenschappen, Letteren en Schone Kunsten van Belgi&#x00EB;. Klasse der Letteren 51, nr. 130), 148-155</edition>
+</editionStmt>
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<listBibl id="inlMetadata">
+<bibl><interpGrp type="titleLevel1">
+<interp value="Madelgijs"/>
+</interpGrp><interpGrp type="medium">
+<interp value="book"/>
+</interpGrp><interpGrp type="authorLevel1">
+<interp value="Onbekend"/>
+</interpGrp>
+<interpGrp type="ipr">
+<interp value="online"/>
+</interpGrp><interpGrp type="corpusProvenance">
+<interp value="cdrom-mnl"/>
+</interpGrp>
+<interpGrp type="pubYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+</bibl>
+</listBibl>
+<bibl id="original-metadata-cdrom-version"><![CDATA[
+<TITEL>Madelgijs</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K78">Londen, British Library, Add. 35251,k (fragm.)</BRON>
+<DATUM>1350-1400</DATUM>
+<OMVANG>254 verzen</OMVANG>
+<BRON.OPM>Een dubbelblad; per bladzijde 2 kolommen en oorspronkelijk per kolom waarschijnlijk 40 regels. Het dubbelblad is onderaan en opzij zodanig besnoeid, dat een kolom nog 38 &#x00E0; 39 regels telt, terwijl bijna de helft van kol. 1rb, meer dan de helft van kol. 1va, vrijwel geheel kol. 2rb en geheel kol. 2va verdwenen zijn. Te oordelen naar de inhoud gaat het hier om het op-twee-na-binnenste bifolium van een katern.</BRON.OPM>
+<EDITIE>R.W.TH. Duijvestein (ed.): Madelgijs. De Middelnederlandse fragmenten en de overeenkomstige Hoogduitse verzen. Brussel, 1989. (Verhandelingen van de Koninklijke Academie voor Wetenschappen, Letteren en Schone Kunsten van Belgi&#x00EB;. Klasse der Letteren 51, nr. 130), 148-155</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<EDITIE.OPM>Duijvestijn geeft, parallel aan de tekst van de fragmenten, ook de tekst van de Middelhoogduitse vertaling (Malagis in hs. Heidelberg, Universit&#x00E4;tsbibliothek, Pal. germ. 340).</EDITIE.OPM>
+<BRONNEN>Van de Madelgijs bestaan een oudere en een jongere, meer uitgebreide versie. De kortere versie is volledig overgeleverd in een bijna woordelijke vertaling in het Middelhoogduits. De langere versie is bekend uit een Nederlandse prozabewerking (Historie van Malegijs). Drie fragmenten vertegenwoordigen de lange versie: - <x nr=K80>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 203 (fragm.)</x>
+ - <x nr=K81>Leiden, Bibliotheek der Rijksuniversiteit, B.P.L. 2552,34 (fragm.)</x>
+ - <x nr=K82>Antwerpen, Stadsbibliotheek, 500.694 (fragm.)</x>
+ De overige fragmenten vertegenwoordigen de korte versie. Van in totaal 9 hss. zijn er fragmenten overgeleverd: Hs. I: - <x nr=K80>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 203 (fragm.)</x>
+ - <x nr=K76>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 202 (fragm.)</x>
+ Hs. II: - <x nr=K70>Neurenberg, Bibliothek des Germanischen Nationalmuseums, 42584 (fragm.)</x>
+ - <x nr=K75>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 201 (fragm.)</x>
+ Hs. III: - <x nr=K82>Antwerpen, Stadsbibliotheek, 500.694 (fragm.)</x>
+ Hs. IV: - <x nr=K72>Rotterdam, Gemeentebibliotheek, 96 C 4 (fragm.)</x>
+ - <x nr=K77>D&#x00FC;sseldorf, Universit&#x00E4;tsbibliothek, Dauerleihgabe der Stadt D&#x00FC;sseldorf, K 2: F 45 (fragm.)</x>
+ Hs. V: - <x nr=K79>Gent, Bibliotheek der Rijksuniversiteit, 1618 (fragm.)</x>
+ Hs. VI: - <x nr=K71>Gent, Bibliotheek der Rijksuniversiteit, 1651 (fragm.)</x>
+ Hs. VII: - <x nr=K78>Londen, British Library, Add. 35251,k (fragm.)</x>
+ Hs. VIII: - <x nr=K74>Parijs, Biblioth&#x00E8;que Nationale, n&#x00E9;erl. 119 (fragm.)</x>
+ Hs. IX: - <x nr=K73>Berlijn, Staatsbibliothek Preussischer Kulturbesitz, Germ. fol. 923,47 (fragm.)</x>
+ Hs. X: - <x nr=K81>Leiden, Bibliotheek der Rijksuniversiteit, B.P.L. 2552,34 (fragm.)</x>
+</BRONNEN>
+<HSDRUK>Historie van Malegijs</HSDRUK>
+]]></bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body><l><pb n="148"/><milestone unit="fol" n="1ra"/> Daer wi mede behouden sijn</l>
+<l>[D]oe ant[worde y]vorij[n]</l>
+<l>Kevtij[f ...... gi k]iest</l>
+<l>Kerstine wet ende v seluen verliest</l>
+<l n="5">Dat es iam[m]er groot</l>
+<l><pb n="149"/>Aymijn sei[d.] hennes geen noot</l>
+<l>Dat gi mi cl[a]get dat seggic v</l>
+<l>Doet uwen kempe comen nv</l>
+<l>Vpt velt het es tij[t]</l>
+<l n="10">Daer wi sullen [..... s]trijt</l>
+<l>Yuorijn s[eid]e [het wo]rt gedaen</l>
+<l>Here gallas vant up staan</l>
+<l>Biet hem den hantscoe desen</l>
+<l>Gi moet mijn campioen wesen</l>
+<l n="15">Gallas seide het wort gedaen</l>
+<l>Die ruse hi es up gestaen</l>
+<l>Die staerc was ende groot</l>
+<l>Den hantscoe hi aymine boot</l>
+<l>Nemt seit hi onsalich wicht</l>
+<l n="20">Vwe tale wort geswicht</l>
+<l>Eer nemmer lijdt vespertijt</l>
+<l>Nv heuestu al dine tijt</l>
+<l>Gheleuet ic ben so grot</l>
+<l>Met minen wsten sloege ic v doot</l>
+<l n="25"><hi rend="bold">D</hi>oe antworde aymijn</l>
+<l>Alsidi groet here sarrasijn</l>
+<l>Vwe geloue die sijn quaet</l>
+<l>Dat es mi een rikelijc toeverlaet</l>
+<l>Die duuel es groot nochtan es hi</l>
+<l n="30">Niet te beter sone sidi</l>
+<l>Gallas seide zwiget wicht</l>
+<l>Dine tale wort geswicht</l>
+<l>Waren wi in dat crijt</l>
+<l>Gawi danne hets groot tijt</l>
+<l n="35">Omme vichten langet mi so sere</l>
+<l>Gallas seide dine were</l>
+<l>Wort cortelik[e ged]aen</l>
+<l>Gaet voren ic volge [v ....]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="1rb"/> [...............]</l>
+<l>[...............]</l>
+<l>God son[e he]lich [........]</l>
+<l n="40">III persone die [.........]</l>
+<l><pb n="150"/>Wesen een waer[.........]</l>
+<l>Die bouen der wa[........]</l>
+<l>Jnden hemel [.........]</l>
+<l>Daer v louen[.........]</l>
+<l n="45">Bouen in uwe[.........]</l>
+<l>Here ende ghi om[m.......]</l>
+<l>Liet die blisca[........]</l>
+<l>Ende quaemt i[n .......]</l>
+<l>Beten in ene [m........]</l>
+<l n="50">Omme ons te l[.........]</l>
+<l>Vter pinen ende [........]</l>
+<l>Daer ons adae[.........]</l>
+<l>Jn hadde gew[.........]</l>
+<l>God ende gi wae[........]</l>
+<l n="55">Van desen val[.........]</l>
+<l>Ende gi ontfin[........]</l>
+<l>Menschelichede [........]</l>
+<l>Die suuer w[.........]</l>
+<l>Oferet in de [.........]</l>
+<l n="60">Omme onse so[n ........]</l>
+<l>Ofte dwane h[.........]</l>
+<l>Drievoudich [.........]</l>
+<l>Vader sone heli[........]</l>
+<l>III persone e[nde ......]</l>
+<l n="65">Vander doot[.........]</l>
+<l>Smenschen[.........]</l>
+<l>Passie pine[........]</l>
+<l>V [tr]ooste die [........]</l>
+<l>E[... u] vader i[n.......]</l>
+<l n="70">V[we] tormen [.........]</l>
+<l>Daer [af] noit man [........]</l>
+<l>Mochte doge[n .......]</l>
+<l>Dits ene exem[p.......]</l>
+<l>Dat elc mens [.........]</l>
+<l n="75">Verdragen soud[e .......]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="1va"/> [...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l n="76">[........]den geest</l>
+<l>[..........]erte</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l n="80">[...............]</l>
+<l><pb n="151"/>[...............]</l>
+<l>[...............]</l>
+<l>[..........]envort</l>
+<l>[...............]</l>
+<l n="85">[...........]gedient</l>
+<l>[...........]t pinen</l>
+<l>[.........]r dinen</l>
+<l>[..........]elrike</l>
+<l>[...........]e</l>
+<l n="90">[..........]cht</l>
+<l>[..........]gecocht</l>
+<l>[.........u]lleest</l>
+<l>[..........]elege geest</l>
+<l>[..........]ure</l>
+<l n="95">[...........r]e</l>
+<l>[..........]tfijnc</l>
+<l>[...........r]uce hinc</l>
+<l>[..........]ader</l>
+<l>[..........]ader</l>
+<l n="100">[...............]</l>
+<l>[..........]esteit</l>
+<l>[..........]dach</l>
+<l>[..........]s mach</l>
+<l>[..........]strijt</l>
+<l n="105">[..........]ijt</l>
+<l>[..........]machtich [god]</l>
+<l>[..........]ebodt</l>
+<l>[.......... gedae]n</l>
+<l n="109">[..........]staen</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="1vb"/> [..... was gewapent] wel</l>
+<l>[...............]</l>
+<l>Hi quam [te crite .....]</l>
+<l>Als een die was onveruaert</l>
+<l>Hi sceen een ondadich man</l>
+<l n="115">Aldus riep hi aym[ij.] an</l>
+<l>Horstuut wicht uule [ker]stijn</l>
+<l>Gheloof an minen god apolijn</l>
+<l>Ende geef di [.....]stede</l>
+<l>Jc saldi help[e......]leden</l>
+<l n="120">Verbidden jheg[en den coninc] yuorijn</l>
+<l>Hout uwen paeis sprac aymijn</l>
+<l>Dat ic mi up soude geuen</l>
+<l>Mijn here mijn god die mi gaf leuen</l>
+<l>Souts hem belgen vele harde sere</l>
+<l n="125"><pb n="152"/> Of gi wilt doet v ter were</l>
+<l>Ende laet ons corten desen strijt</l>
+<l>Die heuet geduret lange tijt</l>
+<l>Gallas seide het es tijt</l>
+<l>Laet ons vort gaen in dit crijt</l>
+<l n="130">Dat ic di gelde dine ouerdaet</l>
+<l>Elc daer sijn ors met sporen slaet</l>
+<l>Ende reden elc anderen te moete</l>
+<l>Si onderstaken hem onsoete</l>
+<l>So dat gallas sonder beide</l>
+<l n="135">Tumen moeste uten gereide</l>
+<l>Daer si alle toe sien</l>
+<l>Ende aymijns ors scoot ouer sine knien</l>
+<l>Met bede den benen voren</l>
+<l>Ende aymijn gaf hem die sporen</l>
+<l n="140">So dat up spranc</l>
+<l>Hadt geweest van leden cranc</l>
+<l>[A]ymijn ware onteert daer</l>
+<l>[G]allas seide een droeue jaer</l>
+<l>Moetstu hebben wichtkijn</l>
+<l n="145">Do heves tebroken den arem mijn</l>
+<l>[Met der s.... so] ic vel</l>
+<l>Du best [..... ende] snel</l>
+<l>Al bestv[..........]</l>
+<l><milestone unit="fol" n="2ra"/> Jn d[ie zale wi] sullen gaen eten</l>
+<l n="150">[Ende ..............]</l>
+<l>Mijn [vader die sal hem b.......]</l>
+<l>Ende sinen moet laten sinken</l>
+<l>Dus gingen si in die zale</l>
+<l>Daer si ontfangen waren [wa..]</l>
+<l n="155">Van druwanen ende van aymine</l>
+<l>Si gingen eten sonder pine</l>
+<l>Ende drinken hare gheuouch</l>
+<l>Als lieues was daer genouch</l>
+<l><pb n="153"/>Alst auent was seide aymijn</l>
+<l n="160">Wie sal den coninc yuorijn</l>
+<l>Te nacht wachten entie sine</l>
+<l>Dat wi bliuen sonder pine</l>
+<l>Doe sprac I saen ende seide</l>
+<l>Die burchgraue van der stede</l>
+<l n="165">Dat wordic here aymijn</l>
+<l>Agalafres was die name sijn</l>
+<l>Verradere was hi harde fel</l>
+<l>Aymijn seide dat willic wel</l>
+<l>Hi hadde VII sonen coene</l>
+<l n="170">Ende alle van hogen doene</l>
+<l>Die coes hi met hem te sine</l>
+<l>Doe ginc hi wachten yuorine</l>
+<l>Si daden an hare wapen</l>
+<l>Ende dander gingen slapen</l>
+<l n="175">Een deelkijn vor mattin tijt</l>
+<l>sprac agalafers seker sijt</l>
+<l>Hordijt coninc yuorijn</l>
+<l>Wildi mi ghetrouwe sijn</l>
+<l>Ende mi geuen dese port</l>
+<l n="180">Ende tlant datter toe behort</l>
+<l>Jc soudu helpen uten prisoene</l>
+<l>Jaic vrient bi mahoene</l>
+<l>Sprac yuorijn die coninc</l>
+<l>Agalafers daer saen ontlinc</l>
+<l n="185">Yuorijns eet daer ter stede</l>
+<l>[Nu ..............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="2rb"/> [Die da .............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l n="190">[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l n="195">[...............]</l>
+<l>[...............]</l>
+<l>Ghi [............]</l>
+<l>Yuorij[............]</l>
+<l>Vwe tal[e...........]</l>
+<l n="200">Nv salic [..........]</l>
+<l>Ouer v [...........]</l>
+<l><pb n="154"/>Ende ghi w[.........]</l>
+<l>Sult s[t..........]</l>
+<l>Alle si [..........]</l>
+<l n="205">Son[............]</l>
+<l>Die[............]</l>
+<l>L[i..............]</l>
+<l>S[i ..............]</l>
+<l>Sp[.............]</l>
+<l n="210">H[e.............]</l>
+<l>Di[.............]</l>
+<l>D[r............]</l>
+<l>W[.............]</l>
+<l>A[ymijn ..........]</l>
+<l n="215">E[.............]</l>
+<l>[N.............]</l>
+<l><milestone unit="fol" n="2vb"/> Eer ons gesciet des ongheuals</l>
+<l>[.... die duuel] breken den hals</l>
+<l>[...was g]......[yuorijn]</l>
+<l n="220">[......]ddi dat aymijn</l>
+<l>[......]bi mahoen</l>
+<l>[....]e minen wille doen</l>
+<l>[....]e suldi niet ontgangen</l>
+<l>[.....] spiette salic hanghen</l>
+<l n="225">[.]eufloer ende druwanen sciere</l>
+<l>[.]alic bernen in enen viere</l>
+<l>Hier of ne wort gheen blijf</l>
+<l>Aymijn seide coninc keitijf</l>
+<l>Ende naemstu onse leuen</l>
+<l n="230">Waestuut liden sonder sneuen</l>
+<l>Daer ne sal wrake of gescien</l>
+<l>Mijn oem ende mijn vader viuien</l>
+<l>Sullent wreken tuwer scade</l>
+<l>Doet wel ende werct bi rade</l>
+<l n="235">Eer ghi ons doot vp desen dach</l>
+<l>Watter namaels of comen mach</l>
+<l>Al es die hertoge buue gevaen</l>
+<l><pb n="155"/>Hi mochte wel ontgaen</l>
+<l>Tuwer scade mesdadi ons iet</l>
+<l n="240">Jc rade dat gi v vorsijt</l>
+<l>Ende nedoet gene haestichede</l>
+<l>Yuorijn sprac ende seide</l>
+<l>Bi mamette gine durt castien</l>
+<l>Jc sal Beufloer uwes vader amie</l>
+<l n="245">[D]oden hem te despite</l>
+<l>[.]ie quade hoere die quade scite</l>
+<l>[..]eft mi alte male onthert</l>
+<l>[.w]ach twine haddic een swaert</l>
+<l>[....]c aymijn te deser stont</l>
+<l n="250">[.. s]oudic mi wreken her hont</l>
+<l>[...]uwer ouermoedegher sprake</l>
+<l>[..... w]asic dus tonghemake</l>
+<l>[.... s]eide swich aymijn</l>
+<l>[........... sijn]</l>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,675 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.transcr 'INCLUDE'> <!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'>]><TEI.2><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Spiegel historiael (tweede partie)</title>
+<author>Philip Utenbroeke</author>
+</titleStmt>
+<editionStmt>
+<edition>A. Nelis (ed.): 'Fragment in&#x00E9;dit du Spiegel historiael'. In: Annales de la soci&#x00E9;t&#x00E9; d'&#x00E9;mulation pour l'&#x00E9;tude de l'histoire et des antiquit&#x00E9;s de la Flandre. 4e s&#x00E9;rie, t. 4 (1880), 170-205 (174-205).</edition>
+</editionStmt>
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<listBibl id="inlMetadata">
+<bibl><interpGrp type="titleLevel1">
+<interp value="Spiegel historiael (tweede partie)"/>
+</interpGrp><interpGrp type="medium">
+<interp value="book"/>
+</interpGrp><interpGrp type="authorLevel1">
+<interp value="Philip Utenbroeke"/>
+</interpGrp>
+<interpGrp type="ipr">
+<interp value="online"/>
+</interpGrp><interpGrp type="corpusProvenance">
+<interp value="cdrom-mnl"/>
+</interpGrp>
+<interpGrp type="pubYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1390"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1410"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1410"/></interpGrp>
+</bibl>
+</listBibl>
+<bibl id="original-metadata-cdrom-version"><![CDATA[
+<TITEL>Spiegel historiael (tweede partie)</TITEL>
+<TITEL>Spiegel historiael</TITEL>
+<author>Philip Utenbroeke</author>
+<AARD>Rijm</AARD>
+<BRON nr="D156">Brugge, Stadsarchief, Oud archief, reeks 538,7 (fragm.)</BRON>
+<DATUM>1390-1410</DATUM>
+<OMVANG>594 verzen</OMVANG>
+<BRON.OPM>E&#x00E9;n blad, 4 kolommen per bladzijde, 76 regels per kolom; het blad draagt de foli&#x00EB;ring lxxx. Het fragment bevat een aantal kapittels uit de Tweede Partie, boek 3 van de Spiegel historiael: kap. 10 (slot) tot kap. 20 (vs. 20) en het opschrift van kap. 21 (het eerste vers van kap. 21 als custode); het op dit fragment aan te treffen kap. 20 ontbreekt in de editie Von Hellwald. Van het handschrift waar dit fragment deel van uitmaakte, bleven 32 fragmenten bewaard; de oorspronkelijke codex bevatte waarschijnlijk alle partie&#x00EB;n van de Spiegel historiael (zie verder J.A.A.M. Biemans: Onsen Speghele Ystoriale in Vlaemsche. Codicologisch onderzoek naar de overlevering van de "Spiegel historiael" van Jacob van Maerlant, Philip Utenbroeke en Lodewijk van Velthem, met een beschrijving van de handschriften en fragmenten. Deel 2: Catalogus, registers, bibliografie, platen. Leuven 1997, 355-359).</BRON.OPM>
+<VERWIJZING>Gent, Bibliotheek der Rijksuniversiteit, 2541,7 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,8 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,9 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,10 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,11 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,13 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,14 (fragm.) en Brussel, Koninklijke Bibliotheek, IV 827,1 (fragm.).</VERWIJZING>
+<EDITIE>A. Nelis (ed.): 'Fragment in&#x00E9;dit du Spiegel historiael'. In: Annales de la soci&#x00E9;t&#x00E9; d'&#x00E9;mulation pour l'&#x00E9;tude de l'histoire et des antiquit&#x00E9;s de la Flandre. 4e s&#x00E9;rie, t. 4 (1880), 170-205 (174-205).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>25.110</BRONMNW>
+<BRONMNW>695 (ander handschrift)</BRONMNW>
+<BRONMNW>1191 (andere editie)</BRONMNW>
+<BRONNEN>De tekst van de Spiegel historiael (tweede partie) is voor het grootste gedeelte alleen te vinden in Wenen, &#x00D6;sterreichische Nationalbibliothek, 13708; tekstgedeelten van de Tweede Partie die in dit Weense handschrift nog ontbreken, bevinden zich in Gent, Bibliotheek der Rijksuniversiteit, 2541,7 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 2541,8 (fragm.), Frankfurt am Main, Stadt- und Universit&#x00E4;tsbibliothek, Ms. Germ. Qu. 35 (fragm.), Gent, Bibliotheek der Rijksuniversiteit, 1374, Brugge, Stadsarchief, Oud archief, reeks 538,7 (fragm.), D&#x00FC;sseldorf, Universit&#x00E4;tsbibliothek, Dauerleihgabe der Stadt D&#x00FC;sseldorf, Z 15,9 (fragm.), Anholt, F&#x00FC;rstlich Salm-Salm'sche Bibliothek, Fragment in AD Nr. 460 (fragm.), Brussel, Koninklijke Bibliotheek, II 553,1 (fragm.), Leiden, Bibliotheek der Rijksuniversiteit, B.P.L. 3069 (fragm.) en Antwerpen, Rijksarchief, Verzameling Handschriften, nr. 147 (fragm.).</BRONNEN>
+]]></bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body><div type="chapter"><head type="chapter comment">[.x.]</head>
+<l>...</l>
+<l><pb n="174"/><milestone unit="fol" n="ra"/> Int jaer Ons Heren, heb ic verstaen,</l>
+<l>Cc ende .x. werf drie,</l>
+<l>Wie so wille, geloves mie.</l>
+</div>
+<div type="chapter"><head type="chapter">Van sinte Juletten ere vrouwen .xi. </head>
+<l>Ene kerstine goede vrouwe,</l>
+<l>Hiet Julette, sach groten rouwe</l>
+<l>Doen den Kerstinen ende toren</l>
+<l>tEyconen, daer si was geboren,</l>
+<l n="5">Ende ruumde die poort om tgone</l>
+<l>Mit Cyricuse, haren sone;</l>
+<l>Te Tarsen quam si in die poort,</l>
+<l>Daer men dede grote moort</l>
+<l>Op die Kerstine. Een Alexander,</l>
+<l n="10">Die felre was dan enich ander,</l>
+<l>Was baeliu daer in die stede,</l>
+<l>Die sere quelde kerstijnhede.</l>
+<l>Dese hevet van Juletten verstaen</l>
+<l><pb n="175"/>Ende deetse al te hant vaen,</l>
+<l n="15">Enten sone liet men bliven,</l>
+<l>Daer si rouwe om ghinc driven,</l>
+<l>Want si duchte dat hem mochte</l>
+<l>Verkeren sijn goede gedochte,</l>
+<l>Bleve hi te live sonder hare;</l>
+<l n="20">Saen wart hi voort brocht dare;</l>
+<l>Doe ghinc die baeliu smeken mieden,</l>
+<l>Dat dreygen dat niet mochte dieden;</l>
+<l>Doe ghinc men den kinder an mitter pine,</l>
+<l>Maer alset seide: "Ic bin kerstine",</l>
+<l n="25">So quam hem emmer weder cracht,</l>
+<l>Hoe so dat men op hem vacht,</l>
+<l><pb n="176"/>Dies verblide die moeder sere,</l>
+<l>Ende lovede Gode, onsen Here,</l>
+<l>Ende troeste tkint al dat si mochte.</l>
+<l n="30">Doe ghinc men der moeder an onsochte,</l>
+<l>Dat si blidelike heeft ontfaen.</l>
+<l>In den kerker heeft mense gedaen</l>
+<l>Ten lesten worden si onthovet,</l>
+<l>Ende daer na, dies gelovet,</l>
+<l n="35">Gheslegen in sticken clene,</l>
+<l>Dat men hem sepulture ghene</l>
+<l>Moghe geven, maar dengel ons Heren</l>
+<l>Gaderde weder die sticken; mit eren</l>
+<l>Dedise graven, so ict bekende,</l>
+<l n="40">In julius, ter .xvj. kalende.</l>
+</div>
+<div type="chapter"><head type="chapter">Van sinte Martinien der maghet. .xij. </head>
+<l>In Rome was woenende Martine,</l>
+<l>Wel geboren, ene maget fine,</l>
+<l>Rike ende gaf gherne door God.</l>
+<l>Dese was, jeghen skeysers gebod,</l>
+<l n="5">Kerstenlike levende ghevonden.</l>
+<l>Voor den keyser brocht mense tien stonden,</l>
+<l><pb n="177"/>Dien si dochte so over scone,</l>
+<l>Dat hi haer boot die keyser crone</l>
+<l>Op dat si sinen wille dade,</l>
+<l n="10">Maar dies en wart si niet te rade;</l>
+<l>Si seide si hadde trouwe belovet</l>
+<l>Gode; loghe si, si ware verdovet.</l>
+<l>Doe leet mense voor Apoline</l>
+<l>Om taenbeden, maer die fine</l>
+<l n="15">Dede bede den almachtigen God.</l>
+<l>Die eerde bevede, na sijn gebod</l>
+<l>Viel van den tempel tvierendeel,</l>
+<l>Entie afgode al geheel,</l>
+<l>Dat vele der heydine hevet doot.</l>
+<l n="20">Doe sprac die maget ten keyser albloot:</l>
+<l>"Keyser, twine helpti Apoline,</l>
+<l>Ende Apolijn, twine troest hi die sine,</l>
+<l>Die hier sterven bi hem?" Te hant</l>
+<l>Sprac uten beelde die viant:</l>
+<l n="25">"Martine, wat heb ic di misdaen?</l>
+<l><pb n="178"/>Si hebben mi gelaten staen</l>
+<l>Xcviii. jaer, al tot nu;</l>
+<l>Te fel sidi mi, dat seg ic u.</l>
+<l>Cccc. jaer .lx. ende twee</l>
+<l n="30">Haddic duvelen, die min no mee</l>
+<l><milestone unit="fol" n="rb"/> En daden dan ic hem hiet,</l>
+<l>Nu isset bi di gesciet</l>
+<l>Dat ic nu ter helle vare."</l>
+<l>Hi voer wech; men sach al dare,</l>
+<l n="35">Daar hi voer, grote deemsterhede;</l>
+<l>Die keyser wiste niet dat God dede,</l>
+<l>Ende hiet die maget swaer berecken</l>
+<l>Mit slagen en hiet die winbrawen uut treken;</l>
+<l>Doe riepen lude die dat daden,</l>
+<l n="40">Si waren mit pinen sere verladen</l>
+<l>Dat hem daden .iiij. lieden wit.</l>
+<l>Doe bat si over hem ; na dit</l>
+<l>Quam daer groot licht ende men hoorde</l>
+<l><pb n="179"/>Ene stemme seggen dese woorde:</l>
+<l n="45">"Door Martinen sidi gespaert,</l>
+<l>Ende dien, hoe hi keyser ghebaert,</l>
+<l>Dien laet ics verwinnen niet."</l>
+<l>Achte waren die eerst verdriet</l>
+<l>Der heiligher Martinen daden,</l>
+<l n="50">Entie baden haer nu genaden;</l>
+<l>Den keyser daden sijt verstaen</l>
+<l>Dat si Martinen God ane vaen</l>
+<l>Die keyser seide si waren verdult;</l>
+<l>Maer hi waer mitten duvel vervult,</l>
+<l n="55">Hebben si coenlike hem geseit,</l>
+<l>Dat hi niet kennen wil die waerheit.</l>
+<l>Die hoefde sloech men hem doe ave,</l>
+<l>Si waren martelaren gave,</l>
+<l>Op ten .xviijsten dach</l>
+<l n="60">Van november, als ict sagh</l>
+<l>Bescreven; enten andren daghe,</l>
+<l>Was voort, bi skeysers gewaghe,</l>
+<l>Brocht die heilige Martine,</l>
+<l>Die niet en micte op tdreigen sine.</l>
+<l n="65"><pb n="180"/> Naect dedise mit sweerden sniden;</l>
+<l>Melc over bloet sachmen tien tiden</l>
+<l>Rennen daer uut haren wonden.</l>
+<l>Doe wart si an enen stake gebonden,</l>
+<l>Ende mit stocken geslagen sere;</l>
+<l n="70">Diet daden riepen ten keyser: "Here,</l>
+<l>Doet ons van deser pinen saen,</l>
+<l>Want ons die engelen sere slaen,</l>
+<l>Ende inden vleysche niet allene,</l>
+<l>Maer gaet in totten bene,</l>
+<l n="75">Als of ons verbrande vier."</l>
+<l>Die keyser wart meer ongehier;</l>
+<l>Diere hant an daden, bleven doot;</l>
+<l>Doe wart die keyser in toerne groot.</l>
+<l>Limus, een sijnre neven,</l>
+<l n="80">Heeft hem desen raet ghegeven,</l>
+<l>Dat mense mit heten smoute smare,</l>
+<l>Ende in den kerker doe dan daernare;</l>
+<l>Ende men heeft also gedaen.</l>
+<l>Doe hoorde men in den kerker saen</l>
+<l n="85"><pb n="181"/> Ons Heren lof in sanghe claer.</l>
+<l>Nachts quam Limus daer,</l>
+<l>Ende vant witte liede mit hare;</l>
+<l>Doe vlo hi mit groten vare,</l>
+<l>Ende seit den keyser groot ende smal,</l>
+<l n="90">Diet over toverie helt al.</l>
+<l>Voor den keyser si noch is</l>
+<l>Ghebrocht, diese in Archenadis</l>
+<l>Tempel liet leiden al te hant.</l>
+<l>Als si daer quam, riep die viant</l>
+<l n="95">Dat hi brande al te male.</l>
+<l>Hi hieten wech gaen, hi deet wale.</l>
+<l>Donre ende viere heeft God gesant,</l>
+<l>Dat tempel ende papen heeft verbrant,</l>
+<l>Ende te polver tbeelde gemaect.</l>
+<l n="100">Doe wart die maget, wel geraect,</l>
+<l>Mit sweerden dat lijf doorsneden,</l>
+<l>Ende die borsten daer ter steden</l>
+<l>Gheworpen voor die felle diere,</l>
+<l>Die hongerich waren alse ghiere,</l>
+<l n="105"><pb n="182"/> Die haer misdaden clene no groot,</l>
+<l>Maer een liebaert heeft gedoot</l>
+<l><milestone unit="fol" n="rc"/> Limuse, des keysers maech,</l>
+<l>Die ten quade niet was traech.</l>
+<l>Doe hiet die keyser die maget verbranden.</l>
+<l n="110">Doe tfier gemaect was, quam te handen</l>
+<l>Een regen die speersde den brant</l>
+<l>Op die quade, die stonden omtrant,</l>
+<l>Ende diere vele bleven doot.</l>
+<l>Mittien die keyser geboot</l>
+<l n="115">Dat men haer thaer of scere,</l>
+<l>Als offer an laghe hare were,</l>
+<l>Ende si sprac ten keyser dare:</l>
+<l>"Also, alstu mi nemes mijn hare,</l>
+<l>So sal di nemen dijn rike God. "</l>
+<l n="120">Doe was si, na skeysers gebod</l>
+<l>In Seus tempel geleit ter stede,</l>
+<l><pb n="183"/>Die god hiet der onsuverhede,</l>
+<l>Om datse Seus mit sinen gesellen</l>
+<l>In die onsuverheit soude quellen.</l>
+<l n="125">Die keyser quam sderden dages daernare</l>
+<l>Te siene hoet mit haer ware,</l>
+<l>Ende waende mit haer houden spot;</l>
+<l>Doe vant hi Seus, den valschen god,</l>
+<l>Neder gevallen ende al te broken;</l>
+<l n="130">An Martinen heefti gesproken:</l>
+<l>"Sech, waer is mijn god gevaren?"</l>
+<l>Doe andwoorde si sonder sparen:</l>
+<l>"Alse Apolijn ende Archenades,</l>
+<l>Dijn god Seus gevaren es."</l>
+<l n="135">Doe balch die keyser so tongevoege</l>
+<l>Dat hi hiet datmen of sloege</l>
+<l>Haer hoeft; dit wart gedaen.</l>
+<l>Dese woorde hoorde men daer saen:</l>
+<l>"Nu coemt, mijn lieve Martine."</l>
+<l n="140">Die daer holpen te hare pine,</l>
+<l>Storven saen mit groten lede.</l>
+<l>Die clergie nam gherede</l>
+<l><pb n="184"/>Den lichame ende groeven scone.</l>
+<l>Die eerste dach van haren lone</l>
+<l n="145">Was, als ict bevinden mach,</l>
+<l>Van loumaent op den eerste dach.</l>
+<l>In Alexanders tijt oec waren</l>
+<l>Bisscope van groter maren,</l>
+<l>Berillus ende Ypolijt,</l>
+<l n="150">Die wel besteden haren tijt,</l>
+<l>Want si leerden ende screven</l>
+<l>Dat nutscap mach geven.</l>
+</div>
+<div type="chapter"><head type="chapter">Van keyser Alexanders doot. .xiij. </head>
+<l>Tot Magensen, hore ic gewagen,</l>
+<l>Was keyser Alexander verslagen,</l>
+<l>Ende Maximijn ontfinc dat rike,</l>
+<l>Int jaer Ons Heren sekerlike</l>
+<l n="5">Cc ende .xxxvij. mede.</l>
+<l>Dese quam in skeysers stede</l>
+<l>Jeghen den wille der senature,</l>
+<l>Maer van den ridders haddi den cure.</l>
+<l>Dese keyser, versta ic vorwaer,</l>
+<l n="10">Was Alexanders moeder swaer</l>
+<l>Ende al den misnieden sijn</l>
+<l><pb n="185"/>Want si alle waren kerstijn;</l>
+<l>Ende clerken ende oec papen</l>
+<l>Doodi die hi conde betrapen.</l>
+<l n="15">Die paeus van Rome, Ponciaen,</l>
+<l>Moeste martelye doe ontfaen.</l>
+<l>Antherus wart paeus na hem;</l>
+<l>Also ics vroet bem,</l>
+<l>Was dese van Rome gheboren,</l>
+<l n="20">Ende wart martelare vercoren.</l>
+<l>Keyser Maximijn vorwaer</l>
+<l>Wart, in sijns riken derde jaer,</l>
+<l>Te Quiline geslegen doot</l>
+<l>Van Puppine, enen here groot,</l>
+<l n="25">Die vinc aen keyser te sine</l>
+<l>Mit sinen broeder Balbine;</l>
+<l>Maer in die zale worden si verslegen,</l>
+<l>Daer si des heerscaps wilden plegen.</l>
+</div>
+<div type="chapter"><head type="chapter">Van den keyser Maximijn ende van den keyser Gordiane. .xiiij. </head>
+<l>Doe wart keyser Gordiaen;</l>
+<l><milestone unit="fol" n="rd"/> Men screef, in sijn anevaen,</l>
+<l>Cc.xl. jaer ons Heren.</l>
+<l><pb n="186"/>Vi. jaer was hijt int regneren.</l>
+<l n="5">Na Antherus wart paeus Fabiaen.</l>
+<l>In dien tiden was Affricaen,</l>
+<l>Een groot clerc, die mit sinen gewerke</l>
+<l>Sere stichte die heilige kerke.</l>
+<l>Die philosophe Prophirius</l>
+<l n="10">Was tien tiden, ic last dus;</l>
+<l>Victor, een sophiste mede,</l>
+<l>Ende Teroponipus van goeder zede.</l>
+<l>Eusebius doet ons te verstane</l>
+<l>Van den keyser Gordiane</l>
+<l n="15">Dat hi niet was out van jaren,</l>
+<l>Als hi quam van Persen gevaren,</l>
+<l>Daar hi sinen wille dede,</l>
+<l>Dattene buten Rome, der stede,</l>
+<l>Philip, .i. groot here, versloech,</l>
+<l n="20"><pb n="187"/> Ende dat behendelike genoech.</l>
+<l>Dese Philip had gewesen</l>
+<l>Te Rome .i. groot here voor desen.</l>
+</div>
+<div type="chapter"><head type="chapter">Van tween Philippen keysere, deerste kerstine. .XV. </head>
+<l>In dien tiden dat men die gedinkenisse</l>
+<l>Screef CC .xl. ende sesse</l>
+<l>Van den incarnacioene ons Heren,</l>
+<l>So begonde Philip regneren.</l>
+<l n="5">Vii. jaer regneerde die gone</l>
+<l>Mit Philippe, sinen sone.</l>
+<l>Dit was deerste keyser kerstijn.</l>
+<l>Rome hadde voor den tiden sijn</l>
+<l>Ghestaen volle .m. jaer;</l>
+<l n="10">Dies maecte men grote feeste daer.</l>
+<l>Haymo doet ons verstaen</l>
+<l>Dat die paeus Fabiaen</l>
+<l>Desen keyser ter offerhande</l>
+<l>Niet wilde ontfaen te sinen handen,</l>
+<l n="15">Spaesdages, eer hi ontfaen</l>
+<l>Penitencie hadde ende gedaen;</l>
+<l>Ter vigelien van desen</l>
+<l><pb n="188"/>Van dat hi niet had gewesen</l>
+<l>Paesschen daar hi hem dat in dede.</l>
+<l n="20">Dese keyser ontfinc kerstenhede</l>
+<l>Bi Poncius, den heiligen man;</l>
+<l>Dies coemt van hem hier sprake an.</l>
+</div>
+<div type="chapter"><head type="chapter">Van sinte Ponciuse. .XVi. </head>
+<l>Een senatuer Marcus genant</l>
+<l>Ende Julia waren, als ict vant,</l>
+<l>Poncius moeder ende vader.</l>
+<l>Eens gingen si ten tempel te gader</l>
+<l n="5">Haren god te eerne daer;</l>
+<l>Nu was die vrouwe mit kinde swaer;</l>
+<l>Die duvel den pape daer besat,</l>
+<l>Ende hi wart roepende na dat,</l>
+<l>Dat die vrouwe droege .i. kint,</l>
+<l n="10">Bi dien die goden sere warden gescint.</l>
+<l>Alse dat Julia heeft verstaen,</l>
+<l>Liep si wech mit haren man saen,</l>
+<l>Daarbi in enen husekijn,</l>
+<l><pb n="189"/>Ende dede haer selven grote pijn</l>
+<l n="15">Om te verderven die dracht.</l>
+<l>In haer selven heeft si gedacht</l>
+<l>Dat beter is dat sijt bestervet</l>
+<l>Dat si die vrucht bedervet,</l>
+<l>Dan daerbi die dinc gescieden</l>
+<l n="20">Die si den pape hoorde bedieden;</l>
+<l>Maer dat heeft onse Here belet;</l>
+<l>Alse God wilde, so wart haer bet,</l>
+<l>Ende van haer geboren waert</l>
+<l>Een knapelijn kint; ongespaert</l>
+<l n="25">Wil si dat ment dode saen;</l>
+<l>Die vader seide: "Neen, laet staen;</l>
+<l>Jupiter wreect hem wel, wil hi;</l>
+<l>An onse kint en sellen wi</l>
+<l>Ons besmetten niet.</l>
+<l n="30"><milestone unit="fol" n="va"/> Die vader dat kint Poncius hiet.</l>
+<l>Men liet in genen tempel comen.</l>
+<l>Alst quam so dat mochte vromen,</l>
+<l>Dede men tkint ter scole gaen.</l>
+<l><pb n="190"/>Al dat hoorde, onthelt saen,</l>
+<l n="35">So dat scheen connen al.</l>
+<l>Eens quamt also, int getal,</l>
+<l>Daert mit enen geselle sine</l>
+<l>Ter scolen waert ghinc, daert kerstine</l>
+<l>Hoorde singen dit bedieden:</l>
+<l n="40">"Al te male die gode der lieden</l>
+<l>Sijn duvele." Alse Ponciaen dit hoort</l>
+<l>Stoet hi, ende seide dese woort:</l>
+<l>"Here, dien loven dese kerstine,</l>
+<l>Bringe mi in die kennisse dine."</l>
+<l n="45">Doe ghinc hi jeghen die dore staen,</l>
+<l>Daer hi die woorde in hadde verstaen.</l>
+<l>Ponciaen was paeus doe dare</l>
+<l>Die der kindere wart geware,</l>
+<l>Ende seide te hant: "Dese gelike</l>
+<l n="50">Der kinder is dat hemelrike."</l>
+<l>Men liet Poncius daer inne</l>
+<l>Mit sinen geselle, die mit sinne</l>
+<l><pb n="191"/>Vragede wat waren die dingen</l>
+<l>Die si daer hadden horen singhen.</l>
+<l n="55">Ponciaen heeft hem geleert,</l>
+<l>Ende hem ende sinen geselle bekeert</l>
+<l>Die men heet Valerius.</l>
+<l>Eens gesciede het aldus</l>
+<l>Dat Poncius van scolen quam,</l>
+<l n="60">Sijn vader vragede hoe hi vernam,</l>
+<l>Ende hoe hem sijn meester behaget.</l>
+<l>In andre woorden Poncius saget</l>
+<l>Dat hi noyt was geleert so wale,</l>
+<l>Alse hi gisteren was tenen male.</l>
+<l n="65">So vele sprac hi jegen den vader</l>
+<l>Dat hine bekeerde al te gader.</l>
+<l>Men onboot Ponciane</l>
+<l>Die hem dat doopsel brochte ane</l>
+<l>Mit sinen misnieden. Saen daernare,</l>
+<l n="70">Sterft die vader; doe moeste dare</l>
+<l>Poncius gaen an souder goet</l>
+<l><pb n="192"/>Dat hi nochtan ondancs doet,</l>
+<l>Ende wart weert ende sere gemint,</l>
+<l>Ende alre doghet bekint.</l>
+<l n="75">Sint, als paeus was Fabiaen.</l>
+<l>Is hi mit minnen an heil gegaen,</l>
+<l>Ende gaf hem vele van sinen goede,</l>
+<l>Daer des menichs armoede</l>
+<l>Mede wart gestelpt van Rabiane.</l>
+<l n="80">Nu quam die tijt, na minen verstane,</l>
+<l>Dat Rome hadde gestaen .m. jaer;</l>
+<l>Dies wilden die .ii. Philippen daer</l>
+<l>Beide den goden enten lieden</l>
+<l>Feeste maken, des si onbieden</l>
+<l n="85">Poncius om hem beraden</l>
+<l><pb n="193"/>Hoe sijt mit meesten love gedaden.</l>
+<l>Want Poncius hiet doe die man</l>
+<l>Daer van duechden meest lach an.</l>
+<l>Als hi den keysere wille hoorde,</l>
+<l n="90">Gaf hi dese andwoorde:</l>
+<l>"Ghi, heren, die aldus sijt boven,</l>
+<l>Mit rechte soudi den genen loven</l>
+<l>Van wien dat u al comen si."</l>
+<l>Ende si seiden: "Daer om wil wi</l>
+<l n="95">"Feeste maken den goden teren."</l>
+<l>Poncius sprac : "Wel, lieve heren,</l>
+<l>En weest hier of meer misraect;</l>
+<l>Ens maer een God, die al maect</l>
+<l>Ende alle dinc wassen doet ende leven,</l>
+<l n="100">Ende diet al nemen mach ende geven."</l>
+<l>So vele heeft dese heilige man</l>
+<l>Den .ii. keyseren gesproken an</l>
+<l><pb n="194"/>Dat si den vrayen God bekenden,</l>
+<l>Ende waer si mochten, dafgoden scenden,</l>
+<l n="105">Ende vingen dat doopsel ane</l>
+<l><milestone unit="fol" n="vb"/> Van den heiligen Fabiane.</l>
+<l>Van Poncius blivet nu die tale,</l>
+<l>Maer hier na suldiere of horen wale.</l>
+<l>Nu seit ons Huge van Flori</l>
+<l n="110">Dat elc van desen .ii. keyseren si</l>
+<l>Verslegen in sonderlinger stede,</l>
+<l>Dat Decius doen dede,</l>
+<l>Ende wart so keyser ende here,</l>
+<l>Ende crancte kerstijnheit sere.</l>
+</div>
+<div type="chapter"><head type="chapter">Van den keyser Deciuse. .xvii. </head>
+<l>Nu alse Decius keyser was,</l>
+<l>Screef ons Heren jaer, als ict las,</l>
+<l><pb n="195"/>Cc. l. ende drie.</l>
+<l>Van Hongerien geboren was hie.</l>
+<l n="5">Als hi die .ii. keysere goede</l>
+<l>Hadde doen verslaen, in fellen moede</l>
+<l>Wart hi op die kerstine scaren</l>
+<l>Ter keysere onwerde, die kerstijn waren.</l>
+<l>So ghinc men hare en tare slaen</l>
+<l n="10">Waer dat men kerstine conde bevaen.</l>
+<l>Paeus Fabiaen wart martelare.</l>
+<l>Cornelis wart paeus daernare.</l>
+<l>Fabiaen was van Rome geboren.</l>
+<l>Fabius wi nomen horen</l>
+<l n="15">Sinen vader. Van Fabiane</l>
+<l>Doe men ons dit te verstane</l>
+<l>Dat ene witte duve gevlogen</l>
+<l>Quam eens op sijn hoeft van hogen,</l>
+<l>Ende dat hi wart paeus om dat;</l>
+<l n="20">Xiii. jaer bi paeus sat.</l>
+<l>Decius dede hem thovet of slaen.</l>
+<l>Te Jherusalem hevet ontfaen</l>
+<l>Martelye bisscop Alexander,</l>
+<l>Ende in der werelt menich ander.</l>
+</div>
+<div type="chapter"><head type="chapter"><pb n="196"/> <hi rend="italic">Van sinte Denise bisscop van Alexandrien. .xviii. </hi></head>
+<l>Alse die kerstine in deser wijs</l>
+<l>Waren gepijnt, was .i. Denijs</l>
+<l>Bisscop van Alexandrien.</l>
+<l>Alse mit hare vulre partien</l>
+<l n="5">Die heidine pijnden om sijn ...</l>
+<l>Heeft bi geseit: "Wats u gesciet?</l>
+<l>Hoe pijndi om mijn hoeft dus sere?</l>
+<l>Slaet of ende draget uwen here,</l>
+<l>Ende maecter of ene grote ghichte."</l>
+<l n="10">Menich salichlijc gedichte</l>
+<l>Screef dese heilighe Denijs,</l>
+<l>Ende levede, maect men ons wijs,</l>
+<l>Tot in Galiens .xiiste jaer,</l>
+<l>Die oec Decius hiet, vorwaer</l>
+<l n="15">Dat hi besat dat roemsche rike.</l>
+<l>Dese Denijs bescreef heiligelike</l>
+<l>Die passie van vele martelaren,</l>
+<l>Die in sinen tiden waren</l>
+<l><pb n="197"/>Te Alexandrien, in die poort.</l>
+<l n="20">Van enen tyrant maecti ons woort,</l>
+<l>Die voor Decius quam</l>
+<l>I. jaer ende maecte die heidine gram</l>
+<l>Ende fel op dat kerstenhede</l>
+<l>tAlexandrien, in die stede;</l>
+<l n="25">Dymin, so hiet die tyrant.</l>
+<l>Dat heidine volc hem niet bewant</l>
+<l>Dan te tormenten die kerstine.</l>
+<l>Enen daden si grote pine,</l>
+<l>Metrinus was sijn name;</l>
+<l n="30">Dese wart martelare Gode bequame;</l>
+<l>Mit stocken si hem tlijf stucken sloegen;</l>
+<l>Dat en mocht hem niet genoegen,</l>
+<l>Sine hebben sijn ogen uut geboort</l>
+<l>Mit scerpen riede ende uter poort</l>
+<l n="35">Worpen sine ende steenden daer.</l>
+<l>Een edel wijf nam hi daernaer,</l>
+<l>Ende slepedense achter straten,</l>
+<l>So dat si dat lijf moeste laten.</l>
+<l>Si namen al der kerstine goet,</l>
+<l n="40"><pb n="198"/><milestone unit="fol" n="vc"/> Elc dat hem stont in den moet,</l>
+<l>Ende wat dat hem niene voeget,</l>
+<l>Hebben si te gader geloeget</l>
+<l>Ende verbrandent al te male,</l>
+<l>Dit verdroegen die kerstine wale,</l>
+<l n="45">Ende al om hem diet al gebiet.</l>
+<l>Ene maget, die Apollonia hiet,</l>
+<l>Daden si pine menigerande;</l>
+<l>Si togen haer uut hare tande;</l>
+<l>Doe maecten si enen groten brant</l>
+<l n="50">Tharen behoef, daer si te hant</l>
+<l>Bi goeden moede allene in ginc.</l>
+<l>Den menigen wonderden daer die dinc</l>
+<l>Dat die kerstine an pinen eer vaen</l>
+<l>Eer mense te pinen mach bestaen.</l>
+<l n="55">Serapyone ontfesten si mede</l>
+<l>Alle die juncturen siere lede,</l>
+<l><pb n="199"/>Ende worpen neder van hogen,</l>
+<l>Daer hi die doot bi moeste gedogen.</l>
+</div>
+<div type="chapter"><head type="chapter">Van Novate den buggere. .xix. </head>
+<l>Luttel kende die quaet</l>
+<l>Goods genade pape Novaet,</l>
+<l>Die levede in desen stonden.</l>
+<l>Hi seide wie dat dade hoeftsonden,</l>
+<l n="5">Na sijn doopsel, dat onse Here</l>
+<l>En vergave nemmermere</l>
+<l>Om geen berou no om ghene</l>
+<l>Penitencie groot no clene.</l>
+<l>Maer het wederseide dat</l>
+<l n="10">Cornelis, die doe paeus sat.</l>
+<l>Oec sprac tegen dese heresien</l>
+<l>Die bisscop van Alexandrien</l>
+<l>Tier tijt, die heilighe Denijs,</l>
+<l>Ende menich ander goet man wijs.</l>
+<l n="15">Ene concilie wart doe gestaect,</l>
+<l>Daer Novaet in was ontmaect</l>
+<l><pb n="200"/>Ende gesteken uter kerken</l>
+<l>Ende alle diene wilden sterken.</l>
+<l>Dese heresie wilde wederstaen</l>
+<l n="20">Die heilige bisscop Cypriaen</l>
+<l>Ende screven salichliker weder,</l>
+<l>Om die bi sonden vallen neder,</l>
+<l>Dat mense troesten sal op te stane</l>
+<l>Om penitencie aen te vane.</l>
+<l n="25">In dat gescrifte toget hi met</l>
+<l>Dat haere menich heeft besmet,</l>
+<l>Die twereltlike goet so mint</l>
+<l>Datten al mit banden bint,</l>
+<l>Daer si ghene doget ane en vaen;</l>
+<l n="30">Al is deser liede waen</l>
+<l>Dat si besitten tgoet dat heet hare,</l>
+<l>Neen, si besurent sware;</l>
+<l>Si sijn scalke van haren sinne,</l>
+<l>Ende niet heren van den gewinne.</l>
+</div>
+<div type="chapter"><head type="chapter"><pb n="201"/> <hi rend="italic">Van sinte Aechten. .xx. </hi></head>
+<l>Ene van zeden scone uutvercoren</l>
+<l>Was Aechte, ene maget wel geboren,</l>
+<l>Van Cathanense; nu quam van hare</l>
+<l>Voor Quintiane die niemare,</l>
+<l n="5">Diese te wive hebben woude,</l>
+<l>Dat si node loven soude,</l>
+<l>Die baeliu was van den lande;</l>
+<l>Maer als hise kerstijn bekande,</l>
+<l>Doe dedise mit enen wive,</l>
+<l n="10">Die was van onsuveren live</l>
+<l>Ende vele der werelt hadde geplogen,</l>
+<l>Of sise yet soude mogen bogen</l>
+<l>Tsinen wille, in enigher wise.</l>
+<l>Dit wijf hiet Affrodise,</l>
+<l n="15">Diese niet verkeren mochte.</l>
+<l>Doe deet mense in den kerker onsochte</l>
+<l>Een stic, ende doe vragede men hare</l>
+<l>Wat si woude; al openbare</l>
+<l>Seide si dat si ware kerstine.</l>
+<l n="20">Doe ghinc men haer doen pine;</l>
+<l>Men hincse in eculio,</l>
+<l><pb n="202"/><milestone unit="fol" n="vd"/> Een torment dat heet also,</l>
+<l>Daer si of seide dat haer bequame</l>
+<l>Als of sire goede niemare of vername,</l>
+<l n="25">Want si seide, die maget fine,</l>
+<l>Dat men dade menige pine</l>
+<l>Aen dien tarwe, dat grene goet,</l>
+<l>Eer men in den spiker doet.</l>
+<l>Doe dede men haer die borst of sniden;</l>
+<l n="30">Te Quintiane sprac si tien tiden:</l>
+<l>"Du souts te rechte gevroeden bet</l>
+<l>Dan te quetsen dat let</l>
+<l>Dattu zoges an die moeder dijn."</l>
+<l>Doe was gedaen dat magedijn</l>
+<l n="35">In den kerker van felre wise,</l>
+<l>Sonder dranc ende sonder spise.</l>
+<l>Nachts quam sinte Pouwels te hare,</l>
+<l>Als oft een aersater ware,</l>
+<l>Ende hi seide, hi woutse genesen.</l>
+<l n="40">Si seide dan soude niet wesen</l>
+<l><pb n="203"/>Dat si genase bi eertschere saken.</l>
+<l>Hi loech; doe wildi haer cont maken</l>
+<l>Dat hi van Gode gesent daer was.</l>
+<l>Hi voer wech, ende si genas,</l>
+<l n="45">Ende si heeft onsen Here gelovet.</l>
+<l>Van vare worden si al verdovet</l>
+<l>Van den lichte dat si daer sagen;</l>
+<l>Also dat si haer gewagen</l>
+<l>Dat si wech ghinge, worde sijs te rade.</l>
+<l n="50">Si seide dat sijs niene dade.</l>
+<l>Des vierden dages wart die heilige maget</l>
+<l>Voor den baeliu gebrocht, die vraget</l>
+<l>Wie datse hevet genesen,</l>
+<l>Of si tsinen wille sal wesen.</l>
+<l n="55">Si seide: "Daer en helpt niet omme gehaect."</l>
+<l>Doe dedise wentelen al naect</l>
+<l>Op gloeyenden colen ende scerven gemanc.</l>
+<l>Doe wart daer eertbeve dranc;</l>
+<l>Een deel des muers viel van der poort</l>
+<l n="60">Ende heeft .ii. grote heren vermoort.</l>
+<l>Doe riepen die liede alre meest,</l>
+<l><pb n="204"/>Dat daer gesciede dat tempeest</l>
+<l>Om tonrecht dat men an Aechten dade.</l>
+<l>Hier om wart men te rade</l>
+<l n="65">Dat mense ten kerker dede gaen;</l>
+<l>Ende als sire in quam, also saen</l>
+<l>Viel si neder in die gebede,</l>
+<l>Ende gaf Gode die ziele ter stede.</l>
+<l>Die kerstine namen den lichamen</l>
+<l n="70">Ende gaven hem sepulture tsamen.</l>
+<l>Doe quam daer .i. enghel rene,</l>
+<l>Ende gaf ene tafel van stene,</l>
+<l>Daer men dit in bescreven siet</l>
+<l>Na dien dat tlatijn bediet:</l>
+<l n="75">"Si hadde enen heiligen sin,</l>
+<l>Ghewillich ende haers dancs daerin,</l>
+<l>Altoes in die ere van Gode,</l>
+<l>Verlossige haers lands van node."</l>
+<l><pb n="205"/>Hier na die baeliu Quintiaen,</l>
+<l n="80">Die is in een scip gegaen,</l>
+<l>Van peerden geslegen overboort,</l>
+<l>Verdronken ende verdreven saen voort,</l>
+<l>Dat men niet geweten can</l>
+<l>Dat hi oyt vonden was, die man.</l>
+<l n="85">Alst getide quam van den jare,</l>
+<l>Dat seg ic u voor ware,</l>
+<l>So wart gesien daer comen voort</l>
+<l>Uut enen berghe bi der poort</l>
+<l>Groot vier dat liep ter poorten waert,</l>
+<l n="90">Alse dat water loopt ter vaert,</l>
+<l>Ende als men geware wart daer ave,</l>
+<l>Liepen die heidine ten grave,</l>
+<l>Ende namen tdecsel so daermede</l>
+<l>Jegen tfier ende daer ter stede,</l>
+<l n="95">Daer sijt gemoeten, ist gecisseert;</l>
+<l>Dattem menigen heeft bekeert.</l>
+</div>
+<div type="chapter"><head type="chapter">Van den seven Slapers. .xxi. </head>
+<l>Een wonder groot hoort hier lesen.</l>
+</div>
+</body>
+</text>
+</TEI.2>

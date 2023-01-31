@@ -1,0 +1,279 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.transcr 'INCLUDE'> <!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'>]><TEI.2><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Madelgijs</title>
+<author>Onbekend</author>
+</titleStmt>
+<editionStmt>
+<edition>R.W.TH. Duijvestein (ed.): Madelgijs. De Middelnederlandse fragmenten en de overeenkomstige Hoogduitse verzen. Brussel, 1989. (Verhandelingen van de Koninklijke Academie voor Wetenschappen, Letteren en Schone Kunsten van Belgi&#x00EB;. Klasse der Letteren 51, nr. 130), 96-101.</edition>
+</editionStmt>
+<publicationStmt>
+<p></p>
+</publicationStmt>
+<sourceDesc>
+<listBibl id="inlMetadata">
+<bibl><interpGrp type="titleLevel1">
+<interp value="Madelgijs"/>
+</interpGrp><interpGrp type="medium">
+<interp value="book"/>
+</interpGrp><interpGrp type="authorLevel1">
+<interp value="Onbekend"/>
+</interpGrp>
+<interpGrp type="ipr">
+<interp value="online"/>
+</interpGrp><interpGrp type="corpusProvenance">
+<interp value="cdrom-mnl"/>
+</interpGrp>
+<interpGrp type="pubYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1350"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1400"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1400"/></interpGrp>
+</bibl>
+</listBibl>
+<bibl id="original-metadata-cdrom-version"><![CDATA[
+<TITEL>Madelgijs</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K70">Neurenberg, Bibliothek des Germanischen Nationalmuseums, 42584 (fragm.)</BRON>
+<DATUM>1350-1400</DATUM>
+<OMVANG>183 verzen</OMVANG>
+<BRON.OPM>Twee in de breedte op elkaar aansluitende stukken van een blad, dat onderaan en aan de linkerkant zodanig besnoeid is, dat een kolom nog 45 &#x00E0; 46 regels telt en van kol. ra en vb ongeveer de helft ontbreekt. Per bladzijde 2 kolommen en per kolom oorspronkelijk waarschijnlijk 54 regels.</BRON.OPM>
+<VERWIJZING>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 201 (fragm.)</VERWIJZING>
+<EDITIE>R.W.TH. Duijvestein (ed.): Madelgijs. De Middelnederlandse fragmenten en de overeenkomstige Hoogduitse verzen. Brussel, 1989. (Verhandelingen van de Koninklijke Academie voor Wetenschappen, Letteren en Schone Kunsten van Belgi&#x00EB;. Klasse der Letteren 51, nr. 130), 96-101.</EDITIE>
+<STATUS>Diplomatisch</STATUS>
+<BRONMNW>869.1 (andere editie)</BRONMNW>
+<EDITIE.OPM>Vanaf regel 114 volgen in de editie tussen haakjes de lezingen van De Pauw en Verdam. Voorts geeft Duijvestijn, parallel aan de tekst van de fragmenten, ook de tekst van de Middelhoogduitse vertaling (Malagis in hs. Heidelberg, Universit&#x00E4;tsbibliothek, Pal. germ. 340).</EDITIE.OPM>
+<BRONNEN>Van de Madelgijs bestaan een oudere en een jongere, meer uitgebreide versie. De kortere versie is volledig overgeleverd in een bijna woordelijke vertaling in het Middelhoogduits. De langere versie is bekend uit een Nederlandse prozabewerking (Historie van Malegijs). Drie fragmenten vertegenwoordigen de lange versie:  - <x nr=K80>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 203 (fragm.)</x>
+ - <x nr=K81>Leiden, Bibliotheek der Rijksuniversiteit, B.P.L. 2552,34 (fragm.)</x>
+ - <x nr=K82>Antwerpen, Stadsbibliotheek, 500.694 (fragm.)</x>
+ De overige fragmenten vertegenwoordigen de korte versie. Van in totaal 10 hss. zijn er fragmenten overgeleverd: Hs. I: - <x nr=K80>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 203 (fragm.)</x>
+ - <x nr=K76>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 202 (fragm.)</x>
+ Hs. II: - <x nr=K70>Neurenberg, Bibliothek des Germanischen Nationalmuseums, 42584 (fragm.)</x>
+ - <x nr=K75>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 201 (fragm.)</x>
+ Hs. III: - <x nr=K82>Antwerpen, Stadsbibliotheek, 500.694 (fragm.)</x>
+ Hs. IV: - <x nr=K72>Rotterdam, Gemeentebibliotheek, 96 C 4 (fragm.)</x>
+ - <x nr=K77>D&#x00FC;sseldorf, Universit&#x00E4;tsbibliothek, Dauerleihgabe der Stadt D&#x00FC;sseldorf, K 2: F 45 (fragm.)</x>
+ Hs. V: - <x nr=K79>Gent, Bibliotheek der Rijksuniversiteit, 1618 (fragm.)</x>
+ Hs. VI: - <x nr=K71>Gent, Bibliotheek der Rijksuni versiteit, 1651 (fragm.)</x>
+ Hs. VII: - <x nr=K78>Londen, British Library, Add. 35251,k (fragm.)</x>
+ Hs. VIII: - <x nr=K74>Parijs, Biblioth&#x00E8;que Nationale, n&#x00E9;erl. 119 (fragm.)</x>
+ Hs. IX: - <x nr=K73>Berlijn, Staatsbibliothek Preussischer Kulturbesitz, Germ. fol. 923,47 (fragm.)</x>
+ Hs. X: - <x nr=K81>Leiden, Bibliotheek der Rijksuniversiteit, B.P.L. 2552,34 (fragm.)</x>
+</BRONNEN>
+<HSDRUK>Historie van Malegijs</HSDRUK>
+]]></bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body><l><pb n="96"/><milestone unit="fol" n="ra"/> [............]en hertoge scouwen</l>
+<l>[.........]ont here was</l>
+<l>[.........] turnen in dat gras</l>
+<l>[..........]as niet clene</l>
+<l n="5">[.........]ongijst aIlene</l>
+<l>[.........] die daer waren</l>
+<l>[.........g]hen hem gheuaren</l>
+<l>[..........em] opdieheyde</l>
+<l>[.........]rtoghinne ende seide</l>
+<l n="10">[........]wen minen man</l>
+<l>[.........n] ghelaten can</l>
+<l>[.........]dat menne minne</l>
+<l>[.........]e suster vriendinne</l>
+<l>[.........] te zere uwen man</l>
+<l n="15">[..........]iement winnen an</l>
+<l>[........]hier ghemene</l>
+<l>[..........]r allene</l>
+<l>[........]ghine mint v leuen</l>
+<l>[.........] dat spul bezeuen</l>
+<l n="20"><pb n="97"/> [........]ture dats wel anschijn</l>
+<l>[..........s]almen sien om [ts]ijn</l>
+<l>[........] en mach</l>
+<l>[........] nemmer ge[wa]ch</l>
+<l>[........t es] hi coene</l>
+<l n="25">[........]int mit hem te doene</l>
+<l>[..........]hen gheuen wi prijs</l>
+<l>[...........m]aket jolijs</l>
+<l>[.........] mogen ghelden</l>
+<l>[.........]ldic scelden</l>
+<l n="30">[........] so waer ic sot</l>
+<l>[.........]nt dat jonne v god</l>
+<l>[........] gans v wel</l>
+<l>[.........] ende spel</l>
+<l>[.......]y die si saghen</l>
+<l n="35">[........] al ghewaghen</l>
+<l>[........] staat tonberne</l>
+<l>[........v]an palerne</l>
+<l>[........]se sire dochter</l>
+<l>[.......] moede onsochter</l>
+<l n="40">[........]ghen can</l>
+<l>[........]rt menigen man</l>
+<l>[.......]e na minen wane</l>
+<l>[........] ende soudane</l>
+<l>[........] van persi</l>
+<l n="45">[........]en die coninc vri</l>
+<l>[.........m]ombrant</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><pb n="98"/>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="rb"/> Damirael sette hem ter were</l>
+<l>Mitten volke van meylane</l>
+<l>Eert quam te vechten ofte slane</l>
+<l n="50">Onboet van palerne die graue</l>
+<l>Dat men hem sijn dochter gaue</l>
+<l>Of hine soude binden landen</l>
+<l>Enen stake niet laten standen</l>
+<l>Als damirael des horde gewach</l>
+<l n="55">Zwoer hi dat hi noyt en zach</l>
+<l>Sgrauen dochter binnen sinen rike</l>
+<l>Maer hi hadde verstaen sekerlike</l>
+<l>Aen messalgieren in corter stont</l>
+<l>Datse die hertoghe van eggermont</l>
+<l n="60">Onthouden hadde in sijn hof</l>
+<l>Ende badt den graue dat hi daerof</l>
+<l>Ghelouen soude ende voer daer</l>
+<l>Hi soude die reden vinden waer</l>
+<l><hi rend="bold">A</hi>ls die graue van palerne verstont</l>
+<l n="65">Ghinc hi porren teggermont</l>
+<l>Mit alden here om die ionfrouwe</l>
+<l>Nu naect sire dochter rouwe</l>
+<l>[Den] hertoge bueve ende zware pine</l>
+<l>Want hi helt op die marine</l>
+<l n="70">Den tornoey ende dat spel</l>
+<l>Doe quamen die zarrasinen fel</l>
+<l>Ende hauenden an dat lant</l>
+<l>Menich ridder ende menich sirgant</l>
+<l>Was ghewapent in corter stont</l>
+<l n="75">Van damassch die wrede hont</l>
+<l>Dede ontwinden sine baniere</l>
+<l>Ay god nv moet di bueve bestieren</l>
+<l>Die niet en wiste van desen misualle</l>
+<l>Doe die sarrasine alle</l>
+<l n="80">Waren ghewapent op die hede</l>
+<l>Onderghinghen si hem die stede</l>
+<l>Den hertoghe bueve ende sine liede</l>
+<l>Hort wat wonder daer ghesciede</l>
+<l>Daer waren wel X zarrasine</l>
+<l n="85"><pb n="99"/> Ieghen enen kerstine</l>
+<l>Des mosten si doghen wee</l>
+<l>After hem so was die zee</l>
+<l>Ende voer hem haer viande</l>
+<l>Ende ouer elke zide in dien lande</l>
+<l n="90">Waren hare viande starc</l>
+<l>Si waren recht als in een parc</l>
+<l>V[an den zarrasine]n [......]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="va"/> Sijt seker dies dat god meest mach</l>
+<l>Ons helpen dan si ghederen</l>
+<l n="95">Wi vechten mitter wet ons heren</l>
+<l>Die ons cochte mit sinen bloede</l>
+<l>Die hertoghinne was we te moede</l>
+<l>Doe si sach die sarrasine</l>
+<l>Quam haer van den kinderen pine</l>
+<l n="100">Mits der vrese die si sach</l>
+<l>Hort wat die hertoge bueve plach</l>
+<l>Hi heeft zijn volc in twein gescaert</l>
+<l>Selue droech hi den standaert</l>
+<l>Hi voer op die turken fel</l>
+<l n="105">Hi leerde daer I droue spel</l>
+<l>So waer dat hi gheraken conste</l>
+<l>Die hertoghe bueve die begonste</l>
+<l>Slaen toe mitten sporen</l>
+<l>Enen coninc heefti verooren</l>
+<l n="110">Van may[orcke]n was hi here</l>
+<l>Hi stacken mit sinen spere</l>
+<l>Dat hij[s doghede groote ongemac]</l>
+<l>Want hi hem twe ribben brac</l>
+<l>Cume mocht [hi een] wort spreken</l>
+<l n="115"><pb n="100"/> Nochtan bat hi dat [men] wreke[n]</l>
+<l>Soude want hi hads noet</l>
+<l>Sijn sone quam die was groet</l>
+<l>Ende wilde sinen vader wreke[n]</l>
+<l>Bueve gheraecten [mitter steken]</l>
+<l n="120">Binnen in sijn herte</l>
+<l>Dat hi doot ter erden storte</l>
+<l>Doe reet hi voert in bataelgen</l>
+<l>Daer die menighe moste faelgen</l>
+<l>Van den liue op dat feIt</l>
+<l n="125">Die hertoghe hadde groot gewelt</l>
+<l>Mits der helpe van onsen here</l>
+<l>Ende sijn volc vacht so sere</l>
+<l>Dat si die sarrasine verdreuen</l>
+<l>Menich heydijn verloes daer tleuen</l>
+<l n="130">Die ic nie[t] ghe[nomen] can</l>
+<l>So langhe vacht die [edel man]</l>
+<l>Dat hi te voet [was] gedaen</l>
+<l>Sijn pert ghe[nomen] hi ghinc slaen</l>
+<l>Grote slaghe slach in slach</l>
+<l n="135">Als sijn volc [dit] versach</l>
+<l>Vloen si van [hem ende] hadden ducht</l>
+<l>[Als die hertoghinne sach die vlucht]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="vb"/> Het en mocht niet verbe[.......]</l>
+<l>Die ander vrucht ghegr[......]</l>
+<l n="140">Ende namse seit die glos[e]</l>
+<l>Als diese wilde hescud[......]</l>
+<l>Sgrauen dochter van p[......]</l>
+<l>So was dese edel fine</l>
+<l>Doe quamen die zarrasine</l>
+<l n="145">Toe gheslegen toten [....]</l>
+<l>Rose pensede om ton[d.......]</l>
+<l>Die ionghe vrucht son[.......]</l>
+<l>Die ysane tscone wijf</l>
+<l><pb n="101"/>Hadde gheteykent m[........]</l>
+<l n="150">So machtich waren di[.....]</l>
+<l>Dat sie ondreuen die i[o.....]</l>
+<l>Ysane si mit crachte [.....]</l>
+<l>Ende Rose ontghinc doe [........]</l>
+<l>Als die ghene die had[.....]</l>
+<l n="155">Van haren liue ic en [.......]</l>
+<l>Een heydijn [knecht] nam [........]</l>
+<l>[Ende salt in heydenesse draghen]</l>
+<l>Druane mochte sere [.....]</l>
+<l>Dat si dit zach mit [.......]</l>
+<l n="160">Si was gheuaen [.........]</l>
+<l>Men leedse te scepe [....]</l>
+<l>Binnen desen so was d[........]</l>
+<l>Van eggermont op gh[.....]</l>
+<l>D[ie] behouden hadden [......]</l>
+<l n="165">Waren tenen hope ghe[...]</l>
+<l>Alsi den stan[daert] saghe[.......]</l>
+<l>Keerden si hem omme d[.......]</l>
+<l>Om te slane die kers[...]</l>
+<l>Ende om te beraden ley[.]</l>
+<l n="170">Die hertoghe bueve die wa[......]</l>
+<l>Mitten sarrasine scaren</l>
+<l>Sine wapene so blo[........]</l>
+<l>Dat [men teyken gheen ....]</l>
+<l>Maer als hi [quam] daer gh[....]</l>
+<l n="175">Sinen volke dat [hem .....]</l>
+<l>Dat men sijn rope[..........]</l>
+<l>So riep hi in corter [....]</l>
+<l>Eggermont / eggermo[..]</l>
+<l>Slaet vaste [hier..........]</l>
+<l n="180">Doe waren si alle [..........]</l>
+<l>Die sarrasine hadden [....]</l>
+<l>Ende maecten alle ga[.........]</l>
+<l>[<hi rend="bold">D</hi>ie hertoghe bueve .............]</l>
+</body>
+</text>
+</TEI.2>
