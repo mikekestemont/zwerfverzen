@@ -1,0 +1,868 @@
+<?xml version='1.0' encoding='utf-8'?>
+<text id="florent_ende_durant">
+  <l n="1">
+    <tokens>helme scilde daden si breken</tokens>
+    <lemmas>helm schild doen zij breken</lemmas>
+    <pos>n(plu) n(plu) v(fin,past,aux_cop) pron(pers,3,plu) v(infin)</pos>
+  </l>
+  <l n="2">
+    <tokens>dor haren fieren ouermoet</tokens>
+    <lemmas>door haar fier overmoed</lemmas>
+    <pos>adp() pron(poss) n(plu) n(sing)</pos>
+  </l>
+  <l n="3">
+    <tokens>florent die redder goet</tokens>
+    <lemmas>florentius de ridder goed</lemmas>
+    <pos>n(prop) art(def) adj() adj()</pos>
+  </l>
+  <l n="4">
+    <tokens>slouch den paien vp thouet</tokens>
+    <lemmas>slaan de paai op het hoofd</lemmas>
+    <pos>v(fin,past,lex) art(def) n(plu) adp() art(def) n(sing)</pos>
+  </l>
+  <l n="5">
+    <tokens>dat hine toter cuffien clouet</tokens>
+    <lemmas>dat hij hij de tot cuffij kloven</lemmas>
+    <pos>conj(subord) pron(pers,3,sing) pron(pers,3,sing) adp() art(def) n(sing) v(fin,pres,lex)</pos>
+  </l>
+  <l n="6">
+    <tokens>helm ende beckineel</tokens>
+    <lemmas>helm en bekkennelijk</lemmas>
+    <pos>n(sing) conj(coord) n(prop)</pos>
+  </l>
+  <l n="7">
+    <tokens>durant adde cranc riueel</tokens>
+    <lemmas>durand hebben krank rive</lemmas>
+    <pos>n(prop) v(fin,past,aux_cop) adj() n(sing)</pos>
+  </l>
+  <l n="8">
+    <tokens>als hi den swaren slach besouf</tokens>
+    <lemmas>als hij de zwaar slag besof</lemmas>
+    <pos>conj(subord) pron(pers,3,sing) art(def) adj() n(sing) v(fin,past,lex)</pos>
+  </l>
+  <l n="9">
+    <tokens>starc te sine hem behouf</tokens>
+    <lemmas>sterk te zijn hij behoef</lemmas>
+    <pos>adj() adp() v(infin) pron(pers,3,sing) n(sing)</pos>
+  </l>
+  <l n="10">
+    <tokens>dat hi den ouerzwaren slach</tokens>
+    <lemmas>dat hij de overzaar slag</lemmas>
+    <pos>conj(subord) pron(pers,3,sing) art(def) adj() n(sing)</pos>
+  </l>
+  <l n="11">
+    <tokens>also wel verdragen mach</tokens>
+    <lemmas>alzo wel verdragen mogen</lemmas>
+    <pos>adv(dem) adv(gener) v(infin) v(fin,pres,aux_cop)</pos>
+  </l>
+  <l n="12">
+    <tokens>vp florent slouchi weder</tokens>
+    <lemmas>op florentius sloot weder</lemmas>
+    <pos>adp() n(prop) v(fin,pres,aux_cop) pron(pers,2,sing) adv(gener)</pos>
+  </l>
+  <l n="13">
+    <tokens>die zwerde gingen vp ende neder</tokens>
+    <lemmas>de zwaard gaan op en neder</lemmas>
+    <pos>art(def) v(fin,past,lex) v(fin,past,lex) v(fin,past,lex) conj(coord) adv(gener)</pos>
+  </l>
+  <l n="14">
+    <tokens>nu erstlic deen ende nv dander</tokens>
+    <lemmas>nu eerstelijk de een en nu de ander</lemmas>
+    <pos>adv(dem) adv(gener) art(def) num(card) conj(coord) adv(dem) num(ord) art(def)</pos>
+  </l>
+  <l n="15">
+    <tokens>om hectoren no om alexander</tokens>
+    <lemmas>om hechter no om alexander</lemmas>
+    <pos>adp() n(sing) conj(coord) adp() n(prop)</pos>
+  </l>
+  <l n="16">
+    <tokens>ne dorste daer niemene vragen</tokens>
+    <lemmas>ne dorren daar niemand vragen</lemmas>
+    <pos>adv(neg) v(fin,past,aux_cop) adv(dem) pron(indef) v(fin,past,lex)</pos>
+  </l>
+  <l n="17">
+    <tokens>vele wonden si andren gauen</tokens>
+    <lemmas>veel wond zij ander gave</lemmas>
+    <pos>num(indef) n(plu) pron(pers,3,plu) adj() v(fin,past,lex)</pos>
+  </l>
+  <l n="18">
+    <tokens>die ij edele baroene</tokens>
+    <lemmas>de twee edel baroen</lemmas>
+    <pos>art(def) num(card) adj() n(plu)</pos>
+  </l>
+  <l n="19">
+    <tokens>het was lange achter noene</tokens>
+    <lemmas>het zijn lang achter noen</lemmas>
+    <pos>pron(pers,3,sing) v(fin,past,aux_cop) adv(gener) adp() n(sing)</pos>
+  </l>
+  <l n="20">
+    <tokens>nochtan dat si te samen streden</tokens>
+    <lemmas>nochtan dat zij te samen strijden</lemmas>
+    <pos>adv(gener) conj(subord) pron(pers,3,plu) adp() adv(gener) v(fin,past,lex)</pos>
+  </l>
+  <l n="21">
+    <tokens>bede waersi in onvreden</tokens>
+    <lemmas>bede zij zijn in onvrede</lemmas>
+    <pos>n(sing) adv(inter) pron(pers,3,plu) adp() adj()</pos>
+  </l>
+  <l n="22">
+    <tokens>men sach daer liggen inden zande</tokens>
+    <lemmas>men zien daar liggen de in zand</lemmas>
+    <pos>pron(indef) v(fin,past,lex) adv(dem) v(infin) adp() art(def) n(sing)</pos>
+  </l>
+  <l n="23">
+    <tokens>canic genesen van minen wonden</tokens>
+    <lemmas>ik kunnen genezen van mijn wond</lemmas>
+    <pos>pron(pers,1,sing) v(fin,pres,aux_cop) v(participle,past) adp() pron(poss) n(plu)</pos>
+  </l>
+  <l n="24">
+    <tokens>het sal noch geuallen die stonden</tokens>
+    <lemmas>het zullen nog vallen die stond</lemmas>
+    <pos>pron(pers,3,sing) v(fin,pres,aux_cop) adv(gener) v(infin) pron(rel) n(sing)</pos>
+  </l>
+  <l n="25">
+    <tokens>dat het anders wesen sal</tokens>
+    <lemmas>dat het anders wezen zullen</lemmas>
+    <pos>conj(subord) pron(pers,3,sing) adv(gener) v(infin) v(fin,pres,aux_cop)</pos>
+  </l>
+  <l n="26">
+    <tokens>so moetic ebben goet geual</tokens>
+    <lemmas>zo ik moeten hebben goed geval</lemmas>
+    <pos>adv(resum) pron(pers,1,sing) v(fin,pres,aux_cop) v(infin) adj() n(sing)</pos>
+  </l>
+  <l n="27">
+    <tokens>andworde weder florent</tokens>
+    <lemmas>antwoorden weder florentius</lemmas>
+    <pos>v(fin,past,lex) adv(gener) n(prop)</pos>
+  </l>
+  <l n="28">
+    <tokens>ic wilde v wel ware bekent</tokens>
+    <lemmas>ik willen gij wel zijn bekend</lemmas>
+    <pos>pron(pers,1,sing) v(fin,past,aux_cop) pron(pers,2,plu) adv(gener) v(fin,past,aux_cop) v(participle,past)</pos>
+  </l>
+  <l n="29">
+    <tokens>onse wet van kerstinede</tokens>
+    <lemmas>ons wet van christenheid</lemmas>
+    <pos>pron(poss) n(sing) adp() n(sing)</pos>
+  </l>
+  <l n="30">
+    <tokens>durant sprac ende sede</tokens>
+    <lemmas>durand spreken en zeggen</lemmas>
+    <pos>n(prop) v(fin,past,lex) conj(coord) v(fin,past,lex)</pos>
+  </l>
+  <l n="31">
+    <tokens>het sal wesen als het mach</tokens>
+    <lemmas>het zullen wezen als het mogen</lemmas>
+    <pos>pron(pers,3,sing) v(fin,pres,aux_cop) v(infin) conj(subord) pron(pers,3,sing) v(fin,pres,aux_cop)</pos>
+  </l>
+  <l n="32">
+    <tokens>also helpe mi die goede dach</tokens>
+    <lemmas>alzo helpen ik de goed dag</lemmas>
+    <pos>adv(dem) v(fin,pres,lex) pron(pers,1,sing) art(def) adj() n(sing)</pos>
+  </l>
+  <l n="33">
+    <tokens>metten worde sijn si geuaren</tokens>
+    <lemmas>met de woord zijn zij varen</lemmas>
+    <pos>art(def) adp() n(plu) v(fin,pres,aux_cop) pron(pers,3,plu) v(participle,past)</pos>
+  </l>
+  <l n="34">
+    <tokens>daer die soudaen mit sinen scaren</tokens>
+    <lemmas>daar de zouden met zijn schaar</lemmas>
+    <pos>adv(rel) art(def) n(prop) adp() pron(poss) n(plu)</pos>
+  </l>
+  <l n="35">
+    <tokens>hilt entie vrouwe mede</tokens>
+    <lemmas>houden de en vrouw mede</lemmas>
+    <pos>v(fin,past,lex) art(def) conj(coord) n(sing) pronadv(prep)</pos>
+  </l>
+  <l n="36">
+    <tokens>die soudaen sprac ende sede</tokens>
+    <lemmas>die zoldaan spreken en zeggen</lemmas>
+    <pos>pron(rel) n(prop) v(fin,past,lex) conj(coord) v(fin,past,lex)</pos>
+  </l>
+  <l n="37">
+    <tokens>hoe salt varen tusscen v beden</tokens>
+    <lemmas>hoe zullen het varen tussen gij bede</lemmas>
+    <pos>adv(inter) v(fin,pres,aux_cop) pron(pers,3,sing) v(infin) adp() pron(pers,2,plu) num(card)</pos>
+  </l>
+  <l n="38">
+    <tokens>vp wat so sidi gesceden</tokens>
+    <lemmas>op wat zo gij zijn scheiden</lemmas>
+    <pos>adp() pron(inter) adv(dem) v(fin,pres,aux_cop) pron(pers,2,sing) v(participle,past)</pos>
+  </l>
+  <l n="39">
+    <tokens>doe sprac aldus die goede durant</tokens>
+    <lemmas>toen spreken aldus de goed durand</lemmas>
+    <pos>adv(dem) v(fin,past,lex) adv(dem) art(def) adj() n(prop)</pos>
+  </l>
+  <l n="40">
+    <tokens>icsalt v seggen here soudant</tokens>
+    <lemmas>issald gij zeggen heer zouthanden</lemmas>
+    <pos>v(fin,pres,lex) pron(poss) v(infin) n(sing) n(prop)</pos>
+  </l>
+  <l n="41">
+    <tokens>so goet redder nes onder der zonnen</tokens>
+    <lemmas>zo goed ridder ne zijn onder de zon</lemmas>
+    <pos>adv(dem) adj() n(sing) adv(neg) v(fin,pres,aux_cop) adp() art(def) n(sing)</pos>
+  </l>
+  <l n="42">
+    <tokens>ic lie mat vor hem ende verwonnen</tokens>
+    <lemmas>ik lijden mat voor hij en verwinnen</lemmas>
+    <pos>pron(pers,1,sing) v(infin) adj() adp() pron(pers,3,sing) conj(coord) v(participle,past)</pos>
+  </l>
+  <l n="43">
+    <tokens>die dage die ic lenen sal</tokens>
+    <lemmas>de dag die ik lenen zullen</lemmas>
+    <pos>art(def) n(plu) pron(rel) pron(pers,1,sing) v(infin) v(fin,pres,aux_cop)</pos>
+  </l>
+  <l n="44">
+    <tokens>die met v soude willen varen</tokens>
+    <lemmas>die met gij zullen willen varen</lemmas>
+    <pos>pron(rel) adp() pron(pers,2,plu) v(fin,past,aux_cop) v(infin) v(infin)</pos>
+  </l>
+  <l n="45">
+    <tokens>doe sprac sonder sparen</tokens>
+    <lemmas>toen spreken zonder sparen</lemmas>
+    <pos>adv(dem) v(fin,past,lex) adp() n(sing)</pos>
+  </l>
+  <l n="46">
+    <tokens>marsabile de maget scone</tokens>
+    <lemmas>marcella de maagd schoon</lemmas>
+    <pos>n(prop) art(def) n(sing) adj()</pos>
+  </l>
+  <l n="47">
+    <tokens>vader here van babilone</tokens>
+    <lemmas>vader heer van babylon</lemmas>
+    <pos>n(sing) n(sing) adp() n(prop)</pos>
+  </l>
+  <l n="48">
+    <tokens>het ware v scande altegroot</tokens>
+    <lemmas>het zijn uw schande altegordig</lemmas>
+    <pos>pron(pers,3,sing) v(fin,past,aux_cop) pron(poss) n(sing) adv(gener)</pos>
+  </l>
+  <l n="49">
+    <tokens>bleue dese redder doot</tokens>
+    <lemmas>blijven deze ridder dood</lemmas>
+    <pos>v(fin,past,aux_cop) pron(dem) adj() n(sing)</pos>
+  </l>
+  <l n="50">
+    <tokens>ghi sultene gheleden doen</tokens>
+    <lemmas>gij zullen hij lijden doen</lemmas>
+    <pos>pron(pers,2,plu) pron(pers,3,sing) v(fin,pres,aux_cop) v(participle,past) v(fin,pres,aux_cop)</pos>
+  </l>
+  <l n="51">
+    <tokens>met een deel uwer baroen</tokens>
+    <lemmas>met een deel uw baroen</lemmas>
+    <pos>adp() art(indef) n(sing) pron(poss) n(sing)</pos>
+  </l>
+  <l n="52">
+    <tokens>het es grotelike uwe ere</tokens>
+    <lemmas>het zijn grotelijk uw eer</lemmas>
+    <pos>pron(pers,3,sing) v(fin,pres,aux_cop) adv(gener) pron(poss) n(sing)</pos>
+  </l>
+  <l n="53">
+    <tokens>doe sprac die gewonde here</tokens>
+    <lemmas>toen spreken de gewonde heer</lemmas>
+    <pos>adv(dem) v(fin,past,lex) art(def) n(sing) n(sing)</pos>
+  </l>
+  <l n="54">
+    <tokens>die bi namen hiet durant</tokens>
+    <lemmas>die bij naam heten durand</lemmas>
+    <pos>pron(rel) adp() n(sing) v(fin,past,aux_cop) n(prop)</pos>
+  </l>
+  <l n="55">
+    <tokens>te sinen volke alte hant</tokens>
+    <lemmas>te zijn volk al te hand</lemmas>
+    <pos>adp() pron(poss) n(sing) num(indef) adv(gener) n(sing)</pos>
+  </l>
+  <l n="56">
+    <tokens>ende beual hem sonder sparen</tokens>
+    <lemmas>en bevelen hij zonder sparen</lemmas>
+    <pos>conj(coord) v(fin,past,lex) pron(pers,3,sing) adp() n(sing)</pos>
+  </l>
+  <l n="57">
+    <tokens>dat si met hem souden varen</tokens>
+    <lemmas>dat zij met hij zullen varen</lemmas>
+    <pos>conj(subord) pron(pers,3,plu) adp() pron(pers,3,plu) v(fin,past,aux_cop) v(infin)</pos>
+  </l>
+  <l n="58">
+    <tokens>ende niet sceden te genen pale</tokens>
+    <lemmas>en niet scheiden te geen paal</lemmas>
+    <pos>conj(coord) adv(neg) v(infin) adp() pron(indef) n(sing)</pos>
+  </l>
+  <l n="59">
+    <tokens>vor dat hijt hem seluen beuale</tokens>
+    <lemmas>voor dat hij het hij zelf bevelen</lemmas>
+    <pos>adp() conj(subord) pron(pers,3,sing) pron(pers,3,sing) pron(refl,3,sing) pron(dem) v(fin,pres,lex)</pos>
+  </l>
+  <l n="60">
+    <tokens>si spraken dat sijt gaerne doen</tokens>
+    <lemmas>zij spreken dat het zij gaarne doen</lemmas>
+    <pos>pron(pers,3,plu) v(fin,past,lex) conj(subord) pron(pers,3,sing) pron(pers,3,plu) adv(gener) v(infin)</pos>
+  </l>
+  <l n="61">
+    <tokens>doe nam orlof die baroen</tokens>
+    <lemmas>toen nemen oorlof de baroen</lemmas>
+    <pos>adv(dem) v(fin,past,lex) n(sing) art(def) n(sing)</pos>
+  </l>
+  <l n="62">
+    <tokens>an die scone marsabile</tokens>
+    <lemmas>aan de schoon marcelina</lemmas>
+    <pos>adp() art(def) adj() n(sing)</pos>
+  </l>
+  <l n="63">
+    <tokens>ende nam orlof vptie wile</tokens>
+    <lemmas>en nemen oorlof de op wijl</lemmas>
+    <pos>conj(coord) v(fin,past,lex) n(sing) adp() art(def) n(sing)</pos>
+  </l>
+  <l n="64">
+    <tokens>also ic horde bedieden</tokens>
+    <lemmas>alzo ik horen beduiden</lemmas>
+    <pos>adv(dem) pron(pers,1,sing) v(fin,past,lex) v(infin)</pos>
+  </l>
+  <l n="65">
+    <tokens>met hem durant an sine lieden</tokens>
+    <lemmas>met hij durand aan zijn lieden</lemmas>
+    <pos>adp() pron(pers,3,sing) n(prop) adp() pron(poss) n(plu)</pos>
+  </l>
+  <l n="66">
+    <tokens>ghi heren keert alle te samen</tokens>
+    <lemmas>gij heer keren al te samen</lemmas>
+    <pos>pron(pers,2,plu) n(plu) v(fin,pres,lex) num(indef) adp() v(infin)</pos>
+  </l>
+  <l n="67">
+    <tokens>ende hoort wat ic v verspelle</tokens>
+    <lemmas>en horen wat ik gij verspellen</lemmas>
+    <pos>conj(coord) v(fin,pres,lex) pron(rel) pron(pers,1,sing) pron(pers,2,plu) v(fin,pres,lex)</pos>
+  </l>
+  <l n="68">
+    <tokens>groet nu zere minen gheselle</tokens>
+    <lemmas>groot nu zeer mijn gezel</lemmas>
+    <pos>adj() adv(dem) adv(gener) pron(poss) n(sing)</pos>
+  </l>
+  <l n="69">
+    <tokens>ende danctem van minen wege</tokens>
+    <lemmas>en danken zij van mijn weg</lemmas>
+    <pos>conj(coord) v(fin,past,lex) pron(pers,3,sing) adp() pron(poss) n(sing)</pos>
+  </l>
+  <l n="70">
+    <tokens>so moetic ebben goede sege</tokens>
+    <lemmas>zo ik moeten hebben goed zeggen</lemmas>
+    <pos>adv(resum) pron(pers,1,sing) v(fin,pres,aux_cop) v(infin) adj() n(sing)</pos>
+  </l>
+  <l n="71">
+    <tokens>als ic hem gaerne dade lief</tokens>
+    <lemmas>als ik hij gaarne doen lief</lemmas>
+    <pos>conj(subord) pron(pers,1,sing) pron(pers,3,sing) adv(gener) v(fin,past,lex) adj()</pos>
+  </l>
+  <l n="72">
+    <tokens>god hoedene vor al meskief</tokens>
+    <lemmas>god hoeden voor al miskieven</lemmas>
+    <pos>n(sing) pron(pers,3,sing) v(fin,past,lex) adp() num(indef) n(sing)</pos>
+  </l>
+  <l n="73">
+    <tokens>aldus scieden die paien</tokens>
+    <lemmas>aldus scheiden de paai</lemmas>
+    <pos>adv(dem) v(fin,past,lex) art(def) n(plu)</pos>
+  </l>
+  <l n="74">
+    <tokens>van florens seit men mien</tokens>
+    <lemmas>van florentius zeggen men mijn</lemmas>
+    <pos>adp() n(prop) v(fin,pres,lex) pron(indef) pron(poss)</pos>
+  </l>
+  <l n="75">
+    <tokens>entie redder voer daer hi sach</tokens>
+    <lemmas>de en ridder varen daar hij zien</lemmas>
+    <pos>art(def) conj(coord) n(sing) v(fin,past,lex) adv(rel) pron(pers,3,sing) v(fin,past,lex)</pos>
+  </l>
+  <l n="76">
+    <tokens>onse lieden hordic gewach</tokens>
+    <lemmas>ons lieden horen ik gewag</lemmas>
+    <pos>pron(poss) n(plu) v(fin,past,lex) pron(pers,1,sing) n(sing)</pos>
+  </l>
+  <l n="77">
+    <tokens>die wellecomden arde zere</tokens>
+    <lemmas>de welkom harde zeer</lemmas>
+    <pos>pron(rel) adj() n(prop) adv(gener)</pos>
+  </l>
+  <l n="78">
+    <tokens>florente den niewen here</tokens>
+    <lemmas>florentius de nieuw heer</lemmas>
+    <pos>n(prop) art(def) adj() n(sing)</pos>
+  </l>
+  <l n="79">
+    <tokens>doe voeren si in die paien</tokens>
+    <lemmas>toen varen zij in de paai</lemmas>
+    <pos>adv(dem) v(fin,past,lex) pron(pers,3,plu) adp() art(def) n(plu)</pos>
+  </l>
+  <l n="80">
+    <tokens>grote mort mach men daer sien</tokens>
+    <lemmas>groot moord mogen men daar zien</lemmas>
+    <pos>adj() n(sing) v(fin,pres,aux_cop) pron(indef) pronadv(dem) v(infin)</pos>
+  </l>
+  <l n="81">
+    <tokens>werken weder ende vort</tokens>
+    <lemmas>werk weder en voorts</lemmas>
+    <pos>n(plu) adv(gener) conj(coord) adv(gener)</pos>
+  </l>
+  <l n="82">
+    <tokens>maer alsment int walsce hort</tokens>
+    <lemmas>maar als het men het in waals horen</lemmas>
+    <pos>conj(coord) conj(comp) pron(pers,3,sing) pron(indef) art(def) adp() n(sing) v(fin,pres,lex)</pos>
+  </l>
+  <l n="83">
+    <tokens>so camer vc sarrasine</tokens>
+    <lemmas>zo komen zij ook saraceen</lemmas>
+    <pos>adv(resum) v(fin,past,lex) pron(pers,3,plu) num(card) n(plu)</pos>
+  </l>
+  <l n="84">
+    <tokens>daer ontfinc de menige pine</tokens>
+    <lemmas>daar ontvangen de menig pijn</lemmas>
+    <pos>adv(dem) v(fin,past,lex) art(def) n(sing) n(sing)</pos>
+  </l>
+  <l n="85">
+    <tokens>dat verstaet in beden siden</tokens>
+    <lemmas>dat verstaan in beide zijde</lemmas>
+    <pos>pron(dem) v(imp) adp() num(card) n(plu)</pos>
+  </l>
+  <l n="86">
+    <tokens>maer die paien sonder biden</tokens>
+    <lemmas>maar de paai zonder bij de</lemmas>
+    <pos>conj(coord) art(def) n(plu) conj(coord) adp() art(def)</pos>
+  </l>
+  <l n="87">
+    <tokens>camen toe an allen canten</tokens>
+    <lemmas>komen toe aan al kant</lemmas>
+    <pos>v(fin,past,lex) v(prtcl) adp() num(indef) n(plu)</pos>
+  </l>
+  <l n="88">
+    <tokens>stac den redder vptie borst</tokens>
+    <lemmas>steken de ridder de op borst</lemmas>
+    <pos>v(fin,past,lex) art(def) n(sing) adp() art(def) n(sing)</pos>
+  </l>
+  <l n="89">
+    <tokens>adde doe die vrome man</tokens>
+    <lemmas>hebben toen de vroom man</lemmas>
+    <pos>v(fin,past,lex) adv(rel) art(def) n(sing) n(sing)</pos>
+  </l>
+  <l n="90">
+    <tokens>ghehat gene wapine an</tokens>
+    <lemmas>hebben geen wapen aan</lemmas>
+    <pos>v(participle,past) pron(indef) n(plu) adp()</pos>
+  </l>
+  <l n="91">
+    <tokens>so ware hi daer bleven doot</tokens>
+    <lemmas>zo zijn hij daar blijven dood</lemmas>
+    <pos>adv(resum) v(fin,past,aux_cop) pron(pers,3,sing) adv(dem) v(participle,past) adj()</pos>
+  </l>
+  <l n="92">
+    <tokens>die steke was ouer groot</tokens>
+    <lemmas>de steek zijn over groot</lemmas>
+    <pos>art(def) n(sing) v(fin,past,aux_cop) adp() adj()</pos>
+  </l>
+  <l n="93">
+    <tokens>dat die vrome redder werde</tokens>
+    <lemmas>dat de vroom ridder worden</lemmas>
+    <pos>conj(subord) art(def) n(sing) adj() v(fin,pres,aux_cop)</pos>
+  </l>
+  <l n="94">
+    <tokens>tumen moeste vptie erde</tokens>
+    <lemmas>tuim moeten op de aarde</lemmas>
+    <pos>v(infin) v(fin,past,aux_cop) adp() art(def) n(sing)</pos>
+  </l>
+  <l n="95">
+    <tokens>maer saen hi weder vp spranc</tokens>
+    <lemmas>maar zaan hij weer op springen</lemmas>
+    <pos>conj(coord) adv(gener) pron(pers,3,sing) adv(gener) pronadv(pers) v(fin,past,lex)</pos>
+  </l>
+  <l n="96">
+    <tokens>tswert trac hi sonder wanc</tokens>
+    <lemmas>het zwaard trekken hij zonder wank</lemmas>
+    <pos>art(def) n(sing) v(fin,past,lex) pron(pers,3,sing) adp() n(sing)</pos>
+  </l>
+  <l n="97">
+    <tokens>ende slouch den enen vanden viuen</tokens>
+    <lemmas>en slaan de een van de vijf</lemmas>
+    <pos>conj(coord) v(fin,past,lex) art(def) num(card) adp() art(def) num(card)</pos>
+  </l>
+  <l n="98">
+    <tokens>so dat hine dede ontliuen</tokens>
+    <lemmas>zo dat hij hij doen ontlijven</lemmas>
+    <pos>adv(dem) conj(subord) pron(pers,3,sing) pron(pers,3,sing) v(fin,past,aux_cop) v(infin)</pos>
+  </l>
+  <l n="99">
+    <tokens>doe keerden weder die viere</tokens>
+    <lemmas>toen keren weder de vuur</lemmas>
+    <pos>adv(dem) v(fin,past,lex) v(fin,past,lex) art(def) num(card)</pos>
+  </l>
+  <l n="100">
+    <tokens>ende florent die redder fiere</tokens>
+    <lemmas>en florentius de ridder fier</lemmas>
+    <pos>conj(coord) n(prop) art(def) adj() n(sing)</pos>
+  </l>
+  <l n="101">
+    <tokens>die steldem ter were</tokens>
+    <lemmas>de stedelmee te de weer</lemmas>
+    <pos>art(def) pron(pers,3,sing) v(fin,past,lex) adp() art(def) n(sing)</pos>
+  </l>
+  <l n="102">
+    <tokens>maer si daden hem grote dere</tokens>
+    <lemmas>maar zij doen hij groot de heer</lemmas>
+    <pos>conj(coord) pron(pers,3,plu) v(fin,past,lex) pron(pers,3,sing) adj() n(sing)</pos>
+  </l>
+  <l n="103">
+    <tokens>also si waren te paerde</tokens>
+    <lemmas>alzo zij zijn te paard</lemmas>
+    <pos>adv(dem) pron(pers,3,plu) v(fin,past,aux_cop) adp() n(plu)</pos>
+  </l>
+  <l n="104">
+    <tokens>entie redder van reinen aerde</tokens>
+    <lemmas>de en ridder van reinen aarde</lemmas>
+    <pos>art(def) conj(coord) n(plu) adp() adj() n(sing)</pos>
+  </l>
+  <l n="105">
+    <tokens>die hief tswert met nide</tokens>
+    <lemmas>die hebben het zwaard met nijd</lemmas>
+    <pos>pron(rel) v(fin,pres,lex) art(def) n(sing) adp() n(sing)</pos>
+  </l>
+  <l n="106">
+    <tokens>ende stac corboene inde side</tokens>
+    <lemmas>en steken korboen in de zijde</lemmas>
+    <pos>conj(coord) v(fin,past,lex) n(prop) adp() art(def) n(sing)</pos>
+  </l>
+  <l n="107">
+    <tokens>wel diepe enen aluen voet</tokens>
+    <lemmas>wel diep een half voet</lemmas>
+    <pos>adv(gener) adj() art(indef) num(card) n(sing)</pos>
+  </l>
+  <l n="108">
+    <tokens>die paien sturte des sijt vroet</tokens>
+    <lemmas>de paai storten dat zijn vroed</lemmas>
+    <pos>art(def) n(plu) v(fin,past,lex) pron(dem) v(imp) adj()</pos>
+  </l>
+  <l n="109">
+    <tokens>vanden paerde in dat sant</tokens>
+    <lemmas>van de paard in dat zand</lemmas>
+    <pos>adp() art(def) n(plu) adp() art(def) n(sing)</pos>
+  </l>
+  <l n="110">
+    <tokens>maer twalsce seit als ment hort</tokens>
+    <lemmas>maar het walchet zeggen als het men horen</lemmas>
+    <pos>conj(coord) art(def) adj() v(fin,pres,lex) conj(subord) pron(pers,3,sing) pron(indef) v(fin,pres,lex)</pos>
+  </l>
+  <l n="111">
+    <tokens>dat florent voer rechte vort</tokens>
+    <lemmas>dat florentius voor recht voorts</lemmas>
+    <pos>art(def) n(sing) adp() n(sing) adv(gener)</pos>
+  </l>
+  <l n="112">
+    <tokens>tote hi vor tpalais cam</tokens>
+    <lemmas>tot hij voor paleis komen</lemmas>
+    <pos>adp() pron(pers,3,sing) adp() n(prop) v(fin,past,lex)</pos>
+  </l>
+  <l n="113">
+    <tokens>den coninc hi vanden paerde nam</tokens>
+    <lemmas>de koning hij de van paard nemen</lemmas>
+    <pos>art(def) n(sing) pron(pers,3,sing) adp() art(def) n(sing) v(fin,past,lex)</pos>
+  </l>
+  <l n="114">
+    <tokens>vp sinen hals seid die tale</tokens>
+    <lemmas>op zijn hals zeggen de taal</lemmas>
+    <pos>adp() pron(poss) n(sing) v(fin,past,lex) art(def) n(sing)</pos>
+  </l>
+  <l n="115">
+    <tokens>ende drouchen bouen inde sale</tokens>
+    <lemmas>en droog boven de in zaal</lemmas>
+    <pos>conj(coord) v(fin,past,lex) adp() art(def) n(sing)</pos>
+  </l>
+  <l n="116">
+    <tokens>daer keiser ende coninc sat</tokens>
+    <lemmas>daar keizer en koning zitten</lemmas>
+    <pos>adv(dem) n(sing) conj(coord) n(sing) v(fin,past,lex)</pos>
+  </l>
+  <l n="117">
+    <tokens>florent wierpen neder plat</tokens>
+    <lemmas>florentius werpen neder plat</lemmas>
+    <pos>n(prop) v(infin) adv(gener) n(sing)</pos>
+  </l>
+  <l n="118">
+    <tokens>den paien vp tpauiment</tokens>
+    <lemmas>de paai op dat vaam</lemmas>
+    <pos>art(def) n(plu) adp() art(def) n(sing)</pos>
+  </l>
+  <l n="119">
+    <tokens>sodat tbloet al omtrent</tokens>
+    <lemmas>zodat bloed het al omtrent</lemmas>
+    <pos>conj(subord) n(sing) art(def) adv(gener) adp()</pos>
+  </l>
+  <l n="120">
+    <tokens>spaersde in dat palas</tokens>
+    <lemmas>sparsen in dat paleis</lemmas>
+    <pos>v(fin,past,lex) adp() art(def) n(sing)</pos>
+  </l>
+  <l n="121">
+    <tokens>elken so wonderde das</tokens>
+    <lemmas>elk zo wonderen dat</lemmas>
+    <pos>num(indef) adv(resum) v(fin,past,lex) art(def)</pos>
+  </l>
+  <l n="122">
+    <tokens>wane daer die paien cam</tokens>
+    <lemmas>wanen daar de paai komen</lemmas>
+    <pos>v(fin,pres,lex) adv(dem) art(def) n(plu) v(fin,past,lex)</pos>
+  </l>
+  <l n="123">
+    <tokens>maer teerst men daer vernam</tokens>
+    <lemmas>maar eerst het men daar vernemen</lemmas>
+    <pos>conj(coord) num(ord) art(def) pron(indef) adv(dem) v(fin,past,lex)</pos>
+  </l>
+  <l n="124">
+    <tokens>florente den redder zere</tokens>
+    <lemmas>florentie de ridder zeer</lemmas>
+    <pos>n(prop) art(def) adj() adv(gener)</pos>
+  </l>
+  <l n="125">
+    <tokens>was daer grote wareltere</tokens>
+    <lemmas>zijn daar groot wereldeer</lemmas>
+    <pos>v(fin,past,aux_cop) adv(dem) adj() n(sing)</pos>
+  </l>
+  <l n="126">
+    <tokens>ende groten wellecomen</tokens>
+    <lemmas>en groot welkom</lemmas>
+    <pos>conj(coord) adj() adj()</pos>
+  </l>
+  <l n="127">
+    <tokens>die keiser ebic vernomen</tokens>
+    <lemmas>de keizer hebben ik vernemen</lemmas>
+    <pos>art(def) n(sing) v(fin,pres,aux_cop) pron(pers,1,sing) v(participle,past)</pos>
+  </l>
+  <l n="128">
+    <tokens>die stont vp ende seide</tokens>
+    <lemmas>die staan op en zeggen</lemmas>
+    <pos>pron(rel) v(fin,past,lex) v(fin,past,lex) conj(coord) v(fin,past,lex)</pos>
+  </l>
+  <l n="129">
+    <tokens>florent lijf ende leide</tokens>
+    <lemmas>florentius lijf en leggen</lemmas>
+    <pos>n(prop) n(sing) conj(coord) v(fin,past,lex)</pos>
+  </l>
+  <l n="130">
+    <tokens>auentuerdi te sottelijc</tokens>
+    <lemmas>avonturen te zottelijk</lemmas>
+    <pos>pron(pers,3,sing) v(fin,past,lex) adp() adj()</pos>
+  </l>
+  <l n="131">
+    <tokens>dat was gedaen ouer quaet</tokens>
+    <lemmas>dat zijn doen over kwaad</lemmas>
+    <pos>pron(dem) v(fin,past,aux_cop) v(participle,past) adp() adj()</pos>
+  </l>
+  <l n="132">
+    <tokens>want sichtent arde wel verstaet</tokens>
+    <lemmas>want het zien harde wel verstaan</lemmas>
+    <pos>conj(coord) v(fin,past,lex) pron(pers,3,sing) adv(gener) adv(gener) v(fin,pres,lex)</pos>
+  </l>
+  <l n="133">
+    <tokens>so wast arde na becocht</tokens>
+    <lemmas>zo zijn het aard na bekopen</lemmas>
+    <pos>adv(resum) pron(pers,3,sing) v(fin,past,aux_cop) adv(gener) adp() v(participle,past)</pos>
+  </l>
+  <l n="134">
+    <tokens>also v van mi wort vort brocht</tokens>
+    <lemmas>alzo gij van ik worden voorts brengen</lemmas>
+    <pos>adv(dem) pron(pers,2,plu) adp() pron(pers,1,sing) v(fin,pres,aux_cop) adv(gener) v(participle,past)</pos>
+  </l>
+  <l n="135">
+    <tokens>eer de bouc ten ende coomt</tokens>
+    <lemmas>eer de boek de te eind komen</lemmas>
+    <pos>conj(subord) art(def) n(sing) adp() art(def) n(sing) v(fin,pres,lex)</pos>
+  </l>
+  <l n="136">
+    <tokens>die soudaen altemale verdoomt</tokens>
+    <lemmas>die zouden altemaal verdoemen</lemmas>
+    <pos>pron(rel) n(sing) adv(gener) v(fin,pres,lex)</pos>
+  </l>
+  <l n="137">
+    <tokens>waert alsi de waerheit wiste</tokens>
+    <lemmas>zijn het als zij de waarheid weten</lemmas>
+    <pos>v(fin,past,lex) pron(pers,3,sing) conj(subord) pron(pers,3,sing) art(def) n(sing) v(fin,past,lex)</pos>
+  </l>
+  <l n="138">
+    <tokens>vanden ouer swaren twiste</tokens>
+    <lemmas>van de over zwaar twist</lemmas>
+    <pos>adp() art(def) adp() adj() n(sing)</pos>
+  </l>
+  <l n="139">
+    <tokens>onthoot wordt die fel corboen</tokens>
+    <lemmas>onthoofden worden de fel korboen</lemmas>
+    <pos>v(participle,past) v(fin,pres,aux_cop) art(def) adj() n(sing)</pos>
+  </l>
+  <l n="140">
+    <tokens>entie andre ij glottoen</tokens>
+    <lemmas>de en ander twee gloten</lemmas>
+    <pos>art(def) conj(coord) adj() num(card) n(plu)</pos>
+  </l>
+  <l n="141">
+    <tokens>ende hare hoofden geset</tokens>
+    <lemmas>en haar hoofd zetten</lemmas>
+    <pos>conj(coord) pron(poss) n(plu) v(participle,past)</pos>
+  </l>
+  <l n="142">
+    <tokens>vp glauien haren mamet</tokens>
+    <lemmas>op glavie haar maamd</lemmas>
+    <pos>adp() n(prop) pron(poss) n(sing)</pos>
+  </l>
+  <l n="143">
+    <tokens>vlouken si vter maten zere</tokens>
+    <lemmas>vloeken zij de uit maat zeer</lemmas>
+    <pos>v(fin,pres,lex) pron(pers,3,plu) art(def) adp() n(sing) adv(gener)</pos>
+  </l>
+  <l n="144">
+    <tokens>an roere so wort al dat here</tokens>
+    <lemmas>aan roer zo worden al dat heer</lemmas>
+    <pos>adp() n(sing) adv(resum) v(fin,pres,aux_cop) num(indef) art(def) n(sing)</pos>
+  </l>
+  <l n="145">
+    <tokens>bede bachten ende voren</tokens>
+    <lemmas>bede bachten en voren</lemmas>
+    <pos>n(sing) adv(gener) conj(coord) adv(gener)</pos>
+  </l>
+  <l n="146">
+    <tokens>paien adden groten toren</tokens>
+    <lemmas>paai hebben groot toorn</lemmas>
+    <pos>n(plu) v(fin,past,lex) adj() n(sing)</pos>
+  </l>
+  <l n="147">
+    <tokens>maer men mochter niet toe doen</tokens>
+    <lemmas>maar men daarop mogen niet toe doen</lemmas>
+    <pos>conj(coord) pron(indef) pronadv(pers) v(fin,past,aux_cop) adv(neg) pronadv(pers) v(infin)</pos>
+  </l>
+  <l n="148">
+    <tokens>hier latic vanden sarragoen</tokens>
+    <lemmas>hier ik laten de van sarao</lemmas>
+    <pos>adv(dem) pron(pers,1,sing) v(fin,pres,lex) art(def) adp() n(sing)</pos>
+  </l>
+  <l n="149">
+    <tokens>ende kom weder in die stede</tokens>
+    <lemmas>en komen weder in de stad</lemmas>
+    <pos>conj(coord) v(fin,past,lex) adv(gener) adp() art(def) n(sing)</pos>
+  </l>
+  <l n="150">
+    <tokens>bi florente daer ic ouer rede</tokens>
+    <lemmas>bij florence daar ik over rede</lemmas>
+    <pos>adp() n(sing) pronadv(rel) pron(pers,1,sing) adp() v(fin,pres,lex)</pos>
+  </l>
+  <l n="151">
+    <tokens>die welke vter salen sciet</tokens>
+    <lemmas>de welk uit de zaal scheiden</lemmas>
+    <pos>art(def) pron(rel) adp() art(def) n(sing) v(fin,pres,lex)</pos>
+  </l>
+  <l n="152">
+    <tokens>also mi twalsce dat bediet</tokens>
+    <lemmas>alzo ik het wals dat beduiden</lemmas>
+    <pos>adv(dem) pron(pers,1,sing) art(def) n(sing) pron(dem) v(fin,pres,lex)</pos>
+  </l>
+  <l n="153">
+    <tokens>nu so es mi wel bekent</tokens>
+    <lemmas>nu zo zijn ik wel bekend</lemmas>
+    <pos>adv(dem) adv(resum) v(fin,pres,aux_cop) pron(pers,1,sing) adv(gener) v(participle,past)</pos>
+  </l>
+  <l n="154">
+    <tokens>dat minne dicke kiesen doet</tokens>
+    <lemmas>dat minne dikke kiezen doen</lemmas>
+    <pos>conj(subord) n(sing) adv(gener) v(infin) v(fin,pres,aux_cop)</pos>
+  </l>
+  <l n="155">
+    <tokens>dat hem noit ne was goet</tokens>
+    <lemmas>dat hij nooit ne zijn goed</lemmas>
+    <pos>conj(subord) pron(pers,3,sing) adv(neg) adv(neg) v(fin,past,aux_cop) adj()</pos>
+  </l>
+  <l n="156">
+    <tokens>den man die dat anegaet</tokens>
+    <lemmas>de man die dat aangaan</lemmas>
+    <pos>art(def) n(sing) pron(rel) pron(dem) v(fin,pres,lex)</pos>
+  </l>
+  <l n="157">
+    <tokens>die sulke dulhede bestaet</tokens>
+    <lemmas>die zulk dulheid bestaan</lemmas>
+    <pos>pron(rel) pron(dem) n(sing) v(fin,pres,lex)</pos>
+  </l>
+  <l n="158">
+    <tokens>dat hi daer omme tlijf verliest</tokens>
+    <lemmas>dat hij daar om het lijf verliezen</lemmas>
+    <pos>conj(subord) pron(pers,3,sing) pronadv(dem) pronadv(prep) art(def) n(sing) v(fin,pres,lex)</pos>
+  </l>
+  <l n="159">
+    <tokens>hi es sod die also kiest</tokens>
+    <lemmas>hij zijn zot die alzo kiezen</lemmas>
+    <pos>pron(pers,3,sing) v(fin,pres,aux_cop) adj() pron(rel) adv(dem) v(fin,pres,lex)</pos>
+  </l>
+  <l n="160">
+    <tokens>doe seide florent vader mijn</tokens>
+    <lemmas>toen zeggen florentius vader mijn</lemmas>
+    <pos>adv(dem) v(fin,past,lex) n(prop) n(sing) pron(poss)</pos>
+  </l>
+  <l n="161">
+    <tokens>verstaet arde wel den sijn</tokens>
+    <lemmas>verstaan harde wel de zijn</lemmas>
+    <pos>v(imp) adv(gener) adv(gener) art(def) pron(poss)</pos>
+  </l>
+  <l n="162">
+    <tokens>daer ne es el niet an</tokens>
+    <lemmas>daar ne zijn el niet aan</lemmas>
+    <pos>pronadv(dem) adv(neg) v(fin,pres,lex) adv(gener) adv(neg) adp()</pos>
+  </l>
+  <l n="163">
+    <tokens>ic ne bem niet sulc i man</tokens>
+    <lemmas>ik ne zijn niet zulk een man</lemmas>
+    <pos>pron(pers,1,sing) adv(neg) v(fin,pres,aux_cop) adv(neg) pron(dem) num(card) n(sing)</pos>
+  </l>
+  <l n="164">
+    <tokens>datter vele an beleicht</tokens>
+    <lemmas>dat er veel aan beleggen</lemmas>
+    <pos>pron(rel) pronadv(pers) num(indef) pronadv(pers) v(fin,pres,lex)</pos>
+  </l>
+  <l n="165">
+    <tokens>wat souder vele toegeseicht</tokens>
+    <lemmas>wat zullen er veel toezeggen</lemmas>
+    <pos>pron(inter) pronadv(pers) v(fin,past,aux_cop) num(indef) v(participle,past)</pos>
+  </l>
+  <l n="166">
+    <tokens>ic salt emmer auenturen</tokens>
+    <lemmas>ik zullen het immer avontuur</lemmas>
+    <pos>pron(pers,1,sing) v(fin,pres,aux_cop) pron(pers,3,sing) adv(gener) v(infin)</pos>
+  </l>
+  <l n="167">
+    <tokens>god latemi dat beste geburen</tokens>
+    <lemmas>god laten men dat best gebuur</lemmas>
+    <pos>n(sing) n(prop) art(def) adj() n(plu)</pos>
+  </l>
+  <l n="168">
+    <tokens>ic moet ebben cornuele</tokens>
+    <lemmas>ik moeten hebben cornule</lemmas>
+    <pos>pron(pers,1,sing) v(fin,pres,aux_cop) v(infin) n(plu)</pos>
+  </l>
+  <l n="169">
+    <tokens>dat beste paert te minen dele</tokens>
+    <lemmas>dat best paard te mijn deel</lemmas>
+    <pos>art(def) adj() n(sing) adp() pron(poss) n(sing)</pos>
+  </l>
+  <l n="170">
+    <tokens>dat noit eer was gesien</tokens>
+    <lemmas>dat nooit eer zijn zien</lemmas>
+    <pos>pron(rel) adv(neg) adv(gener) v(fin,past,aux_cop) v(participle,past)</pos>
+  </l>
+  <l n="171">
+    <tokens>clement andworde mettien</tokens>
+    <lemmas>clemens antwoorden meteen</lemmas>
+    <pos>n(prop) v(fin,past,lex) adv(gener)</pos>
+  </l>
+  <l n="172">
+    <tokens>ende sprac als een man vri</tokens>
+    <lemmas>en spreken als een man vrij</lemmas>
+    <pos>conj(coord) v(fin,past,lex) conj(subord) art(indef) n(sing) adj()</pos>
+  </l>
+  <l n="173">
+    <tokens>florent sone verstaet mi</tokens>
+    <lemmas>florentius zoon verstaan ik</lemmas>
+    <pos>n(prop) adv(neg) adv(resum) v(imp) pron(pers,1,sing)</pos>
+  </l>
+</text>
