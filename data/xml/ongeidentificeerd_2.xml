@@ -1,18 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
 <text id="ongeidentificeerd_2">
-  <l n="1">
-    <tokens>daer si in corten tide quamen</tokens>
-    <lemmas>daar zij in kort tijd komen</lemmas>
-    <pos>pronadv(rel) pron(pers,3,plu) adp() adj() n(sing) v(fin,past,lex)</pos>
+  <l n="1" tokens="Daer si in corten tide quamen">
+    <w>
+      <form>daer</form>
+      <lemma>daar</lemma>
+      <pos>pronadv(rel)</pos>
+    </w>
+    <w>
+      <form>si</form>
+      <lemma>zij</lemma>
+      <pos>pron(pers,3,plu)</pos>
+    </w>
+    <w>
+      <form>in</form>
+      <lemma>in</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>corten</form>
+      <lemma>kort</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>tide</form>
+      <lemma>tijd</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>quamen</form>
+      <lemma>komen</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
   </l>
-  <l n="2">
-    <tokens>hare zegels daerane hanghen</tokens>
-    <lemmas>hun zegel daaraan hangen</lemmas>
-    <pos>pron(poss) n(sing) pronadv(dem) v(infin)</pos>
+  <l n="2" tokens="Hare zegels daerane hanghen">
+    <w>
+      <form>hare</form>
+      <lemma>hun</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+    <w>
+      <form>zegels</form>
+      <lemma>zegel</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>daerane</form>
+      <lemma>daaraan</lemma>
+      <pos>pronadv(dem)</pos>
+    </w>
+    <w>
+      <form>hanghen</form>
+      <lemma>hangen</lemma>
+      <pos>v(infin)</pos>
+    </w>
   </l>
-  <l n="3">
-    <tokens>die herde zeere waren coene</tokens>
-    <lemmas>de aarde zeer zijn koen</lemmas>
-    <pos>art(def) n(sing) adv(gener) v(fin,past,aux_cop) adj()</pos>
+  <l n="3" tokens="Die herde zeere waren coene">
+    <w>
+      <form>die</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>herde</form>
+      <lemma>aarde</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>zeere</form>
+      <lemma>zeer</lemma>
+      <pos>adv(gener)</pos>
+    </w>
+    <w>
+      <form>waren</form>
+      <lemma>zijn</lemma>
+      <pos>v(fin,past,aux_cop)</pos>
+    </w>
+    <w>
+      <form>coene</form>
+      <lemma>koen</lemma>
+      <pos>adj()</pos>
+    </w>
   </l>
 </text>

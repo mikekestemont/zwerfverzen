@@ -1,548 +1,2871 @@
 <?xml version='1.0' encoding='utf-8'?>
 <text id="florigout_fragm_db">
-  <l n="1">
-    <tokens>hort vander vrouwen mine</tokens>
-    <lemmas>horen de van vrouw mijn</lemmas>
-    <pos>v(imp) adp() art(def) n(sing) pron(poss)</pos>
-  </l>
-  <l n="2">
-    <tokens>een reyne edele omoedicheit</tokens>
-    <lemmas>een rein edel ootmoedigheid</lemmas>
-    <pos>art(indef) adj() adj() n(sing)</pos>
-  </l>
-  <l n="3">
-    <tokens>eerdat van mi ghezeit</tokens>
-    <lemmas>dat eer van ik zeggen</lemmas>
-    <pos>conj(subord) conj(subord) adp() pron(pers,1,sing) v(participle,past)</pos>
-  </l>
-  <l n="4">
-    <tokens>sone wert sprac florentine</tokens>
-    <lemmas>zoon waart spreken florentius</lemmas>
-    <pos>n(sing) v(fin,past,aux_cop) v(fin,past,lex) n(prop)</pos>
-  </l>
-  <l n="5">
-    <tokens>moetic zien de scouderen dine</tokens>
-    <lemmas>ik moeten zien de schouder dijn</lemmas>
-    <pos>pron(pers,1,sing) v(fin,pres,aux_cop) v(infin) art(def) n(plu) pron(poss)</pos>
-  </l>
-  <l n="6">
-    <tokens>stat tusscen cruus van goude</tokens>
-    <lemmas>stad tussen kruis van goud</lemmas>
-    <pos>n(sing) adp() n(sing) adp() n(sing)</pos>
-  </l>
-  <l n="7">
-    <tokens>over kint dat ic di houde</tokens>
-    <lemmas>over kind dat ik du houden</lemmas>
-    <pos>adp() n(sing) conj(subord) pron(pers,1,sing) pron(pers,2,sing) v(fin,pres,lex)</pos>
-  </l>
-  <l n="8">
-    <tokens>du clagest so zere die arbeden</tokens>
-    <lemmas>du klagen zo zeer de arbeiden</lemmas>
-    <pos>pron(pers,2,sing) v(fin,pres,lex) adv(dem) adv(gener) art(def) n(plu)</pos>
-  </l>
-  <l n="9">
-    <tokens>die du over mi hebst leden</tokens>
-    <lemmas>die du over ik hebben lijden</lemmas>
-    <pos>pron(rel) pron(pers,2,sing) adp() pron(pers,1,sing) v(fin,pres,aux_cop) pron(pers,3,sing) v(participle,past)</pos>
-  </l>
-  <l n="10">
-    <tokens>dat icker hebbe twivel an</tokens>
-    <lemmas>dat ik daar hebben twijfel aan</lemmas>
-    <pos>conj(subord) pron(pers,1,sing) pron(pers,3,sing) v(fin,pres,lex) art(def) n(sing) adp()</pos>
-  </l>
-  <l n="11">
-    <tokens>bescaemt wert die jonge man</tokens>
-    <lemmas>beschamen worden de jong man</lemmas>
-    <pos>v(participle,past) v(fin,pres,aux_cop) art(def) adj() n(sing)</pos>
-  </l>
-  <l n="12">
-    <tokens>up sine voete dat hi spranc</tokens>
-    <lemmas>op zijn voet dat hij springen</lemmas>
-    <pos>adp() pron(poss) n(plu) conj(subord) pron(pers,3,sing) v(fin,past,lex)</pos>
-  </l>
-  <l n="13">
-    <tokens>deus hoe sine wapine clanc</tokens>
-    <lemmas>deus hoe zijn wapen klank</lemmas>
-    <pos>misc(latin) adv(inter) pron(poss) n(plu) adj()</pos>
-  </l>
-  <l n="14">
-    <tokens>van den ghesteente diere</tokens>
-    <lemmas>van de gesteente dier</lemmas>
-    <pos>adp() art(def) n(sing) pron(rel) pronadv(pers)</pos>
-  </l>
-  <l n="15">
-    <tokens>ende die scone maget hahaut</tokens>
-    <lemmas>en de schoon maagd haacht</lemmas>
-    <pos>conj(coord) art(def) adj() n(sing) n(prop)</pos>
-  </l>
-  <l n="16">
-    <tokens>an die coninginne scoot</tokens>
-    <lemmas>aan de koningin schoot</lemmas>
-    <pos>adp() art(def) n(sing) adj()</pos>
-  </l>
-  <l n="17">
-    <tokens>diese vanden bloede root</tokens>
-    <lemmas>die zij de van bloed rood</lemmas>
-    <pos>pron(rel) pron(pers,3,plu) art(def) adp() n(sing) adj()</pos>
-  </l>
-  <l n="18">
-    <tokens>vaechde met haren ghere</tokens>
-    <lemmas>vacht met haar geen</lemmas>
-    <pos>v(fin,past,lex) adp() pron(poss) n(sing)</pos>
-  </l>
-  <l n="19">
-    <tokens>om die minne vanden here</tokens>
-    <lemmas>om de min van de heer</lemmas>
-    <pos>adp() art(def) n(sing) adp() art(def) n(sing)</pos>
-  </l>
-  <l n="20">
-    <tokens>yzaude diere oec scoot toe</tokens>
-    <lemmas>isolde die er ook schoot toe</lemmas>
-    <pos>n(prop) pron(rel) pronadv(pers) adv(gener) v(fin,past,lex) pronadv(prep)</pos>
-  </l>
-  <l n="21">
-    <tokens>ende menich ander soe</tokens>
-    <lemmas>en menig ander zo</lemmas>
-    <pos>conj(coord) num(indef) adj() adv(resum)</pos>
-  </l>
-  <l n="22">
-    <tokens>die bogen herde zaen</tokens>
-    <lemmas>de boog herde zaan</lemmas>
-    <pos>art(def) n(plu) adv(gener) v(fin,pres,aux_cop)</pos>
-  </l>
-  <l n="23">
-    <tokens>wenende es soe gestaen</tokens>
-    <lemmas>wenen zijn zo staan</lemmas>
-    <pos>v(participle,pres) v(fin,pres,aux_cop) pron(pers,3,sing) v(participle,past)</pos>
-  </l>
-  <l n="24">
-    <tokens>up van groter blijtheden</tokens>
-    <lemmas>op van groot blijdeiheid</lemmas>
-    <pos>v(prtcl) adp() adj() n(sing)</pos>
-  </l>
-  <l n="25">
-    <tokens>lieve kint al hebdi leden</tokens>
-    <lemmas>lief kind al gij hebben lijden</lemmas>
-    <pos>adj() n(sing) adv(gener) pron(pers,2,plu) v(fin,pres,aux_cop) v(participle,past)</pos>
-  </l>
-  <l n="26">
-    <tokens>vele dor mi sprac de vrouwe</tokens>
-    <lemmas>veel door ik spreken de vrouw</lemmas>
-    <pos>num(indef) adp() pron(pers,1,sing) v(fin,past,lex) art(def) n(sing)</pos>
-  </l>
-  <l n="27">
-    <tokens>wils doch hebben genen rouwe</tokens>
-    <lemmas>willen doch hebben geen rouw</lemmas>
-    <pos>v(fin,pres,aux_cop) adv(gener) v(infin) pron(indef) n(sing)</pos>
-  </l>
-  <l n="28">
-    <tokens>mids dat ic dijn moeder si</tokens>
-    <lemmas>mits dat ik dijn moeder zijn</lemmas>
-    <pos>adp() conj(subord) pron(pers,1,sing) pron(poss) n(sing) v(fin,pres,aux_cop)</pos>
-  </l>
-  <l n="29">
-    <tokens>ende seide vrouwe siet mi an</tokens>
-    <lemmas>en zeggen vrouw zien ik aan</lemmas>
-    <pos>conj(coord) v(fin,past,lex) n(sing) v(imp) pron(pers,1,sing) adp()</pos>
-  </l>
-  <l n="30">
-    <tokens>die vrouwe sprac ghi sijt man</tokens>
-    <lemmas>de vrouw spreken gij zijn man</lemmas>
-    <pos>art(def) n(sing) v(fin,past,lex) pron(pers,2,plu) v(fin,pres,aux_cop) n(sing)</pos>
-  </l>
-  <l n="31">
-    <tokens>ende ghi hebbet oec daer toe</tokens>
-    <lemmas>en gij hebben ook daar toe</lemmas>
-    <pos>conj(coord) pron(pers,2,plu) v(fin,pres,aux_cop) adv(gener) pronadv(dem) pronadv(prep)</pos>
-  </l>
-  <l n="32">
-    <tokens>vor u houet enen scoe</tokens>
-    <lemmas>voor uw hoofd een schoen</lemmas>
-    <pos>adp() pron(poss) n(sing) art(indef) n(sing)</pos>
-  </l>
-  <l n="33">
-    <tokens>sulc littekijn ic noyt ne kinde</tokens>
-    <lemmas>zulk lutteken ik nooit ne kennen</lemmas>
-    <pos>pron(dem) n(sing) pron(pers,1,sing) adv(neg) adv(neg) v(fin,past,lex)</pos>
-  </l>
-  <l n="34">
-    <tokens>an die maget frinasinde</tokens>
-    <lemmas>aan de maagd frinsaan</lemmas>
-    <pos>adp() art(def) n(sing) n(prop)</pos>
-  </l>
-  <l n="35">
-    <tokens>soe moeste soe zere wesen dan</tokens>
-    <lemmas>zo moeten zij zeer wezen dan</lemmas>
-    <pos>adv(resum) v(fin,past,aux_cop) adv(dem) adv(gener) v(infin) conj(comp)</pos>
-  </l>
-  <l n="36">
-    <tokens>verkeert soudse wesen man</tokens>
-    <lemmas>verkeerd zij zullen wezen man</lemmas>
-    <pos>v(participle,past) pron(pers,3,plu) v(fin,past,aux_cop) v(infin) pron(indef)</pos>
-  </l>
-  <l n="37">
-    <tokens>ende hebben enen scoe vort hoeft</tokens>
-    <lemmas>en hebben een schoen voorts hoofd</lemmas>
-    <pos>conj(coord) v(fin,pres,aux_cop) art(indef) n(sing) adv(gener) n(sing)</pos>
-  </l>
-  <l n="38">
-    <tokens>ic bin dies u niet geloeft</tokens>
-    <lemmas>ik zijn die gij niet geloven</lemmas>
-    <pos>pron(pers,1,sing) v(fin,pres,aux_cop) pron(dem) pron(pers,2,sing) adv(neg) v(participle,past)</pos>
-  </l>
-  <l n="39">
-    <tokens>in hebder ander name bi</tokens>
-    <lemmas>in hebben daar ander naam bij</lemmas>
-    <pos>adp() n(sing) adj() n(sing) adp()</pos>
-  </l>
-  <l n="40">
-    <tokens>si seide vrouwe het ware mi</tokens>
-    <lemmas>zij zeggen vrouw het zijn ik</lemmas>
-    <pos>pron(pers,3,sing) v(fin,past,lex) n(sing) pron(pers,3,sing) v(fin,past,aux_cop) pron(pers,1,sing)</pos>
-  </l>
-  <l n="41">
-    <tokens>u te tellen alte lanc</tokens>
-    <lemmas>gij te tellen al te lang</lemmas>
-    <pos>pron(pers,2,sing) adp() v(infin) adv(gener) adv(gener) adj()</pos>
-  </l>
-  <l n="42">
-    <tokens>up elc andren ghingen daer</tokens>
-    <lemmas>op elk ander gaan daar</lemmas>
-    <pos>adp() num(indef) adj() v(fin,past,lex) adv(dem)</pos>
-  </l>
-  <l n="43">
-    <tokens>smiten metten vlegels zwaer</tokens>
-    <lemmas>smeten met de vlees zwaar</lemmas>
-    <pos>v(infin) art(def) adp() n(sing) adj()</pos>
-  </l>
-  <l n="44">
-    <tokens>also vreeselike slagen</tokens>
-    <lemmas>alzo vreselijk slag</lemmas>
-    <pos>adv(dem) adj() n(plu)</pos>
-  </l>
-  <l n="45">
-    <tokens>dat si tvier daer ute zagen</tokens>
-    <lemmas>dat zij twee daar uit zien</lemmas>
-    <pos>conj(subord) pron(pers,3,plu) num(card) pronadv(dem) pronadv(prep) v(fin,pres,lex)</pos>
-  </l>
-  <l n="46">
-    <tokens>vliegen ende die sperke dicken</tokens>
-    <lemmas>vliegen en de sper dikke</lemmas>
-    <pos>v(infin) conj(coord) art(def) n(plu) adv(gener)</pos>
-  </l>
-  <l n="47">
-    <tokens>ende daer toe grote sticken</tokens>
-    <lemmas>en daar toe groot stuk</lemmas>
-    <pos>conj(coord) pronadv(dem) pronadv(prep) adj() n(plu)</pos>
-  </l>
-  <l n="48">
-    <tokens>slougen si andren vanden leden</tokens>
-    <lemmas>slaan zij ander de van lid</lemmas>
-    <pos>v(fin,past,lex) pron(pers,3,plu) adj() art(def) adp() n(plu)</pos>
-  </l>
-  <l n="49">
-    <tokens>dat men sach achter treden</tokens>
-    <lemmas>dat men zien achter treden</lemmas>
-    <pos>pron(rel) pron(indef) v(fin,past,lex) adv(gener) v(infin)</pos>
-  </l>
-  <l n="50">
-    <tokens>die ghene diere waren bi</tokens>
-    <lemmas>de geen die er zijn bij</lemmas>
-    <pos>art(def) pron(dem) pron(rel) pronadv(pers) v(fin,past,lex) adp()</pos>
-  </l>
-  <l n="51">
-    <tokens>ende spraken die vrouwen vri</tokens>
-    <lemmas>en spreken de vrouw vrij</lemmas>
-    <pos>conj(coord) v(fin,past,lex) art(def) n(plu) adj()</pos>
-  </l>
-  <l n="52">
-    <tokens>hulpe hulpe goede lieden</tokens>
-    <lemmas>hulp hulp goed lieden</lemmas>
-    <pos>n(sing) n(sing) adj() n(plu)</pos>
-  </l>
-  <l n="53">
-    <tokens>willen ons deze verbieden</tokens>
-    <lemmas>willen wij deze verbieden</lemmas>
-    <pos>v(fin,pres,aux_cop) pron(pers,1,plu) pron(dem) v(infin)</pos>
-  </l>
-  <l n="54">
-    <tokens>nu te gane in den pallas</tokens>
-    <lemmas>nu te gaan in de pallas</lemmas>
-    <pos>adv(dem) adp() v(infin) adp() art(def) n(prop)</pos>
-  </l>
-  <l n="55">
-    <tokens>doe braken si oft ware glas</tokens>
-    <lemmas>toen breken zij of zijn glas</lemmas>
-    <pos>adv(dem) v(fin,past,lex) pron(pers,3,plu) pron(pers,3,sing) conj(subord) v(fin,past,aux_cop) n(sing)</pos>
-  </l>
-  <l n="56">
-    <tokens>thovet vanden buke slouch</tokens>
-    <lemmas>het hoofd van de buik slaan</lemmas>
-    <pos>art(def) n(sing) adp() art(def) n(sing) v(fin,past,lex)</pos>
-  </l>
-  <l n="57">
-    <tokens>daer hi woude ongevouch</tokens>
-    <lemmas>daar hij willen ongevoeg</lemmas>
-    <pos>adv(rel) pron(pers,3,sing) v(fin,past,lex) adj()</pos>
-  </l>
-  <l n="58">
-    <tokens>der reynre maget hebben gedaen</tokens>
-    <lemmas>de rein maagd hebben doen</lemmas>
-    <pos>art(def) adj() n(sing) v(fin,pres,aux_cop) v(participle,past)</pos>
-  </l>
-  <l n="59">
-    <tokens>soe die zaecht met ogen aen</tokens>
-    <lemmas>zo de zacht met oog aan</lemmas>
-    <pos>pron(pers,3,sing) art(def) n(sing) adp() n(plu) adp()</pos>
-  </l>
-  <l n="60">
-    <tokens>der ghelike sal zoe zien</tokens>
-    <lemmas>daar gelijke zullen zij zien</lemmas>
-    <pos>art(def) n(sing) v(fin,pres,aux_cop) pron(pers,3,sing) v(infin)</pos>
-  </l>
-  <l n="61">
-    <tokens>dat ic sal onthoefden dien</tokens>
-    <lemmas>dat ik zullen onthoofden die</lemmas>
-    <pos>conj(subord) pron(pers,1,sing) v(fin,pres,aux_cop) v(infin) art(def)</pos>
-  </l>
-  <l n="62">
-    <tokens>want soe somen es met mi</tokens>
-    <lemmas>want zo som zijn met ik</lemmas>
-    <pos>conj(subord) pron(pers,3,sing) pron(indef) v(fin,pres,lex) adp() pron(pers,1,sing)</pos>
-  </l>
-  <l n="63">
-    <tokens>fel payen ic rade di</tokens>
-    <lemmas>fel paai ik raden du</lemmas>
-    <pos>adj() v(infin) pron(pers,1,sing) v(fin,pres,lex) pron(pers,2,sing)</pos>
-  </l>
-  <l n="64">
-    <tokens>dattu haels te deser uren</tokens>
-    <lemmas>dat du haal te deze uur</lemmas>
-    <pos>conj(subord) pron(pers,2,sing) n(sing) adp() pron(dem) n(sing)</pos>
-  </l>
-  <l n="65">
-    <tokens>vuten kerke autefluren</tokens>
-    <lemmas>uit de kerk oudevuren</lemmas>
-    <pos>adp() art(def) n(sing) v(infin)</pos>
-  </l>
-  <l n="66">
-    <tokens>den edelen rudder kerstijn</tokens>
-    <lemmas>de edel ridder christiaan</lemmas>
-    <pos>art(def) adj() n(sing) adj()</pos>
-  </l>
-  <l n="67">
-    <tokens>die welke metter moeder mijn</tokens>
-    <lemmas>de welk met de moeder mijn</lemmas>
-    <pos>art(def) pron(rel) adp() art(def) n(sing) pron(poss)</pos>
-  </l>
-  <l n="68">
-    <tokens>vandi beide waren ghevaen</tokens>
-    <lemmas>gij vinden beide zijn vangen</lemmas>
-    <pos>pron(pers,2,sing) adp() num(indef) v(fin,past,aux_cop) v(participle,past)</pos>
-  </l>
-  <l n="69">
-    <tokens>ende dattu te ghaenaden gaen</tokens>
-    <lemmas>en dat du te genade gaan</lemmas>
-    <pos>conj(coord) conj(subord) pron(pers,2,sing) adp() n(sing) v(infin)</pos>
-  </l>
-  <l n="70">
-    <tokens>ende gode te ghenaden comen</tokens>
-    <lemmas>en god te genade komen</lemmas>
-    <pos>conj(coord) n(sing) adp() n(sing) v(infin)</pos>
-  </l>
-  <l n="71">
-    <tokens>ende marien die wi nomen</tokens>
-    <lemmas>en maria die wij noemen</lemmas>
-    <pos>conj(coord) n(prop) pron(rel) pron(pers,1,plu) v(fin,pres,lex)</pos>
-  </l>
-  <l n="72">
-    <tokens>te rechte maget ende moeder</tokens>
-    <lemmas>te recht maagd en moeder</lemmas>
-    <pos>adp() adj() n(sing) conj(coord) n(sing)</pos>
-  </l>
-  <l n="73">
-    <tokens>lapedante dinen broeder</tokens>
-    <lemmas>laphande dijn broeder</lemmas>
-    <pos>n(prop) pron(poss) n(sing)</pos>
-  </l>
-  <l n="74">
-    <tokens>dien sal ic bekeren wel</tokens>
-    <lemmas>die zullen ik bekeren wel</lemmas>
-    <pos>pron(dem) v(fin,pres,aux_cop) pron(pers,1,sing) v(infin) adv(gener)</pos>
-  </l>
-  <l n="75">
-    <tokens>ic hebbe hem dicken in sijn vel</tokens>
-    <lemmas>ik hebben hij dikke in zijn vel</lemmas>
-    <pos>pron(pers,1,sing) v(fin,pres,aux_cop) pron(pers,3,sing) adv(gener) adp() pron(poss) n(sing)</pos>
-  </l>
-  <l n="76">
-    <tokens>gherort metten zwerde mijn</tokens>
-    <lemmas>roeren met de zwaard mijn</lemmas>
-    <pos>v(participle,past) adp() art(def) n(sing) pron(poss)</pos>
-  </l>
-  <l n="77">
-    <tokens>hulp mamet ende apolijn</tokens>
-    <lemmas>hulp maagd en apollonium</lemmas>
-    <pos>n(sing) n(prop) conj(coord) n(prop)</pos>
-  </l>
-  <l n="78">
-    <tokens>wat moetic te deser stont</tokens>
-    <lemmas>wat ik moeten te deze stond</lemmas>
-    <pos>pron(inter) pron(pers,1,sing) v(fin,pres,aux_cop) adp() pron(dem) n(sing)</pos>
-  </l>
-  <l n="79">
-    <tokens>horen sprac gardepont</tokens>
-    <lemmas>horen spreken gaardenspond</lemmas>
-    <pos>v(infin) v(fin,past,lex) n(prop)</pos>
-  </l>
-  <l n="80">
-    <tokens>van enen wichte kerstijn</tokens>
-    <lemmas>van een gewicht christina</lemmas>
-    <pos>adp() art(indef) n(sing) adj()</pos>
-  </l>
-  <l n="81">
-    <tokens>ic souder met minen machten groot</tokens>
-    <lemmas>ik daar zullen met mijn macht groot</lemmas>
-    <pos>pron(pers,1,sing) pronadv(pers) v(fin,past,aux_cop) adp() pron(poss) n(plu) adj()</pos>
-  </l>
-  <l n="82">
-    <tokens>c alleene slaen te doot</tokens>
-    <lemmas>c alleen slaan te dood</lemmas>
-    <pos>n(sing) adv(gener) v(infin) adp() n(sing)</pos>
-  </l>
-  <l n="83">
-    <tokens>sprac florigout dat radic u</tokens>
-    <lemmas>spreken florenvoud dat ik raden gij</lemmas>
-    <pos>v(fin,past,lex) n(prop) pron(dem) pron(pers,1,sing) v(fin,pres,lex) pron(pers,2,sing)</pos>
-  </l>
-  <l n="84">
-    <tokens>ic ne liete recht nu</tokens>
-    <lemmas>ik ne laten recht nu</lemmas>
-    <pos>pron(pers,1,sing) adv(neg) v(fin,past,aux_cop) n(sing) adv(dem)</pos>
-  </l>
-  <l n="85">
-    <tokens>niet seggen dinen mont</tokens>
-    <lemmas>niet zeggen dijn mond</lemmas>
-    <pos>adv(neg) v(infin) pron(poss) n(sing)</pos>
-  </l>
-  <l n="86">
-    <tokens>an haer om dese werelt ront</tokens>
-    <lemmas>aan zij om deze wereld rond</lemmas>
-    <pos>adp() pron(pers,3,sing) adp() pron(dem) n(sing) adj()</pos>
-  </l>
-  <l n="87">
-    <tokens>want soe souder omme sterven</tokens>
-    <lemmas>want zo zullen er om sterven</lemmas>
-    <pos>conj(subord) pron(pers,3,sing) pronadv(pers) v(fin,past,aux_cop) pronadv(prep) v(infin)</pos>
-  </l>
-  <l n="88">
-    <tokens>ende dan soudic ooc bederven</tokens>
-    <lemmas>en dan ik zullen ook bederven</lemmas>
-    <pos>conj(coord) adv(dem) pron(pers,1,sing) v(fin,past,aux_cop) adv(gener) v(infin)</pos>
-  </l>
-  <l n="89">
-    <tokens>vanden live dat waer recht</tokens>
-    <lemmas>van de lijf dat zijn recht</lemmas>
-    <pos>adp() art(def) n(sing) pron(rel) adv(indef) n(sing)</pos>
-  </l>
-  <l n="90">
-    <tokens>laet ons striden dit gevecht</tokens>
-    <lemmas>laten wij strijden dit gevecht</lemmas>
-    <pos>v(imp) pron(pers,1,plu) v(infin) pron(dem) n(sing)</pos>
-  </l>
-  <l n="91">
-    <tokens>waeromme dat ic comen si</tokens>
-    <lemmas>waarom dat ik komen zijn</lemmas>
-    <pos>pronadv(inter) conj(subord) pron(pers,1,sing) v(fin,pres,lex) v(fin,pres,aux_cop)</pos>
-  </l>
-  <l n="92">
-    <tokens>mogestu verwinnen mi</tokens>
-    <lemmas>du mogen verwinnen ik</lemmas>
-    <pos>pron(pers,2,sing) v(fin,pres,aux_cop) v(infin) pron(pers,1,sing)</pos>
-  </l>
-  <l n="93">
-    <tokens>soe sal die reyne maget fier</tokens>
-    <lemmas>zo zullen de rein maagd fier</lemmas>
-    <pos>adv(resum) v(fin,pres,aux_cop) art(def) adj() n(sing) adj()</pos>
-  </l>
-  <l n="94">
-    <tokens>moete zijn in dijn dangier</tokens>
-    <lemmas>moeten zijn in dijn dager</lemmas>
-    <pos>v(fin,pres,aux_cop) v(infin) adp() pron(poss) n(sing)</pos>
-  </l>
-  <l n="95">
-    <tokens>welk striit teersten dan</tokens>
-    <lemmas>welk strijd eerst het dan</lemmas>
-    <pos>pron(rel) n(sing) num(ord) art(def) adv(dem)</pos>
-  </l>
-  <l n="96">
-    <tokens>die verhief al te handen</tokens>
-    <lemmas>die verheffen al te hand</lemmas>
-    <pos>pron(dem) v(fin,past,lex) adv(gener) adp() n(plu)</pos>
-  </l>
-  <l n="97">
-    <tokens>den camp metten xii tanden</tokens>
-    <lemmas>de kamp met de 12 tand</lemmas>
-    <pos>art(def) n(sing) adp() art(def) num(card) n(plu)</pos>
-  </l>
-  <l n="98">
-    <tokens>autefluer alzulken toren</tokens>
-    <lemmas>oudelever alzulk toorn</lemmas>
-    <pos>n(sing) pron(dem) n(sing)</pos>
-  </l>
-  <l n="99">
-    <tokens>hem dede daer te voren</tokens>
-    <lemmas>hij doen daar te voren</lemmas>
-    <pos>pron(pers,3,sing) v(fin,past,lex) adv(dem) adp() adv(gener)</pos>
-  </l>
-  <l n="100">
-    <tokens>dat hi zwoer gardepont</tokens>
-    <lemmas>dat hij zweren gaardenpoed</lemmas>
-    <pos>conj(subord) pron(pers,3,sing) adj() n(prop)</pos>
-  </l>
-  <l n="101">
-    <tokens>dat hi te ne gere stont</tokens>
-    <lemmas>dat hij te ne geer staan</lemmas>
-    <pos>conj(subord) pron(pers,3,sing) adp() pron(pers,3,sing) pron(indef) v(fin,past,lex)</pos>
-  </l>
-  <l n="102">
-    <tokens>zijn vordeel over soude geven</tokens>
-    <lemmas>zijn voordeel over zullen geven</lemmas>
-    <pos>pron(poss) n(sing) v(infin) v(fin,past,aux_cop) v(infin)</pos>
-  </l>
-  <l n="103">
-    <tokens>het hadden na gecost sijn leven</tokens>
-    <lemmas>het hebben na kosten zijn leven</lemmas>
-    <pos>pron(pers,3,sing) v(fin,past,lex) adp() n(sing) pron(poss) n(sing)</pos>
-  </l>
-  <l n="104">
-    <tokens>maer die coninc van yrlant</tokens>
-    <lemmas>maar de koning van ierland</lemmas>
-    <pos>conj(coord) art(def) n(sing) adp() n(prop)</pos>
-  </l>
-  <l n="105">
-    <tokens>die so quam up hem gerant</tokens>
-    <lemmas>die zo komen op hij gerand</lemmas>
-    <pos>pron(dem) adv(resum) v(fin,past,lex) adp() pron(pers,3,sing) v(participle,past)</pos>
-  </l>
-  <l n="106">
-    <tokens>als een hongerich serpent</tokens>
-    <lemmas>als een hongerig serpent</lemmas>
-    <pos>conj(comp) art(indef) adj() n(sing)</pos>
-  </l>
-  <l n="107">
-    <tokens>ende stac den fellen vient</tokens>
-    <lemmas>en steken de fel vijand</lemmas>
-    <pos>conj(coord) v(fin,past,lex) art(def) adj() n(sing)</pos>
-  </l>
-  <l n="108">
-    <tokens>recht upten navel zijn</tokens>
-    <lemmas>recht op de navel zijn</lemmas>
-    <pos>n(sing) adp() art(def) n(sing) pron(poss)</pos>
-  </l>
-  <l n="109">
-    <tokens>daer die platen stalijn</tokens>
-    <lemmas>daar de plaat stalin</lemmas>
-    <pos>adv(rel) art(def) n(plu) n(prop)</pos>
+  <l n="1" tokens="Hort vander vrouwen mine">
+    <w>
+      <form>hort</form>
+      <lemma>horen</lemma>
+      <pos>v(imp)</pos>
+    </w>
+    <w>
+      <form>vander</form>
+      <lemma>de+van</lemma>
+      <pos>adp()+art(def)</pos>
+    </w>
+    <w>
+      <form>vrouwen</form>
+      <lemma>vrouw</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>mine</form>
+      <lemma>mijn</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+  </l>
+  <l n="2" tokens="Een reyne edele omoedicheit">
+    <w>
+      <form>een</form>
+      <lemma>een</lemma>
+      <pos>art(indef)</pos>
+    </w>
+    <w>
+      <form>reyne</form>
+      <lemma>rein</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>edele</form>
+      <lemma>edel</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>omoedicheit</form>
+      <lemma>ootmoedigheid</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="3" tokens="Eerdat van mi ghezeit">
+    <w>
+      <form>eerdat</form>
+      <lemma>dat+eer</lemma>
+      <pos>conj(subord)+conj(subord)</pos>
+    </w>
+    <w>
+      <form>van</form>
+      <lemma>van</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>mi</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+    <w>
+      <form>ghezeit</form>
+      <lemma>zeggen</lemma>
+      <pos>v(participle,past)</pos>
+    </w>
+  </l>
+  <l n="4" tokens="Sone wert sprac Florentine">
+    <w>
+      <form>sone</form>
+      <lemma>zoon</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>wert</form>
+      <lemma>waart</lemma>
+      <pos>v(fin,past,aux_cop)</pos>
+    </w>
+    <w>
+      <form>sprac</form>
+      <lemma>spreken</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>florentine</form>
+      <lemma>florentius</lemma>
+      <pos>n(prop)</pos>
+    </w>
+  </l>
+  <l n="5" tokens="Moetic zien de scouderen dine">
+    <w>
+      <form>moetic</form>
+      <lemma>ik+moeten</lemma>
+      <pos>pron(pers,1,sing)+v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>zien</form>
+      <lemma>zien</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>de</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>scouderen</form>
+      <lemma>schouder</lemma>
+      <pos>n(plu)</pos>
+    </w>
+    <w>
+      <form>dine</form>
+      <lemma>dijn</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+  </l>
+  <l n="6" tokens="Stat tusscen  cruus van goude">
+    <w>
+      <form>stat</form>
+      <lemma>stad</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>tusscen</form>
+      <lemma>tussen</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>cruus</form>
+      <lemma>kruis</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>van</form>
+      <lemma>van</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>goude</form>
+      <lemma>goud</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="7" tokens="Over kint dat ic di houde">
+    <w>
+      <form>over</form>
+      <lemma>over</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>kint</form>
+      <lemma>kind</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>dat</form>
+      <lemma>dat</lemma>
+      <pos>conj(subord)</pos>
+    </w>
+    <w>
+      <form>ic</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+    <w>
+      <form>di</form>
+      <lemma>du</lemma>
+      <pos>pron(pers,2,sing)</pos>
+    </w>
+    <w>
+      <form>houde</form>
+      <lemma>houden</lemma>
+      <pos>v(fin,pres,lex)</pos>
+    </w>
+  </l>
+  <l n="8" tokens="Du clagest so zere die arbeden">
+    <w>
+      <form>du</form>
+      <lemma>du</lemma>
+      <pos>pron(pers,2,sing)</pos>
+    </w>
+    <w>
+      <form>clagest</form>
+      <lemma>klagen</lemma>
+      <pos>v(fin,pres,lex)</pos>
+    </w>
+    <w>
+      <form>so</form>
+      <lemma>zo</lemma>
+      <pos>adv(dem)</pos>
+    </w>
+    <w>
+      <form>zere</form>
+      <lemma>zeer</lemma>
+      <pos>adv(gener)</pos>
+    </w>
+    <w>
+      <form>die</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>arbeden</form>
+      <lemma>arbeiden</lemma>
+      <pos>n(plu)</pos>
+    </w>
+  </l>
+  <l n="9" tokens="Die du over mi hebst leden">
+    <w>
+      <form>die</form>
+      <lemma>die</lemma>
+      <pos>pron(rel)</pos>
+    </w>
+    <w>
+      <form>du</form>
+      <lemma>du</lemma>
+      <pos>pron(pers,2,sing)</pos>
+    </w>
+    <w>
+      <form>over</form>
+      <lemma>over</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>mi</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+    <w>
+      <form>hebst</form>
+      <lemma>hebben</lemma>
+      <pos>v(fin,pres,aux_cop)+pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>leden</form>
+      <lemma>lijden</lemma>
+      <pos>v(participle,past)</pos>
+    </w>
+  </l>
+  <l n="10" tokens="Dat icker hebbe twivel an">
+    <w>
+      <form>dat</form>
+      <lemma>dat</lemma>
+      <pos>conj(subord)</pos>
+    </w>
+    <w>
+      <form>icker</form>
+      <lemma>ik+daar</lemma>
+      <pos>pron(pers,1,sing)+pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>hebbe</form>
+      <lemma>hebben</lemma>
+      <pos>v(fin,pres,lex)</pos>
+    </w>
+    <w>
+      <form>twivel</form>
+      <lemma>twijfel</lemma>
+      <pos>art(def)+n(sing)</pos>
+    </w>
+    <w>
+      <form>an</form>
+      <lemma>aan</lemma>
+      <pos>adp()</pos>
+    </w>
+  </l>
+  <l n="11" tokens="Bescaemt wert die jonge man">
+    <w>
+      <form>bescaemt</form>
+      <lemma>beschamen</lemma>
+      <pos>v(participle,past)</pos>
+    </w>
+    <w>
+      <form>wert</form>
+      <lemma>worden</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>die</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>jonge</form>
+      <lemma>jong</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>man</form>
+      <lemma>man</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="12" tokens="Up sine voete dat hi spranc">
+    <w>
+      <form>up</form>
+      <lemma>op</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>sine</form>
+      <lemma>zijn</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+    <w>
+      <form>voete</form>
+      <lemma>voet</lemma>
+      <pos>n(plu)</pos>
+    </w>
+    <w>
+      <form>dat</form>
+      <lemma>dat</lemma>
+      <pos>conj(subord)</pos>
+    </w>
+    <w>
+      <form>hi</form>
+      <lemma>hij</lemma>
+      <pos>pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>spranc</form>
+      <lemma>springen</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+  </l>
+  <l n="13" tokens="Deus hoe sine wapine clanc">
+    <w>
+      <form>deus</form>
+      <lemma>deus</lemma>
+      <pos>misc(latin)</pos>
+    </w>
+    <w>
+      <form>hoe</form>
+      <lemma>hoe</lemma>
+      <pos>adv(inter)</pos>
+    </w>
+    <w>
+      <form>sine</form>
+      <lemma>zijn</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+    <w>
+      <form>wapine</form>
+      <lemma>wapen</lemma>
+      <pos>n(plu)</pos>
+    </w>
+    <w>
+      <form>clanc</form>
+      <lemma>klank</lemma>
+      <pos>adj()</pos>
+    </w>
+  </l>
+  <l n="14" tokens="Van den ghesteente diere">
+    <w>
+      <form>van</form>
+      <lemma>van</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>den</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>ghesteente</form>
+      <lemma>gesteente</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>diere</form>
+      <lemma>dier</lemma>
+      <pos>pron(rel)+pronadv(pers)</pos>
+    </w>
+  </l>
+  <l n="15" tokens="Ende die scone maget hahaut">
+    <w>
+      <form>ende</form>
+      <lemma>en</lemma>
+      <pos>conj(coord)</pos>
+    </w>
+    <w>
+      <form>die</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>scone</form>
+      <lemma>schoon</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>maget</form>
+      <lemma>maagd</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>hahaut</form>
+      <lemma>haacht</lemma>
+      <pos>n(prop)</pos>
+    </w>
+  </l>
+  <l n="16" tokens="An die coninginne scoot">
+    <w>
+      <form>an</form>
+      <lemma>aan</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>die</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>coninginne</form>
+      <lemma>koningin</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>scoot</form>
+      <lemma>schoot</lemma>
+      <pos>adj()</pos>
+    </w>
+  </l>
+  <l n="17" tokens="Diese vanden bloede root">
+    <w>
+      <form>diese</form>
+      <lemma>die+zij</lemma>
+      <pos>pron(rel)+pron(pers,3,plu)</pos>
+    </w>
+    <w>
+      <form>vanden</form>
+      <lemma>de+van</lemma>
+      <pos>art(def)+adp()</pos>
+    </w>
+    <w>
+      <form>bloede</form>
+      <lemma>bloed</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>root</form>
+      <lemma>rood</lemma>
+      <pos>adj()</pos>
+    </w>
+  </l>
+  <l n="18" tokens="Vaechde met haren ghere">
+    <w>
+      <form>vaechde</form>
+      <lemma>vacht</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>met</form>
+      <lemma>met</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>haren</form>
+      <lemma>haar</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+    <w>
+      <form>ghere</form>
+      <lemma>geen</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="19" tokens="Om die minne vanden here">
+    <w>
+      <form>om</form>
+      <lemma>om</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>die</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>minne</form>
+      <lemma>min</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>vanden</form>
+      <lemma>van+de</lemma>
+      <pos>adp()+art(def)</pos>
+    </w>
+    <w>
+      <form>here</form>
+      <lemma>heer</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="20" tokens="Yzaude diere oec scoot toe">
+    <w>
+      <form>yzaude</form>
+      <lemma>isolde</lemma>
+      <pos>n(prop)</pos>
+    </w>
+    <w>
+      <form>diere</form>
+      <lemma>die+er</lemma>
+      <pos>pron(rel)+pronadv(pers)</pos>
+    </w>
+    <w>
+      <form>oec</form>
+      <lemma>ook</lemma>
+      <pos>adv(gener)</pos>
+    </w>
+    <w>
+      <form>scoot</form>
+      <lemma>schoot</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>toe</form>
+      <lemma>toe</lemma>
+      <pos>pronadv(prep)</pos>
+    </w>
+  </l>
+  <l n="21" tokens="Ende menich ander soe">
+    <w>
+      <form>ende</form>
+      <lemma>en</lemma>
+      <pos>conj(coord)</pos>
+    </w>
+    <w>
+      <form>menich</form>
+      <lemma>menig</lemma>
+      <pos>num(indef)</pos>
+    </w>
+    <w>
+      <form>ander</form>
+      <lemma>ander</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>soe</form>
+      <lemma>zo</lemma>
+      <pos>adv(resum)</pos>
+    </w>
+  </l>
+  <l n="22" tokens="Die bogen herde zaen">
+    <w>
+      <form>die</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>bogen</form>
+      <lemma>boog</lemma>
+      <pos>n(plu)</pos>
+    </w>
+    <w>
+      <form>herde</form>
+      <lemma>herde</lemma>
+      <pos>adv(gener)</pos>
+    </w>
+    <w>
+      <form>zaen</form>
+      <lemma>zaan</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+  </l>
+  <l n="23" tokens="Wenende es soe gestaen">
+    <w>
+      <form>wenende</form>
+      <lemma>wenen</lemma>
+      <pos>v(participle,pres)</pos>
+    </w>
+    <w>
+      <form>es</form>
+      <lemma>zijn</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>soe</form>
+      <lemma>zo</lemma>
+      <pos>pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>gestaen</form>
+      <lemma>staan</lemma>
+      <pos>v(participle,past)</pos>
+    </w>
+  </l>
+  <l n="24" tokens="Up van groter blijtheden">
+    <w>
+      <form>up</form>
+      <lemma>op</lemma>
+      <pos>v(prtcl)</pos>
+    </w>
+    <w>
+      <form>van</form>
+      <lemma>van</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>groter</form>
+      <lemma>groot</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>blijtheden</form>
+      <lemma>blijdeiheid</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="25" tokens="Lieve kint al hebdi leden">
+    <w>
+      <form>lieve</form>
+      <lemma>lief</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>kint</form>
+      <lemma>kind</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>al</form>
+      <lemma>al</lemma>
+      <pos>adv(gener)</pos>
+    </w>
+    <w>
+      <form>hebdi</form>
+      <lemma>gij+hebben</lemma>
+      <pos>pron(pers,2,plu)+v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>leden</form>
+      <lemma>lijden</lemma>
+      <pos>v(participle,past)</pos>
+    </w>
+  </l>
+  <l n="26" tokens="Vele dor mi sprac de vrouwe">
+    <w>
+      <form>vele</form>
+      <lemma>veel</lemma>
+      <pos>num(indef)</pos>
+    </w>
+    <w>
+      <form>dor</form>
+      <lemma>door</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>mi</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+    <w>
+      <form>sprac</form>
+      <lemma>spreken</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>de</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>vrouwe</form>
+      <lemma>vrouw</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="27" tokens="Wils doch hebben genen rouwe">
+    <w>
+      <form>wils</form>
+      <lemma>willen</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>doch</form>
+      <lemma>doch</lemma>
+      <pos>adv(gener)</pos>
+    </w>
+    <w>
+      <form>hebben</form>
+      <lemma>hebben</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>genen</form>
+      <lemma>geen</lemma>
+      <pos>pron(indef)</pos>
+    </w>
+    <w>
+      <form>rouwe</form>
+      <lemma>rouw</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="28" tokens="Mids dat ic dijn moeder si">
+    <w>
+      <form>mids</form>
+      <lemma>mits</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>dat</form>
+      <lemma>dat</lemma>
+      <pos>conj(subord)</pos>
+    </w>
+    <w>
+      <form>ic</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+    <w>
+      <form>dijn</form>
+      <lemma>dijn</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+    <w>
+      <form>moeder</form>
+      <lemma>moeder</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>si</form>
+      <lemma>zijn</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+  </l>
+  <l n="29" tokens="Ende seide vrouwe siet mi an">
+    <w>
+      <form>ende</form>
+      <lemma>en</lemma>
+      <pos>conj(coord)</pos>
+    </w>
+    <w>
+      <form>seide</form>
+      <lemma>zeggen</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>vrouwe</form>
+      <lemma>vrouw</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>siet</form>
+      <lemma>zien</lemma>
+      <pos>v(imp)</pos>
+    </w>
+    <w>
+      <form>mi</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+    <w>
+      <form>an</form>
+      <lemma>aan</lemma>
+      <pos>adp()</pos>
+    </w>
+  </l>
+  <l n="30" tokens="Die vrouwe sprac ghi sijt  man">
+    <w>
+      <form>die</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>vrouwe</form>
+      <lemma>vrouw</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>sprac</form>
+      <lemma>spreken</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>ghi</form>
+      <lemma>gij</lemma>
+      <pos>pron(pers,2,plu)</pos>
+    </w>
+    <w>
+      <form>sijt</form>
+      <lemma>zijn</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>man</form>
+      <lemma>man</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="31" tokens="Ende ghi hebbet oec daer toe">
+    <w>
+      <form>ende</form>
+      <lemma>en</lemma>
+      <pos>conj(coord)</pos>
+    </w>
+    <w>
+      <form>ghi</form>
+      <lemma>gij</lemma>
+      <pos>pron(pers,2,plu)</pos>
+    </w>
+    <w>
+      <form>hebbet</form>
+      <lemma>hebben</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>oec</form>
+      <lemma>ook</lemma>
+      <pos>adv(gener)</pos>
+    </w>
+    <w>
+      <form>daer</form>
+      <lemma>daar</lemma>
+      <pos>pronadv(dem)</pos>
+    </w>
+    <w>
+      <form>toe</form>
+      <lemma>toe</lemma>
+      <pos>pronadv(prep)</pos>
+    </w>
+  </l>
+  <l n="32" tokens="Vor u houet enen scoe">
+    <w>
+      <form>vor</form>
+      <lemma>voor</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>u</form>
+      <lemma>uw</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+    <w>
+      <form>houet</form>
+      <lemma>hoofd</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>enen</form>
+      <lemma>een</lemma>
+      <pos>art(indef)</pos>
+    </w>
+    <w>
+      <form>scoe</form>
+      <lemma>schoen</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="33" tokens="Sulc littekijn ic noyt ne kinde">
+    <w>
+      <form>sulc</form>
+      <lemma>zulk</lemma>
+      <pos>pron(dem)</pos>
+    </w>
+    <w>
+      <form>littekijn</form>
+      <lemma>lutteken</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>ic</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+    <w>
+      <form>noyt</form>
+      <lemma>nooit</lemma>
+      <pos>adv(neg)</pos>
+    </w>
+    <w>
+      <form>ne</form>
+      <lemma>ne</lemma>
+      <pos>adv(neg)</pos>
+    </w>
+    <w>
+      <form>kinde</form>
+      <lemma>kennen</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+  </l>
+  <l n="34" tokens="An die maget Frinasinde">
+    <w>
+      <form>an</form>
+      <lemma>aan</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>die</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>maget</form>
+      <lemma>maagd</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>frinasinde</form>
+      <lemma>frinsaan</lemma>
+      <pos>n(prop)</pos>
+    </w>
+  </l>
+  <l n="35" tokens="Soe moeste soe zere wesen dan">
+    <w>
+      <form>soe</form>
+      <lemma>zo</lemma>
+      <pos>adv(resum)</pos>
+    </w>
+    <w>
+      <form>moeste</form>
+      <lemma>moeten</lemma>
+      <pos>v(fin,past,aux_cop)</pos>
+    </w>
+    <w>
+      <form>soe</form>
+      <lemma>zij</lemma>
+      <pos>adv(dem)</pos>
+    </w>
+    <w>
+      <form>zere</form>
+      <lemma>zeer</lemma>
+      <pos>adv(gener)</pos>
+    </w>
+    <w>
+      <form>wesen</form>
+      <lemma>wezen</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>dan</form>
+      <lemma>dan</lemma>
+      <pos>conj(comp)</pos>
+    </w>
+  </l>
+  <l n="36" tokens="Verkeert soudse wesen man">
+    <w>
+      <form>verkeert</form>
+      <lemma>verkeerd</lemma>
+      <pos>v(participle,past)</pos>
+    </w>
+    <w>
+      <form>soudse</form>
+      <lemma>zij+zullen</lemma>
+      <pos>pron(pers,3,plu)+v(fin,past,aux_cop)</pos>
+    </w>
+    <w>
+      <form>wesen</form>
+      <lemma>wezen</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>man</form>
+      <lemma>man</lemma>
+      <pos>pron(indef)</pos>
+    </w>
+  </l>
+  <l n="37" tokens="Ende hebben enen scoe vort hoeft">
+    <w>
+      <form>ende</form>
+      <lemma>en</lemma>
+      <pos>conj(coord)</pos>
+    </w>
+    <w>
+      <form>hebben</form>
+      <lemma>hebben</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>enen</form>
+      <lemma>een</lemma>
+      <pos>art(indef)</pos>
+    </w>
+    <w>
+      <form>scoe</form>
+      <lemma>schoen</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>vort</form>
+      <lemma>voorts</lemma>
+      <pos>adv(gener)</pos>
+    </w>
+    <w>
+      <form>hoeft</form>
+      <lemma>hoofd</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="38" tokens="Ic bin dies u niet geloeft">
+    <w>
+      <form>ic</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+    <w>
+      <form>bin</form>
+      <lemma>zijn</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>dies</form>
+      <lemma>die</lemma>
+      <pos>pron(dem)</pos>
+    </w>
+    <w>
+      <form>u</form>
+      <lemma>gij</lemma>
+      <pos>pron(pers,2,sing)</pos>
+    </w>
+    <w>
+      <form>niet</form>
+      <lemma>niet</lemma>
+      <pos>adv(neg)</pos>
+    </w>
+    <w>
+      <form>geloeft</form>
+      <lemma>geloven</lemma>
+      <pos>v(participle,past)</pos>
+    </w>
+  </l>
+  <l n="39" tokens="In hebder ander name bi">
+    <w>
+      <form>in</form>
+      <lemma>in</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>hebder</form>
+      <lemma>hebben+daar</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>ander</form>
+      <lemma>ander</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>name</form>
+      <lemma>naam</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>bi</form>
+      <lemma>bij</lemma>
+      <pos>adp()</pos>
+    </w>
+  </l>
+  <l n="40" tokens="Si seide vrouwe het ware mi">
+    <w>
+      <form>si</form>
+      <lemma>zij</lemma>
+      <pos>pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>seide</form>
+      <lemma>zeggen</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>vrouwe</form>
+      <lemma>vrouw</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>het</form>
+      <lemma>het</lemma>
+      <pos>pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>ware</form>
+      <lemma>zijn</lemma>
+      <pos>v(fin,past,aux_cop)</pos>
+    </w>
+    <w>
+      <form>mi</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+  </l>
+  <l n="41" tokens="U te tellen alte lanc">
+    <w>
+      <form>u</form>
+      <lemma>gij</lemma>
+      <pos>pron(pers,2,sing)</pos>
+    </w>
+    <w>
+      <form>te</form>
+      <lemma>te</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>tellen</form>
+      <lemma>tellen</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>alte</form>
+      <lemma>al+te</lemma>
+      <pos>adv(gener)+adv(gener)</pos>
+    </w>
+    <w>
+      <form>lanc</form>
+      <lemma>lang</lemma>
+      <pos>adj()</pos>
+    </w>
+  </l>
+  <l n="42" tokens="Up elc andren ghingen daer">
+    <w>
+      <form>up</form>
+      <lemma>op</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>elc</form>
+      <lemma>elk</lemma>
+      <pos>num(indef)</pos>
+    </w>
+    <w>
+      <form>andren</form>
+      <lemma>ander</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>ghingen</form>
+      <lemma>gaan</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>daer</form>
+      <lemma>daar</lemma>
+      <pos>adv(dem)</pos>
+    </w>
+  </l>
+  <l n="43" tokens="Smiten metten vlegels zwaer">
+    <w>
+      <form>smiten</form>
+      <lemma>smeten</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>metten</form>
+      <lemma>met+de</lemma>
+      <pos>art(def)+adp()</pos>
+    </w>
+    <w>
+      <form>vlegels</form>
+      <lemma>vlees</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>zwaer</form>
+      <lemma>zwaar</lemma>
+      <pos>adj()</pos>
+    </w>
+  </l>
+  <l n="44" tokens="Also vreeselike slagen">
+    <w>
+      <form>also</form>
+      <lemma>alzo</lemma>
+      <pos>adv(dem)</pos>
+    </w>
+    <w>
+      <form>vreeselike</form>
+      <lemma>vreselijk</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>slagen</form>
+      <lemma>slag</lemma>
+      <pos>n(plu)</pos>
+    </w>
+  </l>
+  <l n="45" tokens="Dat si tvier daer ute zagen">
+    <w>
+      <form>dat</form>
+      <lemma>dat</lemma>
+      <pos>conj(subord)</pos>
+    </w>
+    <w>
+      <form>si</form>
+      <lemma>zij</lemma>
+      <pos>pron(pers,3,plu)</pos>
+    </w>
+    <w>
+      <form>tvier</form>
+      <lemma>twee</lemma>
+      <pos>num(card)</pos>
+    </w>
+    <w>
+      <form>daer</form>
+      <lemma>daar</lemma>
+      <pos>pronadv(dem)</pos>
+    </w>
+    <w>
+      <form>ute</form>
+      <lemma>uit</lemma>
+      <pos>pronadv(prep)</pos>
+    </w>
+    <w>
+      <form>zagen</form>
+      <lemma>zien</lemma>
+      <pos>v(fin,pres,lex)</pos>
+    </w>
+  </l>
+  <l n="46" tokens="Vliegen ende die sperke dicken">
+    <w>
+      <form>vliegen</form>
+      <lemma>vliegen</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>ende</form>
+      <lemma>en</lemma>
+      <pos>conj(coord)</pos>
+    </w>
+    <w>
+      <form>die</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>sperke</form>
+      <lemma>sper</lemma>
+      <pos>n(plu)</pos>
+    </w>
+    <w>
+      <form>dicken</form>
+      <lemma>dikke</lemma>
+      <pos>adv(gener)</pos>
+    </w>
+  </l>
+  <l n="47" tokens="Ende daer toe grote sticken">
+    <w>
+      <form>ende</form>
+      <lemma>en</lemma>
+      <pos>conj(coord)</pos>
+    </w>
+    <w>
+      <form>daer</form>
+      <lemma>daar</lemma>
+      <pos>pronadv(dem)</pos>
+    </w>
+    <w>
+      <form>toe</form>
+      <lemma>toe</lemma>
+      <pos>pronadv(prep)</pos>
+    </w>
+    <w>
+      <form>grote</form>
+      <lemma>groot</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>sticken</form>
+      <lemma>stuk</lemma>
+      <pos>n(plu)</pos>
+    </w>
+  </l>
+  <l n="48" tokens="Slougen si andren vanden leden">
+    <w>
+      <form>slougen</form>
+      <lemma>slaan</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>si</form>
+      <lemma>zij</lemma>
+      <pos>pron(pers,3,plu)</pos>
+    </w>
+    <w>
+      <form>andren</form>
+      <lemma>ander</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>vanden</form>
+      <lemma>de+van</lemma>
+      <pos>art(def)+adp()</pos>
+    </w>
+    <w>
+      <form>leden</form>
+      <lemma>lid</lemma>
+      <pos>n(plu)</pos>
+    </w>
+  </l>
+  <l n="49" tokens="Dat men sach achter treden">
+    <w>
+      <form>dat</form>
+      <lemma>dat</lemma>
+      <pos>pron(rel)</pos>
+    </w>
+    <w>
+      <form>men</form>
+      <lemma>men</lemma>
+      <pos>pron(indef)</pos>
+    </w>
+    <w>
+      <form>sach</form>
+      <lemma>zien</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>achter</form>
+      <lemma>achter</lemma>
+      <pos>adv(gener)</pos>
+    </w>
+    <w>
+      <form>treden</form>
+      <lemma>treden</lemma>
+      <pos>v(infin)</pos>
+    </w>
+  </l>
+  <l n="50" tokens="Die ghene diere waren bi">
+    <w>
+      <form>die</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>ghene</form>
+      <lemma>geen</lemma>
+      <pos>pron(dem)</pos>
+    </w>
+    <w>
+      <form>diere</form>
+      <lemma>die+er</lemma>
+      <pos>pron(rel)+pronadv(pers)</pos>
+    </w>
+    <w>
+      <form>waren</form>
+      <lemma>zijn</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>bi</form>
+      <lemma>bij</lemma>
+      <pos>adp()</pos>
+    </w>
+  </l>
+  <l n="51" tokens="Ende spraken die vrouwen vri">
+    <w>
+      <form>ende</form>
+      <lemma>en</lemma>
+      <pos>conj(coord)</pos>
+    </w>
+    <w>
+      <form>spraken</form>
+      <lemma>spreken</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>die</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>vrouwen</form>
+      <lemma>vrouw</lemma>
+      <pos>n(plu)</pos>
+    </w>
+    <w>
+      <form>vri</form>
+      <lemma>vrij</lemma>
+      <pos>adj()</pos>
+    </w>
+  </l>
+  <l n="52" tokens="Hulpe hulpe goede lieden">
+    <w>
+      <form>hulpe</form>
+      <lemma>hulp</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>hulpe</form>
+      <lemma>hulp</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>goede</form>
+      <lemma>goed</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>lieden</form>
+      <lemma>lieden</lemma>
+      <pos>n(plu)</pos>
+    </w>
+  </l>
+  <l n="53" tokens="Willen ons deze verbieden">
+    <w>
+      <form>willen</form>
+      <lemma>willen</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>ons</form>
+      <lemma>wij</lemma>
+      <pos>pron(pers,1,plu)</pos>
+    </w>
+    <w>
+      <form>deze</form>
+      <lemma>deze</lemma>
+      <pos>pron(dem)</pos>
+    </w>
+    <w>
+      <form>verbieden</form>
+      <lemma>verbieden</lemma>
+      <pos>v(infin)</pos>
+    </w>
+  </l>
+  <l n="54" tokens="Nu te gane in den pallas">
+    <w>
+      <form>nu</form>
+      <lemma>nu</lemma>
+      <pos>adv(dem)</pos>
+    </w>
+    <w>
+      <form>te</form>
+      <lemma>te</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>gane</form>
+      <lemma>gaan</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>in</form>
+      <lemma>in</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>den</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>pallas</form>
+      <lemma>pallas</lemma>
+      <pos>n(prop)</pos>
+    </w>
+  </l>
+  <l n="55" tokens="Doe braken si oft ware glas">
+    <w>
+      <form>doe</form>
+      <lemma>toen</lemma>
+      <pos>adv(dem)</pos>
+    </w>
+    <w>
+      <form>braken</form>
+      <lemma>breken</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>si</form>
+      <lemma>zij</lemma>
+      <pos>pron(pers,3,plu)</pos>
+    </w>
+    <w>
+      <form>oft</form>
+      <lemma>of</lemma>
+      <pos>pron(pers,3,sing)+conj(subord)</pos>
+    </w>
+    <w>
+      <form>ware</form>
+      <lemma>zijn</lemma>
+      <pos>v(fin,past,aux_cop)</pos>
+    </w>
+    <w>
+      <form>glas</form>
+      <lemma>glas</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="56" tokens="Thovet vanden buke slouch">
+    <w>
+      <form>thovet</form>
+      <lemma>het+hoofd</lemma>
+      <pos>art(def)+n(sing)</pos>
+    </w>
+    <w>
+      <form>vanden</form>
+      <lemma>van+de</lemma>
+      <pos>adp()+art(def)</pos>
+    </w>
+    <w>
+      <form>buke</form>
+      <lemma>buik</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>slouch</form>
+      <lemma>slaan</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+  </l>
+  <l n="57" tokens="Daer hi woude ongevouch">
+    <w>
+      <form>daer</form>
+      <lemma>daar</lemma>
+      <pos>adv(rel)</pos>
+    </w>
+    <w>
+      <form>hi</form>
+      <lemma>hij</lemma>
+      <pos>pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>woude</form>
+      <lemma>willen</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>ongevouch</form>
+      <lemma>ongevoeg</lemma>
+      <pos>adj()</pos>
+    </w>
+  </l>
+  <l n="58" tokens="Der reynre maget hebben gedaen">
+    <w>
+      <form>der</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>reynre</form>
+      <lemma>rein</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>maget</form>
+      <lemma>maagd</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>hebben</form>
+      <lemma>hebben</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>gedaen</form>
+      <lemma>doen</lemma>
+      <pos>v(participle,past)</pos>
+    </w>
+  </l>
+  <l n="59" tokens="Soe die zaecht met ogen aen">
+    <w>
+      <form>soe</form>
+      <lemma>zo</lemma>
+      <pos>pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>die</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>zaecht</form>
+      <lemma>zacht</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>met</form>
+      <lemma>met</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>ogen</form>
+      <lemma>oog</lemma>
+      <pos>n(plu)</pos>
+    </w>
+    <w>
+      <form>aen</form>
+      <lemma>aan</lemma>
+      <pos>adp()</pos>
+    </w>
+  </l>
+  <l n="60" tokens="Der ghelike sal zoe zien">
+    <w>
+      <form>der</form>
+      <lemma>daar</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>ghelike</form>
+      <lemma>gelijke</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>sal</form>
+      <lemma>zullen</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>zoe</form>
+      <lemma>zij</lemma>
+      <pos>pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>zien</form>
+      <lemma>zien</lemma>
+      <pos>v(infin)</pos>
+    </w>
+  </l>
+  <l n="61" tokens="Dat ic sal onthoefden dien">
+    <w>
+      <form>dat</form>
+      <lemma>dat</lemma>
+      <pos>conj(subord)</pos>
+    </w>
+    <w>
+      <form>ic</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+    <w>
+      <form>sal</form>
+      <lemma>zullen</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>onthoefden</form>
+      <lemma>onthoofden</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>dien</form>
+      <lemma>die</lemma>
+      <pos>art(def)</pos>
+    </w>
+  </l>
+  <l n="62" tokens="Want soe somen es met mi">
+    <w>
+      <form>want</form>
+      <lemma>want</lemma>
+      <pos>conj(subord)</pos>
+    </w>
+    <w>
+      <form>soe</form>
+      <lemma>zo</lemma>
+      <pos>pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>somen</form>
+      <lemma>som</lemma>
+      <pos>pron(indef)</pos>
+    </w>
+    <w>
+      <form>es</form>
+      <lemma>zijn</lemma>
+      <pos>v(fin,pres,lex)</pos>
+    </w>
+    <w>
+      <form>met</form>
+      <lemma>met</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>mi</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+  </l>
+  <l n="63" tokens="Fel payen ic rade di">
+    <w>
+      <form>fel</form>
+      <lemma>fel</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>payen</form>
+      <lemma>paai</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>ic</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+    <w>
+      <form>rade</form>
+      <lemma>raden</lemma>
+      <pos>v(fin,pres,lex)</pos>
+    </w>
+    <w>
+      <form>di</form>
+      <lemma>du</lemma>
+      <pos>pron(pers,2,sing)</pos>
+    </w>
+  </l>
+  <l n="64" tokens="Dattu haels te deser uren">
+    <w>
+      <form>dattu</form>
+      <lemma>dat+du</lemma>
+      <pos>conj(subord)+pron(pers,2,sing)</pos>
+    </w>
+    <w>
+      <form>haels</form>
+      <lemma>haal</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>te</form>
+      <lemma>te</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>deser</form>
+      <lemma>deze</lemma>
+      <pos>pron(dem)</pos>
+    </w>
+    <w>
+      <form>uren</form>
+      <lemma>uur</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="65" tokens="Vuten kerke Autefluren">
+    <w>
+      <form>vuten</form>
+      <lemma>uit+de</lemma>
+      <pos>adp()+art(def)</pos>
+    </w>
+    <w>
+      <form>kerke</form>
+      <lemma>kerk</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>autefluren</form>
+      <lemma>oudevuren</lemma>
+      <pos>v(infin)</pos>
+    </w>
+  </l>
+  <l n="66" tokens="Den edelen rudder kerstijn">
+    <w>
+      <form>den</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>edelen</form>
+      <lemma>edel</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>rudder</form>
+      <lemma>ridder</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>kerstijn</form>
+      <lemma>christiaan</lemma>
+      <pos>adj()</pos>
+    </w>
+  </l>
+  <l n="67" tokens="Die welke metter moeder mijn">
+    <w>
+      <form>die</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>welke</form>
+      <lemma>welk</lemma>
+      <pos>pron(rel)</pos>
+    </w>
+    <w>
+      <form>metter</form>
+      <lemma>met+de</lemma>
+      <pos>adp()+art(def)</pos>
+    </w>
+    <w>
+      <form>moeder</form>
+      <lemma>moeder</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>mijn</form>
+      <lemma>mijn</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+  </l>
+  <l n="68" tokens="Vandi beide waren ghevaen">
+    <w>
+      <form>vandi</form>
+      <lemma>gij+vinden</lemma>
+      <pos>pron(pers,2,sing)+adp()</pos>
+    </w>
+    <w>
+      <form>beide</form>
+      <lemma>beide</lemma>
+      <pos>num(indef)</pos>
+    </w>
+    <w>
+      <form>waren</form>
+      <lemma>zijn</lemma>
+      <pos>v(fin,past,aux_cop)</pos>
+    </w>
+    <w>
+      <form>ghevaen</form>
+      <lemma>vangen</lemma>
+      <pos>v(participle,past)</pos>
+    </w>
+  </l>
+  <l n="69" tokens="Ende dattu te ghaenaden gaen">
+    <w>
+      <form>ende</form>
+      <lemma>en</lemma>
+      <pos>conj(coord)</pos>
+    </w>
+    <w>
+      <form>dattu</form>
+      <lemma>dat+du</lemma>
+      <pos>conj(subord)+pron(pers,2,sing)</pos>
+    </w>
+    <w>
+      <form>te</form>
+      <lemma>te</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>ghaenaden</form>
+      <lemma>genade</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>gaen</form>
+      <lemma>gaan</lemma>
+      <pos>v(infin)</pos>
+    </w>
+  </l>
+  <l n="70" tokens="Ende gode te ghenaden comen">
+    <w>
+      <form>ende</form>
+      <lemma>en</lemma>
+      <pos>conj(coord)</pos>
+    </w>
+    <w>
+      <form>gode</form>
+      <lemma>god</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>te</form>
+      <lemma>te</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>ghenaden</form>
+      <lemma>genade</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>comen</form>
+      <lemma>komen</lemma>
+      <pos>v(infin)</pos>
+    </w>
+  </l>
+  <l n="71" tokens="Ende marien die wi nomen">
+    <w>
+      <form>ende</form>
+      <lemma>en</lemma>
+      <pos>conj(coord)</pos>
+    </w>
+    <w>
+      <form>marien</form>
+      <lemma>maria</lemma>
+      <pos>n(prop)</pos>
+    </w>
+    <w>
+      <form>die</form>
+      <lemma>die</lemma>
+      <pos>pron(rel)</pos>
+    </w>
+    <w>
+      <form>wi</form>
+      <lemma>wij</lemma>
+      <pos>pron(pers,1,plu)</pos>
+    </w>
+    <w>
+      <form>nomen</form>
+      <lemma>noemen</lemma>
+      <pos>v(fin,pres,lex)</pos>
+    </w>
+  </l>
+  <l n="72" tokens="Te rechte maget ende moeder">
+    <w>
+      <form>te</form>
+      <lemma>te</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>rechte</form>
+      <lemma>recht</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>maget</form>
+      <lemma>maagd</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>ende</form>
+      <lemma>en</lemma>
+      <pos>conj(coord)</pos>
+    </w>
+    <w>
+      <form>moeder</form>
+      <lemma>moeder</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="73" tokens="Lapedante dinen broeder">
+    <w>
+      <form>lapedante</form>
+      <lemma>laphande</lemma>
+      <pos>n(prop)</pos>
+    </w>
+    <w>
+      <form>dinen</form>
+      <lemma>dijn</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+    <w>
+      <form>broeder</form>
+      <lemma>broeder</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="74" tokens="Dien sal ic bekeren wel">
+    <w>
+      <form>dien</form>
+      <lemma>die</lemma>
+      <pos>pron(dem)</pos>
+    </w>
+    <w>
+      <form>sal</form>
+      <lemma>zullen</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>ic</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+    <w>
+      <form>bekeren</form>
+      <lemma>bekeren</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>wel</form>
+      <lemma>wel</lemma>
+      <pos>adv(gener)</pos>
+    </w>
+  </l>
+  <l n="75" tokens="Ic hebbe hem dicken in sijn vel">
+    <w>
+      <form>ic</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+    <w>
+      <form>hebbe</form>
+      <lemma>hebben</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>hem</form>
+      <lemma>hij</lemma>
+      <pos>pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>dicken</form>
+      <lemma>dikke</lemma>
+      <pos>adv(gener)</pos>
+    </w>
+    <w>
+      <form>in</form>
+      <lemma>in</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>sijn</form>
+      <lemma>zijn</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+    <w>
+      <form>vel</form>
+      <lemma>vel</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="76" tokens="Gherort metten zwerde mijn">
+    <w>
+      <form>gherort</form>
+      <lemma>roeren</lemma>
+      <pos>v(participle,past)</pos>
+    </w>
+    <w>
+      <form>metten</form>
+      <lemma>met+de</lemma>
+      <pos>adp()+art(def)</pos>
+    </w>
+    <w>
+      <form>zwerde</form>
+      <lemma>zwaard</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>mijn</form>
+      <lemma>mijn</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+  </l>
+  <l n="77" tokens="Hulp Mamet ende Apolijn">
+    <w>
+      <form>hulp</form>
+      <lemma>hulp</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>mamet</form>
+      <lemma>maagd</lemma>
+      <pos>n(prop)</pos>
+    </w>
+    <w>
+      <form>ende</form>
+      <lemma>en</lemma>
+      <pos>conj(coord)</pos>
+    </w>
+    <w>
+      <form>apolijn</form>
+      <lemma>apollonium</lemma>
+      <pos>n(prop)</pos>
+    </w>
+  </l>
+  <l n="78" tokens="Wat moetic te deser stont">
+    <w>
+      <form>wat</form>
+      <lemma>wat</lemma>
+      <pos>pron(inter)</pos>
+    </w>
+    <w>
+      <form>moetic</form>
+      <lemma>ik+moeten</lemma>
+      <pos>pron(pers,1,sing)+v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>te</form>
+      <lemma>te</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>deser</form>
+      <lemma>deze</lemma>
+      <pos>pron(dem)</pos>
+    </w>
+    <w>
+      <form>stont</form>
+      <lemma>stond</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="79" tokens="Horen sprac gardepont">
+    <w>
+      <form>horen</form>
+      <lemma>horen</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>sprac</form>
+      <lemma>spreken</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>gardepont</form>
+      <lemma>gaardenspond</lemma>
+      <pos>n(prop)</pos>
+    </w>
+  </l>
+  <l n="80" tokens="Van enen wichte kerstijn">
+    <w>
+      <form>van</form>
+      <lemma>van</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>enen</form>
+      <lemma>een</lemma>
+      <pos>art(indef)</pos>
+    </w>
+    <w>
+      <form>wichte</form>
+      <lemma>gewicht</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>kerstijn</form>
+      <lemma>christina</lemma>
+      <pos>adj()</pos>
+    </w>
+  </l>
+  <l n="81" tokens="Ic souder met minen machten groot">
+    <w>
+      <form>ic</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+    <w>
+      <form>souder</form>
+      <lemma>daar+zullen</lemma>
+      <pos>pronadv(pers)+v(fin,past,aux_cop)</pos>
+    </w>
+    <w>
+      <form>met</form>
+      <lemma>met</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>minen</form>
+      <lemma>mijn</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+    <w>
+      <form>machten</form>
+      <lemma>macht</lemma>
+      <pos>n(plu)</pos>
+    </w>
+    <w>
+      <form>groot</form>
+      <lemma>groot</lemma>
+      <pos>adj()</pos>
+    </w>
+  </l>
+  <l n="82" tokens="C alleene slaen te doot">
+    <w>
+      <form>c</form>
+      <lemma>c</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>alleene</form>
+      <lemma>alleen</lemma>
+      <pos>adv(gener)</pos>
+    </w>
+    <w>
+      <form>slaen</form>
+      <lemma>slaan</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>te</form>
+      <lemma>te</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>doot</form>
+      <lemma>dood</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="83" tokens="Sprac Florigout dat radic u">
+    <w>
+      <form>sprac</form>
+      <lemma>spreken</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>florigout</form>
+      <lemma>florenvoud</lemma>
+      <pos>n(prop)</pos>
+    </w>
+    <w>
+      <form>dat</form>
+      <lemma>dat</lemma>
+      <pos>pron(dem)</pos>
+    </w>
+    <w>
+      <form>radic</form>
+      <lemma>ik+raden</lemma>
+      <pos>pron(pers,1,sing)+v(fin,pres,lex)</pos>
+    </w>
+    <w>
+      <form>u</form>
+      <lemma>gij</lemma>
+      <pos>pron(pers,2,sing)</pos>
+    </w>
+  </l>
+  <l n="84" tokens="Ic ne liete recht nu">
+    <w>
+      <form>ic</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+    <w>
+      <form>ne</form>
+      <lemma>ne</lemma>
+      <pos>adv(neg)</pos>
+    </w>
+    <w>
+      <form>liete</form>
+      <lemma>laten</lemma>
+      <pos>v(fin,past,aux_cop)</pos>
+    </w>
+    <w>
+      <form>recht</form>
+      <lemma>recht</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>nu</form>
+      <lemma>nu</lemma>
+      <pos>adv(dem)</pos>
+    </w>
+  </l>
+  <l n="85" tokens="Niet seggen dinen mont">
+    <w>
+      <form>niet</form>
+      <lemma>niet</lemma>
+      <pos>adv(neg)</pos>
+    </w>
+    <w>
+      <form>seggen</form>
+      <lemma>zeggen</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>dinen</form>
+      <lemma>dijn</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+    <w>
+      <form>mont</form>
+      <lemma>mond</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="86" tokens="An haer om dese werelt ront">
+    <w>
+      <form>an</form>
+      <lemma>aan</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>haer</form>
+      <lemma>zij</lemma>
+      <pos>pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>om</form>
+      <lemma>om</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>dese</form>
+      <lemma>deze</lemma>
+      <pos>pron(dem)</pos>
+    </w>
+    <w>
+      <form>werelt</form>
+      <lemma>wereld</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>ront</form>
+      <lemma>rond</lemma>
+      <pos>adj()</pos>
+    </w>
+  </l>
+  <l n="87" tokens="Want soe souder omme sterven">
+    <w>
+      <form>want</form>
+      <lemma>want</lemma>
+      <pos>conj(subord)</pos>
+    </w>
+    <w>
+      <form>soe</form>
+      <lemma>zo</lemma>
+      <pos>pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>souder</form>
+      <lemma>zullen+er</lemma>
+      <pos>pronadv(pers)+v(fin,past,aux_cop)</pos>
+    </w>
+    <w>
+      <form>omme</form>
+      <lemma>om</lemma>
+      <pos>pronadv(prep)</pos>
+    </w>
+    <w>
+      <form>sterven</form>
+      <lemma>sterven</lemma>
+      <pos>v(infin)</pos>
+    </w>
+  </l>
+  <l n="88" tokens="Ende dan soudic ooc bederven">
+    <w>
+      <form>ende</form>
+      <lemma>en</lemma>
+      <pos>conj(coord)</pos>
+    </w>
+    <w>
+      <form>dan</form>
+      <lemma>dan</lemma>
+      <pos>adv(dem)</pos>
+    </w>
+    <w>
+      <form>soudic</form>
+      <lemma>ik+zullen</lemma>
+      <pos>pron(pers,1,sing)+v(fin,past,aux_cop)</pos>
+    </w>
+    <w>
+      <form>ooc</form>
+      <lemma>ook</lemma>
+      <pos>adv(gener)</pos>
+    </w>
+    <w>
+      <form>bederven</form>
+      <lemma>bederven</lemma>
+      <pos>v(infin)</pos>
+    </w>
+  </l>
+  <l n="89" tokens="Vanden live dat waer recht">
+    <w>
+      <form>vanden</form>
+      <lemma>van+de</lemma>
+      <pos>adp()+art(def)</pos>
+    </w>
+    <w>
+      <form>live</form>
+      <lemma>lijf</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>dat</form>
+      <lemma>dat</lemma>
+      <pos>pron(rel)</pos>
+    </w>
+    <w>
+      <form>waer</form>
+      <lemma>zijn</lemma>
+      <pos>adv(indef)</pos>
+    </w>
+    <w>
+      <form>recht</form>
+      <lemma>recht</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="90" tokens="Laet ons striden dit gevecht">
+    <w>
+      <form>laet</form>
+      <lemma>laten</lemma>
+      <pos>v(imp)</pos>
+    </w>
+    <w>
+      <form>ons</form>
+      <lemma>wij</lemma>
+      <pos>pron(pers,1,plu)</pos>
+    </w>
+    <w>
+      <form>striden</form>
+      <lemma>strijden</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>dit</form>
+      <lemma>dit</lemma>
+      <pos>pron(dem)</pos>
+    </w>
+    <w>
+      <form>gevecht</form>
+      <lemma>gevecht</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="91" tokens="Waeromme dat ic comen si">
+    <w>
+      <form>waeromme</form>
+      <lemma>waarom</lemma>
+      <pos>pronadv(inter)</pos>
+    </w>
+    <w>
+      <form>dat</form>
+      <lemma>dat</lemma>
+      <pos>conj(subord)</pos>
+    </w>
+    <w>
+      <form>ic</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+    <w>
+      <form>comen</form>
+      <lemma>komen</lemma>
+      <pos>v(fin,pres,lex)</pos>
+    </w>
+    <w>
+      <form>si</form>
+      <lemma>zijn</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+  </l>
+  <l n="92" tokens="Mogestu verwinnen mi">
+    <w>
+      <form>mogestu</form>
+      <lemma>du+mogen</lemma>
+      <pos>pron(pers,2,sing)+v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>verwinnen</form>
+      <lemma>verwinnen</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>mi</form>
+      <lemma>ik</lemma>
+      <pos>pron(pers,1,sing)</pos>
+    </w>
+  </l>
+  <l n="93" tokens="Soe sal die reyne maget fier">
+    <w>
+      <form>soe</form>
+      <lemma>zo</lemma>
+      <pos>adv(resum)</pos>
+    </w>
+    <w>
+      <form>sal</form>
+      <lemma>zullen</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>die</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>reyne</form>
+      <lemma>rein</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>maget</form>
+      <lemma>maagd</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>fier</form>
+      <lemma>fier</lemma>
+      <pos>adj()</pos>
+    </w>
+  </l>
+  <l n="94" tokens="Moete zijn in dijn dangier">
+    <w>
+      <form>moete</form>
+      <lemma>moeten</lemma>
+      <pos>v(fin,pres,aux_cop)</pos>
+    </w>
+    <w>
+      <form>zijn</form>
+      <lemma>zijn</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>in</form>
+      <lemma>in</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>dijn</form>
+      <lemma>dijn</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+    <w>
+      <form>dangier</form>
+      <lemma>dager</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="95" tokens="Welk striit teersten dan">
+    <w>
+      <form>welk</form>
+      <lemma>welk</lemma>
+      <pos>pron(rel)</pos>
+    </w>
+    <w>
+      <form>striit</form>
+      <lemma>strijd</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>teersten</form>
+      <lemma>eerst+het</lemma>
+      <pos>num(ord)+art(def)</pos>
+    </w>
+    <w>
+      <form>dan</form>
+      <lemma>dan</lemma>
+      <pos>adv(dem)</pos>
+    </w>
+  </l>
+  <l n="96" tokens="Die verhief al te handen">
+    <w>
+      <form>die</form>
+      <lemma>die</lemma>
+      <pos>pron(dem)</pos>
+    </w>
+    <w>
+      <form>verhief</form>
+      <lemma>verheffen</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>al</form>
+      <lemma>al</lemma>
+      <pos>adv(gener)</pos>
+    </w>
+    <w>
+      <form>te</form>
+      <lemma>te</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>handen</form>
+      <lemma>hand</lemma>
+      <pos>n(plu)</pos>
+    </w>
+  </l>
+  <l n="97" tokens="Den camp metten xii tanden">
+    <w>
+      <form>den</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>camp</form>
+      <lemma>kamp</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>metten</form>
+      <lemma>met+de</lemma>
+      <pos>adp()+art(def)</pos>
+    </w>
+    <w>
+      <form>xii</form>
+      <lemma>12</lemma>
+      <pos>num(card)</pos>
+    </w>
+    <w>
+      <form>tanden</form>
+      <lemma>tand</lemma>
+      <pos>n(plu)</pos>
+    </w>
+  </l>
+  <l n="98" tokens="Autefluer alzulken toren">
+    <w>
+      <form>autefluer</form>
+      <lemma>oudelever</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>alzulken</form>
+      <lemma>alzulk</lemma>
+      <pos>pron(dem)</pos>
+    </w>
+    <w>
+      <form>toren</form>
+      <lemma>toorn</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="99" tokens="Hem dede daer te voren">
+    <w>
+      <form>hem</form>
+      <lemma>hij</lemma>
+      <pos>pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>dede</form>
+      <lemma>doen</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>daer</form>
+      <lemma>daar</lemma>
+      <pos>adv(dem)</pos>
+    </w>
+    <w>
+      <form>te</form>
+      <lemma>te</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>voren</form>
+      <lemma>voren</lemma>
+      <pos>adv(gener)</pos>
+    </w>
+  </l>
+  <l n="100" tokens="Dat hi zwoer gardepont">
+    <w>
+      <form>dat</form>
+      <lemma>dat</lemma>
+      <pos>conj(subord)</pos>
+    </w>
+    <w>
+      <form>hi</form>
+      <lemma>hij</lemma>
+      <pos>pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>zwoer</form>
+      <lemma>zweren</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>gardepont</form>
+      <lemma>gaardenpoed</lemma>
+      <pos>n(prop)</pos>
+    </w>
+  </l>
+  <l n="101" tokens="Dat hi te ne gere stont">
+    <w>
+      <form>dat</form>
+      <lemma>dat</lemma>
+      <pos>conj(subord)</pos>
+    </w>
+    <w>
+      <form>hi</form>
+      <lemma>hij</lemma>
+      <pos>pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>te</form>
+      <lemma>te</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>ne</form>
+      <lemma>ne</lemma>
+      <pos>pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>gere</form>
+      <lemma>geer</lemma>
+      <pos>pron(indef)</pos>
+    </w>
+    <w>
+      <form>stont</form>
+      <lemma>staan</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+  </l>
+  <l n="102" tokens="Zijn vordeel over soude geven">
+    <w>
+      <form>zijn</form>
+      <lemma>zijn</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+    <w>
+      <form>vordeel</form>
+      <lemma>voordeel</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>over</form>
+      <lemma>over</lemma>
+      <pos>v(infin)</pos>
+    </w>
+    <w>
+      <form>soude</form>
+      <lemma>zullen</lemma>
+      <pos>v(fin,past,aux_cop)</pos>
+    </w>
+    <w>
+      <form>geven</form>
+      <lemma>geven</lemma>
+      <pos>v(infin)</pos>
+    </w>
+  </l>
+  <l n="103" tokens="Het hadden na gecost sijn leven">
+    <w>
+      <form>het</form>
+      <lemma>het</lemma>
+      <pos>pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>hadden</form>
+      <lemma>hebben</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>na</form>
+      <lemma>na</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>gecost</form>
+      <lemma>kosten</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>sijn</form>
+      <lemma>zijn</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+    <w>
+      <form>leven</form>
+      <lemma>leven</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="104" tokens="Maer die coninc van yrlant">
+    <w>
+      <form>maer</form>
+      <lemma>maar</lemma>
+      <pos>conj(coord)</pos>
+    </w>
+    <w>
+      <form>die</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>coninc</form>
+      <lemma>koning</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>van</form>
+      <lemma>van</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>yrlant</form>
+      <lemma>ierland</lemma>
+      <pos>n(prop)</pos>
+    </w>
+  </l>
+  <l n="105" tokens="Die so quam up hem gerant">
+    <w>
+      <form>die</form>
+      <lemma>die</lemma>
+      <pos>pron(dem)</pos>
+    </w>
+    <w>
+      <form>so</form>
+      <lemma>zo</lemma>
+      <pos>adv(resum)</pos>
+    </w>
+    <w>
+      <form>quam</form>
+      <lemma>komen</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>up</form>
+      <lemma>op</lemma>
+      <pos>adp()</pos>
+    </w>
+    <w>
+      <form>hem</form>
+      <lemma>hij</lemma>
+      <pos>pron(pers,3,sing)</pos>
+    </w>
+    <w>
+      <form>gerant</form>
+      <lemma>gerand</lemma>
+      <pos>v(participle,past)</pos>
+    </w>
+  </l>
+  <l n="106" tokens="Als een hongerich serpent">
+    <w>
+      <form>als</form>
+      <lemma>als</lemma>
+      <pos>conj(comp)</pos>
+    </w>
+    <w>
+      <form>een</form>
+      <lemma>een</lemma>
+      <pos>art(indef)</pos>
+    </w>
+    <w>
+      <form>hongerich</form>
+      <lemma>hongerig</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>serpent</form>
+      <lemma>serpent</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="107" tokens="Ende stac den fellen vient">
+    <w>
+      <form>ende</form>
+      <lemma>en</lemma>
+      <pos>conj(coord)</pos>
+    </w>
+    <w>
+      <form>stac</form>
+      <lemma>steken</lemma>
+      <pos>v(fin,past,lex)</pos>
+    </w>
+    <w>
+      <form>den</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>fellen</form>
+      <lemma>fel</lemma>
+      <pos>adj()</pos>
+    </w>
+    <w>
+      <form>vient</form>
+      <lemma>vijand</lemma>
+      <pos>n(sing)</pos>
+    </w>
+  </l>
+  <l n="108" tokens="Recht upten navel zijn">
+    <w>
+      <form>recht</form>
+      <lemma>recht</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>upten</form>
+      <lemma>op+de</lemma>
+      <pos>adp()+art(def)</pos>
+    </w>
+    <w>
+      <form>navel</form>
+      <lemma>navel</lemma>
+      <pos>n(sing)</pos>
+    </w>
+    <w>
+      <form>zijn</form>
+      <lemma>zijn</lemma>
+      <pos>pron(poss)</pos>
+    </w>
+  </l>
+  <l n="109" tokens="Daer die platen stalijn">
+    <w>
+      <form>daer</form>
+      <lemma>daar</lemma>
+      <pos>adv(rel)</pos>
+    </w>
+    <w>
+      <form>die</form>
+      <lemma>de</lemma>
+      <pos>art(def)</pos>
+    </w>
+    <w>
+      <form>platen</form>
+      <lemma>plaat</lemma>
+      <pos>n(plu)</pos>
+    </w>
+    <w>
+      <form>stalijn</form>
+      <lemma>stalin</lemma>
+      <pos>n(prop)</pos>
+    </w>
   </l>
 </text>
