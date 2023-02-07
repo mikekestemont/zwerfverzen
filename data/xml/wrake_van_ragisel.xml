@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <text id="wrake_van_ragisel">
+  <interpolation reason="WRAK-INTERPOL1">
   <l n="1" tokens="Ons seget hier die aventure">
     <w>
       <form>ons</form>
@@ -2178,6 +2179,7 @@
       <pos>v(infin)</pos>
     </w>
   </l>
+  </interpolation>
   <l n="75" tokens="Daventure seget hier">
     <w>
       <form>daventure</form>
@@ -45386,6 +45388,7 @@
       <pos>v(fin,pres,aux_cop)</pos>
     </w>
   </l>
+  <interpolation reason="WRAK-INTERPOL2">
   <l n="1474" tokens="Daventure seget na das">
     <w>
       <form>daventure</form>
@@ -58210,6 +58213,7 @@
       <pos>v(fin,pres,aux_cop)</pos>
     </w>
   </l>
+  </interpolation>
   <l n="1891" tokens="Nu gewaget die aventure">
     <w>
       <form>nu</form>
@@ -62250,6 +62254,7 @@
       <pos>n(sing)</pos>
     </w>
   </l>
+  <interpolation reason="WRAK-INTERPOL3">
   <l n="2021" tokens="Daventure seget al bloet">
     <w>
       <form>daventure</form>
@@ -74430,6 +74435,7 @@
       <pos>v(fin,past,lex)</pos>
     </w>
   </l>
+  </interpolation>
   <l n="2421" tokens="Daventure doet nu verstaen">
     <w>
       <form>daventure</form>
@@ -90614,6 +90620,7 @@
       <pos>n(sing)</pos>
     </w>
   </l>
+  <interpolation reason="WRAK-INTERPOL4">
   <l n="2953" tokens="Oec teldi van Keyen mede">
     <w>
       <form>oec</form>
@@ -104244,6 +104251,7 @@
       <pos>v(fin,pres,lex)</pos>
     </w>
   </l>
+  </interpolation>
   <l n="3408" tokens="Nu selewi swigen van desen">
     <w>
       <form>nu</form>

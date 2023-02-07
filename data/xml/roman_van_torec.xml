@@ -12406,6 +12406,7 @@
       <pos>adv(dem)</pos>
     </w>
   </l>
+  <interpolation reason="TOREC-INTERPOL1">
   <l n="399" tokens="Maer Torec die des erre was">
     <w>
       <form>maer</form>
@@ -15973,6 +15974,7 @@
       <pos>pronadv(prep)</pos>
     </w>
   </l>
+  </interpolation>
   <l n="510" tokens="Doe reet Torec allene daer">
     <w>
       <form>doe</form>
@@ -31307,7 +31309,7 @@
       <pos>v(participle,past)</pos>
     </w>
   </l>
-  <l n="997" tokens="Die grote smerte hadde  sonder waen">
+  <l n="997" tokens="Die grote smerte hadde sonder waen">
     <w>
       <form>die</form>
       <lemma>de</lemma>
@@ -31403,6 +31405,7 @@
       <pos>v(fin,past,lex)</pos>
     </w>
   </l>
+  <interpolation reason="TOREC-INTERPOL2">
   <l n="1000" tokens="Dus latic Torecke daer nu bliven">
     <w>
       <form>dus</form>
@@ -38412,6 +38415,7 @@
       <pos>adv(gener)</pos>
     </w>
   </l>
+  </interpolation>
   <l n="1222" tokens="Daventure doet ons cont">
     <w>
       <form>daventure</form>
@@ -50507,6 +50511,7 @@
       <pos>n(sing)</pos>
     </w>
   </l>
+  <interpolation reason="TOREC-INTERPOL3">
   <l n="1612" tokens="Nu latic Torecke ginder bliven">
     <w>
       <form>nu</form>
@@ -59251,6 +59256,7 @@
       <pos>v(fin,pres,aux_cop)</pos>
     </w>
   </l>
+  </interpolation>
   <l n="1904" tokens="Nu gewaget daventure das">
     <w>
       <form>nu</form>
@@ -81718,6 +81724,7 @@
       <pos>adv(dem)</pos>
     </w>
   </l>
+  <interpolation reason="TOREC-INTERPOL4">
   <l n="2645" tokens="Maer een dinc benaemt hem secgic u">
     <w>
       <form>maer</form>
@@ -86818,6 +86825,7 @@
       <pos>v(infin)</pos>
     </w>
   </l>
+  </interpolation>
   <l n="2810" tokens="Daventure gewaget daernaer">
     <w>
       <form>daventure</form>
@@ -101287,6 +101295,7 @@
       <pos>v(participle,past)</pos>
     </w>
   </l>
+  <interpolation reason="TOREC-INTERPOL5">
   <l n="3282" tokens="Die joncfrouwe groette Waleweine saen">
     <w>
       <form>die</form>
@@ -106611,6 +106620,8 @@
       <pos>adv(dem)</pos>
     </w>
   </l>
+  </interpolation>
+  <interpolation reason="TOREC-INTERPOL6">
   <l n="3459" tokens="Daventure doet ons cont">
     <w>
       <form>daventure</form>
@@ -110385,6 +110396,7 @@
       <pos>v(infin)</pos>
     </w>
   </l>
+  </interpolation>
   <l n="3581" tokens="Ne seget daventure gereet">
     <w>
       <form>ne</form>
@@ -117239,6 +117251,7 @@
       <pos>adv(dem)</pos>
     </w>
   </l>
+  <interpolation reason="TOREC-INTERPOL7">
   <l n="3808" tokens="Hi sinde daer Waleweine secgic u">
     <w>
       <form>hi</form>
@@ -117839,6 +117852,7 @@
       <pos>n(sing)</pos>
     </w>
   </l>
+  </interpolation>
   <l n="3828" tokens="Ende Torec bleef geweldech here">
     <w>
       <form>ende</form>
