@@ -11052,7 +11052,8 @@
       <pos>n(sing)</pos>
     </w>
   </l>
-  <l n="357" tokens="A Clerc die here die niene verstarf">
+  <interpolation reason="RB(1)">
+  <l n="357" tokens="Clerc die here die niene verstarf">
     <w>
       <form>a</form>
       <lemma>a</lemma>
@@ -13432,6 +13433,7 @@
       <pos>n(prop)</pos>
     </w>
   </l>
+  </interpolation>
   <l n="437" tokens="V Bericht mi meester in dine lesse">
     <w>
       <form>v</form>
@@ -27113,7 +27115,8 @@
       <pos>n(sing)</pos>
     </w>
   </l>
-  <l n="890" tokens="V Lieve meester maect mi wijs">
+  <interpolation reason="RB(2)">
+  <l n="890" tokens="Lieve meester maect mi wijs">
     <w>
       <form>v</form>
       <lemma>uw</lemma>
@@ -31404,6 +31407,7 @@
       <pos>adj()</pos>
     </w>
   </l>
+  </interpolation>
   <l n="1028" tokens="V Twi heeft God den mensche ghegheven">
     <w>
       <form>v</form>
@@ -44689,7 +44693,7 @@
       <pos>v(fin,past,lex)</pos>
     </w>
   </l>
-  <l n="1468" tokens="V Lieve meester bericht mi scoene">
+  <l n="1468" tokens="Lieve meester bericht mi scoene">
     <w>
       <form>v</form>
       <lemma>uw</lemma>
@@ -104327,6 +104331,7 @@
       <pos>n(sing)</pos>
     </w>
   </l>
+  
   <l n="3407" tokens="Dus gevielt als ic telle">
     <w>
       <form>dus</form>
@@ -144157,6 +144162,7 @@
       <pos>conj(coord)</pos>
     </w>
   </l>
+  <interpolation reason="SpHist">
   <l n="4692" tokens="Of men den lichame in t kerchof">
     <w>
       <form>of</form>
@@ -148179,6 +148185,7 @@
       <pos>v(fin,pres,lex)</pos>
     </w>
   </l>
+  </interpolation>
   <l n="4823" tokens="V Bericht mi meester lieve man">
     <w>
       <form>v</form>
